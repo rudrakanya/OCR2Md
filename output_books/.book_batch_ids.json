@@ -1,0 +1,45 @@
+{
+  "1": {
+    "pdf": "Streamflow of the Betwa Rive.pdf",
+    "pages": 15,
+    "batches": [
+      {
+        "lo": 1,
+        "hi": 15,
+        "id": "msgbatch_01WTUAPgQs6w5jHRWK6qKx7P"
+      }
+    ]
+  },
+  "2": {
+    "pdf": "Temple Economics.pdf",
+    "pages": 213,
+    "batches": [
+      {
+        "lo": 1,
+        "hi": 100,
+        "id": "msgbatch_01453qc6LaEc26g5N4kN4e3V"
+      },
+      {
+        "lo": 101,
+        "hi": 200,
+        "id": "msgbatch_01NLT27749hFoDZWF1A6LMab"
+      },
+      {
+        "lo": 201,
+        "hi": 213,
+        "id": "msgbatch_01Mypf4Vv9zcuHWGfFbowiRH"
+      }
+    ]
+  },
+  "3": {
+    "pdf": "Temples of India.pdf",
+    "pages": 136,
+    "batches": [
+      {
+        "lo": 1,
+        "hi": 100,
+        "id": "msgbatch_017vmpJA8yQs54H58rLjpFVD"
+      }
+    ]
+  }
+}

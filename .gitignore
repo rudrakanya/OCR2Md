@@ -1,0 +1,14 @@
+settings.local.json
+.env
+__pycache__/
+*.pyc
+.ocr_cache/
+
+# Raw source documents — large; keep them out of the repo
+*.pdf
+
+# Downloaded third-party binaries (reinstallable)
+poppler/
+
+# Claude Code local state
+.claude/
