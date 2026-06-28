@@ -12,3 +12,14 @@ poppler/
 
 # Claude Code local state
 .claude/
+
+# Source documents, generated outputs, and personal material — kept local, not published
+input files/
+remaining texts/
+Udaypur Reference Markdown Files/
+book_draft/
+output/
+output_books/
+_index/
+_excerpts/
+writing sample ocr/
