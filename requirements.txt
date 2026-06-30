@@ -1,7 +1,8 @@
-# Core dependencies for ocr_to_markdown.py (Mistral OCR -> Markdown pipeline)
+# Core dependencies for the OCR + vector-KB + drafting pipeline
 mistralai>=2.5.0
 python-dotenv>=1.0.0
 pypdf>=6.0.0
+numpy>=1.26          # used by the vector knowledge base (build_kb.py / kb_search.py)
 
 # Note: the scripts under legacy/ additionally use: anthropic, pdf2image, Pillow
 # (and the poppler binary). They are NOT required by ocr_to_markdown.py.

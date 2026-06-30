@@ -23,3 +23,7 @@ output_books/
 _index/
 _excerpts/
 writing sample ocr/
+
+# Generated vector store and book drafts (large / derived — rebuilt locally)
+kb/
+book/
