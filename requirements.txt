@@ -3,6 +3,7 @@ mistralai>=2.5.0
 python-dotenv>=1.0.0
 pypdf>=6.0.0
 numpy>=1.26          # used by the vector knowledge base (build_kb.py / kb_search.py)
+indic-transliteration>=2.3   # optional: ocr_to_markdown.py --transliterate (Devanagari -> IAST)
 
 # Note: the scripts under legacy/ additionally use: anthropic, pdf2image, Pillow
 # (and the poppler binary). They are NOT required by ocr_to_markdown.py.

@@ -3,67 +3,42 @@ r"""
 draft_chapter.py — retrieval-augmented chapter drafting via Mistral chat.
 
 For each chapter it:
-  1. reads that chapter's evidence pack (book/_evidence/chNN.md) produced by
-     make_evidence.py from the vector knowledge base, and
-  2. reads a writing-style reference (the OCR'd writing sample), and
+  1. reads that chapter's evidence pack (book/_evidence/chNN.md) made by
+     make_evidence.py from the vector knowledge base,
+  2. reads a writing-style reference (the OCR'd writing sample, auto-detected),
   3. asks a Mistral chat model to write the chapter in third-person narrative
-     history voice, grounded ONLY in the evidence, with numbered endnotes,
-  4. and saves it to book/chapterNN.md.
+     history voice, grounded ONLY in the evidence, with numbered endnotes, and
+  4. saves it to book/chapter-NN.md.
+
+The chapter titles/scope come from book_outline.py (the single source of truth).
 
 Requires: mistralai, python-dotenv ; MISTRAL_API_KEY in .env.
-Prereqs : run build_kb.py then make_evidence.py first (so book/_evidence/ exists).
+Prereqs : run build_kb.py then make_evidence.py first.
 
 Usage (VSCode PowerShell):
     python draft_chapter.py 1
     python draft_chapter.py 1 2 3            # several chapters
-    python draft_chapter.py all              # all seven
-    python draft_chapter.py 4 --style-file "output\writing sample ocr\WhatsApp Image ....md"
+    python draft_chapter.py all              # every chapter
+    python draft_chapter.py 4 --style-file "writing sample ocr\<name>.md"
 """
 import argparse
 import glob
 import os
 import sys
+import time
 from pathlib import Path
 
 from dotenv import load_dotenv
 from mistralai.client import Mistral
 
+from book_outline import BOOK_TITLE, BOOK_SUBTITLE, CHAPTERS, BY_NUMBER, NUMBERS
+
 load_dotenv()
-MODEL = os.environ.get("MISTRAL_CHAT_MODEL", "mistral-large-latest")
+load_dotenv(Path(__file__).resolve().parent / ".env", override=False)
+
+DEFAULT_MODEL = os.environ.get("MISTRAL_CHAT_MODEL", "mistral-large-latest")
 EVID = Path("book/_evidence")
 OUT = Path("book")
-
-# title + scope for each chapter
-CHAPTERS = {
-    1: ("The Rising Lord: An Introduction to the Nīlakaṇṭheśvara (Udayeśvara) Temple and Its World",
-        "Introduce the temple and its world: the town of Udaypur in Vidisha and the Betwa (Vetravatī) country; "
-        "the Malwa plateau / Avanti as a historical region; why this 11th-century Śiva temple matters; and a preview "
-        "of the book's arc (dynasty, founder-king, architecture, sculpture/philosophy, inscriptions/afterlife)."),
-    2: ("The Fire-Born: Origins and Rise of the Paramāra Rajputs",
-        "The Agnikula ('fire-born') origin legend on Mount Abu and its political work; Avanti/Malwa with Ujjain and "
-        "Dhārā; the earliest rulers (Upendra, Vairisiṃha, Sīyaka) and the rise from vassalage; Vākpati Mūñja the "
-        "warrior-poet, his southern wars and patronage and fall. End on the threshold of Bhoja."),
-    3: ("The Golden Noon: Bhoja and the Paramāra Zenith",
-        "Bhoja the scholar-king as the apogee of Paramāra power and culture; his vast attributed works (incl. the "
-        "Samarāṅgaṇasūtradhāra) and the authorship debate; his building and engineering (Dhārā, Bhojpur and its lake); "
-        "court and legend; then the unravelling and decline after his death that sets up Udayāditya's recovery."),
-    4: ("Udayāditya and the Founding of Udayapur",
-        "Udayāditya's accession amid post-Bhoja crisis and his consolidation; the founding of the city Udayapur with "
-        "the Udayasamudra tank; the building of the Nīlakaṇṭheśvara/Udayeśvara temple with its dated inscriptions "
-        "(V.S. 1116/1059 and V.S. 1137/1080); the Udayapur Praśasti and its sun-imagery. Flag date disagreements."),
-    5: ("The Bhūmija Vision: Plan and Architecture",
-        "The Bhūmija style within Nāgara architecture and the Samarāṅgaṇasūtradhāra's temple taxonomy; the rotated-"
-        "square plan (saptaratha/saptabhūmi); the parts (garbhagṛha, antarāla, gūḍhamaṇḍapa and porches, jagati, Vedī); "
-        "the elevation — maṇḍovara mouldings rising into the śikhara with its stacked miniature spires. Explain terms."),
-    6: ("Stone Made Speech: Sculpture, Iconography, and the Śaiva Vision",
-        "The sculptural programme of the outer walls (Dikpālas; Śiva as Naṭeśa, Tripurāntaka, Mṛtyuñjaya; goddesses "
-        "and surasundarīs; syncretic Harihara/Ardhanārīśvara) AND the theology it embodies — Śaiva Siddhānta and "
-        "Bhoja's Tattvaprakāśa — reading the carved walls as theology made visible."),
-    7: ("An Archive in Stone: Inscriptions, Conquest, and Afterlife",
-        "The temple as an eight-century epigraphic archive; the 'serpentine scimitar of letters' (varṇanāgakṛpāṇikā) "
-        "and its kin and political-Śaiva meaning; the Tughluq-era mosque of temple stone; later defacement traditions; "
-        "the Maratha brass-faced liṅga (1775) and modern ASI conservation; a brief closing reflection. Flag disagreements."),
-}
 
 SYSTEM = (
     "You are a historian writing a chapter of a serious narrative history book. "
@@ -82,54 +57,80 @@ SYSTEM = (
 
 
 def find_style_file():
-    pats = ["output/**/*.md", "output/writing sample ocr/*.md"]
-    for p in pats:
-        hits = glob.glob(p, recursive=True)
-        hits = [h for h in hits if "writing sample" in h.lower() or "whatsapp" in h.lower()]
-        if hits:
-            return hits[0]
+    """Locate the OCR'd writing-style sample (.md)."""
+    patterns = ["writing sample ocr/*.md", "output/**/*.md", "**/writing sample*/*.md"]
+    for pat in patterns:
+        for h in sorted(glob.glob(pat, recursive=True)):
+            low = h.lower()
+            if "manifest" in low:
+                continue
+            if "writing sample" in low or "whatsapp" in low:
+                return h
     return None
 
 
+def complete_with_retry(client, model, messages, attempts=4):
+    delay = 8
+    for n in range(1, attempts + 1):
+        try:
+            resp = client.chat.complete(model=model, messages=messages, max_tokens=8000, temperature=0.4)
+            content = (resp.choices[0].message.content or "").strip() if resp.choices else ""
+            if not content:
+                raise RuntimeError("empty response from model")
+            finish = getattr(resp.choices[0], "finish_reason", None)
+            return content, finish
+        except Exception as e:                       # noqa: BLE001 - retry transient errors
+            if n == attempts:
+                raise
+            print(f"    chat retry {n}/{attempts - 1}: {type(e).__name__}: {str(e)[:120]}", flush=True)
+            time.sleep(delay)
+            delay = min(delay * 2, 90)
+
+
 def draft(client, n, style_text, model):
-    title, scope = CHAPTERS[n]
-    pack = (EVID / f"ch{n:02d}.md")
+    ch = BY_NUMBER[n]
+    pack = EVID / f"ch{n:02d}.md"
     if not pack.exists():
-        print(f"  ! missing evidence pack {pack} — run make_evidence.py first"); return False
+        print(f"  ! missing evidence pack {pack} — run: python make_evidence.py")
+        return False
     evidence = pack.read_text(encoding="utf-8")
     user = (
-        f"Write Chapter {n} of the book *The Rising Lord: The Nīlakaṇṭheśvara (Udayeśvara) Temple of Udaypur "
-        f"and the World of the Paramāra Rajputs*.\n\n"
-        f"CHAPTER TITLE: {title}\n\nCHAPTER SCOPE: {scope}\n\n"
+        f"Write Chapter {n} of the book *{BOOK_TITLE}: {BOOK_SUBTITLE}*.\n\n"
+        f"CHAPTER TITLE: {ch['title']}\n\nCHAPTER SCOPE: {ch['scope']}\n\n"
         + (f"WRITING-STYLE REFERENCE (match the rhythm and texture of this prose, NOT its first-person voice "
            f"and NOT its subject):\n\"\"\"\n{style_text[:2500]}\n\"\"\"\n\n" if style_text else "")
         + "EVIDENCE (your only source of facts — each block is headed by its source):\n"
-        + "\"\"\"\n" + evidence + "\n\"\"\"\n\n"
-        "Now write the chapter."
+        + "\"\"\"\n" + evidence + "\n\"\"\"\n\nNow write the chapter."
     )
-    resp = client.chat.complete(
-        model=model,
-        messages=[{"role": "system", "content": SYSTEM}, {"role": "user", "content": user}],
-        max_tokens=8000, temperature=0.4,
+    text, finish = complete_with_retry(
+        client, model,
+        [{"role": "system", "content": SYSTEM}, {"role": "user", "content": user}],
     )
-    text = resp.choices[0].message.content
     OUT.mkdir(exist_ok=True)
     (OUT / f"chapter-{n:02d}.md").write_text(text, encoding="utf-8")
-    print(f"  chapter-{n:02d}.md written ({len(text.split())} words)")
+    warn = "  ⚠ output may be truncated (hit max_tokens)" if finish == "length" else ""
+    print(f"  chapter-{n:02d}.md written ({len(text.split())} words){warn}")
     return True
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Draft a book chapter from the KB evidence pack (Mistral chat)")
-    ap.add_argument("chapters", nargs="+", help="chapter numbers (1-7) or 'all'")
+    ap = argparse.ArgumentParser(description="Draft book chapter(s) from KB evidence packs (Mistral chat)")
+    ap.add_argument("chapters", nargs="+", help=f"chapter numbers {NUMBERS} or 'all'")
     ap.add_argument("--style-file", help="path to the OCR'd writing-sample .md (auto-detected if omitted)")
-    ap.add_argument("--model", default=MODEL)
+    ap.add_argument("--model", default=DEFAULT_MODEL)
     args = ap.parse_args()
 
     key = os.environ.get("MISTRAL_API_KEY")
     if not key:
         print("ERROR: MISTRAL_API_KEY not set (put it in .env)"); sys.exit(1)
-    nums = list(CHAPTERS) if args.chapters == ["all"] else [int(x) for x in args.chapters]
+
+    if args.chapters == ["all"]:
+        nums = NUMBERS
+    else:
+        try:
+            nums = [int(x) for x in args.chapters]
+        except ValueError:
+            print("ERROR: chapters must be numbers or 'all'"); sys.exit(1)
 
     sf = args.style_file or find_style_file()
     style_text = ""
@@ -137,18 +138,20 @@ def main():
         style_text = Path(sf).read_text(encoding="utf-8")
         print(f"style reference: {sf}")
     else:
-        print("style reference: none found (using built-in voice spec only). "
-              "Tip: OCR the 'writing sample ocr' folder first with ocr_to_markdown.py, "
-              "or pass --style-file.")
+        print("style reference: none found — using the built-in voice spec only.\n"
+              "  (tip: OCR the 'writing sample ocr' folder with ocr_to_markdown.py, or pass --style-file)")
 
-    model = args.model
     client = Mistral(api_key=key)
+    ok = 0
     for n in nums:
-        if n not in CHAPTERS:
-            print(f"  ! no chapter {n}"); continue
-        print(f"Chapter {n}: {CHAPTERS[n][0]}")
-        draft(client, n, style_text, model)
-    print("Done. Review the chapters, then run: python assemble_book.py")
+        if n not in BY_NUMBER:
+            print(f"  ! no chapter {n} in book_outline.py"); continue
+        print(f"Chapter {n}: {BY_NUMBER[n]['title']}")
+        try:
+            ok += 1 if draft(client, n, style_text, args.model) else 0
+        except Exception as e:                       # noqa: BLE001 - report, continue with next chapter
+            print(f"  ! chapter {n} failed: {type(e).__name__}: {str(e)[:160]}")
+    print(f"\nDone: {ok}/{len(nums)} chapter(s) written. Next: python assemble_book.py")
 
 
 if __name__ == "__main__":

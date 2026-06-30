@@ -31,6 +31,7 @@ import base64
 import hashlib
 import json
 import os
+import re
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -220,8 +221,25 @@ def validate_text(text: str) -> dict:
     }
 
 
+_DEVA_RE = re.compile(r"[ऀ-ॿ]")
+
+
+def transliterate_devanagari(text: str) -> str:
+    """Insert an IAST transliteration line beneath every line that contains
+    Devanagari (original kept). Requires the optional `indic-transliteration`."""
+    from indic_transliteration import sanscript
+    from indic_transliteration.sanscript import transliterate
+    out = []
+    for ln in text.split("\n"):
+        out.append(ln)
+        if _DEVA_RE.search(ln):
+            out.append("*[IAST] " + transliterate(ln, sanscript.DEVANAGARI, sanscript.IAST).strip() + "*")
+    return "\n".join(out)
+
+
 def process_file(client, model, root: Path, path: Path, output_dir: Path,
-                 chunk_mb: int, page_cap: int, force: bool, password) -> dict:
+                 chunk_mb: int, page_cap: int, force: bool, password,
+                 transliterate: bool = False) -> dict:
     ext = path.suffix.lower()
     out = output_path_for(root, path, output_dir)
     res = {"input": str(path), "output": str(out), "type": ext, "status": "", "pages": 0, "missing": []}
@@ -244,6 +262,8 @@ def process_file(client, model, root: Path, path: Path, output_dir: Path,
             md = ocr_image(client, model, path)
             text = f"<!-- OCR of {path.name} via Mistral {model}; image -->\n\n" + (md or EMPTY_NOTE)
             res["pages"] = 1
+        if transliterate:
+            text = transliterate_devanagari(text)
         out.write_text(text, encoding="utf-8")
         res.update(validate_text(text))
         res["status"] = "ok" if not res["missing"] else "incomplete"
@@ -267,12 +287,23 @@ def main():
     ap.add_argument("--workers", type=int, default=1, help="Parallel files (default 1)")
     ap.add_argument("--force", action="store_true", help="Reprocess even if output is up-to-date")
     ap.add_argument("--password", default=None, help="Password for encrypted PDFs")
+    ap.add_argument("--transliterate", action="store_true",
+                    help="Add an IAST transliteration line beneath each Devanagari line "
+                         "(needs the 'indic-transliteration' package)")
     args = ap.parse_args()
 
     key = os.environ.get("MISTRAL_API_KEY")
     if not key:
         print("ERROR: MISTRAL_API_KEY not set (put it in .env or the environment)")
         sys.exit(1)
+
+    if args.transliterate:
+        try:
+            import indic_transliteration  # noqa: F401
+        except ImportError:
+            print("ERROR: --transliterate needs the 'indic-transliteration' package.\n"
+                  "  Install it with:  pip install indic-transliteration")
+            sys.exit(1)
 
     files = discover(args.inputs, args.recursive, args.include, args.exclude)
     if not files:
@@ -289,7 +320,8 @@ def main():
         root, path = item
         print(f"\n• {path}", flush=True)
         r = process_file(client, args.model, root, path, output_dir,
-                         args.chunk_mb, args.page_cap, args.force, args.password)
+                         args.chunk_mb, args.page_cap, args.force, args.password,
+                         args.transliterate)
         print(f"  -> {r['status']} ({r.get('pages', 0)} pg) {r['output']}", flush=True)
         return r
 

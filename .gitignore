@@ -16,13 +16,12 @@ poppler/
 # Source documents, generated outputs, and personal material — kept local, not published
 input files/
 remaining texts/
-Udaypur Reference Markdown Files/
 book_draft/
+remaining pdf/
 output/
 output_books/
 _index/
 _excerpts/
-writing sample ocr/
 
 # Generated vector store and book drafts (large / derived — rebuilt locally)
 kb/
