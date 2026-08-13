@@ -3,9 +3,13 @@ settings.local.json
 __pycache__/
 *.pyc
 .ocr_cache/
+*.json
+*.jsonl
+*.log
 
 # Raw source documents — large; keep them out of the repo
 *.pdf
+*.md
 
 # Downloaded third-party binaries (reinstallable)
 poppler/
@@ -22,7 +26,32 @@ output/
 output_books/
 _index/
 _excerpts/
+book translations/
 
 # Generated vector store and book drafts (large / derived — rebuilt locally)
 kb/
 book/
+
+# v2 additions.
+#
+# Note that *.md, *.json, *.jsonl and *.log are already ignored globally above,
+# which covers the run logs, evidence packs and corpus extractions. What those
+# rules miss is the embedding matrix: a .npy is 39 MB and rebuildable, so it
+# must never reach the history.
+# Comments must be on their own line: '#' only opens a comment at the start of
+# a line, so a trailing one becomes part of the pattern and silently matches
+# nothing.
+*.npy
+
+# snapshot of the pre-v2 vector store (41 MB)
+kb_old_backup/
+
+# isolated env for the pinned Unlimited-OCR stack (torch 2.10 / transformers
+# 4.57.1, ~2.5 GB)
+.venv-ocr/
+
+# one-off probe used to measure CPU inference speed
+_ocr_local_probe.py
+
+# drafting output; regenerate from the evidence packs
+chapter_drafts_v2/
