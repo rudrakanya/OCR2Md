@@ -7,3 +7,12 @@ indic-transliteration>=2.3   # optional: ocr_to_markdown.py --transliterate (Dev
 
 # Note: the scripts under legacy/ additionally use: anthropic, pdf2image, Pillow
 # (and the poppler binary). They are NOT required by ocr_to_markdown.py.
+
+# --- v2 additions -------------------------------------------------------
+# SQLite FTS5 (sparse index), the entity registry and the claim store are all
+# stdlib — no new dependency. The only optional one is the LOCAL reranker:
+#   pip install torch sentence-transformers
+# It is not required when a hosted reranker key (JINA_AI_API_KEY / COHERE_API_KEY
+# / VOYAGE_API_KEY) is set, which is both faster and the recommended path.
+# Measured here: local bge-reranker-v2-m3 = 3.2 s/pair on CPU; hosted Jina =
+# 48 passages in 0.9 s.

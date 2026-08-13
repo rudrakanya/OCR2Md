@@ -12,6 +12,7 @@ As a CLI:
     python kb_search.py "Udayaditya Paramara and the founding of Udayapur" -k 6
 """
 import argparse
+import hashlib
 import json
 import os
 import sys
@@ -56,6 +57,24 @@ def _load():
     if emb.shape[0] != len(chunks):
         raise KBError(f"KB is inconsistent: {emb.shape[0]} vectors vs {len(chunks)} chunks. Rebuild it.")
     return cfg, emb, chunks
+
+
+def kb_stamp():
+    """Identity of the current KB build. Delegates to retrieve.kb_stamp.
+
+    Written into every artefact so a later stage can tell whether it still
+    matches the knowledge base it was drawn from.
+
+    This used to be a second implementation, and the duplication did exactly
+    what duplicated identity functions do: v2 added the config hash to
+    retrieve.kb_stamp and not to this one, so make_evidence.py stamped a pack
+    with one value while draft_chapter.py computed another for the same
+    unchanged KB, and every brief was reported stale. There is now one
+    definition; this name survives only so blueprint.py and older callers keep
+    working. Imported lazily because retrieve.py imports embed_texts from here.
+    """
+    from retrieve import kb_stamp as _stamp
+    return _stamp()
 
 
 def embed_texts(client, model, texts, attempts=5):
