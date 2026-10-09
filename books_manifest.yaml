@@ -1,0 +1,313 @@
+# =============================================================================
+# books_manifest.yaml  —  DRAFT, generated from the files. Please correct.
+#
+# Every title/author/year below was read out of the file's own opening pages
+# (or, where noted, its filename). Nothing here is supplied from outside
+# knowledge. Where the file did not state a fact, the key is either omitted or
+# carries `needs_review: true` with `_evidence` showing the text I based it on.
+#
+# `needs_review: true` = I am not confident; please confirm or correct.
+# Delete the `_evidence` and `needs_review` keys once you have checked a row —
+# the pipeline ignores keys it does not recognise.
+#
+# Fields used by the pipeline:
+#   title     -> book_title metadata (also used in the contextual chunk header)
+#   author    -> author metadata      (omit the key if unknown; never null)
+#   year      -> book_year metadata, int (omit if unknown)
+#   language  -> en | hi | sa | mixed
+#   script    -> latin | devanagari | mixed   (measured, see _stats)
+#   kind      -> book | article | report | primary_text | gazetteer
+#   weight    -> optional float, reserved for future retrieval boosting
+# =============================================================================
+
+books:
+
+  - file: 467921465-Skanda-Purana-13-AITM.md
+    title: "The Skanda-Purāṇa, Part XIII"
+    series: "Ancient Indian Tradition and Mythology (AITM)"
+    publisher: "Motilal Banarsidass"
+    year: 1955
+    language: en
+    script: latin
+    kind: primary_text
+    needs_review: true
+    _evidence: "H1 'THE / SKANDA-PURANA'; 'PART XIII'; 'MOTILAL BANARSIDASS PUBLISHERS'; 'First Edition: Delhi, 1955'; 'Reprint Delhi, 1987, 1994, 2003'. No translator named in the opening pages — AITM volumes are usually credited; please add if you know it. 1955 is the SERIES first edition, which may not be this volume's date."
+    _stats: {chars: 701126, headings: 161, devanagari: 0}
+
+  - file: 806955603-The-Temple-Architecture-of-India-Adam-Hardy.md
+    title: "The Temple Architecture of India"
+    author: "Adam Hardy"
+    year: 2007
+    language: en
+    script: latin
+    kind: book
+    needs_review: true
+    _evidence: "H1 (OCR-garbled) 'THE TEXAS ARCHITECTURE OF INDIA' / clean H1 'THE TEMPLE ARCHITECTURE OF INDIA'; byline 'Adam Hard[y]'; years in front matter 1988, 2007, 2009 (2009 is a library due-date stamp). 2007 chosen as the most plausible imprint date — confirm."
+    _stats: {chars: 640224, headings: 131, iast_diacritics: 170}
+
+  - file: Betwa_Streamflow.md
+    title: "Streamflow of the Betwa River under the Combined Effect of LU-LC and Climate Change"
+    author: "Amit Kumar et al."
+    year: 2023
+    language: en
+    script: latin
+    kind: article
+    needs_review: true
+    _evidence: "H1 as given; '**Amit Kumar <sup>1</sup>...' begins a multi-author byline that the OCR did not fully resolve. Latest year in front matter is 2023."
+    _stats: {chars: 46888, headings: 18}
+
+  - file: bhoja-paramara-and-his-times.md
+    title: "Bhoja Paramara and His Times"
+    author: "Mahesh Singh"
+    year: 1984
+    publisher: "Bharatiya Vidya Prakashan, Delhi"
+    language: en
+    script: latin
+    kind: book
+    _evidence: "H1 'BHOJA PARAMARA AND HIS TIMES'; 'Dr. MAHESH SINGH, B. D. College Lalganj'; 'BHARATIYA VIDYA PRAKASHAN'; year 1984 in front matter."
+    _stats: {chars: 793902, headings: 22}
+
+  - file: bhojdev.md
+    title: "भोजदेव (Bhojadeva)"
+    language: hi
+    script: mixed
+    kind: book
+    needs_review: true
+    _evidence: "H1 'भोजदेव' with IAST gloss 'bhojadeva'; section 'पूर्वरंग'. No author or year appears in the OCR'd opening pages. 125,662 Devanagari chars + 25,149 IAST diacritics."
+    _stats: {chars: 369071, headings: 19, devanagari: 125662, iast_diacritics: 25149}
+
+  - file: "iconography of hindus, buddhists and jains Gupte.md"
+    title: "Iconography of the Hindus, Buddhists and Jains"
+    author: "R. S. Gupte"
+    year: 1972
+    language: en
+    script: latin
+    kind: book
+    needs_review: true
+    _evidence: "H1 'ICONOGRAPHY OF THE HINDUS, BUDDHISTS AND JAINS'; ASI Central Archaeological Library stamp 'CALL No. 704.940954H/Gup' (the /Gup confirms the surname Gupte, which is also in the filename); year 1972 in front matter. Initials 'R. S.' come from the call number + filename, not from a printed byline."
+    _stats: {chars: 602752, headings: 278, iast_diacritics: 8401}
+
+  - file: "Intach Udaypur (1).md"
+    title: "The Architectural Splendor of Udaypur"
+    author: "INTACH Bhopal"
+    year: 2022
+    language: en
+    script: latin
+    kind: report
+    _evidence: "'INTACH BHOPAL'; H1 'THE ARCHITECTURAL SPLENDOR OF UDAYPUR'; 'Indian National Trust for Art and Cultural Heritage, Bhopal'; years 2000, 2022 in front matter."
+    _stats: {chars: 220479, headings: 202}
+
+  - file: Jagta_Hua_Kasba_EN.md
+    title: "Jagta Hua Kasba / कथा उदयपुर — English translation"
+    language: en
+    script: mixed
+    kind: book
+    translation_of: Jagta_Hua_Kasba_OCR_text.md
+    needs_review: true
+    _evidence: "Header comment: 'English rendering of the Hindi book \"Jagta Hua Kasba\" / कथा उदयपुर — Full, faithful translation'; H1 'The Story of Udaipur'. Author not named in the file. NOTE: this is the C18 anchor text."
+    _stats: {chars: 390810, headings: 11, devanagari: 3721}
+
+  - file: Jagta_Hua_Kasba_OCR_text.md
+    title: "कथा उदयपुर (Jagta Hua Kasba) — Hindi original"
+    language: hi
+    script: devanagari
+    kind: book
+    needs_review: true
+    _evidence: "H1 'कथा उदयपुर'; opening line describes a town of 8,000 people with 1,100-1,200 years of stories. Author not named in the OCR text. 249,147 Devanagari chars."
+    _stats: {chars: 317938, headings: 3, devanagari: 249147}
+
+  - file: Long-termhistoricchangesinclimaticvariablesofBetwa.md
+    title: "Long-term historic changes in climatic variables of Betwa Basin, India"
+    author: "Shakti Suryavanshi, Ashish Pandey, Umesh Chandra Chaube, Nitin Joshi"
+    year: 2013
+    journal: "Theoretical and Applied Climatology"
+    language: en
+    script: latin
+    kind: article
+    _evidence: "H1 and full byline as given; 'Theoretical and Applied Climatology, ISSN 0177-...'; year 2013."
+    _stats: {chars: 57775, headings: 18}
+
+  - file: madhya-bharat-cultural-heritage.md
+    title: "The Cultural Heritage of Madhya Bharat"
+    author: "D. R. Patil"
+    year: 1952
+    language: en
+    script: latin
+    kind: book
+    _evidence: "H1 as given; 'By Dr. D. R. Patil, M.A., LL.B., Ph.D., Department of Archaeology, Government of Madhya Bharat, Gwalior'; 'Published: 28th December, 1952'."
+    _stats: {chars: 243161, headings: 18}
+
+  - file: madhya-bharat-inscriptions-and-shrines.md
+    title: "Archaeological & Cultural Heritage of Madhya Bharat: Shrines, Architecture, and Inscriptions"
+    author: "D. R. Patil"
+    year: 1952
+    language: mixed
+    script: mixed
+    kind: book
+    overlaps: [madhya-bharat-cultural-heritage.md, madhya-bharat-temples-and-architecture.md]
+    needs_review: true
+    _evidence: "H1 as given; 'PART I: THE CULTURAL HERITAGE OF MADHYA BHARAT, By Dr. D. R. Patil ... 1952'. ** OVERLAP WARNING: Part I of this file reproduces madhya-bharat-cultural-heritage.md. See the note at the foot of this manifest. **"
+    _stats: {chars: 117217, headings: 24, devanagari: 2252, iast_diacritics: 341}
+
+  - file: madhya-bharat-temples-and-architecture.md
+    title: "The Cultural Heritage of Madhya Bharat — temples and architecture (with 'Some Paramāra Temples')"
+    author: "D. R. Patil"
+    year: 1952
+    language: en
+    script: latin
+    kind: book
+    overlaps: [madhya-bharat-cultural-heritage.md, madhya-bharat-inscriptions-and-shrines.md, "Some Paramara Templess.md"]
+    needs_review: true
+    _evidence: "H1 'The Cultural Heritage of Madhya Bharat' by Patil 1952, followed by a SECOND H1 'Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un' — which is the whole of 'Some Paramara Templess.md' by a different author. This file is a composite. ** See overlap note. **"
+    _stats: {chars: 133646, headings: 34, iast_diacritics: 277}
+
+  - file: paramara-dynasty-comprehensive-history.md
+    title: "The Paramāra Dynasty: a comprehensive history"
+    language: en
+    script: latin
+    kind: book
+    needs_review: true
+    _evidence: "No title page survives in the extraction. H1s are 'Introduction', 'Table of Contents', 'Chapter III: Vakpati II and Sindhuraja', 'Chapter IV: Bhoja the Great'. Title above is DESCRIPTIVE, taken from the filename, not from the text. No author or year stated anywhere in the opening pages — please supply both."
+    _stats: {chars: 536207, headings: 136, iast_diacritics: 796}
+
+  - file: parmar-rajput-dynasty-origins.md
+    title: "History of the Parmar Rajput Dynasty"
+    journal: "The Academic: International Journal of Multidisciplinary Research"
+    year: 2025
+    language: en
+    script: latin
+    kind: article
+    needs_review: true
+    _evidence: "H1 as given; 'Volume 3, Issue 11 | November 2025'; 'ISSN 2583-973X (Online)'; DOI 10.5281/zenodo.17896750. Author not captured in the extracted front matter."
+    _stats: {chars: 21169, headings: 15}
+
+  - file: Raja_Bhoj_Aur_Parmarkaleen_EN.md
+    title: "King Bhoj and Paramara-period Town Architecture (Raja Bhoj aur Parmarkaleen Nagar Sthapatya) — English translation"
+    author: "Bhagwatilal Rajpurohit"
+    language: en
+    script: mixed
+    kind: book
+    needs_review: true
+    _evidence: "Header comment: 'English translation of \"Raja Bhoj aur Parmarkaleen Nagar Sthapatya\" ... by Dr. Bhagwatilal Rajpurohit', 'Translated from the Devanagari-Hindi OCR source; 214 OCR pages'. The header also warns: 'The OCR'd PDF actually bundles TWO [works]' — worth checking whether the second work needs its own manifest row. No year stated."
+    _stats: {chars: 456894, headings: 72, devanagari: 6055}
+
+  - file: samarangana-sutradhara.md
+    title: "Samarāṅgaṇa-sūtradhāra"
+    language: sa
+    script: mixed
+    kind: primary_text
+    needs_review: true
+    _evidence: "H1 'Samarāṅgaṇa-sūtradhāra — Chapter 27' and repeated 'SAMARĀNGANA-SŪTRADHĀRA'; body alternates English translation with ```sanskrit fenced Devanagari verse. No editor/translator or year in the extraction. Largest file in the corpus (1.42M chars, 331k Devanagari). Traditionally attributed to Bhoja — but the FILE does not say so, so I have not written that in."
+    _stats: {chars: 1422139, headings: 450, devanagari: 331140, iast_diacritics: 10907}
+
+  - file: serpentine-scimitar-inscription-udaypur.md
+    title: "A serpentine scimitar of letters from Udaypur, district Vidisha, M.P."
+    author: "Saarthak Singh"
+    language: en
+    script: latin
+    kind: article
+    needs_review: true
+    _evidence: "H1 and byline as given. Abstract: 'a newly-discovered inscription from Udaypur ... engraved on a rectangular sandstone slab in the parapet wall of the Udayeśvara temple'. No publication year stated; the reference years run 1923-1979. This is the single most C10-specific document in the corpus."
+    _stats: {chars: 11802, headings: 5, iast_diacritics: 140}
+
+  - file: "Some Paramara Templess.md"
+    title: "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un"
+    author: "Swati Mondal Adhikari"
+    year: 2013
+    language: en
+    script: latin
+    kind: book
+    overlaps: [madhya-bharat-temples-and-architecture.md]
+    _evidence: "H1 as given; byline 'Swati Mondal Adhikari'; 'DOAAM, BPL 203.543, Shelf No. 48/1, 3/10/2013'. Note 2013 is a shelf/accession date, not necessarily the imprint year."
+    _stats: {chars: 242395, headings: 89, iast_diacritics: 4894}
+
+  - file: Temple_Economics.md
+    title: "Temple Economics (Arthvyavstha of Mandir)"
+    author: "Sandeep Singh"
+    language: en
+    script: latin
+    kind: book
+    needs_review: true
+    _evidence: "H1 'Temple Economics' / 'Arthvyavstha of Mandir'; '## Sandeep Singh'; '213 pages, transcribed via Claude Code'. Years in front matter 1991-2024; no imprint year stated."
+    _stats: {chars: 1083624, headings: 198, devanagari: 657}
+
+  - file: Temples_of_India.md
+    title: "Temples of North India"
+    year: 1969
+    language: en
+    script: latin
+    kind: book
+    needs_review: true
+    _evidence: "File H1 is 'Temples of India' (from the transcription header), but the book's own title page reads 'TEMPLES OF NORTH INDIA'. ASI stamp 'CALL No. 726.145/Kri' — the /Kri suffix indicates the author surname begins 'Kri', but no printed byline was captured, so I have left `author` unset. Years 1891, 1969."
+    _stats: {chars: 208788, headings: 51}
+
+  - file: "The Hindu Temple Vol 1 Stella Kramrisch.md"
+    title: "The Hindu Temple, Volume I"
+    author: "Stella Kramrisch"
+    year: 1946
+    language: en
+    script: mixed
+    kind: book
+    _evidence: "H1 'THE HINDU TEMPLE - Vol. I'; 'BY STELLA KRAMRISCH, Professor of Indian Art, University of Calcutta'; years 1946, 1958."
+    _stats: {chars: 973569, headings: 185, devanagari: 1041, iast_diacritics: 15341}
+
+  - file: "The Hindu Temple Vol 2.md"
+    title: "The Hindu Temple, Volume II"
+    author: "Stella Kramrisch"
+    year: 1946
+    language: en
+    script: mixed
+    kind: book
+    _evidence: "H1 'THE HINDU TEMPLE'; companion volume to Vol. I; year 1946. Author carried over from Vol. I — the byline was not re-captured in Vol. II's front matter, whose first pages are full-page plates."
+    _stats: {chars: 495955, headings: 175, devanagari: 20231, iast_diacritics: 7999}
+
+  - file: udayesvara-temple-art-architecture.md
+    title: "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta"
+    author: "Anupa Pande"
+    language: en
+    script: latin
+    kind: book
+    needs_review: true
+    _evidence: "H1 and '**Author:** Anupa Pande'; 'Archaeological Survey of India, Bhopal Circle Library (Accession No. 10789, Class No. 721/PAN)'. No year stated. Short (20k chars) but the most on-topic document in the corpus for C08/C09/C12."
+    _stats: {chars: 20001, headings: 13, iast_diacritics: 458}
+
+  - file: vidisha-district-gazetteer.md
+    title: "Madhya Pradesh District Gazetteers: Vidisha"
+    author: "P. N. Shrivastav, Rajendra Verma"
+    year: 1979
+    language: en
+    script: latin
+    kind: gazetteer
+    _evidence: "H1 as given; 'By P. N. SHRIVASTAV & Dr. RAJENDRA VERMA, District Gazetteers Department, Madhya Pradesh, Bhopal'; 'First Edition: 1979'. Contains Parts 1B, 2A, 2B. Years 1907, 1979."
+    _stats: {chars: 385239, headings: 181}
+
+# =============================================================================
+# THINGS YOU SHOULD DECIDE BEFORE THE FULL EMBED
+# =============================================================================
+#
+# 1. OVERLAPPING "madhya bharat" FILES — three files share content:
+#      madhya-bharat-cultural-heritage.md      (Patil 1952, standalone)
+#      madhya-bharat-inscriptions-and-shrines.md   (Part I = the same Patil text)
+#      madhya-bharat-temples-and-architecture.md   (Patil text + all of
+#                                                   "Some Paramara Templess.md")
+#    Left as-is, the same passage will be retrieved 2-3 times under different
+#    book titles, which inflates precision@k and makes a single source look
+#    like corroboration from several. Options:
+#      (a) keep all three and let near-duplicate detection at ingest demote the
+#          copies (I can add a shingle-based duplicate flag — recommended);
+#      (b) drop the two composites and keep the standalone + Some Paramara;
+#      (c) keep all three untouched.
+#    Tell me which. Default if you say nothing: (a).
+#
+# 2. JAGTA HUA KASBA appears twice, Hindi original + English translation. That
+#    is deliberate and useful (C18 anchor), but it is the same book. Recommend
+#    keeping both and marking the pair via `translation_of`, which is done.
+#    They will legitimately both surface for C18/C15 queries.
+#
+# 3. Raja_Bhoj_Aur_Parmarkaleen_EN.md's own header says the source PDF bundles
+#    TWO works. If the second one is a distinct book you care about citing
+#    separately, it needs its own row and a split.
+#
+# 4. Rows marked `needs_review: true` (17 of 25) mostly need a year or an
+#    author. The pipeline runs fine without them — they only affect citation
+#    display and the report — so this is not a blocker, just a quality knob.

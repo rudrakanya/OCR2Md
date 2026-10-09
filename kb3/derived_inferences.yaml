@@ -1,0 +1,95 @@
+# =============================================================================
+# kb3/derived_inferences.yaml — AI-derived inference chunks (spec C8). EDITABLE.
+#
+# Each entry connects dots the sources do not state verbatim. Rules:
+#   * epistemic_status is always `inference`; provenance.origin = "AI-derived"
+#   * `supports` lists the chunk ids the conclusion rests on. The build fails
+#     loudly if any id is missing or quarantined.
+#   * `inference_confidence` is this system's confidence in the step from the
+#     supports to the conclusion. It is a DIFFERENT number from the sources'
+#     claim credibility and is stored separately.
+#   * Written by Claude (claude-opus-5) on 2026-09-22 from the claims register
+#     and the chunk texts cited. Review before quoting; nothing here is a source.
+# =============================================================================
+
+inferences:
+  - id: AI-0001
+    chapters: [C5, C6]
+    title: "Udayāditya was Bhoja's kinsman from a collateral branch, not his nephew"
+    text: >-
+      The three primary witnesses quoted in the corpus agree on kinship but not on degree. The Udaipur
+      praśasti calls Udayāditya Bhoja's bandhu (kinsman) and names his father as Gyata/Jñāta rather than
+      Sindhurāja, Bhoja's father. Inscriptions of Udayāditya's son Jagaddeva call Bhoja his pitṛvya
+      (Jainad) and call Udayāditya Bhoja's bhrātā (Dongargaon). Because Sanskrit bhrātā and pitṛvya are
+      used for cousins and collateral kin, the three are reconciled if Udayāditya was a cousin-level kinsman
+      from a junior branch of the house, styled "brother" in his son's records. No primary witness in the
+      corpus calls him Bhoja's nephew; that reading (Singh 1984) should not be stated as fact.
+    supports: [tiwari-jhk-en-00491, tiwari-jhk-hi-00462, ganguly-paramara-00281, ganguly-paramara-00284,
+               tiwari-jhk-hi-00465, tiwari-jhk-hi-00466, ganguly-paramara-00778, tiwari-jhk-en-00484]
+    inference_confidence: 0.80
+
+  - id: AI-0002
+    chapters: [C6, C7, C8]
+    title: "The Udayeśvara was at least twenty-one years in building"
+    text: >-
+      One temple inscription dated VS 1116 (1059 CE) records the construction, and another dated VS 1137
+      Vaiśākha sudi 7, worked out as 30 March 1080, records the flagstaff (dhvaja). Read together, the
+      temple was begun no later than 1059 and was not consecrated until 1080: at least twenty-one years
+      of work. That fits a saptaratha, seven-storeyed Bhūmija temple of this scale. Sources that date the
+      temple "around 1080" are dating the consecration, not the foundation.
+    supports: [intach-2022-udaypur-00096, patil-1952-00382, ganguly-paramara-00562, tiwari-jhk-en-00454,
+               tiwari-jhk-en-00481, deva-1969-temples-00238, adhikari-2013-un-00071, singh-serpentine-00002]
+    inference_confidence: 0.85
+
+  - id: AI-0003
+    chapters: [C5, C6]
+    title: "Udaypur was probably Udayāditya's base before he held the Malwa throne"
+    text: >-
+      In 1059 the Panhera inscription was issued under Jayasiṃha as sovereign, yet a Udaipur inscription
+      of the same year (VS 1116) presents Udayāditya as ruling and records work on his temple. The
+      simplest reconciliation, following Ganguly, is that Udayāditya held Udaypur and his paternal
+      territory in eastern Malwa before he won the paramount throne c. 1070. That would explain why
+      the dynasty's grandest temple of the period stands in a small eastern town rather than at Dhārā.
+    supports: [ganguly-paramara-00262, ganguly-paramara-00274, ganguly-paramara-00284, intach-2022-udaypur-00075,
+               tiwari-jhk-en-00485]
+    inference_confidence: 0.60
+
+  - id: AI-0004
+    chapters: [C9, C13, C14]
+    title: "The mosque behind the temple is Tughluq-period; the Aurangzeb story is a later legend"
+    text: >-
+      The two Persian inscriptions on the mosque behind the Udayeśvara date it AH 737–739 (1336–38 CE),
+      under Muhammad bin Tughluq; INTACH reads the builder as Ahmad son of Wajih, an officer in that
+      service. It was built from dismantled attendant shrines, not the main temple. The story that
+      Aurangzeb ordered the temple destroyed, relented and built the mosque instead, recorded by Beglar,
+      is a local legend three centuries adrift. Cunningham corrected it, and Pande reports both. The legend
+      is valuable as evidence of how the town remembered the event (C13), not of what happened.
+    supports: [intach-2022-udaypur-00098, patil-1952-00387, pande-udayesvara-00391, pande-udayesvara-00397,
+               pande-udayesvara-00398, pande-udayesvara-00401, pande-udayesvara-00404]
+    inference_confidence: 0.85
+
+  - id: AI-0005
+    chapters: [C5, C8, C13]
+    title: "The fire-pit origin is evidence of Paramāra self-image in Udayāditya's day, not of origins"
+    text: >-
+      The agnikula story appears in the dynasty's own eleventh-century records, including the Udaipur
+      praśasti, so it is securely attested as what the Paramāras said about themselves in Udayāditya's
+      time. That makes it primary evidence for dynastic ideology, and the reason it belongs in the book.
+      Ganguly and others treat the story itself as bardic myth. Modern claims that it is "validated"
+      history mistake an attested belief for an attested event.
+    supports: [intach-2022-udaypur-00084, intach-2022-udaypur-00091, ganguly-paramara-00018,
+               ganguly-paramara-00032, ganguly-paramara-00077]
+    inference_confidence: 0.75
+
+  - id: AI-0006
+    chapters: [C8, C15]
+    title: "Udaypur's inscriptions span eight and a half centuries of the temple's life"
+    text: >-
+      The temple's epigraphic record runs from its foundation inscription of VS 1116 (1059 CE) and
+      consecration of VS 1137 (1080 CE), through the Persian mosque inscriptions of AH 737–739
+      (1336–38 CE), to its archaeological restoration recorded in VS 1985 (1928 CE), in Sanskrit,
+      Persian and Hindi. Few north Indian temples document their own biography this continuously; the
+      series can structure C8 and C15 as one story.
+    supports: [singh-serpentine-00002, intach-2022-udaypur-00096, intach-2022-udaypur-00098,
+               tiwari-jhk-en-00454]
+    inference_confidence: 0.80

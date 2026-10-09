@@ -1,116 +1,274 @@
-# OCR2Md — Document → Markdown (Mistral OCR)
+# Udaypur research corpus — ChromaDB pipeline
 
-A general-purpose pipeline that converts **any supported document** (PDFs and
-images) into high-fidelity Markdown using the [Mistral OCR](https://console.mistral.ai/)
-API — preserving headings, tables, footnotes, reading order, and Unicode
-(Devanagari, IAST diacritics, etc.).
+A local, single-user vector store over 25 reference books for the Udaypur /
+Udayeśvara book project. It retrieves passages with their source clearly
+identified, tags every passage by which of your 19 chapters it supports, tells
+you which chapters are thinly sourced, and measures its own retrieval accuracy.
+
+Everything runs offline once the embedding model is downloaded. There is no
+server, no container, and no cloud dependency.
 
 ---
 
 ## Quick start
 
-**Prerequisites:** Python **3.10+**, and a Mistral API key (free to create at
-<https://console.mistral.ai/> → *API Keys*).
-
 ```bash
-# 1. Clone
-git clone https://github.com/rudrakanya/OCR2Md.git
-cd OCR2Md
+# one-time
+pip install chromadb sentence-transformers rank_bm25 langchain-text-splitters pyyaml indic-transliteration
 
-# 2. (recommended) create & activate a virtual environment
-python -m venv .venv
-# macOS/Linux:
-source .venv/bin/activate
-# Windows (PowerShell):
-.\.venv\Scripts\Activate.ps1
+# build (clean rebuild — clears the collection, caches and sidecar first)
+python -m src.ingest --rebuild
 
-# 3. Install dependencies
-pip install -r requirements.txt
+# ask it something
+python -m src.query "Bhumija sikhara of the Udayesvara temple" --chapter C08
 
-# 4. Configure your API key
-cp .env.example .env            # Windows: Copy-Item .env.example .env
-# then edit .env and paste your key after MISTRAL_API_KEY=
+# how good is it?
+python -m src.evaluate --compare
 
-# 5. Run it
-python ocr_to_markdown.py path/to/document.pdf
+# where are my sourcing gaps?
+python -m src.report
 ```
 
-That's it. Your Markdown appears under `./output/`.
-
-> **Note:** `.env` is git-ignored — never commit your API key. Source PDFs,
-> outputs, caches, and the bundled `poppler/` are also git-ignored, so a fresh
-> clone is small and you bring your own documents.
-
 ---
 
-## Usage
+## The four things this does
+
+### 1. Ingest — `src/ingest.py`
 
 ```bash
-# one file
-python ocr_to_markdown.py report.pdf
-
-# several files and/or whole folders (recurse into subfolders)
-python ocr_to_markdown.py a.pdf scan.png "my docs/" --recursive
-
-# choose output location, process N files in parallel
-python ocr_to_markdown.py docs/ --recursive --output-dir out --workers 3
+python -m src.ingest --rebuild                 # clean build (§3)
+python -m src.ingest                           # idempotent upsert, no wipe
+python -m src.ingest --dry-run                 # chunk + report, embed nothing
+python -m src.ingest --embed-preset e5_small_fast
+python -m src.ingest --limit 3                 # smoke test on 3 books
 ```
 
-Outputs are written under `--output-dir` (default `./output/`), **mirroring the
-input folder structure**; source files are never modified. Each document becomes
-`<name>.md` with `<!-- page N -->` markers; blank / image-only (plate) pages are
-explicitly annotated. A run summary plus a per-run `_ocr_manifest.json` (page
-counts, completeness, diacritic/mojibake checks) are written to the output dir.
+Load → chunk → embed → tag → upsert.
 
-### Supported inputs
-- **PDF** — native or scanned; automatically split into size-bounded page chunks
-  (lossless), so very large files work. Encrypted PDFs: pass `--password`.
-- **Images** — `.png .jpg .jpeg .webp .gif .bmp .tif .tiff`.
-- Other types (e.g. `.docx`, `.pptx`) are **skipped and reported**, never fatal.
+- **Chunking** splits on Markdown headings first, then recursively inside each
+  section to a ~1000-token target with 150-token overlap. Fragments under 200
+  tokens are merged into a neighbour. Tables and fenced Sanskrit blocks are kept
+  whole. Each chunk's *embedded* text is prefixed with
+  `[Book: … > heading path]`, which disambiguates near-identical passages
+  across books; the *stored* text is the original, untouched.
+- **Chunk IDs** are `sha1("<filename>:<chunk_index>")`, so re-running upserts
+  in place and never duplicates. `--rebuild` is the deliberate override.
+- **Near-duplicates** are detected by hashed 8-gram shingles and flagged with
+  `duplicate_of`, not deleted. This matters here: three files reproduce D. R.
+  Patil's 1952 text, and without the flag one passage would occupy several of
+  your top-10 slots while looking like corroboration from three sources.
+- **Fails loudly** on an empty file, non-UTF-8 bytes, a book that yields zero
+  chunks, or a corpus file missing from `books_manifest.yaml`.
 
-### Options
-| Flag | Purpose |
-|------|---------|
-| `--output-dir DIR` | Output root (default `output`) |
-| `--recursive` | Descend into subdirectories |
-| `--include GLOB` / `--exclude GLOB` | Filter files (repeatable) |
-| `--model ID` | OCR model (default `mistral-ocr-4`) |
-| `--chunk-mb N` / `--page-cap N` | PDF chunk-size tuning |
-| `--workers N` | Process N files in parallel |
-| `--force` | Reprocess even if output is up-to-date |
-| `--password PW` | Password for encrypted PDFs |
+### 2. Query — `src/query.py`
 
-### Resumability
-Completed chunks are cached in `./.ocr_cache/` (keyed by file size + mtime +
-model), so interrupted runs resume without re-billing finished work. Delete
-`.ocr_cache/` to clear it, or use `--force` to ignore existing outputs.
+```bash
+python -m src.query "praśasti of Udayāditya"
+python -m src.query "temple economy" --chapter C13 --k 5
+python -m src.query "Betwa streamflow" --no-hybrid      # dense only
+python -m src.query "Nagari palaeography" --json
+```
+
+Prints book title, heading path, primary/all chapters, similarity, and a
+snippet for each hit.
+
+**Hybrid retrieval** is on by default: a dense channel (Chroma, cosine) and a
+BM25 channel over the folded text, combined with Reciprocal Rank Fusion. RRF
+merges by *rank*, so the two scales never have to be made comparable. Dense
+search finds the paraphrase; lexical search finds the exact string — and this
+corpus turns on exact strings (`Udayeśvara` vs `Udayapura`, one inscription
+among many). `--chapter` applies `where={"chap_C08": True}` to the dense channel
+*and* restricts the lexical channel to the same ids, so the filter narrows the
+whole funnel rather than half of it.
+
+### 3. Evaluate — `src/evaluate.py`
+
+```bash
+python -m src.evaluate --compare      # dense-only vs hybrid, side by side
+python -m src.evaluate --worst 10     # which queries are failing
+python -m src.evaluate --ablate       # sweep chunk sizes x models (§10.3)
+```
+
+Reports Precision@k and Recall@k for k ∈ {3,5,10}, MRR, nDCG@10, per-chapter
+tagging precision, and hard-negative violations (a geology query must not
+surface iconography). Each run is saved to `eval/results/chroma/` with the
+config hash and library versions, so any two runs are comparable.
+
+**Read this before quoting a number.** `eval/gold.yaml` judges at *book* level:
+a chunk from the right book about the wrong subject counts as a hit, so
+precision is an upper bound. The 53 seed queries are mine, written from
+scanning the corpus rather than reading it — they are a **regression baseline**
+("did my change help?"), not an absolute measure. To tighten a query, add
+`relevant_chunks` with specific chunk ids from `--json` output; the harness
+prefers those over book labels when present.
+
+### 4. Report — `src/report.py`
+
+```bash
+python -m src.report              # writes ./corpus_report.md
+python -m src.report --stdout
+```
+
+Chunk counts and token distribution per book; a chapter coverage table; **gap
+flags** (too few chunks, too few books, nothing primarily about it, or >60% of
+evidence from a single source); and cross-book concentration. This is the
+report to read *before* drafting a chapter, not after.
 
 ---
 
-## Troubleshooting
+## Re-tuning without re-embedding
 
-- **`MISTRAL_API_KEY not set`** — you haven't created `.env` (step 4), or it's
-  empty. The tool reads `.env` from the current directory or next to the script.
-- **`ModuleNotFoundError`** — activate your virtual environment and re-run
-  `pip install -r requirements.txt`.
-- **A file is `skipped:unsupported`** — only PDFs and the image types above are
-  OCR-able; convert other formats to PDF first.
-- No internet / API errors are retried automatically with backoff; a single
-  file's failure never aborts the batch (see the run summary / manifest).
+Chapter tagging is deliberately a separate step, because tuning it is the thing
+you will do most often:
+
+```bash
+python -m src.tag                 # re-tag using the vectors already stored
+python -m src.tag --explain C15   # what did C15 actually catch?
+```
+
+`src/tag.py` reads the chunk vectors back out of Chroma and re-embeds only the
+19 chapter descriptors — seconds, not hours. So:
+
+1. Edit a descriptor or keyword list in `chapters.yaml`.
+2. `python -m src.tag`
+3. `python -m src.tag --explain C15` to see what changed.
+4. `python -m src.report` to see the new coverage.
+
+**How tagging works.** Each chapter's title + scope + descriptor + keywords is
+embedded and compared to every chunk by cosine similarity. Each chunk is tagged
+with its top-3 chapters *plus* any chapter above a cutoff **calibrated from the
+observed score distribution** — never a hardcoded threshold, because cosine
+scales differ between models and a number tuned for bge-m3 is meaningless for
+e5. The method (`percentile` / `zscore` / `knee`) and its parameter live in
+`config.yaml`, and the chosen cutoff is printed and saved on every run.
+
+Descriptors are written as *prose in the register of the corpus* rather than as
+labels. A descriptor is really a query, and one that reads like the passages it
+should match retrieves far better than a bare chapter title.
+
+An optional LLM verification pass over low-confidence chunks is specified and
+left as a clean hook (`tagging.llm_verification`, off by default,
+`tag.verify_low_confidence`). It is not implemented.
 
 ---
 
-## Project layout
+## Switching embedding models
 
-| Path | What it is |
-|------|------------|
-| `ocr_to_markdown.py` | The OCR → Markdown tool (the thing you run) |
-| `requirements.txt` | Python dependencies |
-| `.env.example` | Template for your `.env` |
-| `legacy/` | Older, task-specific scripts (Claude-vision Sanskrit verse extraction and a book-drafting pipeline). **Not** needed for OCR; they have extra dependencies (`anthropic`, `pdf2image`, `Pillow`) and require the `poppler` binary. |
+Three lines in `config.yaml`:
+
+```yaml
+embedding:
+  backend: sentence_transformers    # or: openai
+  model: BAAI/bge-m3
+  dim: 1024
+```
+
+Presets are pre-wired under `embedding.alternatives` and selectable per run
+without editing the file:
+
+```bash
+python -m src.ingest --rebuild --embed-preset e5_small_fast
+```
+
+| Preset | Model | Dim | Notes |
+|---|---|---:|---|
+| *(default)* | `BAAI/bge-m3` | 1024 | Multilingual, handles Devanagari + IAST, 8192-token context. ~2.3 GB. |
+| `e5_large` | `intfloat/multilingual-e5-large` | 1024 | Needs `query:`/`passage:` prefixes (already configured). 512-token limit. |
+| `e5_small_fast` | `intfloat/multilingual-e5-small` | 384 | ~8× faster on CPU. **512-token limit truncates 1000-token chunks at half** — use for pipeline validation, not for final quality. |
+| `openai_large` | `text-embedding-3-large` | 3072 | Needs `OPENAI_API_KEY`; `pip install openai`. |
+
+**Switching models invalidates the index.** Vectors from two models are not
+comparable, so always `--rebuild` after a change. The embedding cache is keyed
+by model name, so switching back and forth does not re-pay for work already
+done.
+
+We deliberately do *not* register a Chroma `EmbeddingFunction`; vectors are
+computed here and passed explicitly to both `upsert` and `query`. Chroma has
+changed that interface across releases, and this way ingest and retrieval
+provably share one code path.
 
 ---
 
-## License / data note
-You are responsible for the documents you process and for complying with the
-copyright of any source material. Outputs and source files stay local (git-ignored).
+## Layout
+
+```
+config.yaml            every tunable; nothing in src/ hardcodes a number
+books_manifest.yaml    filename -> title/author/year/language/script
+chapters.yaml          19 chapter descriptors, keywords, negative keywords
+corpus_report.md       generated by src/report.py
+
+src/settings.py        config load, hashing, provenance
+src/textutil.py        NFC, Devanagari->IAST folding, language detection
+src/chunker.py         heading-aware + recursive splitting
+src/dedupe.py          shingle near-duplicate detection
+src/embedder.py        model adapters + on-disk vector cache
+src/store.py           Chroma collection + SQLite sidecar
+src/ingest.py          the build driver
+src/tag.py             chapter tagging (re-runnable without re-embedding)
+src/retrieval.py       dense + BM25 + RRF
+src/query.py           retrieval CLI
+src/evaluate.py        metrics harness + ablations
+src/report.py          coverage and gap report
+
+eval/gold.yaml         53 seed labelled queries — extend this
+eval/results/chroma/   one JSON per run, stamped with the config hash
+
+chroma_db/             the store (gitignored)
+  chroma.sqlite3         vectors, documents, scalar metadata
+  sidecar.sqlite3        text_folded, chunk bookkeeping, run records
+  sidecar.bm25.pkl       cached BM25 index
+  embed_cache.sqlite3    content-hash -> vector
+```
+
+### Metadata on every chunk
+
+`source_path`, `book_title`, `author`*, `book_year`*, `kind`*, `heading_path`,
+`chunk_index`, `token_count`, `language` (`en`/`hi`/`sa`/`mixed`), `page_start`*,
+`is_duplicate`, `duplicate_of`*, `dup_score`*, `chap_C01`…`chap_C18`, `chap_AW`
+(booleans), `primary_chapter`, `chapters_str`, `chap_score_primary`,
+`chap_margin`, `chap_low_confidence`.
+
+*\* omitted entirely when unknown — Chroma rejects `None`, and metadata values
+must be scalars, which is why chapters are boolean columns rather than a list.*
+
+`text_folded` lives in the sidecar, not in Chroma: it is never displayed and
+never embedded, and storing a folded copy of every chunk would roughly double
+the metadata payload for no retrieval benefit.
+
+---
+
+## Unicode
+
+The corpus is English, Hindi (Devanagari), Sanskrit and IAST — 10 of the 25
+files carry Devanagari, `samarangana-sutradhara.md` alone has 331k Devanagari
+characters. So:
+
+- Everything is normalised to **NFC** on load.
+- Stored and displayed text keeps **every diacritic and every Devanagari
+  codepoint**. Nothing is ever stripped from what you read or cite.
+- A **separate folded copy** (`text_folded`) is lowercased and reduced to ASCII
+  purely for BM25, so searching `Udayaditya` matches `Udayāditya` and
+  `उदयादित्य`. Folding routes Devanagari through IAST transliteration first —
+  NFKD-then-strip would delete Devanagari outright, leaving every Hindi passage
+  with an empty folded string.
+- `src/settings.py` forces UTF-8 on stdout at import. Windows consoles default
+  to cp1252 and will kill a run the first time a Devanagari character is
+  printed.
+
+---
+
+## Notes and known limits
+
+- **`books_manifest.yaml` is a draft.** 17 of 25 rows are marked
+  `needs_review: true`, each with an `_evidence` note quoting the text the
+  entry came from. Nothing was supplied from outside the files. Missing
+  authors/years affect citation display and the report only — not retrieval.
+- **Three files overlap** (`madhya-bharat-*` reproduce Patil 1952; one also
+  contains all of *Some Paramāra Temples*). Handled by duplicate flagging, and
+  documented at the foot of the manifest.
+- **`Jagta_Hua_Kasba` appears twice**, Hindi original and English translation,
+  linked by `translation_of`. Both will legitimately surface for C15/C18.
+- **The gold set is provisional** — see the header of `eval/gold.yaml`.
+- **This is independent of the v2 pipeline** in the repo root (`build_kb.py`,
+  `kb/`, `retrieve.py`). Nothing here reads or writes that store. The `eval/`
+  directory is shared, so results are namespaced under `eval/results/chroma/`.

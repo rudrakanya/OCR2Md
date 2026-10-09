@@ -1,0 +1,252 @@
+{
+  "run_id": "20260905-214004",
+  "provenance": {
+    "config_hash": "487347fcb1d6",
+    "embedding_model": "intfloat/multilingual-e5-small",
+    "embedding_preset": "e5_small_fast",
+    "chunk_target_tokens": 1000,
+    "chunk_overlap_tokens": 150,
+    "libraries": {
+      "python": "3.13.14",
+      "chromadb": "1.5.9",
+      "sentence-transformers": "5.7.0",
+      "transformers": "5.14.1",
+      "torch": "2.13.0",
+      "rank_bm25": "0.2.2",
+      "langchain-text-splitters": "1.1.2",
+      "numpy": "2.5.0",
+      "PyYAML": "6.0.3"
+    }
+  },
+  "files": 25,
+  "chunks": 4338,
+  "duplicates": 87,
+  "per_book": [
+    {
+      "file": "467921465-Skanda-Purana-13-AITM.md",
+      "title": "The Skanda-Purāṇa, Part XIII",
+      "chunks": 325,
+      "tokens": 189775,
+      "min_tok": 217,
+      "median_tok": 592,
+      "max_tok": 991
+    },
+    {
+      "file": "806955603-The-Temple-Architecture-of-India-Adam-Hardy.md",
+      "title": "The Temple Architecture of India",
+      "chunks": 234,
+      "tokens": 177994,
+      "min_tok": 205,
+      "median_tok": 829,
+      "max_tok": 1158
+    },
+    {
+      "file": "Betwa_Streamflow.md",
+      "title": "Streamflow of the Betwa River under the Combined Effect of LU-LC and Climate Change",
+      "chunks": 21,
+      "tokens": 13508,
+      "min_tok": 240,
+      "median_tok": 640,
+      "max_tok": 998
+    },
+    {
+      "file": "bhoja-paramara-and-his-times.md",
+      "title": "Bhoja Paramara and His Times",
+      "chunks": 294,
+      "tokens": 243594,
+      "min_tok": 239,
+      "median_tok": 898,
+      "max_tok": 1252
+    },
+    {
+      "file": "bhojdev.md",
+      "title": "भोजदेव (Bhojadeva)",
+      "chunks": 170,
+      "tokens": 152670,
+      "min_tok": 59,
+      "median_tok": 936,
+      "max_tok": 1291
+    },
+    {
+      "file": "iconography of hindus, buddhists and jains Gupte.md",
+      "title": "Iconography of the Hindus, Buddhists and Jains",
+      "chunks": 300,
+      "tokens": 199618,
+      "min_tok": 200,
+      "median_tok": 670,
+      "max_tok": 1250
+    },
+    {
+      "file": "Intach Udaypur (1).md",
+      "title": "The Architectural Splendor of Udaypur",
+      "chunks": 118,
+      "tokens": 57936,
+      "min_tok": 201,
+      "median_tok": 427,
+      "max_tok": 1124
+    },
+    {
+      "file": "Jagta_Hua_Kasba_EN.md",
+      "title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+      "chunks": 118,
+      "tokens": 103528,
+      "min_tok": 265,
+      "median_tok": 907,
+      "max_tok": 1080
+    },
+    {
+      "file": "Jagta_Hua_Kasba_OCR_text.md",
+      "title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+      "chunks": 111,
+      "tokens": 101491,
+      "min_tok": 276,
+      "median_tok": 940,
+      "max_tok": 1111
+    },
+    {
+      "file": "Long-termhistoricchangesinclimaticvariablesofBetwa.md",
+      "title": "Long-term historic changes in climatic variables of Betwa Basin, India",
+      "chunks": 28,
+      "tokens": 19098,
+      "min_tok": 241,
+      "median_tok": 699,
+      "max_tok": 1180
+    },
+    {
+      "file": "madhya-bharat-cultural-heritage.md",
+      "title": "The Cultural Heritage of Madhya Bharat",
+      "chunks": 76,
+      "tokens": 65494,
+      "min_tok": 295,
+      "median_tok": 906,
+      "max_tok": 1147
+    },
+    {
+      "file": "madhya-bharat-inscriptions-and-shrines.md",
+      "title": "Archaeological & Cultural Heritage of Madhya Bharat: Shrines, Architecture, and Inscriptions",
+      "chunks": 46,
+      "tokens": 34510,
+      "min_tok": 207,
+      "median_tok": 829,
+      "max_tok": 1166
+    },
+    {
+      "file": "madhya-bharat-temples-and-architecture.md",
+      "title": "The Cultural Heritage of Madhya Bharat — temples and architecture (with 'Some Paramāra Temples')",
+      "chunks": 47,
+      "tokens": 36132,
+      "min_tok": 253,
+      "median_tok": 883,
+      "max_tok": 1038
+    },
+    {
+      "file": "paramara-dynasty-comprehensive-history.md",
+      "title": "The Paramāra Dynasty: a comprehensive history",
+      "chunks": 237,
+      "tokens": 158020,
+      "min_tok": 202,
+      "median_tok": 620,
+      "max_tok": 1189
+    },
+    {
+      "file": "parmar-rajput-dynasty-origins.md",
+      "title": "History of the Parmar Rajput Dynasty",
+      "chunks": 11,
+      "tokens": 5635,
+      "min_tok": 216,
+      "median_tok": 344,
+      "max_tok": 1048
+    },
+    {
+      "file": "Raja_Bhoj_Aur_Parmarkaleen_EN.md",
+      "title": "King Bhoj and Paramara-period Town Architecture (Raja Bhoj aur Parmarkaleen Nagar Sthapatya) — English translation",
+      "chunks": 175,
+      "tokens": 135024,
+      "min_tok": 208,
+      "median_tok": 841,
+      "max_tok": 1029
+    },
+    {
+      "file": "samarangana-sutradhara.md",
+      "title": "Samarāṅgaṇa-sūtradhāra",
+      "chunks": 668,
+      "tokens": 481618,
+      "min_tok": 202,
+      "median_tok": 660,
+      "max_tok": 1326
+    },
+    {
+      "file": "serpentine-scimitar-inscription-udaypur.md",
+      "title": "A serpentine scimitar of letters from Udaypur, district Vidisha, M.P.",
+      "chunks": 5,
+      "tokens": 3202,
+      "min_tok": 332,
+      "median_tok": 632,
+      "max_tok": 912
+    },
+    {
+      "file": "Some Paramara Templess.md",
+      "title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un",
+      "chunks": 118,
+      "tokens": 74687,
+      "min_tok": 207,
+      "median_tok": 660,
+      "max_tok": 999
+    },
+    {
+      "file": "Temple_Economics.md",
+      "title": "Temple Economics (Arthvyavstha of Mandir)",
+      "chunks": 373,
+      "tokens": 286301,
+      "min_tok": 207,
+      "median_tok": 872,
+      "max_tok": 1145
+    },
+    {
+      "file": "Temples_of_India.md",
+      "title": "Temples of North India",
+      "chunks": 75,
+      "tokens": 58615,
+      "min_tok": 219,
+      "median_tok": 867,
+      "max_tok": 999
+    },
+    {
+      "file": "The Hindu Temple Vol 1 Stella Kramrisch.md",
+      "title": "The Hindu Temple, Volume I",
+      "chunks": 372,
+      "tokens": 298451,
+      "min_tok": 207,
+      "median_tok": 883,
+      "max_tok": 1158
+    },
+    {
+      "file": "The Hindu Temple Vol 2.md",
+      "title": "The Hindu Temple, Volume II",
+      "chunks": 223,
+      "tokens": 159055,
+      "min_tok": 200,
+      "median_tok": 853,
+      "max_tok": 1186
+    },
+    {
+      "file": "udayesvara-temple-art-architecture.md",
+      "title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta",
+      "chunks": 13,
+      "tokens": 6179,
+      "min_tok": 220,
+      "median_tok": 470,
+      "max_tok": 1005
+    },
+    {
+      "file": "vidisha-district-gazetteer.md",
+      "title": "Madhya Pradesh District Gazetteers: Vidisha",
+      "chunks": 180,
+      "tokens": 114792,
+      "min_tok": 200,
+      "median_tok": 673,
+      "max_tok": 1115
+    }
+  ],
+  "elapsed_s": 1435.7
+}

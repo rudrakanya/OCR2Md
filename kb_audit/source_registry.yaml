@@ -1,0 +1,465 @@
+# =============================================================================
+# Source registry — Stage 1B book-level defaults.
+#
+# Every chunk INHERITS source_type and provenance from its parent entry here
+# (spec: "Every chunk keeps its parent book's category"). Epistemic status is
+# NOT set here — it is read from each chunk's own language.
+#
+# work_id groups sources that are one intellectual work (a translation and its
+# original; two volumes of one book; a composite that reproduces another).
+# Stage 2 counts a work_id cluster as ONE source for corroboration, so the
+# tally is not overstated. Nothing is merged or deleted on account of it.
+#
+# date_confidence: dated | approximate | undated-flagged   (never invented)
+# Every date carries date_basis: where in the file (or outside it) it came from.
+# =============================================================================
+
+sources:
+
+  - source_id: skanda-xiii
+    code: SKP-13
+    file: 467921465-Skanda-Purana-13-AITM.md
+    title: "The Skanda-Purāṇa, Part XIII (AITM series)"
+    author: "Not named in file (Motilal Banarsidass, AITM series translation)"
+    author_confidence: unknown
+    publication_date: "2003 printing (series first edition 1955)"
+    date_confidence: dated
+    date_basis: "Front matter: 'First Edition: Delhi, 1955 / Reprint Delhi, 1987, 1994, 2003'."
+    event_date: "Composition of the Purāṇa — undated in file"
+    event_date_confidence: undated-flagged
+    source_type: primary_scriptural
+    source_type_coarse: primary   # Stage 1 five-type taxonomy, kept for traceability
+    register: scriptural
+    work_id: skanda-purana
+    language: en
+    provenance_notes: "Period text in translation. Mythic/scriptural register: evidence of what the text narrates, never of events."
+
+  - source_id: hardy-2007
+    code: HAR
+    file: 806955603-The-Temple-Architecture-of-India-Adam-Hardy.md
+    title: "The Temple Architecture of India"
+    author: "Adam Hardy"
+    author_confidence: stated
+    publication_date: "2007"
+    date_confidence: approximate
+    date_basis: "Front-matter years 1988/2007/2009; 2009 is a library due-date stamp."
+    source_type: secondary_comparative
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: hardy-2007
+    language: en
+
+  - source_id: kumar-2023-betwa
+    code: BET-K
+    file: Betwa_Streamflow.md
+    title: "Streamflow of the Betwa River under the Combined Effect of LU-LC and Climate Change"
+    author: "Amit Kumar et al."
+    author_confidence: stated
+    publication_date: "2023"
+    date_confidence: approximate
+    date_basis: "Latest year in front matter."
+    source_type: environmental_scientific
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: kumar-2023-betwa
+    language: en
+    provenance_notes: "Peer-reviewed hydrological analysis of measured data."
+
+  - source_id: singh-1984-bhoja
+    code: SIN-B
+    file: bhoja-paramara-and-his-times.md
+    title: "Bhoja Paramara and His Times"
+    author: "Mahesh Singh"
+    author_confidence: stated
+    publication_date: "1984"
+    date_confidence: dated
+    date_basis: "Title page, Bharatiya Vidya Prakashan."
+    source_type: secondary_core
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: singh-1984-bhoja
+    language: en
+
+  - source_id: bhojdev-hi
+    code: BHJ-H
+    file: bhojdev.md
+    title: "भोजदेव (Bhojadeva)"
+    author: "Not named in file"
+    author_confidence: unknown
+    publication_date: null
+    date_confidence: undated-flagged
+    date_basis: "No imprint in the OCR'd pages."
+    source_type: secondary_core
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: bhojdev-hi
+    language: hi
+
+  - source_id: intach-geoheritage
+    code: INT-GEO
+    file: Geo-Heritage of Udaypur - The Third Eye.md
+    title: "Geo-Heritage of Udaypur: The Third Eye"
+    author: "INTACH Bhopal Chapter"
+    author_confidence: stated
+    publication_date: "2024 or later"
+    date_confidence: approximate
+    date_basis: "Latest year mentioned in the text is 2024; no imprint page."
+    observation_date: "2022 (drone survey) and later site visits"
+    observation_date_basis: "'Present condition of circular bastions as captured through drone survey in 2022'."
+    source_type: field_observation_survey
+    source_type_coarse: field_observation   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: intach-geoheritage
+    language: en
+    provenance_notes: "Instrument survey (drone + total station). Its superlatives ('largest in the world') are advocacy, not survey findings."
+
+  - source_id: gupte-1972
+    code: GUP
+    file: "iconography of hindus, buddhists and jains Gupte.md"
+    title: "Iconography of the Hindus, Buddhists and Jains"
+    author: "R. S. Gupte"
+    author_confidence: inferred
+    author_basis: "ASI call number 704.940954H/Gup + filename; no printed byline captured."
+    publication_date: "1972"
+    date_confidence: approximate
+    date_basis: "Year in front matter."
+    source_type: reference_tertiary
+    source_type_coarse: reference_tertiary   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: gupte-1972
+    language: en
+    provenance_notes: "Contains 77 chunks of leaked OCR-model commentary (stripped at chunking, logged)."
+
+  - source_id: intach-2022-udaypur
+    code: INT-ARC
+    file: "Intach Udaypur (1).md"
+    title: "The Architectural Splendor of Udaypur"
+    author: "INTACH Bhopal Chapter"
+    author_confidence: stated
+    publication_date: "2022"
+    date_confidence: approximate
+    date_basis: "Front-matter years 2000/2022."
+    observation_date: "c. 2021–22 (two phases of fieldwork)"
+    observation_date_basis: "'The field work was conducted in two phases.'"
+    source_type: field_observation_survey
+    source_type_coarse: field_observation   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: intach-2022-udaypur
+    language: en
+    provenance_notes: "Heritage listing with GPS points. Its general-mythology background passages are unsourced and must be judged claim by claim."
+
+  - source_id: tiwari-jhk-en
+    code: TIW-E
+    file: Jagta_Hua_Kasba_EN.md
+    title: "Jagta Hua Kasba / कथा उदयपुर (English translation)"
+    author: "Tiwari (VMT)"
+    author_confidence: inferred
+    author_basis: "User brief names 'Tiwari'/'VMT'; the narrator is addressed as 'Vijay ji' in the text. No printed byline in the OCR."
+    publication_date: "c. 2021–22"
+    date_confidence: approximate
+    date_basis: "Narrates a January 2021 heritage walk; refers to INTACH's 2022 volume as forthcoming. No imprint page."
+    observation_date: "January 2021 (walk); c. 2000 (recalled earlier visit)"
+    source_type: field_observation_reportage
+    source_type_coarse: field_observation   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: tiwari-jhk
+    canonical_for_quotation: true
+    language: en
+    provenance_notes: "First-person heritage-walk reportage, self-described as opinion. Retain observation, folklore and opinion — never quarantine on that ground (spec C6). Writes 'Udaipur', not 'Udaypur'."
+
+  - source_id: tiwari-jhk-hi
+    code: TIW-H
+    file: Jagta_Hua_Kasba_OCR_text.md
+    title: "कथा उदयपुर (Jagta Hua Kasba) — Hindi original"
+    author: "Tiwari (VMT)"
+    author_confidence: inferred
+    publication_date: "c. 2021–22"
+    date_confidence: approximate
+    date_basis: "As the English translation."
+    observation_date: "January 2021"
+    source_type: field_observation_reportage
+    source_type_coarse: field_observation   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: tiwari-jhk
+    canonical_for_quotation: false
+    language: hi
+    provenance_notes: "Original of tiwari-jhk-en. Same work: counts once for corroboration. Canonical for verifying the translation."
+
+  - source_id: suryavanshi-2013-betwa
+    code: BET-S
+    file: Long-termhistoricchangesinclimaticvariablesofBetwa.md
+    title: "Long-term historic changes in climatic variables of Betwa Basin, India"
+    author: "Shakti Suryavanshi, Ashish Pandey, Umesh Chandra Chaube, Nitin Joshi"
+    author_confidence: stated
+    publication_date: "2013"
+    date_confidence: dated
+    date_basis: "Theoretical and Applied Climatology, 2013."
+    source_type: environmental_scientific
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: suryavanshi-2013-betwa
+    language: en
+
+  - source_id: patil-1952
+    code: PAT
+    # Phase 4 Step 3: PAT-CH/PAT-TEM/PAT-INS were three
+    # registrations of this one volume. Merged to one source_id and
+    # one code so a passage cannot be cited as three authorities.
+    # Each chunk keeps its own source_type and provenance.part.
+    parts:
+      - patil-1952: "Part I — The Cultural Heritage of Madhya Bharat (1952)"
+      - patil-composite-inscriptions: "Shrines, architecture and inscriptions (composite registration)"
+      - patil-composite-temples: "Temples and architecture (composite registration)"
+    canonical_for_quotation: true
+    file: madhya-bharat-cultural-heritage.md
+    title: "The Cultural Heritage of Madhya Bharat"
+    author: "D. R. Patil"
+    author_confidence: stated
+    publication_date: "1952-12-28"
+    date_confidence: dated
+    date_basis: "'Published: 28th December, 1952'."
+    source_type: secondary_core
+    source_type_coarse: reference_tertiary   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: patil-1952
+    language: en
+
+  - source_id: patil-composite-inscriptions
+    merged_into: patil-1952   # Phase 4 Step 3; no own code
+    file: madhya-bharat-inscriptions-and-shrines.md
+    title: "Archaeological & Cultural Heritage of Madhya Bharat: Shrines, Architecture, and Inscriptions"
+    author: "D. R. Patil (Part I) + unattributed additions"
+    author_confidence: stated
+    publication_date: "1952 (Part I); additions undated"
+    date_confidence: approximate
+    date_basis: "Part I reproduces Patil 1952."
+    source_type: primary_epigraphic
+    source_type_coarse: reference_tertiary   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: patil-1952
+    language: mixed
+    provenance_notes: "Composite. Part I duplicates patil-1952. Contains LLM-regeneration markers '[cite: N]' (37 in file)."
+
+  - source_id: patil-composite-temples
+    merged_into: patil-1952   # Phase 4 Step 3; no own code
+    file: madhya-bharat-temples-and-architecture.md
+    title: "The Cultural Heritage of Madhya Bharat — temples and architecture (composite)"
+    author: "D. R. Patil + Swati Mondal Adhikari (bundled)"
+    author_confidence: stated
+    publication_date: "1952 / 2013 (bundled works)"
+    date_confidence: approximate
+    date_basis: "Bundles Patil 1952 with Adhikari's 'Some Paramāra Temples'."
+    source_type: secondary_comparative
+    source_type_coarse: reference_tertiary   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: patil-1952
+    language: en
+    provenance_notes: "Composite; 117 chunks near-duplicate patil-1952. Adhikari portion duplicates adhikari-2013-un."
+
+  - source_id: ganguly-paramara
+    code: GAN
+    file: paramara-dynasty-comprehensive-history.md
+    title: "History of the Paramāra Dynasty"
+    author: "D. C. Ganguly"
+    author_confidence: inferred
+    author_basis: "No title page survives; running head 'HISTORY OF THE PARAMARA DYNASTY'; INTACH cites Ganguly 1933 for this title."
+    publication_date: "1933"
+    date_confidence: approximate
+    date_basis: "Inferred from the attribution (Dacca University, 1933)."
+    source_type: secondary_core
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: ganguly-paramara
+    language: en
+    provenance_notes: "Standard dynastic history; cites Epigraphia Indica throughout. Hedged reconstructions are anchored inference, not bare speculation."
+
+  - source_id: parmar-2025-origins
+    code: PAR
+    file: parmar-rajput-dynasty-origins.md
+    title: "History of the Parmar Rajput Dynasty"
+    author: "Not captured in extraction"
+    author_confidence: unknown
+    publication_date: "2025-11"
+    date_confidence: dated
+    date_basis: "'Volume 3, Issue 11 | November 2025'."
+    source_type: secondary_core
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: parmar-2025-origins
+    language: en
+    provenance_notes: "Recent article in a multidisciplinary journal; low citation depth."
+
+  - source_id: rajpurohit-bhoj-en
+    code: RAJ-E
+    file: Raja_Bhoj_Aur_Parmarkaleen_EN.md
+    title: "King Bhoj and Paramara-period Town Architecture (English translation)"
+    author: "Bhagwatilal Rajpurohit"
+    author_confidence: stated
+    publication_date: null
+    date_confidence: undated-flagged
+    date_basis: "No imprint; the translator's header says the source PDF bundles two works."
+    source_type: secondary_core
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: rajpurohit-bhoj
+    language: en
+    provenance_notes: "Machine-assisted translation of a Hindi original; contains 16 chunks of OCR commentary (stripped, logged)."
+
+  - source_id: samarangana
+    code: SAM
+    file: samarangana-sutradhara.md
+    title: "Samarāṅgaṇa-sūtradhāra"
+    author: "Traditionally attributed to Bhoja (not stated in file)"
+    author_confidence: traditional
+    publication_date: null
+    date_confidence: undated-flagged
+    date_basis: "Edition/translator not in the file."
+    event_date: "11th century (composition)"
+    event_date_confidence: approximate
+    source_type: primary_authorial_paramara
+    source_type_coarse: primary   # Stage 1 five-type taxonomy, kept for traceability
+    register: prescriptive-sastra
+    work_id: samarangana
+    language: mixed
+    provenance_notes: "Period text in translation, BUT interleaved with LLM-generated glossaries/summaries carrying '[cite: N]' markers (936 in file). Those chunks are flagged llm_regenerated — they inherit 'primary' by rule but are not period text."
+
+  - source_id: singh-serpentine
+    code: SIN-S
+    file: serpentine-scimitar-inscription-udaypur.md
+    title: "A serpentine scimitar of letters from Udaypur, district Vidisha, M.P."
+    author: "Saarthak Singh"
+    author_confidence: stated
+    publication_date: "2023"
+    date_confidence: approximate
+    date_basis: "External: heritage profile cites Ghent University Academic Bibliography (2023). In-file terminus post quem 2019 (self-citation)."
+    source_type: secondary_core
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: singh-serpentine
+    language: en
+    provenance_notes: "Epigraphic study that embeds the primary inscription text; those passages are flagged embeds_primary_text."
+
+  - source_id: adhikari-2013-un
+    code: ADH
+    file: Some Paramara Templess.md
+    title: "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un"
+    author: "Swati Mondal Adhikari"
+    author_confidence: stated
+    publication_date: "2013"
+    date_confidence: approximate
+    date_basis: "Library shelf/accession date 3/10/2013 — not necessarily the imprint year."
+    source_type: secondary_comparative
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: adhikari-2013-un
+    language: en
+    provenance_notes: "Includes the author's own field survey at Un; first-person survey passages read as observation."
+
+  - source_id: singh-temple-economics
+    code: SIN-T
+    file: Temple_Economics.md
+    title: "Temple Economics: Arthvyavstha of Mandir (Vol. I)"
+    author: "Sandeep Singh"
+    author_confidence: stated
+    publication_date: "2024 or later"
+    date_confidence: approximate
+    date_basis: "Opening chart runs to the 2023–24 Ram Mandir inauguration; no imprint."
+    source_type: contextual_thematic
+    source_type_coarse: contextual_background   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: singh-temple-economics
+    language: en
+    provenance_notes: "Contemporary policy tract; does not discuss Udaypur. Background only — never cited as a Udaypur-specific claim."
+
+  - source_id: deva-1969-temples
+    code: DEV
+    file: Temples_of_India.md
+    title: "Temples of North India"
+    author: "Krishna Deva"
+    author_confidence: inferred
+    author_basis: "ASI call number 726.145/Kri; no printed byline captured."
+    publication_date: "1969"
+    date_confidence: approximate
+    date_basis: "Year in front matter."
+    source_type: secondary_comparative
+    source_type_coarse: reference_tertiary   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: deva-1969-temples
+    language: en
+
+  - source_id: kramrisch-1946-v1
+    code: KRAM-1
+    file: The Hindu Temple Vol 1 Stella Kramrisch.md
+    title: "The Hindu Temple, Volume I"
+    author: "Stella Kramrisch"
+    author_confidence: stated
+    publication_date: "1946"
+    date_confidence: dated
+    date_basis: "Title page; reprint year 1958 also present."
+    source_type: secondary_comparative
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: kramrisch-1946
+    language: en
+    provenance_notes: "Two volumes of one work share work_id (count once for corroboration). Textually distinct: 0 near-duplicate pairs between them. Contains 51 chunks of OCR commentary (stripped, logged)."
+
+  - source_id: kramrisch-1946-v2
+    code: KRAM-2
+    file: The Hindu Temple Vol 2.md
+    title: "The Hindu Temple, Volume II"
+    author: "Stella Kramrisch"
+    author_confidence: stated
+    publication_date: "1946"
+    date_confidence: dated
+    date_basis: "Title page."
+    source_type: secondary_comparative
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: kramrisch-1946
+    language: en
+
+  - source_id: pande-udayesvara
+    code: PAN
+    file: The Udayesvara Temple - Anupa Pande.md
+    title: "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta"
+    author: "Anupa Pande"
+    author_confidence: stated
+    publication_date: "2009 or later"
+    date_confidence: approximate
+    date_basis: "No imprint; latest year cited in the text is 2009."
+    source_type: secondary_core
+    source_type_coarse: secondary_scholarship   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: pande-udayesvara
+    language: en
+    provenance_notes: "Primary authority on the temple. Quotes Beglar/Cunningham reports (1870s) — nested primary witnesses."
+
+  - source_id: vidisha-gazetteer-1979
+    code: GAZ-VID
+    file: vidisha-district-gazetteer.md
+    title: "Madhya Pradesh District Gazetteers: Vidisha"
+    author: "P. N. Shrivastav, Rajendra Verma"
+    author_confidence: stated
+    publication_date: "1979"
+    date_confidence: dated
+    date_basis: "'First Edition: 1979'."
+    source_type: reference_tertiary
+    source_type_coarse: reference_tertiary   # Stage 1 five-type taxonomy, kept for traceability
+    work_id: vidisha-gazetteer-1979
+    language: en
+    provenance_notes: "The FILE is largely an LLM restatement of the gazetteer (815 '[cite: N]' markers; 36% of chunks). Not quotable verbatim; re-OCR the 1979 PDF before citing wording."
+
+  - source_id: rajamartanda-bhoja
+    code: RAJM
+    file: patanjala-yogasutra-rajamartanda-bhoja.md
+    title: "Pātañjala-Yogasūtram with the Rājamārtaṇḍa-vṛtti of Bhojadeva (ed. Ram Shankar Bhattacharya)"
+    author: "Bhojadeva (Bhoja Paramāra), commentary; Patañjali, sūtras; Ram Shankar Bhattacharya, editor"
+    author_confidence: verified_at_source
+    author_basis: "Title page (ocr_cache/.../images/page_001.jpg): 'भोजदेवकृत-राजमार्तण्डवृत्तिसमेतम्' and an introduction on 'धारेश्वरभोज' (Bhoja, lord of Dhārā). Editor: 'सम्पादकः ... श्री राम शंकर भट्टाचार्यः'."
+    publication_date: null
+    date_confidence: undated-flagged
+    date_basis: "No year on the title page or the imprint page (images/page_004.jpg). Publisher Bharatiya Vidya Prakashan, Varanasi; printer Brajvasi Printing Press; price Rs 2. Not dated by inference."
+    event_date: "11th century (composition of the Rājamārtaṇḍa by Bhoja, r. c. 1010-1055)"
+    event_date_confidence: approximate
+    source_type: primary_authorial_paramara
+    source_type_coarse: primary
+    layers:
+      bhoja_authorship: "Title page, colophonic matter, and the editor's introduction on Bhoja, his works, dating and court: primary/secondary evidence for C5 and C10."
+      yoga_doctrine: "The sūtra-by-sūtra commentary itself: contextual_thematic. Relevant to Bhoja's learning, NOT to Udaypur, the temple or dynastic history. Gated like Temple Economics so it cannot flood unrelated chapters."
+    register: sastra
+    work_id: rajamartanda-bhoja
+    language: sa
+    script: devanagari
+    ocr:
+      engine: "Tesseract 5.4, -l Devanagari --psm 3, 400 dpi"
+      qc_report: OCR_QC_patanjala-yogasutra-rajamartanda-bhoja.md
+      qc_json: ocr_cache/qc_patanjala.json
+      pages_pass: 31
+      pages_needs_recheck: 85
+      pages_illegible: 0
+      mean_word_confidence: 72.9
+      note: "Badly bound volume: line-ends are cropped in the scan on many pages. Chunks from needs_recheck pages are is_quotable=false. Page images kept beside the raw OCR for verification."
+    provenance_notes: "CC-0 scan, Jangamwadi Math Collection, digitized by eGangotri; the digitiser's footer stamp is stripped. No closing colophon in the scan: the text ends mid-discussion on pdf p. 114 (printed p. 80). Bhoja's authorship of the Rājamārtaṇḍa is the book's own claim, corroborated by the editor's introduction; it is the traditional attribution and should be cited as such."
+
+excluded:
+  - file: udayesvara-temple-art-architecture.md
+    reason: "Deleted from disk (git: staged deletion, still in HEAD). 25 chunks remain in kb/store.sqlite as orphans. Condensation of pande-udayesvara. Awaiting the user's decision: restore or purge."
+  - file: "Art of Paramaras.pdf"
+    reason: "Image-only scan; RapidOCR conversion stopped by the harness at page 28/62 (low memory), nothing written. Not yet in the corpus."

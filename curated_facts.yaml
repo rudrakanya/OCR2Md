@@ -1,0 +1,54 @@
+# =============================================================================
+# Curated facts — hand-verified statements the automatic extractor cannot see.
+#
+# The extractor in build_sourcebook.py finds corroboration and conflict by
+# matching wording and dates between passages. It is deliberately conservative,
+# and it misses disputes that are spread across sentences which share too little
+# language to group — the Udayāditya accession is the standing example.
+#
+# Anything added here is merged into the chapter's Key-facts list, marked
+# `curated`, and must carry real chunk_ids that exist in the KB: the build fails
+# if one does not resolve. This file is for facts a human has checked, never for
+# filling a gap with something plausible.
+#
+#   chapters   : which chapter sections the fact belongs in
+#   status     : established | single-source | contested | unverified | gap
+#   text       : one neutral line, no interpretation
+#   positions  : for contested facts, each competing value with its code+chunks
+#   chunks     : supporting chunk ids (for non-contested facts)
+# =============================================================================
+
+facts:
+
+  - id: udayaditya-accession
+    chapters: [C1, C5, C6]
+    status: contested
+    text: >-
+      The date of Udayāditya's accession to the throne of Malwa is not settled:
+      four reckonings in the corpus give four different spans, and a record of
+      1059 places the paramount throne with Jayasiṃha in the year the Udaypur
+      foundation inscription shows Udayāditya building.
+    positions:
+      - value: "1058–1087"
+        code: PAT-CH
+        chunks: [patil-1952-00095]
+      - value: "1059–1086"
+        code: GAN
+        chunks: [ganguly-paramara-00568]
+      - value: "c. 1059–93"
+        code: INT-ARC
+        chunks: [intach-2022-udaypur-00127]
+      - value: "1070–1093 (from the coinage)"
+        code: INT-ARC
+        chunks: [intach-2022-udaypur-00075]
+    note: >-
+      The counter-evidence is the Panhera inscription of V.S. 1116 (1059 CE),
+      issued by Jayasiṃha's feudatory Mandalika, which reports Jayasiṃha ruling
+      Malwa at that date; the reconciliation offered in the literature is that
+      Udayāditya held his paternal territory and built at Udaypur in 1059
+      without yet being sovereign. That reconciliation is labelled speculation
+      in the KB and must not be asserted as settled.
+    supporting_chunks:
+      - ganguly-paramara-00262
+      - ganguly-paramara-00275
+      - ganguly-paramara-00274

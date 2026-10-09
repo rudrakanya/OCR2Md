@@ -1,0 +1,75 @@
+# =============================================================================
+# kb3/retrieval.yaml — retrieval-layer controls (EDITABLE)
+#
+# These are NOT knowledge-base changes. Nothing here deletes, hides or re-labels
+# a chunk: every chunk stays in the store and stays retrievable. These settings
+# govern what a chapter DRAFT SEES, which is a different question from what the
+# evidence base contains.
+#
+# Two problems the vector map measured, and the two controls that answer them.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# 1. BILINGUAL QUERY EXPANSION
+#
+# The map measured a 4.8x language island: a Devanagari chunk's 15 nearest
+# neighbours are 86.6% Devanagari against an 18% base rate. Four sources --
+# RAJM (Bhoja's own Rājamārtaṇḍa), BHJ-H, TIW-H, SAM -- were unreachable from an
+# English query, while the same collection returned all four when queried in
+# Hindi. So each query is also issued in the other script and the two candidate
+# sets are merged.
+#
+#   second_weight  multiplies the second form's similarity. Below 1.0 so a chunk
+#                  found by BOTH forms keeps its better score, and one found only
+#                  by the translation is slightly discounted rather than treated
+#                  as an equally direct hit.
+#   second_cap     the most of a result list that may come from chunks ONLY the
+#                  second form found. This is the flood guard: without it a Hindi
+#                  query form can fill a list that the English query already
+#                  answers well. Chunks beyond the cap are DEMOTED, not dropped.
+# -----------------------------------------------------------------------------
+second_weight: 0.95
+second_cap: 0.35
+translate_model: gpt-4.1-nano      # ~$0.000015 per distinct query, then cached
+
+# -----------------------------------------------------------------------------
+# 2. SOURCE DOMINATION CAP
+#
+# Source purity in the v2 space is 80.7%: four of every five nearest neighbours
+# come from the same book. SAM (Samarāṅgaṇa-sūtradhāra, the largest work at
+# 1,210 chunks) is the top source in ALL SIXTEEN chapter buckets at 26-38%, so a
+# chapter drafted straight from retrieval would be written substantially out of
+# one Sanskrit architectural treatise.
+#
+# `source_cap` limits the share of a chapter's candidate set any single source
+# may supply. Excess chunks are DEMOTED to the tail, never removed: on-topic
+# evidence beyond the cap stays retrievable and stays citable, it just stops
+# crowding out the rest.
+#
+#   default     applies to every chapter unless overridden
+#   per_chapter raise it where one source legitimately IS the subject, lower it
+#               where the dominant source is off-topic
+#   per_source  an extra ceiling for a named source in a named chapter
+# -----------------------------------------------------------------------------
+source_cap:
+  default: 0.30
+
+  per_chapter:
+    # C7 is the iconography/architecture chapter: ADH, PAN and KRAM are the
+    # subject there, and splitting their evidence to satisfy a quota would make
+    # the chapter worse, not fairer.
+    C7: 0.45
+    C6: 0.40          # temple form — Kramrisch and Hardy legitimately lead
+    # C2 (Betwa valley) and C3 (water) are the clearest over-reach: SAM holds
+    # 33% and 30% of those buckets while the questions are actually answered by
+    # the Betwa hydrology papers and the INTACH surveys.
+    C2: 0.22
+    C3: 0.22
+
+  per_source:
+    # SAM is architectural theory. In the landscape and water chapters it is
+    # background at best, so it gets a tighter ceiling than the chapter default.
+    C2: {SAM: 0.10}
+    C3: {SAM: 0.10}
+    C1: {SAM: 0.15}
+    C16: {SAM: 0.15}

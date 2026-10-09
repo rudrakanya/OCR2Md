@@ -1,0 +1,1175 @@
+note: 'Speculation adjudication, Stage 2. Shortlist = Stage-1 speculation chunks (contextual excluded) with speculation_share>=0.5, no citation anchor, no folklore/opinion tag: 288 chunks. Each was read
+  in full by the auditor on 2026-09-22. Quarantine criterion (spec C6): genuinely unsupported conjecture on a point the book could use, presented without basis; for Jagta Hua Kasba only an unsupported factual
+  claim presented as established history. Result: 0 quarantined as speculation (1 as OCR garbage). Adjudicated statuses override Stage 1 in the Stage 2 build.'
+tally:
+  factual: 76
+  inference: 158
+  speculation: 36
+  non_claim: 1
+  observation: 17
+items:
+- chunk_id: skanda-xiii-00086
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: skanda-xiii-00216
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00046
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00066
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00071
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00088
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00096
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00150
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00190
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00201
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00214
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00225
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00229
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00231
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00243
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00291
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: hardy-2007-00334
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00387
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00391
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00404
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00406
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00411
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00414
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00423
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00429
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00438
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00483
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00485
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00498
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00644
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00649
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: hardy-2007-00664
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00678
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00688
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00719
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00739
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00759
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00775
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00780
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00806
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00817
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00837
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00855
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00897
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00918
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: hardy-2007-00961
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: hardy-2007-00966
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kumar-2023-betwa-00056
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00051
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-00078
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00081
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00083
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00086
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00164
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00166
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00189
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00191
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00193
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00199
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00228
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00231
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00235
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00250
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00251
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00335
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00360
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00364
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00379
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00425
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00452
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00547
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00548
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00590
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00601
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00620
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00637
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00643
+  adjudicated_status: non_claim
+  quarantine: true
+  reason: OCR garbage
+- chunk_id: singh-1984-bhoja-00708
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00724
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00727
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00781
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-00833
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-00893
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-00926
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-00945
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-01021
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-01059
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-01108
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-01113
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-01137
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-01173
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-1984-bhoja-01180
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: singh-1984-bhoja-01186
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: singh-1984-bhoja-01207
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: intach-geoheritage-00161
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-geoheritage-00175
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-geoheritage-00178
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: intach-geoheritage-00221
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: intach-geoheritage-00283
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: intach-geoheritage-00336
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: intach-geoheritage-00357
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: intach-geoheritage-00360
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-geoheritage-00363
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-geoheritage-00364
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-geoheritage-00365
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-geoheritage-00374
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-geoheritage-00377
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: intach-geoheritage-00378
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: intach-geoheritage-00462
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: gupte-1972-00207
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: gupte-1972-00234
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: gupte-1972-00244
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: gupte-1972-00592
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: intach-2022-udaypur-00032
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: intach-2022-udaypur-00196
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-2022-udaypur-00340
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: intach-2022-udaypur-00358
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00067
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00069
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00098
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: tiwari-jhk-en-00188
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: tiwari-jhk-en-00209
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: tiwari-jhk-en-00281
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: tiwari-jhk-en-00315
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00334
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00353
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: tiwari-jhk-en-00416
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00433
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: tiwari-jhk-en-00479
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00485
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: tiwari-jhk-en-00498
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: tiwari-jhk-en-00609
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-en-00618
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-hi-00057
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: tiwari-jhk-hi-00343
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: tiwari-jhk-hi-00367
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: tiwari-jhk-hi-00410
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: tiwari-jhk-hi-00593
+  adjudicated_status: observation
+  quarantine: false
+  reason: firsthand/on-site description with a hedge about interpretation
+- chunk_id: suryavanshi-2013-betwa-00019
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00038
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00049
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00060
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00083
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00128
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00157
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: patil-1952-00159
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: patil-1952-00166
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00177
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00183
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00246
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00254
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00263
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00265
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00271
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00291
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00294
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00298
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-1952-00316
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00038
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00049
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00060
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00080
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00122
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00149
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: patil-composite-temples-00151
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: patil-composite-temples-00158
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00165
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: patil-composite-temples-00170
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00064
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00093
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00102
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00108
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00110
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00136
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00143
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00181
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: ganguly-paramara-00185
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+  add_tags:
+  - folklore
+- chunk_id: ganguly-paramara-00199
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00250
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00277
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00317
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00330
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00385
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00438
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00451
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00460
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00475
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00476
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00480
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00495
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: ganguly-paramara-00507
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: ganguly-paramara-00530
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: ganguly-paramara-00586
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00600
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00639
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: ganguly-paramara-00648
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00707
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00709
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: ganguly-paramara-00715
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: ganguly-paramara-00717
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: ganguly-paramara-00735
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: rajpurohit-bhoj-en-00050
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: rajpurohit-bhoj-en-00250
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: rajpurohit-bhoj-en-00252
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: rajpurohit-bhoj-en-00261
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: rajpurohit-bhoj-en-00574
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: samarangana-00392
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: samarangana-00400
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: samarangana-00469
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-serpentine-00012
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: singh-serpentine-00016
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: adhikari-2013-un-00024
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: adhikari-2013-un-00035
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+  add_tags:
+  - folklore
+- chunk_id: adhikari-2013-un-00069
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: adhikari-2013-un-00072
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: adhikari-2013-un-00084
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: adhikari-2013-un-00121
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: adhikari-2013-un-00382
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: adhikari-2013-un-00403
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: deva-1969-temples-00124
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: deva-1969-temples-00161
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: deva-1969-temples-00237
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: deva-1969-temples-00247
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: deva-1969-temples-00285
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-00049
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00064
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00132
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00164
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-00170
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-00224
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00301
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00387
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-00540
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00672
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00853
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-00858
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01005
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01038
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01087
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-01088
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: kramrisch-1946-v1-01164
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-01185
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01191
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-01237
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: kramrisch-1946-v1-01249
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01320
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-01355
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01357
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01375
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-01424
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01485
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01504
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v1-01519
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01528
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v1-01568
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: kramrisch-1946-v1-01584
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: kramrisch-1946-v2-00039
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00040
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00041
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00043
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00110
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00277
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00434
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: kramrisch-1946-v2-00466
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00581
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00587
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v2-00620
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v2-00650
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: kramrisch-1946-v2-00654
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v2-00660
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v2-00663
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v2-00671
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: kramrisch-1946-v2-00711
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: pande-udayesvara-00173
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: pande-udayesvara-00258
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: pande-udayesvara-00386
+  adjudicated_status: speculation
+  quarantine: false
+  reason: 'honest, clearly hedged conjecture: retained and labelled (C6: retain and tag when in doubt)'
+- chunk_id: pande-udayesvara-00557
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: pande-udayesvara-00924
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: pande-udayesvara-00949
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: pande-udayesvara-00952
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: pande-udayesvara-00987
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: vidisha-gazetteer-1979-00003
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: vidisha-gazetteer-1979-00248
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: vidisha-gazetteer-1979-00258
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: vidisha-gazetteer-1979-00263
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+- chunk_id: vidisha-gazetteer-1979-00412
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'no epistemic hedge: perceptual "seems", deontic/legal "could not", narrative, or reported belief'
+  add_tags:
+  - folklore
+- chunk_id: vidisha-gazetteer-1979-00539
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: vidisha-gazetteer-1979-00541
+  adjudicated_status: inference
+  quarantine: false
+  reason: hedge anchored in evidence or argument the author is discussing
+- chunk_id: intach-2022-udaypur-00365
+  adjudicated_status: factual
+  quarantine: false
+  reason: 'Stage 1 audit cited this (old #961) as speculation-as-fact. It carries a footnote (8), so it is traceable, not unsupported; retained. The generalisation is doubtful: verify against the cited
+    source before use.'
+  add_tags:
+  - verify_before_use

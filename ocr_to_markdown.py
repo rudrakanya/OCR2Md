@@ -31,6 +31,7 @@ import base64
 import hashlib
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -100,20 +101,69 @@ def cache_dir_for(path: Path, model: str, chunk_mb: int, page_cap: int) -> Path:
 
 
 # ── Mistral OCR calls (with retry) ─────────────────────────────────────────
-def _ocr_with_retry(fn, attempts=5, label=""):
+RATE_LIMIT_RE = re.compile(r"\b429\b|rate.?limit", re.I)
+
+
+def _is_rate_limit(exc) -> bool:
+    code = (getattr(exc, "status_code", None)
+            or getattr(getattr(exc, "response", None), "status_code", None))
+    if code == 429:
+        return True
+    return bool(RATE_LIMIT_RE.search(str(exc)))
+
+
+def _retry_after(exc):
+    """Seconds the API asked us to wait, when it says so in a header."""
+    headers = (getattr(exc, "headers", None)
+               or getattr(getattr(exc, "response", None), "headers", None))
+    if headers is None or not hasattr(headers, "get"):
+        return None
+    for key in ("retry-after", "Retry-After", "x-ratelimit-reset"):
+        value = headers.get(key)
+        if value:
+            try:
+                return max(1.0, float(value))
+            except (TypeError, ValueError):
+                pass
+    return None
+
+
+def _ocr_with_retry(fn, attempts=5, label="", max_rate_limit_wait=900):
+    """Call `fn`, retrying transient failures; rate limits get their own budget.
+
+    A 429 is not a failure, it is "later". Counting each push-back against the
+    same five attempts meant a run at --workers 4 could exhaust the budget on a
+    page that was never broken, so rate limits are waited out separately, capped
+    at `max_rate_limit_wait` seconds per call. Every wait is jittered: without it
+    the workers are throttled in lockstep and retry in lockstep, reproducing the
+    burst that caused the 429 in the first place.
+    """
     delay = 10
-    last = None
-    for n in range(1, attempts + 1):
+    rate_waited = 0.0
+    failures = 0
+    while True:
         try:
             return fn()
         except Exception as e:                       # noqa: BLE001 - retry transient API/network errors
-            last = e
-            print(f"    OCR attempt {n}/{attempts} failed ({label}): "
+            if _is_rate_limit(e) and rate_waited < max_rate_limit_wait:
+                hinted = _retry_after(e)
+                # When the API names a delay, jitter only upward — undershooting
+                # what it asked for just earns another 429.
+                wait = (hinted * random.uniform(1.0, 1.3) if hinted
+                        else min(15 + rate_waited, 60) * random.uniform(0.7, 1.3))
+                rate_waited += wait
+                print(f"    rate-limited ({label}); waiting {wait:.0f}s "
+                      f"[{rate_waited:.0f}/{max_rate_limit_wait}s of rate-limit budget]",
+                      flush=True)
+                time.sleep(wait)
+                continue
+            failures += 1
+            print(f"    OCR attempt {failures}/{attempts} failed ({label}): "
                   f"{type(e).__name__}: {str(e)[:160]}", flush=True)
-            if n < attempts:
-                time.sleep(delay)
-                delay = min(delay * 2, 120)
-    raise last
+            if failures >= attempts:
+                raise
+            time.sleep(delay * random.uniform(0.7, 1.3))
+            delay = min(delay * 2, 120)
 
 
 def ocr_pdf_chunk(client, model, chunk_pdf: Path):

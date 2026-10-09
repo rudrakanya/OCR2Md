@@ -6,10 +6,13 @@ __pycache__/
 *.json
 *.jsonl
 *.log
+*.jpg
+*.bin
 
 # Raw source documents — large; keep them out of the repo
 *.pdf
-*.md
+*.txt 
+
 
 # Downloaded third-party binaries (reinstallable)
 poppler/
@@ -55,3 +58,63 @@ _ocr_local_probe.py
 
 # drafting output; regenerate from the evidence packs
 chapter_drafts_v2/
+
+# ---------------------------------------------------------------------------
+# ChromaDB research corpus (src/, config.yaml, chapters.yaml)
+# ---------------------------------------------------------------------------
+# The vector store and every cache under it: rebuildable from the corpus with
+# `python -m src.ingest --rebuild`, and large.
+chroma_db/
+
+# The *.md rule near the top of this file would otherwise swallow the pipeline's
+# own documentation and its generated report. These are small, hand-edited or
+# cheap to regenerate, and belong in the history.
+!README.md
+!SELF_HOSTING.md
+!SYSTEM_DESIGN.md
+!corpus_report.md
+
+# Likewise *.json above hides every eval run record. Keep them: they carry the
+# config hash that makes two runs comparable, and they are a few KB each.
+!eval/results/chroma/*.json
+# ---------------------------------------------------------------------------
+# Book page photographs (Book 1 + Book 2)
+# ---------------------------------------------------------------------------
+# The Google Drive export and the ~1 GB folder extracted from it. Raw OCR input,
+# not code. Spaces in a pattern need no escaping here; only a trailing one would.
+2 books data/
+2 books data-*.zip
+
+# ---------------------------------------------------------------------------
+# kb3/ — the v2 knowledge-base store, its vectors and its backups
+# ---------------------------------------------------------------------------
+# kb3/chroma/chroma.sqlite3 alone is 668 MB, well past GitHub's 100 MB hard
+# per-file limit, and the whole directory is 1.3 GB. None of it is source: the
+# stores are rebuilt deterministically from the markdown corpus by
+# phase4_step2_build.py -> phase4_step3_patil.py -> phase4_embed_v2.py, which is
+# the documented reversibility guarantee for v2. The .npz vector checkpoints and
+# query caches are likewise rebuildable (and the OpenAI ones cost ~$0.60 to
+# regenerate in full, less incrementally).
+#
+# What IS source lives directly in kb3/ as hand-edited YAML — chapter profiles,
+# source scores, the claims register, the retrieval knobs — so the pattern
+# excludes the directory and names those back in. The negations only work for
+# files directly in kb3/; subdirectories stay excluded, which is what we want.
+kb3/*
+!kb3/*.yaml
+!kb3/*.md
+!kb3/*.py
+!kb3/active_store.txt
+
+# kb_audit/: the small YAML registries and audit scripts belong in the history;
+# the Stage 1 inventory dumps and timestamped backups do not. (*.json and
+# *.jsonl are already excluded globally near the top of this file.)
+kb_audit/*.csv
+kb_audit/*.npz
+kb_audit/*.bak-*
+
+# npm dependencies for the docx renderers — reinstall with `npm install`
+node_modules/
+
+# OCR page cache, regenerated on demand
+ocr_cache/
