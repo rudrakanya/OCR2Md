@@ -1,0 +1,252 @@
+# =============================================================================
+# kb3/claims_register.yaml — contested claims (spec B3, C4, D). EDITABLE.
+#
+# Each entry is one claim on which sources disagree. Each `position` lists the
+# chunks that assert it (chunk_id + a verbatim snippet the build verifies, so
+# a re-chunk cannot silently re-point an entry at the wrong text).
+#
+# disposition (per position):
+#   supported     consistent with the strongest evidence on the point
+#   open          sources genuinely disagree, and the evidence does not settle it.
+#                 contradiction_ids are recorded both ways; NO credibility
+#                 change on either side (spec B3: contradiction is information
+#                 for the writer, not an automatic penalty)
+#   contradicted  directly contradicted by stronger (primary) evidence →
+#                 claim credibility lowered for these chunks (spec B3)
+#   superseded    as `contradicted`, and the chunk's CENTRAL claim is the
+#                 obsolete one → superseded_by is set (spec C4). Superseded
+#                 folklore is retained and tagged, not quarantined (spec C6).
+#
+# context: true on a position means it conflicts with no other position (it
+# frames the dispute, e.g. "the belief is attested" is compatible with both
+# "it is myth" and "it is history"). All other positions conflict pairwise.
+#
+# incidental: true on a chunk means the contested statement is a side remark
+# in a chunk mostly about something else. It gets contradiction_ids and the
+# credibility change, but never superseded_by or quarantine.
+#
+# Built by the auditor from corpus searches on 2026-09-22. The search
+# patterns are recorded in `found_by` so the list can be re-checked.
+# =============================================================================
+
+claims:
+
+  - id: K1
+    topic: "Udayāditya's relation to Bhoja"
+    chapters: [C5, C6]
+    found_by: "Udaya.?ditya … (nephew|brother|son|kinsman|bandhu|bhrātā|pitṛvya), both orders; Devanagari बंधु/भ्राता/पितृव्य"
+    evidence_note: >-
+      Three primary witnesses, all quoted in the corpus: (1) the Udaipur praśasti calls Udayāditya
+      Bhoja's "bandhu" (kinsman) and gives his father as Gyata/Jñāta, not Sindhurāja, Bhoja's father;
+      (2) the Jainad inscription of Udayāditya's son Jagaddeva calls Bhoja his "pitṛvya" (paternal
+      uncle); (3) Jagaddeva's Dongargaon inscription calls Udayāditya Bhoja's "bhrātā". Sanskrit
+      bhrātā/pitṛvya are used for cousins and collateral kin, so (2) and (3) do not require a full
+      brother, and (1) rules one out. Best-supported reading: a kinsman from a collateral (junior)
+      branch, styled brother. NO primary witness in the corpus calls him Bhoja's nephew.
+    positions:
+      - label: "kinsman (bandhu), collateral branch; father Gyata/Jñāta"
+        disposition: supported
+        chunks:
+          - {id: tiwari-jhk-en-00491, snippet: "his kinsman (*bandhu*) Udayaditya became king"}
+          - {id: tiwari-jhk-en-00492, snippet: "Udayaditya is described as the \"*bandhu*\""}
+          - {id: tiwari-jhk-hi-00462, snippet: "उसका बंधु उदयादित्य नरेश हुआ"}
+          - {id: tiwari-jhk-en-00484, snippet: "related to a junior branch"}
+          - {id: ganguly-paramara-00281, snippet: "whose son again was Udayaditya"}
+          - {id: ganguly-paramara-00284, snippet: "Udayaditya is represented as the son of the last"}
+      - label: "brother / Bhoja as paternal uncle of Udayāditya's son (bhrātā, pitṛvya)"
+        disposition: open
+        note: "Primary-attested wording. Contradicts the kinsman reading only if taken literally as a full brother."
+        chunks:
+          - {id: tiwari-jhk-hi-00465, snippet: "उद्धारनुदयदित्यस्तस्य भ्राता"}
+          - {id: tiwari-jhk-hi-00466, snippet: "भोजदेव का 'भ्राता' लिखा है"}
+          - {id: tiwari-jhk-en-00495, snippet: "paternal uncle"}
+          - {id: tiwari-jhk-hi-00464, snippet: "पितृव्य अर्थात चाचा"}
+          - {id: ganguly-paramara-00778, snippet: "his paternal uncle (pitrvya) was Bhoja"}
+          - {id: intach-2022-udaypur-00132, snippet: "Raja Bhoja as Udayaditya's brother", incidental: true}
+      - label: "nephew"
+        disposition: contradicted
+        note: "Singh 1984 only; no primary support; inconsistent with all three primary witnesses."
+        chunks:
+          - {id: singh-1984-bhoja-01156, snippet: "Bhoja’s nephew, Udaya", incidental: true}
+
+  - id: K2
+    topic: "Start and end of Udayāditya's reign"
+    chapters: [C5, C6]
+    found_by: "Udaya.?ditya … (10[5-9]x–1[01]xx) spans; 'ruling in Sam 1116'"
+    evidence_note: >-
+      The Udaipur inscription of VS 1116 (1059 CE) presents Udayāditya as ruling, but the Panhera
+      inscription of the same year is issued under Jayasiṃha, so the paramount throne was not yet his.
+      Ganguly resolves this by having him rule his paternal territory from Udaypur in 1059.
+      Accession to the Malwa throne c. 1070 and death by c. 1093 (Naravarman reigning before 1094) is
+      the other reading. Both have primary support; this stays open. Write it as "ruled Malwa c. 1070–93;
+      already active at Udaypur by 1059", not as a single span.
+    positions:
+      - label: "1058/1059 – 1086/1087"
+        disposition: open
+        chunks:
+          - {id: patil-1952-00095, snippet: "Udayaditya (1058-1087)"}
+          - {id: patil-composite-temples-00092, snippet: "Udayaditya (1058-1087)"}
+          - {id: patil-composite-inscriptions-00032, snippet: "Udayaditya (1058–1087 A.D.)"}
+          - {id: ganguly-paramara-00568, snippet: "Udayaditya (1059-1086 A. D.)", incidental: true}
+          - {id: ganguly-paramara-00284, snippet: "ruling in Sam 1116"}
+      - label: "c. 1070 – 1093"
+        disposition: open
+        chunks:
+          - {id: intach-2022-udaypur-00075, snippet: "Udayaditya (1070-1093 CE)", incidental: true}
+      - label: "Jayasiṃha still sovereign in 1059 (context for the dispute)"
+        disposition: supported
+        context: true
+        chunks:
+          - {id: ganguly-paramara-00262, snippet: "It is dated V.S. 1116 (1059 A.D.)"}
+          - {id: ganguly-paramara-00274, snippet: "Udayâditya built the Udayapur temple in 1059"}
+
+  - id: K3
+    topic: "Dating of the Udayeśvara temple"
+    chapters: [C6, C7, C8]
+    found_by: "Samvat 1116/1137; 1059|1080 near temple|inscription|flag|built|founded"
+    evidence_note: >-
+      Two temple inscriptions: VS 1116 (1059 CE), recording the construction, and VS 1137 Vaiśākha
+      sudi 7 (30 March 1080), the flagstaff/dhvaja. Most sources read these as start and completion.
+      Singh (2023) dates the temple "around 1080" from the consecration without disputing VS 1116:
+      a difference of emphasis, left open. Tiwari's statement that the 1080 record is the OLDEST
+      Udaipur inscription is contradicted by the VS 1116 inscription, which Tiwari himself reports
+      later in the same book.
+    positions:
+      - label: "begun 1059 (VS 1116), flagstaff 1080 (VS 1137)"
+        disposition: supported
+        chunks:
+          - {id: intach-2022-udaypur-00096, snippet: "The date of inscription mentioned is 1059 CE (V.S. 1116)"}
+          - {id: intach-2022-udaypur-00235, snippet: "record the construction of temple from 1059 to 1080 CE"}
+          - {id: patil-1952-00382, snippet: "construction commenced in V.S. 1116"}
+          - {id: patil-composite-inscriptions-00084, snippet: "construction commenced in **1059 A.D.**"}
+          - {id: ganguly-paramara-00562, snippet: "built by Udayaditya in Sam 1116 = 1059 A. D."}
+          - {id: adhikari-2013-un-00071, snippet: "commenced in A.D.1059"}
+          - {id: deva-1969-temples-00238, snippet: "started in 1059 and completed in 1080"}
+          - {id: kramrisch-1946-v1-01409, snippet: "(1059—1080 A.D.)"}
+          - {id: hardy-2007-00758, snippet: "founded 1059"}
+          - {id: tiwari-jhk-en-00481, snippet: "Vikram Samvat 1116 and Shak Samvat 981"}
+          - {id: tiwari-jhk-en-00454, snippet: "this date works out to 30 March 1080"}
+          - {id: vidisha-gazetteer-1979-00682, snippet: "between **1059 A.D.**"}
+      - label: "built / founded c. 1080"
+        disposition: open
+        chunks:
+          - {id: singh-serpentine-00002, snippet: "built around 1080"}
+          - {id: singh-serpentine-00016, snippet: "founded and named after king Udayāditya in 1080"}
+      - label: "the 1080 inscription is the oldest at Udaipur"
+        disposition: contradicted
+        chunks:
+          - {id: tiwari-jhk-en-00182, snippet: "The oldest inscription about the Paramara kings obtained from Udaipur is of the year 1080"}
+          - {id: tiwari-jhk-en-00456, snippet: "the oldest, of Udayaditya's time", incidental: true}
+      - label: "flagstaff REPAIRED (not erected) in 1080"
+        disposition: open
+        note: "Ganguly's wording; other sources say erected/hoisted. Check the inscription text before choosing."
+        chunks:
+          - {id: ganguly-paramara-00565, snippet: "repaired this flag-staff in 1080"}
+
+  - id: K4
+    topic: "Who built the mosque behind the Udayeśvara temple"
+    chapters: [C9, C14, C13]
+    found_by: "(mosque|masjid|मस्जिद) … (Aurang|Tughl|A.H. 73x|1336|1338), both orders"
+    evidence_note: >-
+      Two Persian inscriptions on the mosque itself date it AH 737–739 (1336–38 CE), under Muhammad
+      bin Tughluq; INTACH reads the builder as Ahmad son of Wajih, in the service of A'zam Malik
+      (compatible: agent vs reign). Beglar's report that Aurangzeb built it is a local legend.
+      Cunningham corrected it, and Pande quotes both the legend and the correction. The legend is
+      superseded as history but kept as folklore for C13.
+      NOT part of this claim: Aurangzeb's 1682 conversion of the Vijay Mandir at VIDISHA
+      (tiwari-jhk-en-00219, gazetteer -00034/-00416/-00688), a different building.
+    positions:
+      - label: "Tughluq period, AH 737–739 / 1336–38 CE (mosque inscriptions)"
+        disposition: supported
+        chunks:
+          - {id: intach-2022-udaypur-00098, snippet: "constructed by Ahmad's son of Wajih in 1338 CE (A.H. 739)"}
+          - {id: patil-1952-00387, snippet: "between A.H. 737-39 (A.D. 1336-38)"}
+          - {id: patil-composite-inscriptions-00085, snippet: "Sultan Muhammad Tughlaq between **1336 and 1338 A.D.**"}
+          - {id: pande-udayesvara-00391, snippet: "Muhammad Tughluq between AD 1336-38"}
+          - {id: pande-udayesvara-00401, snippet: "Beglar has made an error"}
+          - {id: pande-udayesvara-00404, snippet: "knocked down in the time of Muhammad Tughlak"}
+          - {id: vidisha-gazetteer-1979-00684, snippet: "Sultan Muhammad Tughluq (1336-38)"}
+          - {id: patil-composite-temples-00202, snippet: "rear mosque addition built by Muhammad Tughlaq", incidental: true}
+      - label: "built by Aurangzeb (Beglar's legend)"
+        disposition: superseded
+        superseded_by: [pande-udayesvara-00401, intach-2022-udaypur-00098]
+        add_tags: [folklore]
+        chunks:
+          - {id: pande-udayesvara-00397, snippet: "the Emperor Aurangzeb, on his return from the Dakhin"}
+          - {id: pande-udayesvara-00398, snippet: "a mandate of Aurangzeb directed"}
+
+  - id: K5
+    topic: "Bhoja's regnal dates"
+    chapters: [C5]
+    found_by: "Bhoja (… 99x|100x|101x – 104x|105x)"
+    evidence_note: >-
+      Start c. 999/1000/1010; end c. 1050/1055. The spread comes from different anchor
+      records (earliest and latest dated grants), not from conflicting evidence. Open; no penalty. Use
+      "c. 1010–1055" with the range noted.
+    positions:
+      - label: "c. 999/1000 – 1055"
+        disposition: open
+        chunks:
+          - {id: bhojdev-hi-00013, snippet: "rājā bhoja (999-1055"}
+          - {id: adhikari-2013-un-00617, snippet: "Bhoja (c. 1000-1055 A.D.)", incidental: true}
+      - label: "1010 – 1055"
+        disposition: open
+        chunks:
+          - {id: intach-2022-udaypur-00125, snippet: "Bhoja (1010-1055 CE)"}
+      - label: "1010 – 1050"
+        disposition: open
+        chunks:
+          - {id: patil-1952-00094, snippet: "Bhoja (1010-1050 A.D.)"}
+          - {id: patil-composite-temples-00091, snippet: "Bhoja (1010-1050 A.D.)"}
+
+  - id: K6
+    topic: "Date of the Udayasamudra / Udaysagar tank"
+    chapters: [C6, C9]
+    found_by: "(Udaysagar|Udayasamudra|tank) near 1059|1080"
+    evidence_note: >-
+      No inscription in the corpus dates the tank itself; both dates are inferred from the temple
+      dates. Open.
+    positions:
+      - label: "built 1059"
+        disposition: open
+        chunks:
+          - {id: intach-geoheritage-00092, snippet: "Udaysagar Talab, built by Udaya Aditya in 1059 CE"}
+      - label: "founded 1080"
+        disposition: open
+        chunks:
+          - {id: singh-serpentine-00016, snippet: "temple and tank were founded", incidental: true}
+
+  - id: K7
+    topic: "Agnikula (fire-pit) origin of the Paramāras"
+    chapters: [C5, C13]
+    found_by: "agnikula|fire-pit|agnikund|अग्निकुल|अग्निकुंड near Paramara"
+    evidence_note: >-
+      The Udaipur praśasti and Padmagupta attest that the Paramāras BELIEVED in the fire-pit origin: a
+      primary witness to the belief, not to the event. Ganguly treats it as bardic myth. Presenting it
+      as validated history (Parmar 2025; INTACH 'confirmed by the Udaypur prashasti') confuses the
+      two. Narrations of the legend are kept and tagged folklore.
+    positions:
+      - label: "the Paramāras claimed/believed a fire-pit origin (attested belief)"
+        disposition: supported
+        context: true
+        add_tags: [folklore]
+        chunks:
+          - {id: ganguly-paramara-00018, snippet: "It was popularly believed that the founder"}
+          - {id: ganguly-paramara-00025, snippet: "a hero arose from the fire-pit"}
+          - {id: singh-1984-bhoja-00043, snippet: "created out of the firepit a hero"}
+          - {id: tiwari-jhk-en-00521, snippet: "a hero arose out of the fire-pit"}
+          - {id: rajpurohit-bhoj-en-00003, snippet: "born from the sacrificial fire-pit"}
+          - {id: intach-2022-udaypur-00091, snippet: "origin of Parmara which is from agni-kula"}
+      - label: "the agnikula story is myth, not history"
+        disposition: supported
+        chunks:
+          - {id: ganguly-paramara-00032, snippet: "figment of imagination of the bards"}
+          - {id: ganguly-paramara-00077, snippet: "very little importance should be attached to this mythical story"}
+      - label: "agnikula origin is historically validated / confirmed"
+        disposition: contradicted
+        add_tags: [folklore]
+        chunks:
+          - {id: parmar-2025-origins-00002, snippet: "traditionally regarded as belonging to the Agnikula"}
+          - {id: parmar-2025-origins-00003, snippet: "consistently documented"}
+          - {id: parmar-2025-origins-00006, snippet: "this point is also validated"}
+          - {id: intach-2022-udaypur-00084, snippet: "confirmed by the Udaypur prashasti", incidental: true}

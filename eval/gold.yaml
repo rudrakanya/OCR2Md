@@ -1,0 +1,393 @@
+# =============================================================================
+# eval/gold.yaml — labelled queries for the accuracy/precision harness (§10).
+#
+# READ THIS BEFORE TRUSTING ANY NUMBER OUT OF evaluate.py
+# -----------------------------------------------------------------------------
+# These 53 queries are a SEED that I wrote, and `relevant_books` records where I
+# expected each answer to come from based on scanning the corpus — not on
+# reading it. They are a starting point for you to correct, not ground truth.
+# Until you have reviewed them, treat the metrics as a regression baseline
+# ("did my change make things better or worse?") rather than as an absolute
+# measure of quality.
+#
+# Ground truth here is BOOK-LEVEL: a retrieved chunk counts as relevant if it
+# came from a book listed in `relevant_books`. That is coarser than
+# passage-level judging — a chunk from the right book about the wrong subject
+# still scores as a hit — so precision is measured optimistically. It is also
+# the only labelling you can realistically maintain by hand over 4,338 chunks.
+# To tighten a query, add `relevant_chunks` with specific chunk ids (get them
+# from `python -m src.query "..." --json`) and the harness will prefer those.
+#
+# HOW TO EXTEND
+#   - id             unique; convention is <chapter>-<n>
+#   - query          what you would actually type
+#   - chapter        the chapter this should be tagged to (checks tagging, §10.2)
+#   - relevant_books filenames; ANY hit from these counts as relevant
+#   - graded         optional {filename: 0..3} for nDCG; defaults to binary
+#   - must_not_return optional list of chapter ids that must NOT appear in the
+#                    top-k — the hard-negative test (§10.2)
+#   - notes          free text, ignored by the harness
+#
+# Add as many as you like; the harness picks up new entries with no code change.
+# =============================================================================
+
+meta:
+  seeded_by: assistant
+  seeded_on: 2026-09-05
+  status: provisional          # change to `reviewed` once you have checked it
+  judging: book_level
+
+queries:
+
+  # ── C01 scriptural memory ────────────────────────────────────────────────
+  - id: C01-1
+    query: "Puranic references to the sacred places and tirthas of the Vidisha region"
+    chapter: C01
+    relevant_books: [467921465-Skanda-Purana-13-AITM.md, vidisha-district-gazetteer.md]
+    must_not_return: [C02, C17]
+  - id: C01-2
+    query: "ancient Sanskrit textual mentions of Udayapura and its old names"
+    chapter: C01
+    relevant_books: [vidisha-district-gazetteer.md, 467921465-Skanda-Purana-13-AITM.md,
+                     udayesvara-temple-art-architecture.md]
+  - id: C01-3
+    query: "mahatmya glorification of a holy site in the Purana"
+    chapter: C01
+    relevant_books: [467921465-Skanda-Purana-13-AITM.md]
+
+  # ── C02 land, rivers, seasons ────────────────────────────────────────────
+  - id: C02-1
+    query: "streamflow and discharge of the Betwa river basin"
+    chapter: C02
+    relevant_books: [Betwa_Streamflow.md, Long-termhistoricchangesinclimaticvariablesofBetwa.md]
+    must_not_return: [C09, C10]
+    notes: "Strong lexical signal ('Betwa', 'streamflow') — a good hybrid-vs-dense probe."
+  - id: C02-2
+    query: "monsoon rainfall pattern and long-term climate change in Malwa"
+    chapter: C02
+    relevant_books: [Long-termhistoricchangesinclimaticvariablesofBetwa.md,
+                     Betwa_Streamflow.md, vidisha-district-gazetteer.md]
+  - id: C02-3
+    query: "Vetravati river in the physical geography of the district"
+    chapter: C02
+    relevant_books: [vidisha-district-gazetteer.md, Betwa_Streamflow.md]
+
+  # ── C03 stones and forests ───────────────────────────────────────────────
+  - id: C03-1
+    query: "sandstone quarries and building stone available in the district"
+    chapter: C03
+    relevant_books: [vidisha-district-gazetteer.md, Some Paramara Templess.md]
+    must_not_return: [C09]
+    notes: "§10.2 hard negative: this must not pull iconography chunks."
+  - id: C03-2
+    query: "forest types, flora and fauna of the Vidisha district"
+    chapter: C03
+    relevant_books: [vidisha-district-gazetteer.md]
+    must_not_return: [C09, C10]
+  - id: C03-3
+    query: "black cotton soil and soil types of the Malwa plateau"
+    chapter: C03
+    relevant_books: [vidisha-district-gazetteer.md]
+
+  # ── C04 before Udaypur ───────────────────────────────────────────────────
+  - id: C04-1
+    query: "excavations at Besnagar and the early historic city of Vidisha"
+    chapter: C04
+    relevant_books: [vidisha-district-gazetteer.md, madhya-bharat-cultural-heritage.md,
+                     madhya-bharat-inscriptions-and-shrines.md]
+  - id: C04-2
+    query: "Heliodorus pillar and the Sunga period remains near Sanchi"
+    chapter: C04
+    relevant_books: [madhya-bharat-cultural-heritage.md, vidisha-district-gazetteer.md]
+  - id: C04-3
+    query: "prehistoric stone tools and rock shelters in central India"
+    chapter: C04
+    relevant_books: [madhya-bharat-cultural-heritage.md, vidisha-district-gazetteer.md]
+
+  # ── C05 Avanti to Malwa ──────────────────────────────────────────────────
+  - id: C05-1
+    query: "Ujjain and Dhara as capitals of Malwa and their political importance"
+    chapter: C05
+    relevant_books: [paramara-dynasty-comprehensive-history.md, bhoja-paramara-and-his-times.md,
+                     madhya-bharat-cultural-heritage.md]
+  - id: C05-2
+    query: "ancient Avanti janapada and its later transformation into Malwa"
+    chapter: C05
+    relevant_books: [madhya-bharat-cultural-heritage.md, paramara-dynasty-comprehensive-history.md]
+  - id: C05-3
+    query: "Pratihara and Rashtrakuta overlordship in central India"
+    chapter: C05
+    relevant_books: [paramara-dynasty-comprehensive-history.md, bhoja-paramara-and-his-times.md]
+
+  # ── C06 the Paramaras and Bhoja ──────────────────────────────────────────
+  - id: C06-1
+    query: "Bhoja as scholar king and patron of learning at Dhara"
+    chapter: C06
+    relevant_books: [bhoja-paramara-and-his-times.md, bhojdev.md,
+                     paramara-dynasty-comprehensive-history.md, Raja_Bhoj_Aur_Parmarkaleen_EN.md]
+    graded:
+      bhoja-paramara-and-his-times.md: 3
+      bhojdev.md: 3
+      paramara-dynasty-comprehensive-history.md: 2
+      Raja_Bhoj_Aur_Parmarkaleen_EN.md: 2
+  - id: C06-2
+    query: "agnikula origin myth of the Paramara dynasty at Mount Abu"
+    chapter: C06
+    relevant_books: [parmar-rajput-dynasty-origins.md, paramara-dynasty-comprehensive-history.md,
+                     bhoja-paramara-and-his-times.md]
+  - id: C06-3
+    query: "राजा भोज और परमार वंश का इतिहास"
+    chapter: C06
+    relevant_books: [bhojdev.md, Raja_Bhoj_Aur_Parmarkaleen_EN.md]
+    notes: "Devanagari query — checks that §5 Unicode handling survives retrieval."
+
+  # ── C07 Udayaditya's foundation ──────────────────────────────────────────
+  - id: C07-1
+    query: "Udayaditya founding the town temple and tank at Udayapura"
+    chapter: C07
+    relevant_books: [udayesvara-temple-art-architecture.md, "Intach Udaypur (1).md",
+                     paramara-dynasty-comprehensive-history.md,
+                     serpentine-scimitar-inscription-udaypur.md]
+  - id: C07-2
+    query: "reign of Udayaditya after Bhoja and the recovery of Paramara power"
+    chapter: C07
+    relevant_books: [paramara-dynasty-comprehensive-history.md, bhoja-paramara-and-his-times.md]
+  - id: C07-3
+    query: "land grant and endowment made to maintain the Udayesvara temple"
+    chapter: C07
+    relevant_books: [serpentine-scimitar-inscription-udaypur.md,
+                     udayesvara-temple-art-architecture.md]
+
+  # ── C08 Udayesvara in stone ──────────────────────────────────────────────
+  - id: C08-1
+    query: "Bhumija sikhara with rows of miniature shrines rising in vertical bands"
+    chapter: C08
+    relevant_books: [806955603-The-Temple-Architecture-of-India-Adam-Hardy.md,
+                     Some Paramara Templess.md, udayesvara-temple-art-architecture.md,
+                     The Hindu Temple Vol 2.md]
+    graded:
+      806955603-The-Temple-Architecture-of-India-Adam-Hardy.md: 3
+      udayesvara-temple-art-architecture.md: 3
+      Some Paramara Templess.md: 2
+      The Hindu Temple Vol 2.md: 1
+    must_not_return: [C02, C13]
+  - id: C08-2
+    query: "plan of the garbhagriha antarala and mandapa of a Nagara temple"
+    chapter: C08
+    relevant_books: [The Hindu Temple Vol 1 Stella Kramrisch.md, The Hindu Temple Vol 2.md,
+                     806955603-The-Temple-Architecture-of-India-Adam-Hardy.md,
+                     Temples_of_India.md]
+  - id: C08-3
+    query: "adhisthana mouldings jangha and amalaka of the temple elevation"
+    chapter: C08
+    relevant_books: [The Hindu Temple Vol 2.md, Some Paramara Templess.md,
+                     806955603-The-Temple-Architecture-of-India-Adam-Hardy.md]
+  - id: C08-4
+    query: "vastu prescriptions for prasada proportions in the Samarangana Sutradhara"
+    chapter: C08
+    relevant_books: [samarangana-sutradhara.md, The Hindu Temple Vol 1 Stella Kramrisch.md]
+
+  # ── C09 gods on the walls ────────────────────────────────────────────────
+  - id: C09-1
+    query: "iconography of Shiva as Nataraja and Ardhanarishvara"
+    chapter: C09
+    relevant_books: ["iconography of hindus, buddhists and jains Gupte.md",
+                     The Hindu Temple Vol 2.md, udayesvara-temple-art-architecture.md]
+    must_not_return: [C02, C03]
+  - id: C09-2
+    query: "dikpalas placed on the cardinal directions of the temple walls"
+    chapter: C09
+    relevant_books: ["iconography of hindus, buddhists and jains Gupte.md",
+                     The Hindu Temple Vol 2.md]
+  - id: C09-3
+    query: "surasundari apsara and vyala figures carved on temple surfaces"
+    chapter: C09
+    relevant_books: ["iconography of hindus, buddhists and jains Gupte.md",
+                     Some Paramara Templess.md, udayesvara-temple-art-architecture.md]
+
+  # ── C10 words in stone ───────────────────────────────────────────────────
+  - id: C10-1
+    query: "serpentine inscription engraved on the parapet slab at Udaypur"
+    chapter: C10
+    relevant_books: [serpentine-scimitar-inscription-udaypur.md]
+    graded: {serpentine-scimitar-inscription-udaypur.md: 3}
+    must_not_return: [C02, C03]
+    notes: "Single-source query with a very distinctive lexical signature — the
+            clearest test of whether the hybrid layer is earning its keep."
+  - id: C10-2
+    query: "Nagari script palaeography and the dating of medieval inscriptions"
+    chapter: C10
+    relevant_books: [madhya-bharat-inscriptions-and-shrines.md,
+                     serpentine-scimitar-inscription-udaypur.md]
+  - id: C10-3
+    query: "prasasti panegyric recording the genealogy of a king"
+    chapter: C10
+    relevant_books: [madhya-bharat-inscriptions-and-shrines.md,
+                     paramara-dynasty-comprehensive-history.md,
+                     serpentine-scimitar-inscription-udaypur.md]
+
+  # ── C11 built heritage ───────────────────────────────────────────────────
+  - id: C11-1
+    query: "stepwells baolis and water structures documented at Udaypur"
+    chapter: C11
+    relevant_books: ["Intach Udaypur (1).md", vidisha-district-gazetteer.md]
+  - id: C11-2
+    query: "mosques and Sultanate period buildings in the town"
+    chapter: C11
+    relevant_books: ["Intach Udaypur (1).md", vidisha-district-gazetteer.md]
+  - id: C11-3
+    query: "fortifications gateways and ruined shrines listed in the survey"
+    chapter: C11
+    relevant_books: ["Intach Udaypur (1).md", vidisha-district-gazetteer.md,
+                     madhya-bharat-inscriptions-and-shrines.md]
+
+  # ── C12 ritual and knowledge ─────────────────────────────────────────────
+  - id: C12-1
+    query: "Shaiva Siddhanta philosophy and its theology of the temple"
+    chapter: C12
+    relevant_books: [udayesvara-temple-art-architecture.md,
+                     The Hindu Temple Vol 1 Stella Kramrisch.md]
+    graded: {udayesvara-temple-art-architecture.md: 3}
+  - id: C12-2
+    query: "Pashupata and Lakulisha ascetic orders and their mathas"
+    chapter: C12
+    relevant_books: [udayesvara-temple-art-architecture.md,
+                     "iconography of hindus, buddhists and jains Gupte.md",
+                     madhya-bharat-cultural-heritage.md]
+  - id: C12-3
+    query: "agama ritual manuals pratistha consecration and daily puja"
+    chapter: C12
+    relevant_books: [The Hindu Temple Vol 1 Stella Kramrisch.md,
+                     udayesvara-temple-art-architecture.md, samarangana-sutradhara.md]
+
+  # ── C13 fields, wells and markets ────────────────────────────────────────
+  - id: C13-1
+    query: "temple endowments donations and the economy of a shrine"
+    chapter: C13
+    relevant_books: [Temple_Economics.md, The Hindu Temple Vol 1 Stella Kramrisch.md]
+  - id: C13-2
+    query: "agriculture crops irrigation and land revenue in the district"
+    chapter: C13
+    relevant_books: [vidisha-district-gazetteer.md]
+    must_not_return: [C09, C10]
+  - id: C13-3
+    query: "markets fairs artisans and crafts of the region"
+    chapter: C13
+    relevant_books: [vidisha-district-gazetteer.md, Temple_Economics.md]
+
+  # ── C14 people of the plateau ────────────────────────────────────────────
+  - id: C14-1
+    query: "castes and communities living in the villages of the district"
+    chapter: C14
+    relevant_books: [vidisha-district-gazetteer.md]
+  - id: C14-2
+    query: "languages and dialects spoken locally, Bundeli and Malvi"
+    chapter: C14
+    relevant_books: [vidisha-district-gazetteer.md, Jagta_Hua_Kasba_EN.md]
+
+  # ── C15 stories of Udaypur ───────────────────────────────────────────────
+  - id: C15-1
+    query: "local legends and folk tales told about the temple and the king"
+    chapter: C15
+    relevant_books: [Jagta_Hua_Kasba_EN.md, Jagta_Hua_Kasba_OCR_text.md]
+  - id: C15-2
+    query: "Shivratri mela and the festivals kept at the temple"
+    chapter: C15
+    relevant_books: [Jagta_Hua_Kasba_EN.md, Jagta_Hua_Kasba_OCR_text.md,
+                     vidisha-district-gazetteer.md]
+
+  # ── C16 conquests and regimes ────────────────────────────────────────────
+  - id: C16-1
+    query: "decline and fall of the Paramaras and the end of Malwa independence"
+    chapter: C16
+    relevant_books: [paramara-dynasty-comprehensive-history.md, bhoja-paramara-and-his-times.md]
+  - id: C16-2
+    query: "Sultanate conquest of Malwa and the desecration of temples"
+    chapter: C16
+    relevant_books: [paramara-dynasty-comprehensive-history.md,
+                     madhya-bharat-cultural-heritage.md, vidisha-district-gazetteer.md]
+  - id: C16-3
+    query: "Maratha and British administration of the region"
+    chapter: C16
+    relevant_books: [vidisha-district-gazetteer.md, madhya-bharat-cultural-heritage.md]
+
+  # ── C17 archaeologists, laws and repairs ─────────────────────────────────
+  - id: C17-1
+    query: "Archaeological Survey of India protection and conservation of the monument"
+    chapter: C17
+    relevant_books: ["Intach Udaypur (1).md", vidisha-district-gazetteer.md,
+                     madhya-bharat-cultural-heritage.md]
+  - id: C17-2
+    query: "listing and documentation of heritage buildings by INTACH"
+    chapter: C17
+    relevant_books: ["Intach Udaypur (1).md"]
+
+  # ── C18 present tense ────────────────────────────────────────────────────
+  - id: C18-1
+    query: "everyday life in the small town of Udaypur today"
+    chapter: C18
+    relevant_books: [Jagta_Hua_Kasba_EN.md, Jagta_Hua_Kasba_OCR_text.md]
+  - id: C18-2
+    query: "कस्बे के लोगों का जीवन और उनकी बातें"
+    chapter: C18
+    relevant_books: [Jagta_Hua_Kasba_OCR_text.md, Jagta_Hua_Kasba_EN.md]
+    notes: "Second Devanagari probe, on the Hindi original."
+
+  # ── AW afterword ─────────────────────────────────────────────────────────
+  - id: AW-1
+    query: "present condition of the temple, decay and what conservation is needed"
+    chapter: AW
+    relevant_books: ["Intach Udaypur (1).md", Jagta_Hua_Kasba_EN.md]
+  - id: AW-2
+    query: "neglect of the site and recommendations for improving it"
+    chapter: AW
+    relevant_books: ["Intach Udaypur (1).md", Jagta_Hua_Kasba_EN.md]
+
+# -----------------------------------------------------------------------------
+# Tag spot-check (§10.2, "per-chapter tagging precision").
+#
+# The harness samples chunks tagged to each chapter and reports the share whose
+# source book is in `plausible_books`. That is a proxy for on-topic-ness, not a
+# judgement of the chunk itself — a gazetteer chunk tagged C03 might still be
+# about population. Treat a low number as "look at this chapter", not as a
+# verdict. `python -m src.tag --explain C03` shows you what it actually caught.
+# -----------------------------------------------------------------------------
+tag_spotcheck:
+  sample_per_chapter: 25
+  plausible_books:
+    C01: [467921465-Skanda-Purana-13-AITM.md, vidisha-district-gazetteer.md,
+          udayesvara-temple-art-architecture.md, samarangana-sutradhara.md]
+    C02: [Betwa_Streamflow.md, Long-termhistoricchangesinclimaticvariablesofBetwa.md,
+          vidisha-district-gazetteer.md]
+    C03: [vidisha-district-gazetteer.md, Some Paramara Templess.md,
+          Long-termhistoricchangesinclimaticvariablesofBetwa.md]
+    C04: [vidisha-district-gazetteer.md, madhya-bharat-cultural-heritage.md,
+          madhya-bharat-inscriptions-and-shrines.md]
+    C05: [paramara-dynasty-comprehensive-history.md, bhoja-paramara-and-his-times.md,
+          madhya-bharat-cultural-heritage.md, vidisha-district-gazetteer.md]
+    C06: [bhoja-paramara-and-his-times.md, bhojdev.md, parmar-rajput-dynasty-origins.md,
+          paramara-dynasty-comprehensive-history.md, Raja_Bhoj_Aur_Parmarkaleen_EN.md]
+    C07: [udayesvara-temple-art-architecture.md, "Intach Udaypur (1).md",
+          paramara-dynasty-comprehensive-history.md, serpentine-scimitar-inscription-udaypur.md,
+          Raja_Bhoj_Aur_Parmarkaleen_EN.md]
+    C08: [806955603-The-Temple-Architecture-of-India-Adam-Hardy.md,
+          The Hindu Temple Vol 1 Stella Kramrisch.md, The Hindu Temple Vol 2.md,
+          Some Paramara Templess.md, udayesvara-temple-art-architecture.md,
+          samarangana-sutradhara.md, Temples_of_India.md, "Intach Udaypur (1).md"]
+    C09: ["iconography of hindus, buddhists and jains Gupte.md", The Hindu Temple Vol 2.md,
+          udayesvara-temple-art-architecture.md, Some Paramara Templess.md]
+    C10: [serpentine-scimitar-inscription-udaypur.md, madhya-bharat-inscriptions-and-shrines.md,
+          paramara-dynasty-comprehensive-history.md, bhoja-paramara-and-his-times.md]
+    C11: ["Intach Udaypur (1).md", vidisha-district-gazetteer.md,
+          madhya-bharat-inscriptions-and-shrines.md]
+    C12: [udayesvara-temple-art-architecture.md, The Hindu Temple Vol 1 Stella Kramrisch.md,
+          samarangana-sutradhara.md, "iconography of hindus, buddhists and jains Gupte.md"]
+    C13: [Temple_Economics.md, vidisha-district-gazetteer.md]
+    C14: [vidisha-district-gazetteer.md, Jagta_Hua_Kasba_EN.md, Jagta_Hua_Kasba_OCR_text.md]
+    C15: [Jagta_Hua_Kasba_EN.md, Jagta_Hua_Kasba_OCR_text.md, vidisha-district-gazetteer.md]
+    C16: [paramara-dynasty-comprehensive-history.md, vidisha-district-gazetteer.md,
+          madhya-bharat-cultural-heritage.md, bhoja-paramara-and-his-times.md]
+    C17: ["Intach Udaypur (1).md", vidisha-district-gazetteer.md,
+          madhya-bharat-cultural-heritage.md]
+    C18: [Jagta_Hua_Kasba_EN.md, Jagta_Hua_Kasba_OCR_text.md, "Intach Udaypur (1).md"]
+    AW:  ["Intach Udaypur (1).md", Jagta_Hua_Kasba_EN.md, Jagta_Hua_Kasba_OCR_text.md]

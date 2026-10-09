@@ -1,0 +1,214 @@
+# =============================================================================
+# Udaypur research corpus — single source of truth for every tunable.
+#
+# Nothing in ./src/ may hardcode a number that appears here. Changing this file
+# and re-running is the supported way to tune the pipeline; the config hash is
+# stamped into every ingest, eval and report output so you can always tell
+# which settings produced which numbers.
+#
+# Run `python -m src.settings --hash` to print the current hash.
+# =============================================================================
+
+project:
+  name: udaypur_corpus
+  # Absolute path: the corpus is the ONLY thing that lives outside the repo.
+  corpus_dir: 'C:\Users\CBIC\Desktop\markdown extractor\Udaypur Reference Markdown Files'
+  glob: "*.md"
+
+storage:
+  # Everything below is relative to the project root (where you run the commands).
+  chroma_path: ./chroma_db
+  collection: udaypur_corpus
+  # Sidecar for text_folded + BM25 state. Kept OUT of Chroma metadata: a folded
+  # copy of every chunk would roughly double the metadata payload for a field
+  # that is never displayed and never embedded.
+  sidecar_db: ./chroma_db/sidecar.sqlite3
+  manifest: ./books_manifest.yaml
+  chapters: ./chapters.yaml
+
+# -----------------------------------------------------------------------------
+# Chunking (§4). Sizes are in MODEL tokens, counted with the embedding model's
+# own tokenizer, so `token_count` means the same thing the encoder means.
+# -----------------------------------------------------------------------------
+chunking:
+  target_tokens: 1000
+  overlap_tokens: 150
+  min_tokens: 200          # below this a fragment is merged into a neighbour
+  max_tokens: 1200         # hard ceiling; a table may be kept whole up to here
+
+  # Markdown-header-aware split runs first, then a recursive split inside each
+  # section. These are the header levels that open a new section.
+  split_headers: ["#", "##", "###"]
+
+  # Contextual chunk header prepended to the EMBEDDED text (never to the stored
+  # original). Placeholders: {book}, {headings}
+  context_header: "[Book: {book} > {headings}]"
+  context_header_enabled: true
+
+  # Keep a markdown table inside one chunk when it fits under max_tokens.
+  keep_tables_whole: true
+  # Footnote/reference lines are attached to the chunk they follow.
+  attach_footnotes: true
+
+  # OCR artefacts in this corpus produce junk headings (library stamps,
+  # accession numbers, "КОМСОМОЛ"). A heading matching these is not treated as
+  # a section boundary and is dropped from heading_path.
+  junk_heading_patterns:
+    - '^\s*\d+\s*$'
+    - '(?i)central\s+arch.ological\s+library'
+    - '(?i)accession\s+no'
+    - '(?i)^\s*call\s+no'
+    - '(?i)toronto public library'
+    - '(?i)d\.?g\.?a\.?\s*79'
+    # a "heading" with no letter in any script we care about
+    - '^[^A-Za-zऀ-ॿ]*$'
+
+# -----------------------------------------------------------------------------
+# Embedding (§8)
+# -----------------------------------------------------------------------------
+embedding:
+  # Adapter is chosen by `backend`; switching models = change these 3 lines.
+  #   sentence_transformers | openai
+  backend: sentence_transformers
+  model: BAAI/bge-m3
+  dim: 1024
+  normalize: true          # L2; required for cosine
+  batch_size: 8            # CPU-safe for a 568M-param encoder at 1024 tokens
+  # bge-m3 supports 8192. This must stay ABOVE the longest chunk or the tail of
+  # every long chunk is silently invisible to the encoder — the exact defect
+  # that makes e5-small's numbers a floor. Observed max chunk: 1,326 tokens.
+  # Cost is near zero: sentence-transformers pads to the longest item in each
+  # batch, so short batches are unaffected by a high ceiling.
+  max_seq_length: 1536
+  device: auto             # auto | cpu | cuda
+  # Torch defaults to physical cores (4 here). Measured on this machine,
+  # 8 threads is ~11% faster than 4 for bge-m3; null leaves torch alone.
+  torch_threads: 8
+  # Models that need instruction prefixes (e5 family). Empty for bge-m3.
+  query_prefix: ""
+  passage_prefix: ""
+  # Embeddings are cached by content hash so re-chunking only re-embeds what
+  # actually changed. --rebuild clears this.
+  cache_path: ./chroma_db/embed_cache.sqlite3
+
+  # Ready-to-swap alternatives, for the §10.3 ablation. Not active.
+  alternatives:
+    e5_large:
+      backend: sentence_transformers
+      model: intfloat/multilingual-e5-large
+      dim: 1024
+      max_seq_length: 512     # XLM-R position limit, not a tuning choice
+      query_prefix: "query: "
+      passage_prefix: "passage: "
+    e5_small_fast:            # 384-dim, ~8x faster on CPU — use while tuning
+      backend: sentence_transformers
+      model: intfloat/multilingual-e5-small
+      dim: 384
+      # HARD LIMIT: 512 positions. A 1000-token chunk is TRUNCATED at 512, so
+      # the tail of every long chunk is invisible to this model. Fine for
+      # validating the pipeline; treat its eval numbers as a floor, not as a
+      # measurement of bge-m3 (which handles 8192).
+      max_seq_length: 512
+      batch_size: 32
+      query_prefix: "query: "
+      passage_prefix: "passage: "
+    openai_large:
+      backend: openai
+      model: text-embedding-3-large
+      dim: 3072
+
+index:
+  distance: cosine
+  hnsw:
+    M: 32
+    construction_ef: 200
+    search_ef: 128
+
+# -----------------------------------------------------------------------------
+# Chapter tagging (§7b) — embedding-based, no per-chunk LLM call.
+# -----------------------------------------------------------------------------
+tagging:
+  # Anisotropy correction, applied BEFORE ranking. Raw cosine in these spaces
+  # is badly compressed (measured on this corpus: mean 0.845, sd 0.019 across
+  # the whole chunk x chapter matrix), which lets a centrally-placed chapter
+  # descriptor win almost everywhere. Standardising each chapter's column
+  # across chunks removes that blanket advantage.
+  #   none | chapter | chunk | both
+  # `chunk` alone cannot change which chapters win — subtracting a per-row
+  # constant leaves the within-row order untouched — so `chapter` is the
+  # setting that matters.
+  score_normalization: chapter
+
+  # How many chapters are tagged unconditionally, before the cutoff adds more.
+  #
+  # §7b specifies 3. Measured on this corpus, 3 is worse than 1: forcing every
+  # chunk into three chapters whether or not it belongs in any diluted the
+  # well-targeted chapters badly (C02 fell from 72% to 12% spot-check
+  # precision). Sweep results, mean per-chapter tagging precision:
+  #     top_n=3  32.6%   198..943 chunks/chapter
+  #     top_n=2  34.9%
+  #     top_n=1  36.8%   198..446 chunks/chapter   <- chosen
+  # Set it back to 3 if you would rather have recall than precision; it is one
+  # line and `python -m src.tag`, no re-embedding.
+  top_n: 1                 # always tag the N best chapters...
+  # ...plus every chapter scoring above a cutoff DERIVED from the observed
+  # score distribution. A fixed cosine threshold is meaningless across models.
+  #   percentile : cutoff = the given percentile of all chunk x chapter scores
+  #   zscore     : cutoff = mean + k * stdev of that distribution
+  #   knee       : largest second-difference in the sorted score curve
+  cutoff_method: percentile
+  cutoff_percentile: 97.0
+  cutoff_zscore_k: 2.0
+  max_chapters_per_chunk: 6
+  # Gap between the best and second-best chapter, below which the assignment
+  # between those two is close to arbitrary. Flagged in the report and used to
+  # select candidates for the optional LLM verification pass.
+  # UNITS: the normalised (z-scored) space, not raw cosine — so this is
+  # "standard deviations", and 0.25 is a quarter of one.
+  low_confidence_margin: 0.25
+  llm_verification:
+    enabled: false         # §7b.5 — hook only, off by default
+    model: ""
+    max_chunks: 200
+
+# -----------------------------------------------------------------------------
+# Retrieval (§9)
+# -----------------------------------------------------------------------------
+retrieval:
+  k: 10
+  # Candidate depth per channel before fusion; must exceed k.
+  candidates_per_channel: 50
+  hybrid:
+    enabled: true          # --hybrid / --no-hybrid overrides
+    rrf_k: 60              # Reciprocal Rank Fusion damping constant
+    weight_dense: 1.0
+    weight_lexical: 1.0
+  snippet_chars: 320
+
+# -----------------------------------------------------------------------------
+# Evaluation (§10)
+# -----------------------------------------------------------------------------
+evaluation:
+  gold_path: ./eval/gold.yaml
+  # Namespaced: ./eval/results/ already holds label_audit*.json from the
+  # separate v2 pipeline in this repo. Do not collide with it.
+  results_dir: ./eval/results/chroma
+  k_values: [3, 5, 10]
+  ndcg_k: 10
+  # An ablation sweep runs the harness once per combination.
+  ablation:
+    chunk_sizes: [600, 1000]
+    models: [BAAI/bge-m3, intfloat/multilingual-e5-small]
+
+reporting:
+  out_path: ./corpus_report.md
+  # A chapter with fewer than this many chunks, or fed by fewer than this many
+  # books, is flagged as a sourcing gap.
+  thin_chapter_chunks: 40
+  thin_chapter_books: 2
+
+logging:
+  level: INFO
+  # Every run writes {results_dir}/run_{timestamp}.json with config hash +
+  # library versions, so runs are comparable over time.
+  record_versions: true

@@ -1,0 +1,387 @@
+# =============================================================================
+# chapters.yaml — the tagging targets (§7).
+#
+# HOW THIS IS USED
+#   `descriptor` is embedded with the same model as the chunks, and every chunk
+#   is scored by cosine similarity against all 19 descriptors. So the descriptor
+#   is not a label — it is a QUERY, and it works best when written in the same
+#   register and vocabulary as the passages it should match. That is why each
+#   one below reads like a paragraph out of one of your books rather than like
+#   a chapter title.
+#
+#   `keywords` are appended to the descriptor before embedding (weighted by
+#   `keyword_weight`) and are also what the lexical/hybrid layer matches on.
+#   Sanskrit/Hindi terms are included in BOTH IAST and Devanagari because the
+#   corpus contains both: 10 of your 25 files carry Devanagari, and
+#   samarangana-sutradhara.md alone has 331k Devanagari characters.
+#
+#   `negative_keywords` are used only by the §10.2 hard-negative test, to check
+#   that e.g. a geology query does not surface iconography.
+#
+# TUNING: edit descriptors here and re-run `python -m src.tag` — this does NOT
+# re-embed the corpus, only the 19 descriptors. Cheap. Iterate freely.
+# =============================================================================
+
+keyword_weight: 1          # times the keyword block is repeated before embedding
+
+chapters:
+
+  - id: C01
+    title: "Udaypur: A Small Town with a Long Memory"
+    scope: "Ancient scriptural references; Puranic/Sanskrit textual mentions of the region."
+    descriptor: >
+      Early textual and scriptural memory of the place. Mentions of the region in the
+      Puranas and other Sanskrit literature; sacred geography and tirtha lists; the
+      naming of towns and their legendary founders; how a settlement is remembered in
+      myth and canonical text before it appears in documented history. Passages that
+      locate Udaypur, Udayapura or the surrounding country within Puranic cosmography,
+      pilgrimage itineraries and traditional accounts of origin.
+    keywords: [Udaypur, Udayapura, Puranic, Purāṇa, पुराण, Skanda Purana, Skanda Purāṇa,
+               tirtha, tīrtha, तीर्थ, mahatmya, māhātmya, माहात्म्य, sacred geography,
+               scriptural reference, legend of foundation, Vidisha, Bhilsa, Besnagar,
+               ancient name, place-name, kshetra, kṣetra, क्षेत्र, sthala, sthala-purana]
+    negative_keywords: [monsoon rainfall, streamflow, conservation law, ASI notification]
+
+  - id: C02
+    title: "The Betwa Valley: Land, Rivers and Seasons"
+    scope: "Physical geography; Betwa (Vetravati) river system, monsoon/seasons, Malwa plateau."
+    descriptor: >
+      The physical setting: the Betwa river, known in Sanskrit as the Vetravati, and its
+      tributaries; the Malwa plateau and its drainage; catchment, basin and streamflow;
+      rainfall and the monsoon cycle; temperature, climate and long-term climatic change;
+      seasons and the agricultural year; the shape of the land, elevation, watersheds and
+      the way water moves through the region. Hydrology, meteorology and physiography
+      rather than history or art.
+    keywords: [Betwa, Vetravati, Vetravatī, वेत्रवती, betwa basin, river, nadi, नदी,
+               tributary, catchment, streamflow, discharge, hydrology, watershed,
+               monsoon, rainfall, precipitation, climate, temperature, season, ritu, ऋतु,
+               Malwa plateau, Bundelkhand, drainage, Bes river, Halali, topography,
+               physiography, land use land cover]
+    negative_keywords: [iconography, sikhara, inscription, praśasti, dynasty succession]
+
+  - id: C03
+    title: "Stones and Forests"
+    scope: "Geology, flora, fauna, landscape; sandstone, soils, vegetation."
+    descriptor: >
+      Geology, natural resources and living landscape. Rock formations and building stone,
+      particularly the sandstone quarried for temples; Vindhyan and Deccan trap formations;
+      soils, black cotton soil and their fertility; forests and forest types, timber and
+      minor forest produce; trees, plants and vegetation cover; wild animals, birds and
+      the fauna of the district; quarries, minerals and the raw material a builder finds
+      to hand. The land as substance and habitat.
+    keywords: [geology, sandstone, stone quarry, quarrying, śilā, शिला, pathar, पत्थर,
+               Vindhyan, Deccan trap, basalt, laterite, soil, black cotton soil, mrittika,
+               forest, jungle, vana, वन, flora, fauna, vegetation, timber, tree species,
+               wildlife, minerals, rock formation, building material, natural resources]
+    negative_keywords: [praśasti, iconography, dynasty, festival, conservation policy]
+
+  - id: C04
+    title: "Before Udaypur"
+    scope: "Prehistory and early-historic Vidisha; archaeology, Besnagar, early settlement."
+    descriptor: >
+      What was here before the town. Prehistoric and protohistoric occupation; stone-age
+      tools, rock shelters and painted caves; the early-historic city of Vidisha and the
+      mound of Besnagar; Sanchi and its stupas; Sunga, Satavahana and Gupta period remains;
+      excavation reports, stratigraphy, pottery sequences, coins and terracottas; the
+      Heliodorus pillar; early settlement patterns and the archaeological record of the
+      Betwa-Bes confluence long before the Paramaras.
+    keywords: [prehistory, protohistory, palaeolithic, neolithic, microlith, rock shelter,
+               rock painting, Besnagar, Vidisha, Vidiśā, विदिशा, Bhilsa, Sanchi, Sāñcī, stupa, stūpa,
+               Heliodorus pillar, Garuda pillar, Sunga, Śuṅga, Satavahana, Sātavāhana, Maurya, Gupta,
+               excavation, archaeology, stratigraphy, potsherd, terracotta, punch-marked coin,
+               mound, early settlement, antiquity]
+    negative_keywords: [monsoon rainfall, ASI conservation, present-day tourism, folklore festival]
+
+  - id: C05
+    title: "From Avanti to Malwa"
+    scope: "Dynasties, trade routes, sacred cities; regional political evolution over time."
+    descriptor: >
+      The long political and commercial evolution of the region from ancient Avanti to
+      medieval Malwa. Successive ruling powers before and around the Paramaras — Mauryas,
+      Sungas, Satavahanas, Guptas, Aulikaras, Pratiharas, Kalachuris, Chandellas, Chalukyas;
+      Ujjain, Dhara, Mandu and Vidisha as capitals and sacred cities; trade routes and
+      caravan roads crossing the plateau; the shifting frontiers and overlordships of
+      central India; the making of "Malwa" as a region with a name and an identity.
+    keywords: [Avanti, Avantī, अवन्ति, Malwa, Mālava, मालव, Ujjain, Ujjayini, Ujjayinī, उज्जयिनी,
+               Dhara, Dhārā, धारा, Dhar, Mandu, Mandapa-durga, Vidisha, Pratihara, Gurjara-Pratihara,
+               Kalachuri, Chandella, Chalukya, Cālukya, Rashtrakuta, Rāṣṭrakūṭa, Gupta empire,
+               trade route, caravan, mahajanapada, janapada, जनपद, capital city, sacred city,
+               regional kingdom, political geography, overlordship, feudatory, samanta, सामन्त]
+    negative_keywords: [soil type, rainfall, sculpture iconography, conservation repair]
+
+  - id: C06
+    title: "The Paramāras and Bhoja"
+    scope: "Kingship, learning, temple building; Paramāra dynasty, Bhoja, court culture."
+    descriptor: >
+      The Paramara dynasty of Malwa and above all Bhoja. The dynasty's origin legends and
+      the agnikula myth; the succession from Upendra, Siyaka, Vakpati Munja and Sindhuraja
+      to Bhoja, Jayasimha, Udayaditya, Naravarman, Yashovarman, Arjunavarman and the later
+      kings; wars with the Chalukyas, Kalachuris and the Ghaznavids; Bhoja as scholar-king,
+      patron of learning and reputed author of treatises; the court, its poets and
+      panegyrists; royal patronage of temples, tanks and cities; ideals of kingship,
+      dharma and the good ruler.
+    keywords: [Paramara, Paramāra, परमार, Parmar, Pramara, agnikula, agnikula myth, Mount Abu,
+               Bhoja, Bhojadeva, भोजदेव, Raja Bhoj, राजा भोज, Munja, Vakpati, Vākpati, Sindhuraja,
+               Upendra, Siyaka, Jayasimha, Naravarman, Yashovarman, Arjunavarman, Udayaditya,
+               Bhojashala, Dhara capital, scholar king, patronage, dāna, dāna-śāsana,
+               court poet, praśasti of kings, kingship, rājadharma, राजधर्म, dynasty succession,
+               Chalukya war, Kalachuri, Tailapa, Bhima, Karna]
+    negative_keywords: [streamflow, soil, ASI Act, twentieth-century tourism]
+
+  - id: C07
+    title: "Udayāditya's Foundation"
+    scope: "The founding of town, temple and tank under Udayāditya."
+    descriptor: >
+      The founding act. Udayaditya, Paramara king and successor of Bhoja through Jayasimha,
+      and his establishment of the town of Udayapura together with its great Shiva temple
+      and its tank or reservoir. The date and circumstances of the foundation; the
+      foundation inscription and the naming of the temple after the founder; the making of
+      a planned settlement — town, tank and temple conceived as one endowment; the
+      endowment of land and villages to maintain the shrine; Udayaditya's reign, his
+      recovery of Paramara fortunes, his other constructions and his successors.
+    keywords: [Udayaditya, Udayāditya, उदयादित्य, Udayapura, Udaypur, Udayeshvara, Udayeśvara,
+               उदयेश्वर, Nilakantha, Nīlakaṇṭha, नीलकण्ठ, Neelkantheshwar, foundation, founding,
+               foundation inscription, consecration, pratiṣṭhā, प्रतिष्ठा, tank, reservoir, tadaga,
+               taḍāga, तडाग, baoli, town planning, nagara nivesha, endowment, grant, agrahara,
+               land grant, temple foundation, 1059, 1080, Vikrama Samvat, Jayasimha, Lakshmadeva]
+    negative_keywords: [climate change, forest produce, oral folklore, present-day municipality]
+
+  - id: C08
+    title: "Udayeśvara in Stone"
+    scope: "Temple architecture; plan, structure, style of the Udayeśvara / Neelkantheshwar temple; Bhūmija/Nagara śikhara."
+    descriptor: >
+      The architecture of the temple itself and of the tradition it belongs to. Ground plan
+      and elevation; garbhagriha, antarala, mandapa and porches; the stellate or
+      multi-spired superstructure; the Bhumija mode of shikhara with its latas and karnas
+      rising in vertical rows of miniature shrines; Nagara temple form and its regional
+      idioms; adhisthana mouldings, jangha, varandika, amalaka and kalasha; proportion,
+      measurement and the canonical prescriptions of the vastu texts; comparison with other
+      Paramara and central Indian temples; the structural logic of stone construction,
+      corbelling and ceiling design.
+    keywords: [Udayeshvara, Udayeśvara, Nilakantheshwar, temple architecture, mandir, मन्दिर,
+               shikhara, śikhara, शिखर, Bhumija, Bhūmija, भूमिज, Nagara, Nāgara, नागर, lata, latā,
+               karna, karṇa, kuta, śṛṅga, garbhagriha, garbhagṛha, गर्भगृह, antarala, antarāla,
+               mandapa, maṇḍapa, मण्डप, ardhamandapa, mukhamandapa, pradakshina, pradakṣiṇā,
+               adhisthana, adhiṣṭhāna, jangha, jaṅghā, varandika, amalaka, āmalaka, आमलक,
+               kalasha, kalaśa, कलश, vedibandha, pitha, pīṭha, ceiling, corbel, plan, elevation,
+               vastu, vāstu, वास्तु, Samarangana Sutradhara, Samarāṅgaṇa-sūtradhāra, prasada, prāsāda, प्रासाद,
+               vimana, vimāna, stellate plan, temple typology]
+    negative_keywords: [rainfall, soil fertility, caste community, district administration]
+
+  - id: C09
+    title: "Gods on the Walls"
+    scope: "Sculpture, iconography, meaning; deities, symbolism, temple imagery."
+    descriptor: >
+      Sculpture and its meaning. The deities carved on the walls and their identification —
+      Shiva in his many forms, Nataraja, Bhairava, Ardhanarishvara, Uma-Maheshvara, Ganesha,
+      Vishnu and his avataras, Surya, Brahma, the Saptamatrikas, Durga Mahishasuramardini,
+      dikpalas and their placement on the cardinal and intermediate faces; attributes,
+      ayudhas, vahanas, mudras and asanas; apsaras, surasundaris, nayikas, vyalas, kirtimukha,
+      mithuna and erotic sculpture; makara, ghatapallava and decorative motifs; the
+      iconographic canon and its texts; style, modelling and the meaning of an image
+      programme distributed across a temple's surfaces.
+    keywords: [iconography, sculpture, murti, mūrti, मूर्ति, image, pratima, pratimā, प्रतिमा,
+               Shiva, Śiva, शिव, Nataraja, Naṭarāja, Bhairava, Ardhanarishvara, Ardhanārīśvara,
+               Uma-Maheshvara, Umā-Maheśvara, Ganesha, Gaṇeśa, गणेश, Vishnu, Viṣṇu, विष्णु, avatara,
+               Surya, Sūrya, सूर्य, Brahma, Brahmā, Saptamatrika, Saptamātṛkā, Durga, Durgā, दुर्गा,
+               Mahishasuramardini, Mahiṣāsuramardinī, dikpala, dikpāla, दिक्पाल, Nandi, नन्दी, linga, liṅga, लिङ्ग,
+               apsara, apsarā, surasundari, nayika, nāyikā, vyala, vyāla, kirtimukha, kīrtimukha,
+               mithuna, maithuna, erotic sculpture, makara, ghatapallava, attribute, ayudha, āyudha,
+               vahana, vāhana, वाहन, mudra, mudrā, मुद्रा, asana, āsana, iconographic programme, relief, frieze]
+    negative_keywords: [streamflow, geology, gazetteer population, heritage legislation]
+
+  - id: C10
+    title: "Words in Stone"
+    scope: "Inscriptions, epigraphy, paleography; Nagari script, praśasti, languages of the inscriptions."
+    descriptor: >
+      Inscriptions and what can be read from them. The epigraphs of the temple and the
+      region — foundation records, praśastis, copper-plate grants, pilgrim records, mason's
+      marks and later graffiti; the serpentine scimitar inscription on the parapet slab;
+      the Nagari script and its palaeography, letter forms and their dating; Sanskrit and
+      Prakrit of the records; eras and dates, Vikrama and Shaka samvat, and their
+      conversion; the editing of a text, its readings, lacunae and estampages; genealogy
+      and historical fact recovered from a panegyric; Epigraphia Indica and the
+      corpus of inscriptions.
+    keywords: [inscription, epigraph, epigraphy, abhilekha, अभिलेख, śilālekha, शिलालेख, praśasti,
+               praśasti, प्रशस्ति, copper plate, tamrapatra, tāmrapatra, ताम्रपत्र, grant, charter,
+               Nagari, Nāgarī, नागरी, Devanagari, script, palaeography, letter forms, akshara, akṣara,
+               Sanskrit, Prakrit, Prākṛta, Vikrama Samvat, Śaka era, samvat, संवत्, dating,
+               genealogy, vamshavali, vaṃśāvalī, estampage, reading, lacuna, Epigraphia Indica,
+               Corpus Inscriptionum, mason mark, pilgrim record, graffiti, serpentine scimitar,
+               verse inscription, donor record]
+    negative_keywords: [rainfall, forest, tourism footfall, soil]
+
+  - id: C11
+    title: "Built Heritage"
+    scope: "Fortifications, mosques, shrines, stepwells; other structures besides the main temple."
+    descriptor: >
+      The rest of the built fabric. Forts, walls, gateways and defensive works; mosques,
+      dargahs, idgahs and Sultanate and Mughal period building; Jain temples and subsidiary
+      shrines; stepwells, baolis, kunds, ghats and water architecture; sati stones,
+      memorial pillars, chhatris and cenotaphs; havelis, houses and vernacular building;
+      ruined and reused structures, spolia and temple fragments built into later walls; the
+      listing and documentation of monuments across the town and district beyond the
+      principal temple.
+    keywords: [fort, fortification, qila, killa, gateway, darwaza, rampart, wall,
+               mosque, masjid, मस्जिद, idgah, dargah, Sultanate, Mughal, Jain temple, Jaina,
+               subsidiary shrine, devakulika, stepwell, baoli, bāolī, बावड़ी, vav, kund, kuṇḍa, कुण्ड,
+               ghat, ghāṭ, घाट, well, tank, sati stone, satī, memorial stone, chhatri, chatrī, छत्री,
+               cenotaph, haveli, havelī, हवेली, vernacular architecture, ruin, spolia, reused stone,
+               monument listing, INTACH listing, built heritage inventory]
+    negative_keywords: [climate variable, dynasty genealogy, Puranic myth, iconographic canon]
+
+  - id: C12
+    title: "Ritual and Knowledge"
+    scope: "Śaiva traditions, tantra, intellectual/philosophical worlds; culture and way of life."
+    descriptor: >
+      The religious and intellectual world the temple was built inside. Shaivism and its
+      sects — Pashupata, Lakulisha, Kapalika, Kalamukha, Shaiva Siddhanta and its
+      theology; tantra, agama and the ritual manuals; initiation, diksha, mantra, yantra
+      and mandala; temple ritual, puja, abhisheka, the daily and calendrical liturgy;
+      the mathas and their acharyas, ascetics and lineages of teachers; Sanskrit learning,
+      philosophy, grammar, poetics and the sciences; the shastras and the transmission of
+      technical knowledge; the temple as an institution of knowledge as well as worship.
+    keywords: [Shaiva, Śaiva, शैव, Shaivism, Shaiva Siddhanta, Śaiva Siddhānta, Pashupata, Pāśupata,
+               Lakulisha, Lakulīśa, Kapalika, Kāpālika, Kalamukha, Kālāmukha, tantra, tantric, तन्त्र,
+               agama, āgama, आगम, diksha, dīkṣā, दीक्षा, initiation, mantra, मन्त्र, yantra, mandala, maṇḍala,
+               puja, pūjā, पूजा, abhisheka, abhiṣeka, अभिषेक, ritual, liturgy, festival calendar,
+               matha, maṭha, मठ, acharya, ācārya, आचार्य, guru, ascetic, sannyasin, lineage, parampara,
+               philosophy, darshana, darśana, दर्शन, shastra, śāstra, शास्त्र, Sanskrit learning,
+               grammar, vyakarana, poetics, alankara, siddhanta, theology, liberation, moksha]
+    negative_keywords: [streamflow, soil, ASI repair budget, population census]
+
+  - id: C13
+    title: "Fields, Wells and Markets"
+    scope: "Agriculture, economy, crafts; irrigation, trade, artisanship."
+    descriptor: >
+      How people made a living. Agriculture and cropping — wheat, jowar, gram, cotton,
+      soyabean, kharif and rabi seasons; land tenure, revenue settlement, zamindari and
+      landholding; irrigation from wells, tanks and canals; markets, mandis, fairs and
+      weekly haats; trade, merchants and banias; crafts and artisans, stonemasons,
+      potters, weavers and smiths; guilds and the organisation of labour; the temple
+      economy, its endowments, donations and the flow of resources through a shrine;
+      prices, wages, currency and the working economy of town and district.
+    keywords: [agriculture, krishi, कृषि, crop, kharif, rabi, wheat, jowar, gram, cotton, soyabean,
+               land revenue, tenure, zamindari, jagir, settlement report, irrigation, well, kuan,
+               tank irrigation, canal, market, mandi, मंडी, bazaar, bāzār, बाज़ार, haat, fair, mela, मेला,
+               trade, merchant, bania, vanik, guild, shreni, śreṇī, श्रेणी, craft, artisan, śilpin,
+               stonemason, sthapati, sthapati, स्थपति, potter, weaver, blacksmith, occupation,
+               temple economy, endowment, donation, dana, prices, wages, currency, coin, economy]
+    negative_keywords: [shikhara, iconography, palaeography, Puranic myth]
+
+  - id: C14
+    title: "People of the Plateau"
+    scope: "Communities, castes, languages, everyday life."
+    descriptor: >
+      Who lives here. Castes, communities and tribes of the district — Brahmans, Rajputs,
+      Jats, Ahirs, Gujars, Chamars, Bhils, Gonds, Sahariyas and others; Muslim and Jain
+      communities; population, census figures and demography; villages and their social
+      structure; languages and dialects spoken, Hindi, Bundeli, Malvi and Urdu; kinship,
+      marriage and family; food, dress, housing and daily life; migration, literacy,
+      health and the ordinary texture of living in the towns and villages of the plateau.
+    keywords: [caste, jati, jāti, जाति, community, tribe, adivasi, आदिवासी, Brahman, Rajput, Jat,
+               Ahir, Gujar, Chamar, Bhil, Gond, Saharia, Kirar, Lodhi, Muslim, Jain community,
+               population, census, demography, village, gram, गाँव, hamlet, social structure,
+               language, dialect, Hindi, हिन्दी, Bundeli, Malvi, Urdu, kinship, marriage, family,
+               food, dress, costume, housing, dwelling, daily life, custom, literacy, migration,
+               occupation of people, standard of living]
+    negative_keywords: [shikhara mouldings, epigraphic dating, streamflow, agama ritual]
+
+  - id: C15
+    title: "Stories of Udaypur"
+    scope: "Festivals, folklore, oral histories, legends."
+    descriptor: >
+      What the place tells about itself. Festivals and fairs and how they are kept —
+      Shivaratri, Nagpanchami, Dussehra, Diwali and the temple's own melas; folklore,
+      legends and local tales about the temple, the tank and the kings; the stories told
+      of Bhoja and of Udayaditya in popular memory; oral history and the recollections of
+      residents; songs, proverbs, sayings and folk performance; belief, miracle and the
+      supernatural attached to places; the difference between what the inscriptions record
+      and what the town remembers.
+    keywords: [festival, utsava, उत्सव, tyohar, त्योहार, mela, मेला, fair, Shivaratri, Śivarātri,
+               Mahashivratri, Nagpanchami, Dussehra, Diwali, procession, yatra, yātrā, यात्रा,
+               folklore, lokakatha, लोककथा, legend, kimvadanti, किंवदंती, tale, katha, kathā, कथा,
+               oral history, memory, recollection, elders, song, folk song, lokgeet, लोकगीत,
+               proverb, saying, kahavat, folk performance, belief, miracle, popular tradition,
+               local story, anecdote, what people say]
+    negative_keywords: [stratigraphy, streamflow, adhisthana moulding, revenue settlement]
+
+  - id: C16
+    title: "Conquests and Regimes"
+    scope: "Decline of the socio-economic hub of Madhya Bharat; invasions, political shifts."
+    descriptor: >
+      Decline, conquest and the succession of regimes. The fall of the Paramaras and the
+      end of Malwa's independence; the Delhi Sultanate, Alauddin Khalji and the Khaljis of
+      Malwa; the Malwa Sultans at Mandu, Hoshang Shah and Mahmud Khalji; Mughal annexation
+      and subahdars; iconoclasm, the destruction and desecration of temples and their
+      conversion; the Marathas, Scindia, Holkar and Peshwa authority; the Bhopal state and
+      the princely order; British paramountcy, the Central India Agency and colonial
+      administration; the long contraction of a place that had been a centre and became a
+      periphery.
+    keywords: [conquest, invasion, decline, fall, Delhi Sultanate, Alauddin Khalji, Khalji,
+               Malwa Sultanate, Mandu, Hoshang Shah, Mahmud Khalji, Ghaznavid, Mahmud of Ghazni,
+               iconoclasm, desecration, destruction of temples, conversion of temple,
+               Mughal, Akbar, subah, subahdar, Maratha, Scindia, Holkar, Peshwa, Bhopal state,
+               Nawab, princely state, British, colonial, Central India Agency, political agent,
+               paramountcy, annexation, plunder, raid, warfare, siege, decline of trade]
+    negative_keywords: [shikhara typology, Puranic tirtha, soil type, present-day tourism]
+
+  - id: C17
+    title: "Archaeologists, Laws and Repairs"
+    scope: "Making Udaypur a 'monument'; ASI, heritage law, conservation history, post-Independence."
+    descriptor: >
+      How the temple became a monument. Early antiquarian visits and the reports of
+      Cunningham and the Archaeological Survey; surveys, photographs, plans and drawings;
+      declaration as a protected monument and the legislation behind it — the Ancient
+      Monuments Preservation Act, the 1958 Act and its amendments, prohibited and regulated
+      areas; conservation practice, repair, restoration, underpinning and re-setting of
+      stones; the ASI Bhopal Circle and its work; INTACH listing and documentation; state
+      archaeology departments; encroachment, notification and disputes; museums, site
+      management, signage and the apparatus of official heritage after Independence.
+    keywords: [Archaeological Survey of India, ASI, Cunningham, antiquarian, survey report,
+               annual report, protected monument, notification, Ancient Monuments Preservation Act,
+               AMASR Act 1958, heritage law, prohibited area, regulated area, conservation,
+               restoration, repair, preservation, underpinning, resetting, chemical treatment,
+               INTACH, listing, documentation, state archaeology, museum, site management,
+               encroachment, custodian, Bhopal Circle, plan drawing, photograph, epigraphist,
+               post-independence, monument status]
+    negative_keywords: [Puranic myth, dynasty genealogy, monsoon, caste structure]
+
+  - id: C18
+    title: "Present Tense"
+    scope: "How the town lives with its past today (anchored on Udaypur Jagta hua Kasba)."
+    descriptor: >
+      The town now. Everyday life in present-day Udaypur and how it coexists with the
+      temple; the eight thousand people of a small kasba on the margin; local government,
+      panchayat and municipality; schools, roads, electricity, water supply and services;
+      shops, employment and the young leaving for work; tourists and pilgrims and what
+      they bring; the temple as a living place of worship rather than an exhibit; what
+      residents say about their own town, its neglect and its possibilities; reportage and
+      first-person observation of the contemporary settlement.
+    keywords: [present day, today, contemporary, kasba, कस्बा, town life, Jagta Hua Kasba,
+               कथा उदयपुर, small town, residents, inhabitants, panchayat, पंचायत, municipality,
+               nagar palika, local government, school, road, electricity, water supply, sanitation,
+               shop, employment, unemployment, youth, migration to city, tourist, pilgrim,
+               visitor, living temple, worship today, neglect, development, interview, reportage,
+               observation, village life now]
+    negative_keywords: [praśasti, palaeography, Gupta stratigraphy, dynasty succession]
+
+  - id: AW
+    title: "Afterword"
+    scope: "Present-day conservation attempts, the village's struggles, and how to improve them."
+    descriptor: >
+      What should be done. Current conservation efforts at the temple and in the town and
+      how well they are working; the condition of the fabric, decay, damage, water ingress,
+      vegetation and structural distress; the gap between heritage protection on paper and
+      on the ground; community involvement, local stewardship and who actually cares for
+      the site; tourism development, its promise and its harm; funding, institutional
+      capacity and neglect; proposals, recommendations and possible futures for a place
+      that deserves better; the ethics and the argument of conservation.
+    keywords: [conservation today, current condition, deterioration, decay, damage, water ingress,
+               seepage, vegetation growth, structural distress, cracks, weathering, neglect,
+               maintenance, upkeep, intervention, adaptive reuse, community participation,
+               stewardship, local involvement, awareness, tourism development, visitor management,
+               carrying capacity, funding, grant, institutional capacity, policy gap,
+               recommendation, proposal, way forward, future, sustainable, ethics of conservation,
+               what can be done, improvement]
+    negative_keywords: [Puranic reference, dynasty genealogy, palaeography, streamflow]

@@ -1,0 +1,138 @@
+# =============================================================================
+# Stage 2 — source-level judgements (EDITABLE). Separate from the Stage 1
+# registry, which records facts about each source; this file records opinions
+# about them, so you can overrule them without touching provenance.
+#
+# reliability (0–1): the author's / institution's authority and track record
+#   for the kind of claim the book will take from it. Spec B2: "Independent
+#   of any single claim." It never reads a chunk. It is NOT claim credibility
+#   (B3), which is computed per chunk and can be high in a weak source or low
+#   in a strong one.
+#
+#   Scale used:
+#     0.90  standard scholarly authority, peer-reviewed / canonical
+#     0.80  sound specialist scholarship or official survey
+#     0.70  competent but dated, derivative, or poorly transcribed
+#     0.60  knowledgeable non-specialist; popular or advocacy work
+#     0.40  weak venue or unverifiable apparatus
+#     0.30  out-of-scope polemic (contextual only)
+#
+# chapter_prior: where this source is expected to contribute. Adds to the
+#   chunk's lexical/dense relevance (weight in kb3/chapters.yaml), so a
+#   Tiwari chunk about a lane walk lands in C16 even if it never says
+#   "present-day". Keep these sparse: a prior is a nudge, not a bucket.
+# =============================================================================
+
+sources:
+  skanda-xiii:
+    reliability: 0.80
+    basis: "Standard AITM translation (Motilal Banarsidass). Reliable as a witness to what the Purāṇa says; its register is mythic, and claim credibility, not this score, keeps myth from reading as event."
+    chapter_prior: {C1: 0.6, C10: 0.5, C13: 0.3}
+  hardy-2007:
+    reliability: 0.90
+    basis: "Leading authority on Bhūmija and Nāgara architecture; university-press monograph."
+    chapter_prior: {C7: 0.6, C5: 0.2}
+  kumar-2023-betwa:
+    reliability: 0.80
+    basis: "Peer-reviewed hydrology on measured data."
+    chapter_prior: {C2: 0.8}
+  singh-1984-bhoja:
+    reliability: 0.70
+    basis: "Competent dynastic monograph; OCR heavily damaged; the only source for 'nephew', which primary inscriptions contradict (claims register K1)."
+    chapter_prior: {C5: 0.7, C10: 0.3}
+  bhojdev-hi:
+    reliability: 0.60
+    basis: "Author unnamed; literary study. Useful for Sanskrit quotation, weaker for chronology."
+    chapter_prior: {C5: 0.5, C10: 0.4}
+  intach-geoheritage:
+    reliability: 0.80
+    basis: "INTACH Bhopal survey: drone and total-station measurement. Authority for physical measurements; less so for history, which it restates."
+    chapter_prior: {C3: 0.7, C9: 0.5, C2: 0.3, AF: 0.3}
+  gupte-1972:
+    reliability: 0.70
+    basis: "Iconographic handbook; general, not Udaypur-specific."
+    chapter_prior: {C7: 0.4, C10: 0.3}
+  intach-2022-udaypur:
+    reliability: 0.75
+    basis: "INTACH listing with GPS and condition notes (strong); history sections restate secondary sources, sometimes loosely (e.g. 'Bhoja was Udayāditya's brother' from 'Jain inscriptions')."
+    chapter_prior: {C9: 0.6, C8: 0.3, C15: 0.3, AF: 0.3}
+  tiwari-jhk-en:
+    reliability: 0.60
+    basis: "Journalist's first-person heritage-walk account, self-described as opinion. Strong on what the author saw and was told (observation, folklore); reports historians' readings second-hand. Spec C6 safeguard: never quarantined wholesale."
+    chapter_prior: {C16: 0.8, C13: 0.5, AF: 0.5, C15: 0.3}
+  tiwari-jhk-hi:
+    reliability: 0.60
+    basis: "Hindi original of the same work (work_id tiwari-jhk); the EN edition is canonical for quotation."
+    chapter_prior: {C16: 0.8, C13: 0.5, AF: 0.5, C15: 0.3}
+  suryavanshi-2013-betwa:
+    reliability: 0.80
+    basis: "Peer-reviewed climatology, 1901–2003 series."
+    chapter_prior: {C2: 0.8}
+  patil-1952:
+    reliability: 0.80
+    basis: "D. R. Patil, Gwalior/ASI archaeologist; official survey. Dated but first-hand with the monuments."
+    chapter_prior: {C4: 0.4, C6: 0.3, C9: 0.3, C15: 0.3}
+  patil-composite-inscriptions:
+    reliability: 0.65
+    basis: "Composite reproducing Patil 1952, with added material partly AI-restated ([cite:] markers). Same work_id as patil-1952: not an independent witness."
+    chapter_prior: {C8: 0.5, C9: 0.3}
+  patil-composite-temples:
+    reliability: 0.65
+    basis: "Composite of Patil 1952 plus 'Some Paramāra Temples'; same work_id cluster."
+    chapter_prior: {C7: 0.4, C9: 0.3}
+  ganguly-paramara:
+    reliability: 0.90
+    basis: "Standard dynastic history; heavily footnoted to Epigraphia Indica. Authority for chronology and genealogy."
+    chapter_prior: {C5: 0.6, C4: 0.4, C14: 0.4, C6: 0.3}
+  parmar-2025-origins:
+    reliability: 0.40
+    basis: "Short article in a low-tier multidisciplinary journal; presents the agnikula myth as validated history (claims register K7)."
+    chapter_prior: {C5: 0.4}
+  rajpurohit-bhoj-en:
+    reliability: 0.65
+    basis: "Regional study in translation; useful on Paramāra town planning, weak apparatus."
+    chapter_prior: {C5: 0.4, C9: 0.3, C10: 0.3}
+  samarangana:
+    reliability: 0.75
+    basis: "Primary śāstra in a standard translation; 18% of chunks carry AI-restatement markers. Those are penalised in claim credibility, not here."
+    chapter_prior: {C7: 0.4, C10: 0.4, C5: 0.3}
+  singh-serpentine:
+    reliability: 0.90
+    basis: "Specialist epigraphic study (2023) of the Udaypur serpentine inscription."
+    chapter_prior: {C8: 0.9}
+  adhikari-2013-un:
+    reliability: 0.75
+    basis: "Doctoral-level study of Paramāra temples at Un; sound on architecture."
+    chapter_prior: {C7: 0.4, C5: 0.2}
+  singh-temple-economics:
+    reliability: 0.30
+    basis: "Contemporary policy tract, not about Udaypur. contextual_background: retained only where it clears a chapter threshold, never cited as a Udaypur claim."
+    chapter_prior: {}
+  deva-1969-temples:
+    reliability: 0.85
+    basis: "Krishna Deva, ASI; concise standard survey."
+    chapter_prior: {C7: 0.4}
+  kramrisch-1946-v1:
+    reliability: 0.90
+    basis: "Classic study of temple form and symbolism."
+    chapter_prior: {C7: 0.5, C10: 0.3}
+  kramrisch-1946-v2:
+    reliability: 0.90
+    basis: "Second volume of the same work (work_id kramrisch-1946)."
+    chapter_prior: {C7: 0.5, C10: 0.3}
+  pande-udayesvara:
+    reliability: 0.85
+    basis: "Monograph on the temple itself; the primary modern authority on the building. Quotes Beglar's Aurangzeb legend, then corrects it."
+    chapter_prior: {C7: 0.8, C6: 0.4, C10: 0.4, C8: 0.3}
+  vidisha-gazetteer-1979:
+    reliability: 0.70
+    basis: "Official district gazetteer; baseline for demography and economy. 36% of chunks AI-restated ([cite:] markers), which is penalised per chunk."
+    chapter_prior: {C11: 0.6, C12: 0.6, C2: 0.3, C14: 0.3, C15: 0.2}
+  rajamartanda-bhoja:
+    reliability: 0.85
+    basis: >-
+      Standard scholarly edition (Ram Shankar Bhattacharya, Bharatiya Vidya Prakashan) of a work
+      composed by Bhoja Paramāra himself, verified from the title page. High authority for Bhoja's
+      learning and authorship. The scan's cropped line-ends are a per-chunk quotability problem
+      (is_quotable=false on needs_recheck pages), not a reliability problem with the source.
+    chapter_prior: {C5: 0.6, C10: 0.4}

@@ -1,0 +1,272 @@
+# =============================================================================
+# kb3/chapters.yaml — chapter profiles (spec F). EDITABLE. Re-run
+# `python stage2_build.py` after editing: it re-scores relevance and re-buckets
+# from the stored vectors, without re-embedding.
+#
+# Seed terms are specific on purpose. Generic words ("now", "road", "tree",
+# "Hindi", "should be") were removed after a test build: they matched śāstra
+# and translation boilerplate and put 373 primary-text chunks into C16.
+#
+# RELEVANCE SCORE for chunk c against chapter k
+#   The spec was truncated at this point, so this formula is mine. It is
+#   documented here so you can replace it.
+#
+#     r(c,k) = w_lex·L(c,k) + w_dense·D(c,k) + w_prior·P(c,k)        ∈ [0,1]
+#
+#   L  lexical fit. Seed-term hits, each weighted by inverse document
+#      frequency, so "temple" (everywhere) counts far less than "Bhūmija" or
+#      "varṇanāgakṛpāṇikā". Saturated as 1 − exp(−Σ idf·log(1+tf) / tau), so
+#      ten mentions are not ten times the evidence of one.
+#   D  semantic fit. bge-m3 cosine between the chunk and the chapter's
+#      `description`, rescaled per chapter against the corpus distribution
+#      (mean → 0, 99th percentile → 1). Catches passages on-topic in words the
+#      seed list lacks, including Hindi.
+#   P  source prior from kb3/source_scores.yaml (e.g. Tiwari → C16).
+#
+#   A chunk is BUCKETED into k when r(c,k) ≥ bucket_threshold AND its
+#   epistemic_status is in the chapter's `welcome` or `admitted` list.
+#   `anchor` (optional) also buckets chunks by source + status/tag, where a
+#   chapter is DEFINED by a source (C16 = Jagta Hua Kasba).
+#   A chunk that clears no chapter at irrelevant_below goes to the review
+#   queue → quarantine (reason: irrelevant). Spec C1: never deleted. Without
+#   the dense component the irrelevance call is too weak to act on, so those
+#   chunks stay active and are only queued for review.
+#
+# EPISTEMIC TOLERANCE
+#   welcome   bucketed and ranked at full weight
+#   admitted  bucketed, ranked with the chapter's admitted_penalty at query time
+#   (absent)  scored, but not bucketed in this chapter
+#   Folklore and opinion are tags, not statuses. `welcome_tags` lets C13/C16
+#   admit folklore- or opinion-tagged chunks at full weight whatever their
+#   status (spec C6).
+#
+# preferred_source_types: boost at query time within the chapter's ranking
+#   (evidentiary rank), never used for bucket membership (topical fit). The
+#   spec keeps these two decisions apart.
+# =============================================================================
+
+weights: {lexical: 0.40, dense: 0.45, prior: 0.15}
+lexical_tau: 4.0
+contextual_extra_threshold: 0.15   # contextual_background needs bucket_threshold + this, and is only ever 'admitted'
+udaypur_specific_boost: 1.10       # query-time boost for chunks naming the town, temple or king
+bucket_threshold: 0.30
+irrelevant_below: 0.15
+admitted_penalty: 0.85
+preferred_type_boost: 1.10
+
+chapters:
+  - id: C1
+    title: "Udaypur and Early Vidisha: A Small Town with a Long Memory"
+    description: >-
+      Ancient and scriptural references to Vidisha, Besnagar, Bhilsa and the Udaypur region;
+      prehistory and early historic Vidisha; the Heliodorus pillar; Sanchi; Purāṇic sacred
+      geography and tīrthas of the Betwa (Vetravatī); Śuṅga and Maurya Vidisha; early names of the place.
+    seed_terms: [Vidisha, Vidiśā, Besnagar, Bhilsa, Bhelsa, Heliodorus, Sanchi, Sāñcī, Vetravati, Vetravatī,
+      Udayagiri, Śuṅga, Sunga, Maurya, Ashoka, Aśoka, prehistoric, prehistory, rock shelter, microlith,
+      Purana, Purāṇa, tirtha, tīrtha, Dasharna, Daśārṇa, Akara, विदिशा, बेसनगर, भिलसा, वेत्रवती, उदयगिरि]
+    preferred_source_types: [primary_scriptural, primary_epigraphic, secondary_core]
+    welcome: [factual, observation, inference]
+    admitted: [speculation]
+    welcome_tags: [folklore]
+
+  - id: C2
+    title: "The Betwa Valley: Land, Rivers and Seasons"
+    description: >-
+      Geography of the Betwa basin and the Vidisha plateau: rivers, catchment, streamflow, monsoon
+      rainfall, temperature trends, soils, land use and land cover, drainage and seasons around Udaypur.
+    seed_terms: [Betwa, catchment, basin, streamflow, discharge, rainfall, monsoon, precipitation, temperature,
+      climate, drainage, tributary, watershed, land use, LULC, soil, Malwa plateau, Vindhya, Bina, Halali,
+      Kethan, बेतवा, वर्षा, मानसून, नदी]
+    preferred_source_types: [environmental_scientific, reference_tertiary, field_observation_survey]
+    welcome: [factual, observation, inference]
+    admitted: []
+
+  - id: C3
+    title: "Stones and Forests: Geology, Flora and Fauna"
+    description: >-
+      Geology and landscape of the Udaypur hills: sandstone, Vindhyan rock, mesa and butte, quarries,
+      caves, moraine and erosion; the trees, grasses, birds and animals of the site.
+    seed_terms: [geology, geological, sandstone, Vindhyan, mesa, butte, quarry, quarries, stratum, strata,
+      moraine, erosion, gully, cave, caves, laterite, flora, fauna, vulture, monkey, snake, Palash, Neem,
+      Tamarind, Van Tulsi, खदान, जंगल]
+    preferred_source_types: [field_observation_survey, environmental_scientific]
+    welcome: [factual, observation, inference]
+    admitted: [speculation]
+
+  - id: C4
+    title: "From Avanti to Malwa: Dynasties, Trade Routes and Sacred Cities"
+    description: >-
+      Evolution of the region from Avanti and Ākara-Avanti through Gupta, Pratihāra and Rāṣṭrakūṭa rule to
+      Malwa; Ujjain and Dhara as sacred and royal cities; trade routes such as the Dakshinapatha.
+    seed_terms: [Avanti, Avantī, Malwa, Mālava, Ujjain, Ujjayinī, Ujjayini, Dhara, Dhārā, Mandu, Gupta, Pratihara,
+      Pratihāra, Rashtrakuta, Rāṣṭrakūṭa, Harsha, Kanauj, trade route, Dakshinapatha, Dakṣiṇāpatha,
+      caravan, Kalachuri, Chalukya, Chaulukya, मालवा, उज्जैन, धार, अवंति]
+    preferred_source_types: [secondary_core, secondary_comparative, primary_epigraphic]
+    welcome: [factual, inference]
+    admitted: [observation, speculation]
+
+  - id: C5
+    title: "The Paramāras and Bhoja: Kingship, Learning and Temple Building"
+    description: >-
+      The Paramāra dynasty of Malwa: origins and the agnikula legend, Vākpati Muñja, Sindhurāja, Bhoja's
+      reign, learning, the Samarāṅgaṇa-sūtradhāra, Bhojaśālā, Bhojpur, kingship and patronage of temples.
+    seed_terms: [Paramara, Paramāra, Parmar, Bhoja, Bhoj, Bhojadeva, Munja, Muñja, Vakpati, Vākpati, Sindhuraja,
+      Sindhurāja, Siyaka, Sīyaka, agnikula, Navasahasankacarita, Samarangana, Samarāṅgaṇa, Bhojasala,
+      Bhojaśālā, Bhojpur, Jayasimha, Jayasiṃha, परमार, भोज, मुंज, सिंधुराज]
+    preferred_source_types: [primary_authorial_paramara, secondary_core, primary_epigraphic]
+    welcome: [factual, inference]
+    admitted: [observation, speculation]
+    welcome_tags: [folklore]
+
+  - id: C6
+    title: "Udayāditya's Foundation: Town, Temple and Tank"
+    description: >-
+      Udayāditya Paramāra and the founding of Udaypur: his lineage and relation to Bhoja, his reign, the
+      Udayeśvara temple begun in 1059 and its flagstaff of 1080, the Udayasamudra tank, and the town's plan.
+    # The town's name is NOT a seed term: it runs through the whole corpus
+    # (every Hindi Tiwari chunk says उदयपुर) and pulled 323 of them into C6.
+    seed_terms: [Udayaditya, Udayāditya, Udayasamudra, Udaysagar, Udayasagar,
+      founder, foundation, founded, flagstaff, dhvaja, 1059, 1080, Samvat 1116, Samvat 1137, Naravarman,
+      Jagaddeva, Lakshmadeva, bandhu, Gyata, Jñāta, उदयादित्य, उदयसागर]
+    preferred_source_types: [primary_epigraphic, secondary_core, field_observation_survey]
+    welcome: [factual, inference]
+    admitted: [observation]
+
+  - id: C7
+    title: "Udayeśvara in Stone: Architecture, Sculpture and Iconography"
+    description: >-
+      The Udayeśvara (Nīlakaṇṭheśvara) temple: its Bhūmija plan, śikhara, maṇḍapa, garbhagṛha, stellate
+      plan, mouldings, porches, sculpture, deities, iconography, Naṭarāja, symbolism and Śilpaśāstra canon.
+    seed_terms: [Udayesvara, Udayeśvara, Udayeshwar, Nilakanthesvara, Nīlakaṇṭheśvara, Neelkantheshwar, Nilkantheshwar,
+      Bhumija, Bhūmija, shikhara, śikhara, sikhara, mandapa, maṇḍapa, garbhagriha, garbhagṛha, plinth, pitha,
+      moulding, jangha, jaṅghā, stellate, saptaratha, porch, pillar, iconography, sculpture, Nataraja,
+      Naṭarāja, Shiva, Śiva, linga, liṅga, Ganesha, Durga, Parvati, apsara, kirtimukha, नीलकंठेश्वर, भूमिज, शिखर]
+    preferred_source_types: [secondary_core, secondary_comparative, field_observation_survey]
+    welcome: [factual, observation, inference]
+    admitted: []
+
+  - id: C8
+    title: "Words in Stone: Inscriptions, Languages and the Serpentine Scimitar of Letters"
+    description: >-
+      Inscriptions of Udaypur: the Udaipur praśasti, Sanskrit, Persian and Hindi records, copper-plate grants,
+      dates in Vikrama Saṃvat, and the serpentine grammar chart varṇanāgakṛpāṇikā.
+    seed_terms: [inscription, inscriptions, epigraph, epigraphy, prasasti, praśasti, prashasti, copper plate,
+      copper-plate, grant, Sanskrit, Persian, Nagari, Devanagari, samvat, saṃvat, Vikrama, serpentine,
+      serpent, varna, varṇa, nagakripanika, varṇanāgakṛpāṇikā, grammar, Epigraphia Indica, abhilekh,
+      शिलालेख, अभिलेख, प्रशस्ति, संवत्]
+    preferred_source_types: [primary_epigraphic, secondary_core]
+    welcome: [factual]
+    admitted: [inference, observation]
+
+  - id: C9
+    title: "Built Heritage: Fortifications, Mosques, Shrines and Stepwells"
+    description: >-
+      Structures of Udaypur besides the great temple: the fort wall and gates, mosques including the
+      Tughluq mosque, Bija Mandal, Pisanhari temple, Jain shrines, stepwells (baoli), tanks, palaces, havelis.
+    seed_terms: [fort, fortification, rampart, gate, gateway, bastion, mosque, masjid, Tughluq, Tughlaq, Bija Mandal,
+      Pisanhari, Jain, stepwell, baoli, bavdi, tank, talab, Bhujariya, palace, haveli, chhatri, shrine,
+      Shambhuji, मस्जिद, बावड़ी, किला, तालाब, महल]
+    preferred_source_types: [field_observation_survey, secondary_core]
+    welcome: [factual, observation, inference]
+    admitted: []
+
+  - id: C10
+    title: "Ritual and Knowledge: Śaiva Traditions and Intellectual Worlds"
+    description: >-
+      Śaiva Siddhānta, Pāśupata and tantric traditions; ritual, pūjā and temple worship; the learned world of
+      Paramāra Malwa — poets, grammar, śāstra and scholarship; culture and way of life.
+    seed_terms: [Saiva, Śaiva, Shaiva, Siddhanta, Siddhānta, Pasupata, Pāśupata, tantra, tantric, ritual, puja, pūjā,
+      worship, agama, āgama, mantra, yantra, acharya, ācārya, poet, kavi, grammar, scholarship, learning,
+      Sanskrit literature, शैव, पूजा, अनुष्ठान]
+    preferred_source_types: [primary_authorial_paramara, primary_scriptural, secondary_core]
+    welcome: [factual, inference]
+    admitted: [observation, speculation]
+
+  - id: C11
+    title: "Fields, Wells and Markets: Agriculture, Economy and Crafts"
+    description: >-
+      Agriculture, crops, irrigation from wells and tanks, markets and bazaars, stone-quarrying and stone
+      crafts, trade, land revenue and the rural economy around Udaypur and Vidisha district.
+    seed_terms: [agriculture, crops, wheat, gram, soybean, irrigation, market, bazaar, haat,
+      craft, crafts, artisan, stone-cutter, quarrying, land revenue, cultivator, cultivators, कृषि, बाजार,
+      खेती, कारीगर]
+    preferred_source_types: [reference_tertiary, field_observation_survey]
+    welcome: [factual, observation, inference]
+    admitted: []
+
+  - id: C12
+    title: "People of the Plateau: Communities, Languages and Everyday Life"
+    description: >-
+      Communities, castes and tribes of Udaypur and Vidisha; languages and dialects such as Malvi and
+      Bundeli; population, households, dress, food and everyday life.
+    seed_terms: [caste, castes, tribe, tribal, population, census, household, households, dialect,
+      Malvi, Bundeli, Brahmin, Ahirwar, Kushwaha, everyday life, जाति, समुदाय, बोली]
+    preferred_source_types: [reference_tertiary, field_observation_reportage]
+    welcome: [factual, observation, inference]
+    admitted: []
+
+  - id: C13
+    title: "Stories of Udaypur: Festivals, Folklore and Oral Histories"
+    description: >-
+      Festivals, fairs, legends, folk tales and oral histories of Udaypur: what local people say about the
+      temple, the kings, the mosque and the hills; Mahashivratri and Nagpanchami fairs; songs and memory.
+    seed_terms: [legend, legends, folklore, folk, tale, story, oral, tradition, festival, fair, mela, Shivratri,
+      Mahashivratri, Nagpanchami, villagers, elders, belief, myth, song, किंवदंती, लोककथा, मेला, त्योहार,
+      कहानी, मान्यता]
+    preferred_source_types: [field_observation_reportage, primary_scriptural]
+    welcome: [observation, factual]
+    admitted: [inference, speculation]
+    welcome_tags: [folklore, opinion]
+
+  - id: C14
+    title: "Conquests and Regimes: Decline of the Socio-Economic Hub of Madhya Bharat"
+    description: >-
+      Conquests and changing regimes after the Paramāras: Iltutmish's sack of Vidisha, the Delhi Sultanate
+      and Tughluqs, the Malwa Sultanate, Mughal sarkars, Marathas and Scindia rule, and Udaypur's decline.
+    seed_terms: [Iltutmish, Sultanate, Delhi Sultan, Tughluq, Tughlaq, Khalji, Alauddin, Malwa Sultanate, Mandu,
+      Mughal, Akbar, Aurangzeb, Babur, Chanderi, sarkar, Maratha, Scindia, Sindhia, Gwalior State, conquest,
+      invasion, invaded, decline, plunder, मुगल, सल्तनत, सिंधिया]
+    preferred_source_types: [secondary_core, primary_epigraphic, reference_tertiary]
+    welcome: [factual, inference]
+    admitted: [observation, speculation]
+    welcome_tags: [folklore]
+
+  - id: C15
+    title: "Archaeologists, Laws and Repairs: Making Udaypur a 'Monument'; Udaypur in Independent India"
+    description: >-
+      Archaeological discovery and documentation of Udaypur: Cunningham, Beglar, Gwalior State archaeology,
+      the Archaeological Survey of India, protection under monument laws, conservation and repairs, and the
+      town in independent India.
+    seed_terms: [Cunningham, Beglar, Archaeological Survey, ASI, Gwalior State, archaeology department,
+      protected monument, Ancient Monuments, AMASR, conservation, restoration, repair, repairs, excavation,
+      survey report, INTACH, notification, heritage, पुरातत्व, संरक्षण, स्मारक]
+    preferred_source_types: [field_observation_survey, reference_tertiary, secondary_core]
+    welcome: [factual, observation, inference]
+    admitted: []
+
+  - id: C16
+    title: "Present Tense: How the Town Lives with Its Past Today"
+    description: >-
+      Udaypur today, as in Jagta Hua Kasba: the lanes, the people, the heritage walks, the panchayat,
+      encroachment and road-widening, officials and visitors, and how residents live with the temple and ruins.
+    seed_terms: [heritage walk, panchayat, sarpanch, villagers, residents, encroachment, road-widening,
+      tourists, collector, MLA, Facebook, Katha Udaipur, INTACH team, पंचायत, अतिक्रमण, पर्यटक]
+    preferred_source_types: [field_observation_reportage, field_observation_survey]
+    welcome: [observation, factual, inference]
+    admitted: [speculation]
+    welcome_tags: [opinion, folklore]
+    # C16 is defined as "based on Jagta Hua Kasba": its firsthand observation
+    # belongs here whatever words it uses (spec C6/C7: retain and use it).
+    anchor: {sources: [tiwari-jhk-en, tiwari-jhk-hi], statuses: [observation], tags: [opinion, folklore]}
+
+  - id: AF
+    title: "Afterword: Conservation Today — Struggles of the Village and How to Help"
+    description: >-
+      Conservation needs of Udaypur today: threats to monuments, encroachment, neglect, funding, what
+      government, INTACH and citizens can do, and how readers can help protect the heritage.
+    seed_terms: [conservation, conserve, encroachment, neglect, funding, restoration, INTACH, heritage town, volunteer, संरक्षण, बचाना, बजट]
+    preferred_source_types: [field_observation_reportage, field_observation_survey]
+    welcome: [observation, factual, inference]
+    admitted: [speculation]
+    welcome_tags: [opinion]
+    anchor: {source_types: [field_observation], tags: [opinion]}

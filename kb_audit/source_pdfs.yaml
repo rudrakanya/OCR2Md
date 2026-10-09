@@ -1,0 +1,59 @@
+# =============================================================================
+# Where each book's source document lives, for the OCR-faithfulness audit.
+#
+# Hand-mapped: filename similarity got 11 of 27 right and mis-assigned several
+# (it matched the Patanjali volume to nothing and pointed three books at
+# "Some Paramara Templess.pdf"). Only an explicit map can be trusted here.
+#
+#   pdf      : the source document, relative to the repo root
+#   partial  : true when the PDF covers only part of the book
+#   risk     : why this source needs harder checking than the rest
+#   absent   : the source document is not in the repo, so extracted text
+#              CANNOT be compared against the original pages
+# =============================================================================
+
+sources:
+  ADH:     {pdf: "remaining pdf/Some Paramara Templess.pdf"}
+  BET-K:   {pdf: "remaining texts/Streamflow of the Betwa Rive.pdf"}
+  BET-S:   {pdf: "remaining pdf/Long-termhistoricchangesinclimaticvariablesofBetwa.pdf"}
+  BHJ-H:   {pdf: "remaining pdf/bhojdev.pdf", risk: "Devanagari throughout"}
+  DEV:     {pdf: "remaining texts/Temples of India.pdf"}
+  GUP:     {pdf: "remaining pdf/iconography of hindus, buddhists and jains Gupte.pdf"}
+  INT-ARC: {pdf: "remaining pdf/Intach Udaypur (1).pdf"}
+  KRAM-1:  {pdf: "remaining texts/The Hindu Temple Vol 1 Stella Kramrisch.pdf"}
+  KRAM-2:  {pdf: "remaining texts/The Hindu Temple Vol 2.pdf"}
+  RAJ-E:   {pdf: "remaining pdf/Raja bhoj aur parmarkaleen.pdf", risk: "Hindi original, English translation in the KB"}
+  SIN-T:   {pdf: "remaining texts/Temple Economics.pdf"}
+  SKP-13:  {pdf: "467921465-Skanda-Purana-13-AITM.pdf"}
+
+  # The one the brief singles out: bad binding means gutter skew and inner-margin loss.
+  RAJM:
+    pdf: "Patanjal Yog Sutra with Rajmartand Vritti of Bhojadev by Ram Shankar Bhattarya (bad binding) - Bharatiya Vidya Publication Varanasi.pdf"
+    risk: "bad binding — gutter skew, inner-margin text loss; Sanskrit + Devanagari"
+
+  # Only three chapter extracts of a much larger work are in the repo.
+  SAM:
+    pdf: "input files/Samarangan_Vol2_Chapters_55-60.pdf"
+    also: ["input files/Samarangan_Vol2_Chapters_66-67.pdf",
+           "input files/Samarangan_Vol2_Chapters_71-72.pdf"]
+    partial: true
+    risk: "~18% AI-reworded chunks; page numbers known unreliable; PDF covers only chs 55-60, 66-67, 71-72"
+
+  # Source document not in the repo — faithfulness cannot be checked against pages.
+  GAN:     {absent: true}
+  GAZ-VID: {absent: true, risk: "~36% AI-reworded chunks"}
+  HAR:     {absent: true}
+  INT-GEO: {absent: true}
+  PAN:     {absent: true}
+  PAR:     {absent: true}
+  PAT-CH:  {absent: true}
+  PAT-INS: {absent: true, risk: "composite; inscriptions may be images in the original"}
+  PAT-TEM: {absent: true}
+  SIN-B:   {absent: true}
+  SIN-S:   {absent: true}
+  TIW-E:   {absent: true, risk: "translation of the Hindi original"}
+  TIW-H:   {absent: true, risk: "Devanagari throughout"}
+
+# Present in the repo but NOT part of the knowledge base:
+#   Art of Paramaras.pdf    image-only scan; OCR stopped at p.28/62, never ingested
+#   Inscriptions Corpus.pdf unmapped — check whether it belongs to PAT-INS or SIN-S
