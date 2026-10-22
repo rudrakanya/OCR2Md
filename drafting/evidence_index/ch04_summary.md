@@ -1,0 +1,734 @@
+# C04 evidence index summary
+
+682 items: 221 direct, 461 contextual. Full quotations: `ch04.jsonl`.
+
+## By book
+
+| Book | Tier | Direct | Contextual |
+|---|---|---|---|
+| CII | 1 | 40 | 137 |
+| GANGULY | 5 | 35 | 107 |
+| JAGTA-EN | 8 | 55 | 16 |
+| JAGTA-HI | 8 | 50 | 18 |
+| BHOJA-TIMES | 5 | 7 | 49 |
+| RAJABHOJ-EN | 9 | 2 | 37 |
+| BHOJDEV-HI | 9 | 3 | 32 |
+| PARTEMPLES | 5 | 5 | 10 |
+| MADHYABHARAT | 5 | 4 | 8 |
+| PARMAR-RAJPUT | 9 | 1 | 10 |
+| SAMAR-1 | 4 | 0 | 10 |
+| GAZ | 7 | 5 | 3 |
+| PANDE | 5 | 3 | 4 |
+| YOGASUTRA | 5 | 0 | 6 |
+| ARTPAR | 5 | 1 | 4 |
+| GEOHER | 7 | 4 | 0 |
+| INTACH | 7 | 3 | 0 |
+| HARDY | 5 | 1 | 2 |
+| SAMAR-2 | 5 | 0 | 3 |
+| TEMPLE-ECON | 5 | 0 | 3 |
+| KRAM-2 | 5 | 2 | 0 |
+| KRAM-1 | 5 | 0 | 2 |
+
+## By sub-topic (from the evidence log)
+
+- S1: 142
+- S2: 138
+- S3: 114
+- S4: 62
+- S5: 113
+- S6: 113
+
+## Also-Ch-N cross-references
+
+Ch 1: 6, Ch 10: 23, Ch 11: 1, Ch 2: 2, Ch 3: 8, Ch 5: 29, Ch 6: 84, Ch 7: 16, Ch 8: 15, Ch 9: 4, Economic Condition: 1, at no page; Chapter VII: 1, at p. 170: 1, at p. 43: 1
+
+## Flagged items (⚠, no page)
+
+70 items: C04-BHOJA-TIMES-005, C04-BHOJA-TIMES-029, C04-BHOJA-TIMES-031, C04-BHOJA-TIMES-034, C04-BHOJA-TIMES-038, C04-BHOJA-TIMES-040, C04-BHOJA-TIMES-044, C04-KRAM-2-002, C04-BHOJA-TIMES-001, C04-BHOJA-TIMES-002, C04-BHOJA-TIMES-003, C04-BHOJA-TIMES-004, C04-BHOJA-TIMES-006, C04-BHOJA-TIMES-007, C04-BHOJA-TIMES-008, C04-BHOJA-TIMES-009, C04-BHOJA-TIMES-010, C04-BHOJA-TIMES-011, C04-BHOJA-TIMES-012, C04-BHOJA-TIMES-013, C04-BHOJA-TIMES-014, C04-BHOJA-TIMES-015, C04-BHOJA-TIMES-016, C04-BHOJA-TIMES-017, C04-BHOJA-TIMES-018, C04-BHOJA-TIMES-019, C04-BHOJA-TIMES-020, C04-BHOJA-TIMES-021, C04-BHOJA-TIMES-022, C04-BHOJA-TIMES-023, C04-BHOJA-TIMES-024, C04-BHOJA-TIMES-025, C04-BHOJA-TIMES-026, C04-BHOJA-TIMES-027, C04-BHOJA-TIMES-028, C04-BHOJA-TIMES-030, C04-BHOJA-TIMES-032, C04-BHOJA-TIMES-033, C04-BHOJA-TIMES-035, C04-BHOJA-TIMES-036, C04-BHOJA-TIMES-037, C04-BHOJA-TIMES-039, C04-BHOJA-TIMES-041, C04-BHOJA-TIMES-042, C04-BHOJA-TIMES-043, C04-BHOJA-TIMES-045, C04-BHOJA-TIMES-046, C04-BHOJA-TIMES-047, C04-BHOJA-TIMES-048, C04-BHOJA-TIMES-049, C04-BHOJA-TIMES-050, C04-BHOJA-TIMES-051, C04-BHOJA-TIMES-052, C04-BHOJA-TIMES-053, C04-BHOJA-TIMES-054, C04-BHOJA-TIMES-055, C04-BHOJA-TIMES-056, C04-SAMAR-1-001, C04-SAMAR-1-002, C04-SAMAR-1-003, C04-SAMAR-1-004, C04-SAMAR-1-005, C04-SAMAR-1-006, C04-SAMAR-1-007, C04-SAMAR-1-008, C04-SAMAR-1-009, C04-SAMAR-1-010, C04-SAMAR-2-001, C04-SAMAR-2-002, C04-SAMAR-2-003
+
+## Compact index
+
+ID | kind | book (tier) | page | sub | first 120 characters
+
+- C04-JAGTA-EN-002 | D | JAGTA-EN (T8) | ≈ p. 140 (Hindi original) | S1 | > In the western direction there is a great mountain named Arbund, son of Himagiri — a place of the *siddhi* of accompli
+- C04-JAGTA-EN-003 | D | JAGTA-EN (T8) | ≈ p. 141 (Hindi original) | S1 | > Having slain the enemies, he brought the cow back; then the sage said — "You shall be a king by the name of Paramar." 
+- C04-JAGTA-EN-004 | D | JAGTA-EN (T8) | ≈ p. 141 (Hindi original) | S1 | > In that dynasty there arose an Upendraraja (king) whose fame is sung by the gods along with the whole assembly of *yaj
+- C04-JAGTA-EN-005 | D | JAGTA-EN (T8) | ≈ p. 141 (Hindi original) | S1 | > From him arose Shri Siyaka, whose footstool was long tinted by the jewel-radiance of the crowns of the kings of the ea
+- C04-JAGTA-EN-006 | D | JAGTA-EN (T8) | ≈ p. 141 (Hindi original) | S1 | > His son was Bairisimha, who was as a lion to the king-elephants, who was the mightiest among the valiant, and who set 
+- C04-JAGTA-EN-007 | D | JAGTA-EN (T8) | ≈ p. 141 (Hindi original) | S1 | > From him arose Shri Vakyapati, who was as the sun to the lotus-eyes of the young women of Avanti, who was self-luminou
+- C04-JAGTA-EN-008 | D | JAGTA-EN (T8) | ≈ p. 141 (Hindi original) | S1 | > From him arose a son named Bairisimha, who was famed in the world also by the name Vajratasvami; through the slaying o
+- C04-JAGTA-EN-009 | D | JAGTA-EN (T8) | ≈ p. 142 (Hindi original) | S1 | > His son — who was as an ornament to the entire earth, who was the sole abode of virtues, whose store [of glory] increa
+- C04-JAGTA-EN-010 | D | JAGTA-EN (T8) | ≈ p. 142 (Hindi original) | S1 | > He whose lotus-feet were tinted by the crown-jewels of the (kings of the) Karnata, Lata, Kerala and Chola, and who was
+- C04-JAGTA-EN-011 | D | JAGTA-EN (T8) | ≈ p. 142 (Hindi original) | S1 | > His younger brother Shri Sindhuraja, having vanquished the Huna king, won the fortune of victory (Vijaya-shri); from w
+- C04-JAGTA-EN-012 | D | JAGTA-EN (T8) | ≈ p. 142 (Hindi original) | S1 | > He, desirous of victory over the city of Tripuri, having conquered the Yuvaraja in battle and slain his commanders, ra
+- C04-JAGTA-EN-013 | D | JAGTA-EN (T8) | ≈ p. 142 (Hindi original) | S1 | > From him arose Shri Harshadeva, whose kettledrum-blast was as splendid as the roar of the great elephants roaring amid
+- C04-JAGTA-EN-019 | D | JAGTA-EN (T8) | ≈ p. 143 (Hindi original) | S2 | > The armies of the Karnata, the Lord of Lata, the Gurjar king, and the Turks — chief among them the Chedi king Indrath,
+- C04-JAGTA-EN-020 | D | JAGTA-EN (T8) | ≈ p. 143 (Hindi original) | S2 | > He who, all around, by constructing temples of Kedareshvar, Rameshvar, Somnath, Sundir, Kala, Anal, Rudra and the rest
+- C04-JAGTA-EN-021 | D | JAGTA-EN (T8) | ≈ p. 143 (Hindi original) | S2 | > What he accomplished (won), what he ordained, what he gave, what he knew — no other could do. What greater praise than
+- C04-JAGTA-EN-023 | D | JAGTA-EN (T8) | ≈ p. 45 (Hindi original) | S3 | This is the story of the great achievement of the Paramara kings, to whose glory a king named Udayaditya, King Bhoj's su
+- C04-JAGTA-EN-024 | D | JAGTA-EN (T8) | ≈ p. 63 (Hindi original) | S3 | After all, Udaipur too has a deep relation with Raja Bhoj. Udayaditya became Maharaja only after him. Bhoj must have bee
+- C04-JAGTA-EN-025 | D | JAGTA-EN (T8) | ≈ p. 96 (Hindi original) | S3 | The king Udayaditya, after whose name this city was named, is the 12th king of the Paramara dynasty. He is a kinsman (*b
+- C04-JAGTA-EN-026 | D | JAGTA-EN (T8) | ≈ p. 131 (Hindi original) | S3 | In its second shloka is — "The illustrious Pawar (Paramar) dynasty's king, a brave warrior, became a learned king who es
+- C04-JAGTA-EN-027 | D | JAGTA-EN (T8) | ≈ p. 132 (Hindi original) | S3 | But in the writings of Kakanadabot (Sanchi) and Udayagiri, respectively, Amrakardava *[the source reads "आत्रकादवर्द" — 
+- C04-JAGTA-EN-028 | D | JAGTA-EN (T8) | ≈ p. 132 (Hindi original) | S3 | He says that the mention of this 'Pata' or 'Jnata' as the father of Udayaditya is a point that makes new gestures. One m
+- C04-JAGTA-EN-029 | D | JAGTA-EN (T8) | ≈ p. 132 (Hindi original) | S3 | One more such link joins in, from the Shorgadh inscription of Udayaditya. In its fifth and sixth lines it is said that: 
+- C04-JAGTA-EN-030 | D | JAGTA-EN (T8) | ≈ p. 132 (Hindi original) | S3 | It may also be that when the combined armies of the Chalukyas of Kalyani and the Karnatas attacked the capital Dhara and
+- C04-JAGTA-EN-031 | D | JAGTA-EN (T8) | ≈ p. 133 (Hindi original) | S3 | > That is — "The Shiva-devotee (Bhojdev), whose splendour was like the sun, having departed to heaven — when the whole e
+- C04-JAGTA-EN-032 | D | JAGTA-EN (T8) | ≈ p. 133 (Hindi original) | S3 | > That is — "On that one's (Bhojdev's) attaining the kinship of Indra (i.e., passing away), and the kinsmen (*kautumbik*
+- C04-JAGTA-EN-033 | D | JAGTA-EN (T8) | ≈ p. 134 (Hindi original) | S3 | The Nagpur inscription is that of King Narvarman, son of King Udayaditya, who, after Udayaditya, became the next king of
+- C04-JAGTA-EN-034 | D | JAGTA-EN (T8) | ≈ p. 134 (Hindi original) | S3 | > This means — "He whose father was Udayaditya, and whose *pitrivya* — that is, paternal uncle — was Dev Bhojraj: these 
+- C04-JAGTA-EN-035 | D | JAGTA-EN (T8) | ≈ p. 134 (Hindi original) | S3 | > That is — "After him (Bhoj Dev), his brother Udayadity rose to eminence — he who rescued the land of Malava, which had
+- C04-JAGTA-EN-036 | D | JAGTA-EN (T8) | ≈ p. 134 (Hindi original) | S3 | Jagdev was the third and youngest prince of his father Udayadity (as his inscriptions tell us). Older than him were two 
+- C04-JAGTA-EN-037 | D | JAGTA-EN (T8) | ≈ p. 135 (Hindi original) | S3 | Now the last knot that remains is this: if King Bhoj and King Udayadity were both "*sahodar*" (uterine brothers, born of
+- C04-JAGTA-EN-038 | D | JAGTA-EN (T8) | ≈ p. 135 (Hindi original) | S3 | In it comes the name of Professor Franz Kielhorn, who held this very view [that they were brothers]. Then, on this issue
+- C04-JAGTA-EN-039 | D | JAGTA-EN (T8) | ≈ p. 143 (Hindi original) | S3 | > On the departure to heaven of the Shiva-devotee (King Bhoj), whose splendour was like the sun — when the whole earth, 
+- C04-JAGTA-EN-040 | D | JAGTA-EN (T8) | ≈ p. 167 (Hindi original) | S3 | In passing: the famous Udayagiri caves near Vidisha; Udaipur, seventy km from Vidisha; and, in this same town, the Udays
+- C04-JAGTA-EN-041 | D | JAGTA-EN (T8) | ≈ p. 12 (Hindi original) | S4 | The Saraswati-kanthabharana of Dhar, Ujjain and Mandu have been proof of this — as also the historical assembly-hall (*s
+- C04-JAGTA-EN-042 | D | JAGTA-EN (T8) | ≈ p. 17 (Hindi original) | S4 | It was a small place situated five hundred kilometres from Dhar, the capital of the Paramaras, on their border — which c
+- C04-JAGTA-EN-043 | D | JAGTA-EN (T8) | ≈ p. 18 (Hindi original) | S4 | This place's fame is from the Neelkantheshwar temple, which was built by Maharaj Udayaditya, who came in the generation 
+- C04-JAGTA-EN-044 | D | JAGTA-EN (T8) | ≈ p. 19 (Hindi original) | S4 | It is very possible that Crown-Prince Udayaditya was sent, in his father's time, to Udaipur situated on the border of th
+- C04-JAGTA-EN-045 | D | JAGTA-EN (T8) | ≈ p. 80 (Hindi original) | S4 | In the Paramaras' time this was the Sabha Mandal — the city's important Brahmasthan. It was a vast temple precinct, whic
+- C04-JAGTA-EN-046 | D | JAGTA-EN (T8) | ≈ p. 96 (Hindi original) | S4 | Udaipur was on the geographic border of the Paramara dynasty, which was strategically important. On the hill adjoining U
+- C04-JAGTA-EN-048 | D | JAGTA-EN (T8) | ≈ p. 137 (Hindi original) | S4 | In the first to sixth lines is a description of some important military victories of Udayadity. Among these vanquished o
+- C04-JAGTA-EN-049 | D | JAGTA-EN (T8) | ≈ p. 138 (Hindi original) | S4 | As far as Udaipur is concerned, it is evident from its very name that it is related to King Udayadity. The fact that no 
+- C04-JAGTA-EN-050 | D | JAGTA-EN (T8) | ≈ p. 138 (Hindi original) | S4 | In Vidisha district, Jaisingh is probably the first Paramara ruler whose writing is found here. In this one too, the gen
+- C04-JAGTA-EN-051 | D | JAGTA-EN (T8) | ≈ p. 138 (Hindi original) | S4 | King Udayadity's reign lay between 1070 and 1093.
+- C04-JAGTA-EN-052 | D | JAGTA-EN (T8) | ≈ p. 143 (Hindi original) | S4 | > The task of rescuing the earth that the Varaha (Boar) avatar performed — that same task of lifting up the land, this P
+- C04-JAGTA-EN-053 | D | JAGTA-EN (T8) | ≈ p. 160 (Hindi original) | S4 | Udaipur, Udaydit had fashioned with his whole heart. These descendants of King Bhoj were the governor of this last edge 
+- C04-JAGTA-EN-056 | D | JAGTA-EN (T8) | ≈ p. 22 (Hindi original) | S5 | Udaipur can be part of a deep research project, in which Raja Bhoj's town-planning is an important subject. It has been 
+- C04-JAGTA-EN-057 | D | JAGTA-EN (T8) | ≈ p. 58 (Hindi original) | S5 | The vastness of the Vijay Mandir is, in comparison with Udaipur's temple, quite different and magnificent. It must have 
+- C04-JAGTA-EN-058 | D | JAGTA-EN (T8) | ≈ p. 70 (Hindi original) | S5 | The rulers of the Paramara dynasty were worshippers of Shiva, and in their long rule of three or four hundred years, the
+- C04-JAGTA-EN-061 | D | JAGTA-EN (T8) | ≈ p. 111 (Hindi original) | S5 | It is very possible that when Udayaditya, becoming king, departed for the capital Dhar, then this beloved character of h
+- C04-JAGTA-EN-062 | D | JAGTA-EN (T8) | ≈ p. 138 (Hindi original) | S5 | From the knowers of the Nagari script it is learned that its primary ruler was possibly one Rudraditya. This inscription
+- C04-JAGTA-EN-063 | D | JAGTA-EN (T8) | ≈ p. 58 (Hindi original) | S6 | In the old settlement of today's Vidisha, the most special of all is that very Vijay Mandir, which was built by the Para
+- C04-JAGTA-EN-065 | D | JAGTA-EN (T8) | ≈ p. 78 (Hindi original) | S6 | Whichever king may have had it started, I feel he wanted to leave behind his predecessor king Udayaditya — exactly like 
+- C04-JAGTA-EN-066 | D | JAGTA-EN (T8) | ≈ p. 79 (Hindi original) | S6 | It is very possible that this is an episode of the later period of the Paramaras. Whatever emerged, emerged as much as i
+- C04-JAGTA-EN-067 | D | JAGTA-EN (T8) | ≈ p. 106 (Hindi original) | S6 | In the form of the Vijay Mandir, Maharaj Udayaditya's son, and the 13th Maharaj of the Paramara dynasty, Narvarman, made
+- C04-JAGTA-EN-071 | D | JAGTA-EN (T8) | ≈ p. 146 (Hindi original) | S6 | Worthy of note, too, is that long before the date of the inscription, Devpaldev had already begun sitting upon the royal
+- C04-JAGTA-HI-001 | D | JAGTA-HI (T8) | p. 139 | S1 | अपने पाँच शताब्दियों के लम्बे काल में महात्वाकांक्षी परमार राजाओं ने एक बड़े भूभाग पर अपनी सीमाओं का विस्तार किया। उनका 
+- C04-JAGTA-HI-002 | D | JAGTA-HI (T8) | p. 140 | S1 | की गाय का बलात् हरण किया, तब उन (वसिष्ठ) के प्रभाव से अग्निकुण्ड में से एक वीर उत्पन्न हुआ जिसने अकेले ही शत्रु सैन्य का
+- C04-JAGTA-HI-003 | D | JAGTA-HI (T8) | p. 140 | S1 | उस वंश में अखिल यज्ञ समूह से तूभ देवताओं के द्वारा जिसकी कीर्ति गाई जा रही है व जो द्विज समूह में रत्न के समान हैं और जि
+- C04-JAGTA-HI-004 | D | JAGTA-HI (T8) | p. 140 | S1 | उसका पुत्र बैरिसिंह था जो राजारूपी हाथियों के लिये सिंह के समान था, जो पराक्रमियों में सबसे बलवान था और जिसने चारों समुद
+- C04-JAGTA-HI-005 | D | JAGTA-HI (T8) | p. 140–141 | S1 | उसके श्री सीयक (उत्पन्न) हुआ जिसका पादपीठ पृथ्वी के नरेशों के मुकुटों के रत्नप्रभा से रंजित होता था तथा जिसकी तलवार की ज
+- C04-JAGTA-HI-006 | D | JAGTA-HI (T8) | p. 141–142 | S1 | उसका पुत्र जो संपूर्ण पृथ्वी के लिये आभूषण रूप था, जो गुणों का एकमात्र आश्रय था, शौर्य से जीते समस्त शत्रुओं से धन प्राप
+- C04-JAGTA-HI-007 | D | JAGTA-HI (T8) | p. 142 | S1 | त्रिपुरी नगरी में विजय की इच्छा करने वाले उसने युद्ध में युवराज को जीतकर तथा उसके सेनापतियों को मार कर अपनी खड्ग को ऊंचा
+- C04-JAGTA-HI-008 | D | JAGTA-HI (T8) | p. 142 | S1 | उसके छोटे भाई श्री सिंधुराज ने हूणराज को जीत कर विजयश्री प्राप्त की, जिससे भोजराज उत्पन्न हुआ, जिसने उत्तम व्यक्तियों को
+- C04-JAGTA-HI-013 | D | JAGTA-HI (T8) | p. 142 | S2 | जिसने कैलाश से मलय तक तथा उदयाचल से अस्ताचल तक संपूर्ण पृथ्वी का पृथुराज के समान उपभोग किया, जिसने अपने धनुष की डोरी से 
+- C04-JAGTA-HI-014 | D | JAGTA-HI (T8) | p. 143 | S2 | कर्णाट, लाटपति, गुर्जर नरेश व तुर्कों, जिनमें मुख्य चेदि नरेश इन्द्रथ, तोगल तथा भीम थे, की सेनाओं को जिसके भृत्यमात्रों 
+- C04-JAGTA-HI-016 | D | JAGTA-HI (T8) | p. 44 | S3 | यह परमार राजाओं के महान कृतित्व की कहानी है, जिसकी शान में उदयादित्य नाम के राजा भोज के उत्तराधिकारी ने चार चांद लगा दिए
+- C04-JAGTA-HI-017 | D | JAGTA-HI (T8) | p. 62 | S3 | आखिर उदयपुर का भी तो राजा भोज से गहरा रिश्ता है। उदयादित्य उनके ही बाद में तो महाराजा हुए थे। उदयपुर के विकास की हर रूपर
+- C04-JAGTA-HI-018 | D | JAGTA-HI (T8) | p. 97 | S3 | जिन राजा उदयदित्य के नाम पर इस नगर का नामकरण हुआ, वे परमार राजवंश के 12 वें राजा हैं। राजा भोज के बंधु हैं। यानी राजकाज 
+- C04-JAGTA-HI-019 | D | JAGTA-HI (T8) | p. 131 | S3 | यह भी परमारों के दूसरे शिलालेखों की तरह शिव की आराधना से शुरू है और आगे उदयাদित्य के बारे में बताना शुरू कर देता है। हर 
+- C04-JAGTA-HI-020 | D | JAGTA-HI (T8) | p. 131 | S3 | यह भी हो सकता है कि जब कल्याणी के चालुक्यों और कर्णटों की संयुक्त सेनाओं ने राजधानी धारा पर हमलाकर भोजदेव के पुत्र और उत
+- C04-JAGTA-HI-021 | D | JAGTA-HI (T8) | p. 131 | S3 | वे कहते हैं कि उदयাদित्य के पिता के रूप में इन 'पाता' अथवा 'ज्ञाता' का जिक्र नए इशारे करने वाला बिंदु है। इसका एक मतलब य
+- C04-JAGTA-HI-022 | D | JAGTA-HI (T8) | p. 131 | S3 | तीसरे श्लोक में है-"उसके पुत्र पाता (ज्ञाता) ने शत्रुसैन्यों का मंथन कर (अरिवलमथन) राज्य प्राप्त किया व वंश के पूर्वजों 
+- C04-JAGTA-HI-023 | D | JAGTA-HI (T8) | p. 132–133 | S3 | अर्थात् "शिवभक्त (भोजदेव), जिसका प्रताप सूर्य के समान था, के स्वर्ग चले जाने पर, धारा नगरी के समान जब सारी पृथ्वी शत्रुर
+- C04-JAGTA-HI-024 | D | JAGTA-HI (T8) | p. 132 | S3 | ऐसी ही एक और कड़ी जुड़ती है उदयादित्य के शोरगढ़ अभिलेख से। इसकी पांचवीं और छठवीं पंक्ति में कहा गया है कि "परमभट्टारक मह
+- C04-JAGTA-HI-026 | D | JAGTA-HI (T8) | p. 133 | S3 | उदयादित्य के सबसे छोटे पुत्र जगदेव के जैनड अभिलेख के श्लोक-6 में है- यस्योदयादित्य नृपः पितासी, देवः पितृव्यः स च भोजराज
+- C04-JAGTA-HI-027 | D | JAGTA-HI (T8) | p. 133 | S3 | नागपुर अभिलेख राजा उदयादित्य के पुत्र राजा नरवर्मन का है जो उदयादित्य के बाद 1094 में परमार वंश के अगले राजा हुए और 1133
+- C04-JAGTA-HI-028 | D | JAGTA-HI (T8) | p. 133 | S3 | अर्थात् "उस (भोजदेव) के इन्द्र की बंधुता को प्राप्त (दिवंगत) होने पर और राज्यस्वामी के कौटुम्बिकों के संघर्षरूपी जल में 
+- C04-JAGTA-HI-029 | D | JAGTA-HI (T8) | p. 134 | S3 | अर्थात् "उन (भोज देव) के पश्चात् उनके भाई उदयदित्य वृद्धि को प्राप्त हुए, जिनने मालव भूमि का उद्धार किया, जो तीन शत्रुओं
+- C04-JAGTA-HI-030 | D | JAGTA-HI (T8) | p. 134 | S3 | तीसरे एवं सबसे छोटे राजकुमार थे (जो उनके अभिलेख बताते हैं)। उनसे बड़े दो भाई लक्ष्मदेव व नरवर्मन थे। राजकुमार लक्ष्मदेव 
+- C04-JAGTA-HI-031 | D | JAGTA-HI (T8) | p. 134 | S3 | तारीख ज्ञात नहीं है परन्तु उनके पुत्र राजा भोजदेव 1011 ईस्वी में धार में एक राजा के रूप में दिखाई देते हैं। अगर वे सहोदर
+- C04-JAGTA-HI-032 | D | JAGTA-HI (T8) | p. 134 | S3 | एक तर्क यह भी है कि अगर वे भोज के बंधु ही होते तो भोज के समय के किसी भी शिलालेख या किताबों में कहीं तो उनका जिक्र होना च
+- C04-JAGTA-HI-035 | D | JAGTA-HI (T8) | p. 143 | S3 | शिव भक्त (राजा भोज), जिसका प्रताप सूर्य के समान था, के स्वर्ग चले जाने पर धारा नगरी के समान सारी पृथ्वी शत्रु रूपी अंधका
+- C04-JAGTA-HI-036 | D | JAGTA-HI (T8) | p. 166–167 | S3 | चलते-चलते विदिशा के पास प्रसिद्ध उदयगिरि गुफाएँ, विदिशा से सतर किमी दूर उदयपुर और इसी नगर में उदयेश्वर महादेव देवालय के 
+- C04-JAGTA-HI-037 | D | JAGTA-HI (T8) | p. 11 | S4 | महाराष्ट्र, गुजरात और राजस्थान के भीतर से लेकर परमारों के राज्य की उत्तर दिशा में सीमा यहां उदयपुर तक विस्तृत थी। यहां स
+- C04-JAGTA-HI-038 | D | JAGTA-HI (T8) | p. 16 | S4 | यह तो किसी राज्य की राजधानी भी नहीं था। वह परमारों की राजधानी धार से पांच सौ किलोमीटर दूर उनकी सीमा पर स्थित एक छोटा सा 
+- C04-JAGTA-HI-039 | D | JAGTA-HI (T8) | p. 16 | S4 | परमारों के मातहत होने से उदयपुर ने किसी मिनी केपिटल की तरह खुद को विकसित होते हुए देखा था। इसका महत्व इसी में था कि परमा
+- C04-JAGTA-HI-040 | D | JAGTA-HI (T8) | p. 18 | S4 | बहुत संभव है युवराज उदयादित्य अपने पिता के समय परमारों के राज्य की सीमा पर स्थित उदयपुर भेजे गए हों। हो सकता है कि उदयाद
+- C04-JAGTA-HI-041 | D | JAGTA-HI (T8) | p. 18 | S4 | इस जगह की प्रसिद्धि नीलकंठेश्वर मंदिर से है, जो राजा भोज के बाद की पीढ़ी में हुए महाराज उदयादित्य ने बनवाया था। इस नगर क
+- C04-JAGTA-HI-042 | D | JAGTA-HI (T8) | p. 22 | S4 | उदयपुर एक गहरी शोध परियोजना का हिस्सा हो सकता है, जिसमें राजा भोज की नगर रचना एक महत्वपूर्ण विषय है। यह चौकोर आकार में च
+- C04-JAGTA-HI-043 | D | JAGTA-HI (T8) | p. 97 | S4 | उदयदित्य ने उदयपुर में रहते हुए अपनी गौरवशाली राज परंपरा को ही बढ़ाया था। यही वजह है कि सदियां बीतने के बावजूद वे अब तक 
+- C04-JAGTA-HI-044 | D | JAGTA-HI (T8) | p. 97 | S4 | उदयपुर परमार राजवंश की भौगोलिक सीमा पर था, जो सामरिक दृष्टि से महत्वपूर्ण था। चारों तरफ दुर्ग से घिरे उदयपुर से सटे पहाड
+- C04-JAGTA-HI-045 | D | JAGTA-HI (T8) | p. 136 | S4 | वर्मा अगला सवाल लेकर आते हैं कि उदयपुर का निर्माण वास्तव में किसने किया? उदयदित्य के समय का एक शिलालेख (उदयपुर प्रशस्ति 
+- C04-JAGTA-HI-046 | D | JAGTA-HI (T8) | p. 137 | S4 | जहां तक उदयपुर की बात है तो इसके नाम से ही जाहिर है कि यह राजा उदयादित्य से संबंधित है। पूर्ववर्ती परमार राजाओं के किसी 
+- C04-JAGTA-HI-047 | D | JAGTA-HI (T8) | p. 137 | S4 | पहली से छठवी पंक्ति में उदयादित्य की कुछ महत्वपूर्ण सैन्य विजयों का वर्णन है। इन विजितों में नाम केवल ढाहलमण्डल के चेदि 
+- C04-JAGTA-HI-048 | D | JAGTA-HI (T8) | p. 138 | S4 | इस पर कोई तिथि अंकित नहीं है परन्तु इस अभिलेख से प्राप्त जानकारी के अनुसार यह राजा भोज के उत्तराधिकारी राजा उद्यादित्य क
+- C04-JAGTA-HI-049 | D | JAGTA-HI (T8) | p. 160 | S4 | उदयपुर को उदयदित्य ने अपने पूरे मनोयोग से रचा था। राजा भोज के ये वंशज राज्य के इस आखिरी छोर का राज्यपाल थे। उसने उदयसागर
+- C04-JAGTA-HI-052 | D | JAGTA-HI (T8) | p. 27 | S5 | भूमिपूजन, शिलान्यास और गर्भगृह में अभिषेक का वह उत्सव, जब महाराज उदयादित्य स्वयं अपने मंत्रियों सहित सपरिवार यहां उपस्थि
+- C04-JAGTA-HI-058 | D | JAGTA-HI (T8) | p. 111 | S5 | यहीं रहकर अपने राजा के लिए सदैव शुभकामनाएं व्यक्त की हों और जब मंदिर का निर्माण पूर्ण हुआ होगा तब उसने 30 मार्च 1080 के 
+- C04-JAGTA-HI-059 | D | JAGTA-HI (T8) | p. 137 | S5 | इस शिलालेख की बाद की पंक्तियों में परमारों के अधीन किन्हीं नेमक वंश के स्थानीय नरेशों का विवरण है। चूंकि उदयपुर सीधा परम
+- C04-JAGTA-HI-060 | D | JAGTA-HI (T8) | p. 137 | S5 | यह अभिलेख बताता है कि नेमक वंशीय शासक शिव के उपासक थे। शूद्रक नामक एक अन्य सामंत हुआ, जिसने किसी गुर्जर नरेश पर विजय प्र
+- C04-JAGTA-HI-061 | D | JAGTA-HI (T8) | p. 137 | S5 | हम अच्छी तरह से जानते हैं कि महात्वाकांक्षी परमार राजाओं की प्रसिद्धि उनकी वीरता और युद्ध विजयों के कारण ही नहीं है। उनक
+- C04-JAGTA-HI-062 | D | JAGTA-HI (T8) | p. 143 | S5 | जिसने चारों ओर केदारेश्वर, रामेश्वर, सोमनाथ, सुंदीर, काल, अनल व रुद्र आदि मंदिरों का निर्माण कर पवित्र पृथ्वी को यथार्थ 
+- C04-JAGTA-HI-064 | D | JAGTA-HI (T8) | p. 79 | S6 | बहुत मुमकिन है कि यह परमारों के उत्तराध्य का प्रसंग हो। जो जितना उभर पाया था वह वहीं ठहर गया। उदयपुर के भाग्य में परमारो
+- C04-JAGTA-HI-065 | D | JAGTA-HI (T8) | p. 106 | S6 | विजय मंदिर के रूप में महाराज उदयदित्य के बेटे और परमार राजवंश के 13 वें महाराज नरवर्मन ने विदिशा में अपने पिता से विशाल 
+- C04-JAGTA-HI-068 | D | JAGTA-HI (T8) | p. 146 | S6 | ध्यान देने वाली यह भी है कि अभिलेख की तिथि से बहुत पहले देवपालदेव राजधानी धार में राजसिंहासन पर बैठकर पूर्ण राजकीय उपाधि
+- C04-CII-020 | D | CII (T1) | p. 131 | S1 | The inscription then proceeds to trace the genealogy of the Paramāra house of Mālwā. It tells us in vv. 5-6 that a hero 
+- C04-CII-021 | D | CII (T1) | p. 132 | S1 | Verses 8-11 mention the names of Vairisinha, Siyaka, Vākpati and another (a second) Vairisinha, each of whom was the son
+- C04-CII-022 | D | CII (T1) | p. 132 | S1 | The next three verses (13-15) speak of Siyaka's son Vākpatirāja, who is stated to have been well-versed in the Sāstras a
+- C04-CII-023 | D | CII (T1) | p. 132 | S1 | In verse 8, which begins the genealogy, the inscription mentions the name Upēndrarāja, adding that he was born in the li
+- C04-CII-069 | D | CII (T1) | p. 133 | S2 | Bhōjadēva, is eulogised in the prāśasti for his strength, charities, victories and temple-building activities, in vv. 16
+- C04-CII-070 | D | CII (T1) | p. 134 | S2 | Verse 20 of the prāsasti states that Bhōja ‘covered the world all around with temples dedicated to Kēdāra, Rāmēśvara, Sō
+- C04-CII-071 | D | CII (T1) | p. 134 | S2 | His last date cannot be accurately ascertained: but his latest known date is furnished by the Tilakawādā grant which was
+- C04-CII-072 | D | CII (T1) | p. 134 | S2 | Bhōjadēva's earliest epigraphic date is supplied by the Mōdāsā grant of V.S. 1067 or 1011 A.C.
+- C04-CII-076 | D | CII (T1) | p. 108 | S3 | The name of Jayasiniha is not known from any other inscription of the house—not even from the Udaipur and Nagpur prasats
+- C04-CII-077 | D | CII (T1) | p. 117 | S3 | The inscription thus reveals for the first time a new historical fact, viz. that Lakshmadēva predeceased both Udayāditya
+- C04-CII-078 | D | CII (T1) | p. 117 | S3 | The inscription refers itself to Udayāditya who is endowed in it with the titles of Paramabhattāraka, Mahāvājādhiraja an
+- C04-CII-079 | D | CII (T1) | p. 117 | S3 | Lakshmadēva and Naravarman are the well-known sons of Udayāditya: but the expression denoting the purpose of the donatio
+- C04-CII-080 | D | CII (T1) | p. 126 | S3 | So far as the genealogy is concerned, the present record adds only the name of Udayāditya, who is mentioned here to have
+- C04-CII-081 | D | CII (T1) | p. 134 | S3 | The following verse (21) introduces Udayāditya, who is spoken of as 'another Sun dispelling the dense darkness in the fo
+- C04-CII-082 | D | CII (T1) | p. 135 | S3 | Kalachuri Karṇa, (2) the Chaulukya Bhīma and (3) the Hoysala Ereyānga, \( ^{1} \) and it need not be repeated here. And 
+- C04-CII-083 | D | CII (T1) | p. 151 | S3 | The next two verses (5-6) introduce Bhōja's brother Udayāditya, who uplifted the kingdom of Mālava which had sunk under 
+- C04-CII-084 | D | CII (T1) | p. 152 | S3 | As for the relationship of Udayāditya with Bhōja, we find that some of the Paramāra records describe the former of these
+- C04-CII-085 | D | CII (T1) | p. 152 | S3 | 7) introduces Jagaddēva who is stated to have born to Udayāditya in consequence of the latter’s adoration to Hara whom h
+- C04-CII-086 | D | CII (T1) | p. 157 | S3 | His father was king Udayāditya, and his paternal uncle the king Bhōjadēva, both of whom shone like the sun and the moon.
+- C04-CII-087 | D | CII (T1) | p. 164 | S3 | From the next inscription we know that this ruler succeeded his father Udayādiya in V.S. 1151 current; and in the light 
+- C04-CII-088 | D | CII (T1) | p. 165 | S3 | The following four verses are devoted to describe the Paramāra family and three of the rulers belonging to it viz., Vākp
+- C04-CII-106 | D | CII (T1) | p. 466 | S3 | From the Pānāhedā inscription dated V. 1116, we know that Manḍalika, the ruler of Vāgaḍa was greatly devoted to Jayasinh
+- C04-CII-107 | D | CII (T1) | p. 108 | S4 | In view of the information furnished by the present inscription, we may also hold that it was Jayasiniha who put an end 
+- C04-CII-108 | D | CII (T1) | p. 113 | S4 | As stated above, the importance of the inscription lies in the fact that it supplies the earliest known date for the kin
+- C04-CII-109 | D | CII (T1) | p. 116 | S4 | The object of the inscription is to record paying adoration to the image, i.e., its consecration, by one Jasahara of the
+- C04-CII-110 | D | CII (T1) | p. 121 | S4 | The important part of the inscription is the statement that the temple was built and the record was put up when Udayādit
+- C04-CII-111 | D | CII (T1) | p. 124 | S4 | of Udaipur in the District of Vidishā ; and in view of all this, it is obvious that the kingdom of Udayāditya, who had r
+- C04-CII-112 | D | CII (T1) | p. 139 | S4 | To notice the contents of the inscription, we find that the first few letters, which can be read with certainty, speak o
+- C04-CII-113 | D | CII (T1) | p. 139 | S4 | The only geographical name mentioned in the record is Udayapura, which is said to be the capital town of the Nēmaka dyna
+- C04-CII-114 | D | CII (T1) | p. 152 | S4 | The other important information furnished by verse 5 of the present inscription concerns the number of enemies to be thr
+- C04-CII-117 | D | CII (T1) | p. 317 | S4 | The record is silent as to the house to which this king belonged, as we also find in the Atru and Bhilsa inscriptions, e
+- C04-CII-119 | D | CII (T1) | p. 113 | S5 | The last line of the record expresses the purpose, in which the temple is mentioned by the name Udayésvaradeva, evidentl
+- C04-CII-120 | D | CII (T1) | p. 121 | S5 | The inscription, after the words “Om. adoration to Siva,” has the date Samvat 1143, the tenth of the bright half of Vais
+- C04-CII-121 | D | CII (T1) | p. 126 | S5 | The object of the inscription is to record the royal endowment of a village situated in the Chachchurōni maṇḍala, by Uda
+- C04-CII-122 | D | CII (T1) | p. 139 | S5 | Following this, we have the description of the members of the Nēmaka dynasty.\(^{1}\) Owing to the imperfect nature of t
+- C04-CII-123 | D | CII (T1) | p. 158 | S5 | Verses 13-15 introduce an illustrious personage named Lōlārka who was born in the renowned family of the Dāhimas and was
+- C04-CII-129 | D | CII (T1) | p. 132 | S6 | Verses 14-15 of the present record state that “his lotus-feet were coloured by the jewels on the heads of the Karnnāṭas,
+- C04-CII-130 | D | CII (T1) | p. 135 | S6 | Bühler contends that the story of Bhōja's reverse narrated by the Prabandhachintāmaṇi and also by the epigraphical recor
+- C04-CII-131 | D | CII (T1) | p. 152 | S6 | 134. This inscription is from Udaipur in the Vidishā District and is dated V. S. 1562. The find-spot of this record made
+- C04-CII-132 | D | CII (T1) | p. 152 | S6 | Thus the information conveyed by the present inscription in clear words, viz., that Udayāditya was a brother of Bhōjadēv
+- C04-GANGULY-023 | D | GANGULY (T5) | p. 42 | S1 | There we have noticed that Upendra was the first king of this dynasty, and was a subordinate chief of the Râstrakûta Gov
+- C04-GANGULY-030 | D | GANGULY (T5) | p. 51 | S1 | Siyaka was also known as Harsa. \( ^{2} \) It is now beyond all dispute that Siyaka and Harsa were names of one and the 
+- C04-GANGULY-032 | D | GANGULY (T5) | p. 56 | S1 | Dhanapāla, in the concluding verses of his Pāiyalacchī, states that he completed this work "when one thousand years of t
+- C04-GANGULY-039 | D | GANGULY (T5) | p. 64 | S1 | Vakpati next directed his victorious troops towards Tripuri, the capital of the Kalacuris, and within a short time captu
+- C04-GANGULY-076 | D | GANGULY (T5) | p. 145 | S3 | But in these dark days there was one ray of light on the eastern horizon, which gradually expanded, and dispersed all th
+- C04-GANGULY-077 | D | GANGULY (T5) | p. 146 | S3 | The Nagpur inscription \( ^{2} \) makes matters clearer by stating that “when he (Bhoja) had become Indra’s companion, a
+- C04-GANGULY-078 | D | GANGULY (T5) | p. 146 | S3 | was the cause of the prosperity of Udayāditya of Mâlava. Udayāditya, having received cavalry from him defeated the Gurja
+- C04-GANGULY-079 | D | GANGULY (T5) | p. 147 | S3 | An inscription from Udayapur, in Bhilsa, furnishes us with more detailed information regarding his pedigree. It relates 
+- C04-GANGULY-080 | D | GANGULY (T5) | p. 147 | S3 | It is evident from the above verses that the authority of the Paramāras in Malwa, though it received a severe blow at th
+- C04-GANGULY-081 | D | GANGULY (T5) | p. 148 | S3 | It follows from the above record that Udayâditya and his predecessors belonged to a junior branch of the Paramâra family
+- C04-GANGULY-083 | D | GANGULY (T5) | p. 153 | S3 | The Ràs Mâlâ² relates that ‘Oodayâdit’ (Udayâditya) had two wives, one belonging to the Solunkhee (Solânki) dynasty and 
+- C04-GANGULY-084 | D | GANGULY (T5) | p. 154 | S3 | Apart from its mythological character, it is chronologically inaccurate. Jug Dev could not have ruled for fifty-two year
+- C04-GANGULY-085 | D | GANGULY (T5) | p. 154 | S3 | But notwithstanding these discrepancies, it cannot be denied that Udayāditya had a son named Jagaddeva, who, for some ti
+- C04-GANGULY-086 | D | GANGULY (T5) | p. 155 | S3 | The Belava inscription of Bhojavarman, \( ^{3} \) the king of Eastern Bengal, states that Jagadvijayamalla was the son o
+- C04-GANGULY-087 | D | GANGULY (T5) | p. 155 | S3 | Udayāditya had connections with many of the neighbouring rulers. His daughter, Śyamala Devī, was married to Vijayasimha,
+- C04-GANGULY-088 | D | GANGULY (T5) | p. 156 | S3 | \( ^{3} \) The tradition runs that Jug Deb was his immediate successor to the throne, but a contemporary Paramāra record
+- C04-GANGULY-089 | D | GANGULY (T5) | p. 252 | S3 | was married to Guhila king. Jagaddeva gave his daughter in marriage to a Varman king of East Bengal.
+- C04-GANGULY-091 | D | GANGULY (T5) | p. 379 | S3 | It is stated that Jagaddeva's father was Udayā-ditya, and his paternal uncle (pitrīya) was Bhoja.
+- C04-GANGULY-092 | D | GANGULY (T5) | p. 144 | S4 | If Udayâditya is supposed to have ascended the throne of Mâlava, having defeated the Caulukya Kārṇa, he cannot be taken 
+- C04-GANGULY-093 | D | GANGULY (T5) | p. 144 | S4 | VII, p. 35), states that Udayâditya built the temple of Udayapur in V. S. 1116=1059 A. D. The record is very perfunctori
+- C04-GANGULY-094 | D | GANGULY (T5) | p. 148 | S4 | Udayâditya is represented as the son of the last; and he is distinctly stated to have been ruling in Sam 1116, or Šaka 9
+- C04-GANGULY-095 | D | GANGULY (T5) | p. 150 | S4 | From the evidence of these inscriptions, it may fairly be inferred that the kingdom over which Udayâditya held sway exte
+- C04-GANGULY-096 | D | GANGULY (T5) | p. 151 | S4 | After the restoration of peace in Malwa, Udayāditya had to encounter another invasion of the Cālukyas, Sōmesvara II was 
+- C04-GANGULY-097 | D | GANGULY (T5) | p. 152 | S4 | It will be admitted by everyone that Udayāditya's career as a king was one of unique success. He came as a boon to the P
+- C04-GANGULY-098 | D | GANGULY (T5) | p. 156 | S4 | Udayāditya closed his reign shortly after 1086 A. D.
+- C04-GANGULY-099 | D | GANGULY (T5) | p. 253 | S4 | Some gold coins, apparently of the reign of Udayāditya, have been discovered in the Central Provinces. They are similar 
+- C04-GANGULY-100 | D | GANGULY (T5) | p. 266 | S4 | The king Udayâditya founded the city of Udayapur, thirty miles to the north of Bhilsa.
+- C04-GANGULY-101 | D | GANGULY (T5) | p. 267 | S4 | The above story is no doubt an absolute myth, and there is evidence, in the words of a contemporary inscription,' that t
+- C04-GANGULY-104 | D | GANGULY (T5) | p. 135 | S5 | The Udayapur prasasti \( ^{4} \) credits him with the building of a large number of temples. To-day very few remains of 
+- C04-GANGULY-105 | D | GANGULY (T5) | p. 151 | S5 | Udayaditya showed unflagging zeal also in the building of architectural monuments. He laid the foundation of the city of
+- C04-GANGULY-106 | D | GANGULY (T5) | p. 152 | S5 | Another inscription, \( ^{1} \) discovered in the same temple, credits him with the foundation of Udayapur, Udayesvara, 
+- C04-GANGULY-107 | D | GANGULY (T5) | p. 177 | S5 | Naravarman was himself a poet and a patron of those who devoted their lives to literary activities, giving them both sym
+- C04-GANGULY-109 | D | GANGULY (T5) | p. 256 | S5 | Brahmanism: The Paramâra kings were devout worshippers of Śiva. The sovereigns who supported this worship by donations i
+- C04-GANGULY-132 | D | GANGULY (T5) | p. 188 | S6 | province of the Caulukyas, who this time established their authority over it on a firmer basis. During this period the i
+- C04-GANGULY-137 | D | GANGULY (T5) | p. 221 | S6 | All these inscriptions of Devapâla, together with those of Arjunavarman, go to prove that, in the early part of the thir
+- C04-BHOJA-TIMES-005 | D | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S1 | Tn the Udaipur-Prasasti, Upendra is mentioned as the first historical-king of the dynasty.
+- C04-BHOJA-TIMES-029 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition; | S3 | More- over, some wall-paintings of the time of Bhoja’s nephew, Udaya- ditya (1059-80) are found from Belur, These contai
+- C04-BHOJA-TIMES-031 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S3 | The Udaipur Prasasti* says “When the devotee of Bharga (Siva) whose brilliance resembled the sun 'i.e. Bhoja) had gone t
+- C04-BHOJA-TIMES-034 | D | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S3 | Bhojadeva I Udayaditya '(c=1010 A.D,— 1055 A.D.) (c. 1010-1087 A.D.)
+- C04-BHOJA-TIMES-038 | D | BHOJA-TIMES (T5) | no page; Chapter IV, Political Achievements of Bhoja | S3 | the Nagpur inscription of the Paramfira king Laksmadeva The inscription records, “Udayfiditya, a kinsman of Bhoja, clean
+- C04-BHOJA-TIMES-040 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | subdivision of ‘Drammas’.* No coin of the Paramara Bhoja has been found so far Udayaditya (A. D. 1060-1087) was the only
+- C04-BHOJA-TIMES-044 | D | BHOJA-TIMES (T5) | no page; Foreword | S5 | The towns of Ujjain, Dhara, Dasapura, VidiSa, Bhojpur, Gyaraspur, Udaypur, On, Onkar-Mandhata, Chandriivatj and several 
+- C04-PARTEMPLES-005 | D | PARTEMPLES (T5) | p. 9 | S3 | Udayāditya (c.A.D.1070-c.A.D.1093), who became the Paramāra king after Jayasimha's tragic end in the war against Somesva
+- C04-PARTEMPLES-006 | D | PARTEMPLES (T5) | p. 9 | S4 | Udayāditya's signal achievement was the construction of the Nilakanthésvara, also known as Udayeśvara, Śiva temple at Ud
+- C04-PARTEMPLES-007 | D | PARTEMPLES (T5) | p. 9 | S5 | The in situ inscription on the temple records that the hoisting of flag by Udyāditya on the temple took place in 1080 A.
+- C04-PARTEMPLES-009 | D | PARTEMPLES (T5) | p. 45 | S5 | The Nilakan theśvara, representing the Bhūmija style in its fully developed form, was completed in A.D. 1080.
+- C04-PARTEMPLES-010 | D | PARTEMPLES (T5) | p. 47 | S5 | On the other hand, royal temples were continued to be erected in Udaypur, Vidisha, Mandsaur, Nemawar etc.
+- C04-GAZ-003 | D | GAZ (T7) | p. 43 | S3 | Bhoja's cousin or brother, Udayaditya came to the throne probably before the year A.D. 1080 and reigned till 1086. The e
+- C04-GAZ-004 | D | GAZ (T7) | p. 346 | S4 | According to one of the many old Sanskrit inscriptions found here, Udayapura town was founded by the Paramara king Udaya
+- C04-GAZ-005 | D | GAZ (T7) | p. 346 | S5 | Its flag-staff, as stated therein, was erected in Vikrama Samvat 1137 corresponding to A.D. 1080. Thus these records mak
+- C04-GAZ-006 | D | GAZ (T7) | p. 346 | S5 | Two other inscriptions of the temple refer to the construction work of the temple which commenced in Vikrama Samvat 1116
+- C04-GAZ-007 | D | GAZ (T7) | p. 349 | S5 | speaks of its surrounding area as Bhilsavami-mahadevadasakamandala (the district called Bhailasvamin consisting of ten s
+- C04-MADHYABHARAT-005 | D | MADHYABHARAT (T5) | p. 35 | S3 | The fallen fortunes of the family were for a time revived by Udayaditya (1058-1087) and his successor.
+- C04-MADHYABHARAT-006 | D | MADHYABHARAT (T5) | p. 115 | S4 | Udayeshvara temple.—One of the many old Sanskrit inscriptions on this temple records that the Paramara king Udayaditya o
+- C04-MADHYABHARAT-007 | D | MADHYABHARAT (T5) | p. 35 | S5 | In the field of art and architecture also Malwa had reached a high pitch of excellence as is witnessed in the magnificen
+- C04-MADHYABHARAT-009 | D | MADHYABHARAT (T5) | p. 115 | S5 | It is thus clear from the above that this temple was built by the order of king Udaya-ditya Paramara between the years 1
+- C04-GEOHER-001 | D | GEOHER (T7) | p. 12 | S4 | As per the local legend, this place was called Bhrangarajpur and was ruled by a native chief. He was defeated by Udayadi
+- C04-GEOHER-002 | D | GEOHER (T7) | p. 46 | S4 | That place called Manak Chowk is about 1.5 km away. Bhringrajpur was above the fortified area. The market was nearby, an
+- C04-GEOHER-003 | D | GEOHER (T7) | p. 74 | S4 | It mentions the foundation year of Udaypur, Udayeshwar temple, and Udaysagar Lake as the same.
+- C04-GEOHER-004 | D | GEOHER (T7) | p. 153 | S5 | Udaypur area, as history goes, was in the 11th century CE and subsequent centuries dominated by the Parmar dynasty, who 
+- C04-BHOJDEV-HI-008 | D | BHOJDEV-HI (T9) | p. 4 | S2 | इसी नीति के अधीन चेरीधर, इन्ट रथ, नोगल, भीम के साथ ही कणार्ट, लाट, फुर्नर और तुरुक राजा को भोज ने पराजित किया था। यह उदय
+- C04-BHOJDEV-HI-011 | D | BHOJDEV-HI (T9) | p. 4 | S2 | वैसे विदिशा से भोपाल क्षेत्र में बारहवीं शती में ‘महाढादशकमण्डल’ था। परन्तु वह एक ही मण्डल का नाम था। *Gloss [my transla
+- C04-BHOJDEV-HI-021 | D | BHOJDEV-HI (T9) | p. 6 | S5 | भोज ने जो अनेक मन्द्र वनवाये थे उनमें केदार, रामेश्वर, सोमनाथ, मुण्डीर आदि भारत की चारों दिशाओं में थे और मध्य में महाका
+- C04-PANDE-005 | D | PANDE (T5) | p. 8 | S4 | It is a Śaiva temple built in the second half of the 11th century CE by Udayāditya Paramāra who was a scion of the illus
+- C04-PANDE-006 | D | PANDE (T5) | p. 95 | S4 | Pratipala Bhatia, The Paramāras (c. 800-1305 A.D.) (New Delhi: Munshiram Manoharlal, 1970), 109. Even though Karṇa succe
+- C04-PANDE-007 | D | PANDE (T5) | p. 8 | S5 | During Udayāditya’s reign, Malwa witnessed political stability and flourished as a leading centre of religious and cultu
+- C04-INTACH-001 | D | INTACH (T7) | p. 6 | S3 | Udayaditya was the relative of the Bhoja, a great Pannar king who
+- C04-INTACH-002 | D | INTACH (T7) | p. 3 | S4 | The city of Udaypur was established by the Parmar king Udayaditya who has built several structures and monuments over hi
+- C04-INTACH-003 | D | INTACH (T7) | p. 6 | S4 | King Udayaditya established the city of Udaypur. Its foundation marks land in the mid 11th century CE.
+- C04-RAJABHOJ-EN-024 | D | RAJABHOJ-EN (T9) | p. 60 | S4 | From Lakshmivarman's Ujjain copper-plate it is learnt that a grant made by Yashovarman in 1134 CE was kept in force by L
+- C04-RAJABHOJ-EN-025 | D | RAJABHOJ-EN (T9) | p. 20 | S5 | Bhoj and the Paramara kings gave ample patronage to the art of architecture, as to the other arts. The constructions of 
+- C04-KRAM-2-001 | D | KRAM-2 (T5) | p. 102 | S4 | From the West; Udayapur, Gwalior; built by the Paramāra King Udayāditya (c. 1059-1087 A.D.); Red sandstone.
+- C04-KRAM-2-002 | D | KRAM-2 (T5) | p. 177 ⚠ page found by text match | S4 | Udayāditya, Paramāra, 389
+- C04-PARMAR-RAJPUT-004 | D | PARMAR-RAJPUT (T9) | p. 3 | S1 | The 'Udaipur reference' of the Malwa rulers makes us afraid that after Upendra, Verisingh first, Siyak first and Vakpati
+- C04-ARTPAR-004 | D | ARTPAR (T5) | p. 60 | S5 | महाराजा भोज के उद्यान पर या नीलकळेश्वर का मन्धिर बनवाया वह श्राज भो परमार्ण प्रश्नों की सजीव प्रमाण आवोरा या प्रमाण गया 
+- C04-HARDY-003 | D | HARDY (T5) | p. 192 | S5 | The Udayeshvara at Udayapur (20.1) was founded by King Udayaditya in 1059 and consecrated in 1080.
+- C04-JAGTA-EN-001 | C | JAGTA-EN (T8) | ≈ p. 139 (Hindi original) | S1 | When the Pratiharas' power weakened, three powers emerged. Among these, the Chedis of Kalachuri, the Chandelas of Jaijak
+- C04-JAGTA-EN-014 | C | JAGTA-EN (T8) | ≈ p. 64 (Hindi original) | S2 | Ujjain was the first capital of the Paramaras, which Raja Bhoj took [and shifted] to Dhar — not Dhar, [but] Raja Bhoj's 
+- C04-JAGTA-EN-015 | C | JAGTA-EN (T8) | ≈ p. 64 (Hindi original) | S2 | Bhoj was not only a king. He was also a deep knower and scholar of many subjects. There was a big, famous council (*pari
+- C04-JAGTA-EN-016 | C | JAGTA-EN (T8) | ≈ p. 66 (Hindi original) | S2 | Bhoj, like an ideal ruler, developed every kind of art in his kingdom. He gave respectful place, around himself, to virt
+- C04-JAGTA-EN-017 | C | JAGTA-EN (T8) | ≈ p. 80 (Hindi original) | S2 | There is quite a bit of proof that Bhopal was founded by Raja Bhoj. The Bada Talab (great lake) is still, today, spread 
+- C04-JAGTA-EN-018 | C | JAGTA-EN (T8) | ≈ p. 138 (Hindi original) | S2 | Apart from inscriptions, their proofs and their testimony lie filled also in documents — such as the documents of that e
+- C04-JAGTA-EN-022 | C | JAGTA-EN (T8) | ≈ p. 144 (Hindi original) | S2 | The Saraswati Kanthabharan[s] built in the Paramaras' time were nothing less than the finest knowledge-centres of their 
+- C04-JAGTA-EN-047 | C | JAGTA-EN (T8) | ≈ p. 98 (Hindi original) | S4 | He also drew the attention of history-lovers toward the remains of an 80-kilometre-long vast wall in the forests near Ra
+- C04-JAGTA-EN-054 | C | JAGTA-EN (T8) | ≈ p. 11 (Hindi original) | S5 | From within Maharashtra, Gujarat and Rajasthan, the northern boundary of the Paramaras' kingdom extended up to here, Uda
+- C04-JAGTA-EN-055 | C | JAGTA-EN (T8) | ≈ p. 16 (Hindi original) | S5 | The period from the ninth to the fourteenth century, during which the Paramaras existed in this region, was itself such 
+- C04-JAGTA-EN-059 | C | JAGTA-EN (T8) | ≈ p. 97 (Hindi original) | S5 | The abundant availability of stone gave the Paramara dynasty the opportunity to erect splendid specimens of architecture
+- C04-JAGTA-EN-060 | C | JAGTA-EN (T8) | ≈ p. 110 (Hindi original) | S5 | Dam- and reservoir-construction was the Paramaras' expertise. Wherever vast temples were built, there even vaster reserv
+- C04-JAGTA-EN-064 | C | JAGTA-EN (T8) | ≈ p. 65 (Hindi original) | S6 | The last king of the Paramaras is Mahlakdeva, in whose time Delhi's invader-plunderer Shamsuddin Iltutmish had attacked 
+- C04-JAGTA-EN-068 | C | JAGTA-EN (T8) | ≈ p. 118 (Hindi original) | S6 | The remnants of the Paramaras he found in the form of kings of small, scattered principalities. At one place he has writ
+- C04-JAGTA-EN-069 | C | JAGTA-EN (T8) | ≈ p. 119 (Hindi original) | S6 | But about the Paramaras he mentioned everywhere with respect. He says that in the history of Central India, the Panwar R
+- C04-JAGTA-EN-070 | C | JAGTA-EN (T8) | ≈ p. 120 (Hindi original) | S6 | But Malcolm saw the Paramaras living and residing with much respect even after centuries. He is quite careful in writing
+- C04-JAGTA-HI-009 | C | JAGTA-HI (T8) | p. 65 | S2 | भोज सिर्फ एक राजा नहीं थे। वे कई विषयों के गहन ज्ञाता और विद्वान भी थे। व्याकरण, भाषा, साहित्य, नाटक, नृत्य, संगीत, जल प
+- C04-JAGTA-HI-010 | C | JAGTA-HI (T8) | p. 66 | S2 | की तरह हर तरह की कलाओं को अपने राज्य में विकसित किया। गुण संपन्न लोगों को अपने आसपास सम्मान से जगह दी। शानदार निर्माण कर
+- C04-JAGTA-HI-011 | C | JAGTA-HI (T8) | p. 80 | S2 | इस बात के काफी सबूत हैं कि भोपाल को राजा भोज ने बसाया था। बड़ा तालाब उन्हीं के बनाए मानव निर्मित बांध पर 36 वर्ग किलोमीट
+- C04-JAGTA-HI-012 | C | JAGTA-HI (T8) | p. 97 | S2 | राजा भोज का ग्रंथ ‘समरांगण सूत्रधार’ इस बात की गवाही है कि वे किस ऊंचे दर्जे की रचनात्मकता को प्रश्रय देने वाले विद्वान 
+- C04-JAGTA-HI-015 | C | JAGTA-HI (T8) | p. 18 | S3 | उस दौर में राजपरिवार के अन्य महत्वपूर्ण सदस्यों को राजधानी से दूर के महत्वपूर्ण नगरों और सैन्य ठिकानों की कमान सौंपी जात
+- C04-JAGTA-HI-025 | C | JAGTA-HI (T8) | p. 132 | S3 | गुप्त काल में पहले इतिहासकारों का मानना था कि 'ततपादानुध्येत' शब्द सीधे उत्तराधिकारी की बात करता है। जैसे चंद्रगुप्त प्र
+- C04-JAGTA-HI-033 | C | JAGTA-HI (T8) | p. 135 | S3 | इसमें प्रोफेसर फ्रांज कीलहॉर्न का नाम आता है जिसने ऐसा ही माना। फिर इस मसले पर डीसी गांगुली का जिक्र है जो आईने-अकबरी के
+- C04-JAGTA-HI-034 | C | JAGTA-HI (T8) | p. 135 | S3 | गांगुली के मत का विरोध एच. सी. रे ने अपनी पुस्तक "डायनेस्टिक हिस्ट्री ऑफ नार्दर्न इंडिया" में किया। वे बंधु का मतलब भाई 
+- C04-JAGTA-HI-050 | C | JAGTA-HI (T8) | p. 12 | S5 | परमारों के राज में मंदिर सिर्फ पूजा-अनुष्ठान तक सीमित नहीं थे। वह स्थानीय स्तर पर एक नॉलेज सेंटर या पाठशालाओं के लिए भी 
+- C04-JAGTA-HI-051 | C | JAGTA-HI (T8) | p. 16 | S5 | परमार जिस नौवीं से चौदहवीं सदी के दौरान इस इलाके में हुए, वह समय ही ऐसा था जब पूरे भारत में मौजूद राजवंश अपने राज्यों मे
+- C04-JAGTA-HI-053 | C | JAGTA-HI (T8) | p. 28 | S5 | परमार वंश के सभी राजा कलाप्रिय थे। मंदिरों के निर्माण पूरे राज्य में चलते थे। भोजपुर की चट्टान से लेकर धारा नगरी, उज्जयन
+- C04-JAGTA-HI-054 | C | JAGTA-HI (T8) | p. 69 | S5 | कलाप्रिय परमार राजाओं की प्रतिष्ठा का एक कारण यह भी था कि बड़े ही विद्या अनुरागी थे। भाषा, व्याकरण, कविता, नाटक, वास्तु,
+- C04-JAGTA-HI-055 | C | JAGTA-HI (T8) | p. 79 | S5 | वैसे पहाड़ी ऊंचाइयों की बात करें तो ओंकारेश्वर और मंदाता में भी परमार राजाओं ने नर्मदा के तटों पर अपनी श्रद्धा शिल्प में
+- C04-JAGTA-HI-056 | C | JAGTA-HI (T8) | p. 80 | S5 | वह एक चौकोर रचना में वास्तु के नियमों के तहत बसाया गया एक व्यवस्थित नगर था, जिसके बीचों-बीच आज का चौक बाजार रहा होगा। पर
+- C04-JAGTA-HI-057 | C | JAGTA-HI (T8) | p. 97 | S5 | पत्थर की प्रचुर मात्रा में उपलब्धता ने परमार राजवंश को यह अवसर दिया कि वे स्थापत्य के शानदार नमूने खड़े करें। इस काम में
+- C04-JAGTA-HI-063 | C | JAGTA-HI (T8) | p. 57 | S6 | आज के विदिशा की पुरानी बस्ती में सबसे खास तो वही विजय मंदिर है, जो परमार राजवंश के राजा नरवर्मन ने बनवाया था। परमारों की
+- C04-JAGTA-HI-066 | C | JAGTA-HI (T8) | p. 118 | S6 | मगर परमारों के बारे में उसने हर जगह इज्जत से जिक्र किया। वह कहता है कि सेंट्रल इंडिया के इतिहास में पवार राजपूत अन्य राज
+- C04-JAGTA-HI-067 | C | JAGTA-HI (T8) | p. 138 | S6 | जैसे-पद्मगुप्त के नवसाहसांक चरित और मेरतुंग का प्रबंध चिंतामणि जैसे उस दौर के दस्तावेज। *Gloss [my translation]:* Such a
+- C04-CII-001 | C | CII (T1) | p. 20 | S1 | In the lower field of the left side and below the last line of the second plate is incised the representation of flying 
+- C04-CII-002 | C | CII (T1) | p. 22 | S1 | As stated above, the plates constitute two grants which were issued on the bank of the Māhī by the Mahārājādhirājā and t
+- C04-CII-003 | C | CII (T1) | p. 22 | S1 | The date borne by both the grants, in the last line of each, in decimal figures only, is Māgha vada 30, Wednesday, 1005,
+- C04-CII-004 | C | CII (T1) | p. 22 | S1 | 144; and it also appears to be in consonance with the well-known fact that Krishna III, or his successor Khottīga, accor
+- C04-CII-005 | C | CII (T1) | p. 23 | S1 | Siyaka of both the present inscriptions is evidently identical with his namesake, the father of Vākpati-Muñja, as we kno
+- C04-CII-006 | C | CII (T1) | p. 23 | S1 | \( ^{1} \) Then we have a metrical portion (vv. 2-4) introducing three kings, viz., Bappaiparāja, Vairisinha and Siyaka,
+- C04-CII-007 | C | CII (T1) | p. 24 | S1 | Counting back from 974 A.C., the earliest known date of Vākpati-Muñja (his Dharampurī grant), and allowing 25 years to e
+- C04-CII-008 | C | CII (T1) | p. 29 | S1 | In the lower right corner of the plate there is a representation of a flying Garudā facing right and depicted as a human
+- C04-CII-009 | C | CII (T1) | p. 32 | S1 | Line 9 mentions the date, given in words only, the fifteenth of the dark half of Āśvina of the year 1026, which must evi
+- C04-CII-010 | C | CII (T1) | p. 34 | S1 | It mentions the name of the illustrious Vākpatirājadāva, otherwise known as Amōghavarshadēva, bearing the epithets Pyith
+- C04-CII-011 | C | CII (T1) | p. 34 | S1 | The date, which is expressed in words in lines 13-14 and again in figures in lines 32-33, is the fourteenth day of the b
+- C04-CII-012 | C | CII (T1) | p. 35 | S1 | The present grant is the first of those issued by Vākpatirāja alias Muñja and is dated (V.) S. 1031, which is equivalent
+- C04-CII-013 | C | CII (T1) | p. 40 | S1 | The inscription is one of the Mahārājā, the illustrious Paramabhattāraka, Mahārājādhivāja and Paramēśvara Vākpatirājadev
+- C04-CII-014 | C | CII (T1) | p. 41 | S1 | other place in the region adjoining to it which is the north-western part of Málwā, may also go to suggest, of course te
+- C04-CII-015 | C | CII (T1) | p. 43 | S1 | But how the plates could travel from the distant Deccan to the region of Mālwā cannot be ascertained unless we hold with
+- C04-CII-016 | C | CII (T1) | p. 44 | S1 | The record opens with two mangala-slōkas, followed by the genealogical portion mentioning three predecessors of Vākpatir
+- C04-CII-017 | C | CII (T1) | p. 52 | S1 | The date of the grant, as recorded only in words in ll. 11-12, is the winter solstice (Udagayana) in the month of Māgha 
+- C04-CII-018 | C | CII (T1) | p. 74 | S1 | in length and it is wholly devoted to the sign-manual of the king; whereas on the second, the last five lines are shorte
+- C04-CII-019 | C | CII (T1) | p. 85 | S1 | The inscription is a royal charter issued by the Parama-bhaṭṭāraka, Mahārājādhirāja and Paramēśvara, the illustrious Bhō
+- C04-CII-024 | C | CII (T1) | p. 133 | S1 | From Mērutunga we learn that Vākpati invaded the Chālukya territories which touched the southern borders of his kingdom,
+- C04-CII-025 | C | CII (T1) | p. 133 | S1 | It must be admitted here, however, that we have no details regarding Sindhurāja's victories over all these powers: but h
+- C04-CII-026 | C | CII (T1) | p. 133 | S1 | Vākpati's younger brother was Sindhurāja, who is stated to have won a victory over a king of the Hūnas. To the descripti
+- C04-CII-027 | C | CII (T1) | p. 177 | S1 | The prasatsi then proceeds to trace the origin of the house of the Paramāras, by describing the Mt. Arbuda (Ābū), which 
+- C04-CII-028 | C | CII (T1) | p. 177 | S1 | Verse 4, which is in praise of Śiva, indirectly also introduces the fire-born race which is said to have excelled the so
+- C04-CII-029 | C | CII (T1) | p. 178 | S1 | Paramāra by the sage Vasishtha who was performing penance there, from his sacrificial pit, as we find in the Udaipur pra
+- C04-CII-030 | C | CII (T1) | p. 299 | S1 | 13 we find the name of Vairisimha, (who is evidently the second ruler of the name, mentioned in the Udaipur prasati), as
+- C04-CII-031 | C | CII (T1) | p. 299 | S1 | The next ten verses, in ll. 3-8 which are all fragmentary, appear to have embodied the mythical account of the origin of
+- C04-CII-032 | C | CII (T1) | p. 299 | S1 | In 1. 17 appears the name of Vākpatirāja, who was also known as Muñja, as said here. He was a multitude of fame; and in 
+- C04-CII-033 | C | CII (T1) | p. 306 | S1 | broad, is engraved the figure of Garuda, the emblem of the royal house of the Paramāras, in human form, kneeling towards
+- C04-CII-034 | C | CII (T1) | p. 322 | S1 | In the proper right side beneath the writing, in a square measuring 19 cms., is engraved a representation of Garudā, the
+- C04-CII-035 | C | CII (T1) | p. 323 | S1 | Verses 10-11 invoke the blessings, respectively, of the boar-incarnation of Vishnu and of the Pitāmaha, i.e., Brahmā; an
+- C04-CII-036 | C | CII (T1) | p. 325 | S1 | \( ^{6} \) The Yādava-Paramāra struggle is known to have begun in the last quarter of the tenth century and with the ris
+- C04-CII-037 | C | CII (T1) | p. 345 | S1 | The next verse refers to the myth of the creation by Vasishtha of the hero of the name of Paramāra who became the progen
+- C04-CII-038 | C | CII (T1) | p. 397 | S1 | The next verse refers to the eponymous king Paramāra, who sprung from the fire-altar of the sage Vasishtha at Ābū and hu
+- C04-CII-039 | C | CII (T1) | p. 413 | S1 | To take up the first of these sections, verses 3-4 narrate the well-known myth of the creation of the originator of the 
+- C04-CII-040 | C | CII (T1) | p. 422 | S1 | It consists of two parts, the first of which is devoted to the description of the main line of the Paramāra rulers of Mā
+- C04-CII-041 | C | CII (T1) | p. 423 | S1 | \( ^{1} \) Verses 7-9 describe the scene of a battle which, from the description, appears to have been very fierce; and 
+- C04-CII-042 | C | CII (T1) | p. 423 | S1 | Verse 29 mentions a historical fact, viz., that he actively participated in Siyaka struggle against Khoṭṭigadēva at Khal
+- C04-CII-043 | C | CII (T1) | p. 433 | S1 | Then it has nine verses (3-11) to describe the Mount Arbuda (Abū), the sage Vasishtha engrossed in penance there, and th
+- C04-CII-044 | C | CII (T1) | p. 481 | S1 | The next verse relates the myth of the origin of the Paramāras from the fire-altar of the sage Vasishtha on Mount Ābū, a
+- C04-CII-045 | C | CII (T1) | p. 483 | S1 | The first hemistich of this verse mentions a king and compares him with Dharanidhara, i.e., Varāha: “and just as the lat
+- C04-CII-046 | C | CII (T1) | p. 492 | S1 | The record commences with the familiar legend relating to the creation of the Paramāra ruling house by Vasishtha, from h
+- C04-CII-047 | C | CII (T1) | p. 58 | S2 | The inscription begins with the auspicious symbol for Siddham, which is followed by the date, specified both in words an
+- C04-CII-048 | C | CII (T1) | p. 59 | S2 | Kīrtitrāja, who issued a grant on the Tāptī in Śaka 940 or 1018 A.C.,\( ^{1} \) was a contemporary of the Paramāra Bhōja
+- C04-CII-049 | C | CII (T1) | p. 64 | S2 | The present charter is the first of those issued by a Paramāra king in the Bhopāl territory, whereas all the other grant
+- C04-CII-050 | C | CII (T1) | p. 64 | S2 | It then introduces the Paramabhaṭṭāraka, Mahārājādhivāja and Paramēśvara, the illustrious Bhōjadēva, meditating on the f
+- C04-CII-051 | C | CII (T1) | p. 64 | S2 | The donation was made on the occasion of a lunar eclipse which fell, as expressed in words only, on the full-moon day of
+- C04-CII-052 | C | CII (T1) | p. 65 | S2 | Of the localities mentioned in the inscription, Dhārā (l. 7) is obviously Dhār, the Paramāra capital and now the headqua
+- C04-CII-053 | C | CII (T1) | p. 69 | S2 | 26 of the grant is mentioned the date, in words, which is the fifteenth day of the bright half of Bhādrapaṇa of the (Vik
+- C04-CII-054 | C | CII (T1) | p. 69 | S2 | state that Bhōjadēva, after he had performed the daily duties and worshipped the venerable Bhavānī-pati, announced befor
+- C04-CII-055 | C | CII (T1) | p. 70 | S2 | This is obviously a reference to Bhōja's victory over Arikēsarin (c. 1015-1025 A.C.), the Silāhāra prince of Northern Ko
+- C04-CII-056 | C | CII (T1) | p. 70 | S2 | And being an important event, this conquest probably continued to be celebrated at most of the places in the Paramāra ki
+- C04-CII-057 | C | CII (T1) | p. 75 | S2 | This portion of the record is followed by the mention of the date, in line 31, which is the fifth of the bright half of 
+- C04-CII-058 | C | CII (T1) | p. 75 | S2 | Like both these inscriptions, the present one, after paying obeisance to Śiva under the name of Vyōmakēsa and Smarārāti 
+- C04-CII-059 | C | CII (T1) | p. 80 | S2 | But as the Uttarāyaṇa-saṅkrānti took place during the second tithi when Sunday also was civilly the second, the same sch
+- C04-CII-060 | C | CII (T1) | p. 80 | S2 | Of the geographical names mentioned in the inscription, Dhārā (l. 10) is evidently the Paramāra capital Dhār, the headqu
+- C04-CII-061 | C | CII (T1) | p. 80 | S2 | As is the case with some of the Paramāra charters, the present one opens with the auspicious symbol which is followed by
+- C04-CII-062 | C | CII (T1) | p. 86 | S2 | 18-21), we have four of the customary imprecatory verses; and then the inscription records the date in figures only, as 
+- C04-CII-063 | C | CII (T1) | p. 90 | S2 | The inscription refers itself to the reign of the illustrious Bhōjadēva who is called in it ‘the moon among the kings’ a
+- C04-CII-064 | C | CII (T1) | p. 92 | S2 | To review the contents of the record, the first of the two extant plates begins with the description of a king of the na
+- C04-CII-065 | C | CII (T1) | p. 93 | S2 | However, it may not be impossible that the word Sāhavāhana, which appears to be the same as Sātavāhana\(^{2}\) may have 
+- C04-CII-066 | C | CII (T1) | p. 98 | S2 | After the introductory blessing, svasti, the inscription furnishes the genealogy of the Pravāimra (Paramāra) rulers (of 
+- C04-CII-067 | C | CII (T1) | p. 99 | S2 | The inscription also refers to Bhōja's conquest of Kōnkaṇa, which is evidently the same as referred to in the Bētmā and 
+- C04-CII-068 | C | CII (T1) | p. 100 | S2 | The inscription is important as it indicates that Bhōja's kingdom included in it the region around Nāsik and also for th
+- C04-CII-073 | C | CII (T1) | p. 324 | S2 | The next king was Sindhurāja, who was fond of warlike activities and a poet as well (vv. 29-31). His relationship with h
+- C04-CII-074 | C | CII (T1) | p. 423 | S2 | Satyarāja is stated to have fought with the Gūrjaras and obtained dignity (vibhava) from Bhōjadeva, the renowned Paramār
+- C04-CII-075 | C | CII (T1) | p. 107 | S3 | The inscription belongs to the reign of the Panambhattāraka, Mahārājādhurāja, Paramēśvara, the illustrious Jayasimhadēva
+- C04-CII-089 | C | CII (T1) | p. 170; | S3 | We have no means to verify the date but since while discussing the date of the preceding inscription, I have given reaso
+- C04-CII-090 | C | CII (T1) | p. 170 | S3 | Following this, it goes on to state the genealogy of the donor in the usual way, vuz., the Paramabhattāraka, Mahārājādhu
+- C04-CII-091 | C | CII (T1) | p. 171 | S3 | The importance of the present inscription, however, lies in the fact that the gift was made on the occasion of the annua
+- C04-CII-092 | C | CII (T1) | p. 171 | S3 | This portion contains nothing new, but what is noteworthy here is the omission of the name of Jayasinha, the son and suc
+- C04-CII-093 | C | CII (T1) | p. 178 | S3 | The Prabandhachintāmaṇi tells us that in the last days of Bhōja the Kalachuri Karṇa and the Chaulukya Bhāma made an alli
+- C04-CII-094 | C | CII (T1) | p. 178 | S3 | The next three verses (32-34) introduce Bhōjadeva's relative (bandhu) Udayāditya, who, according to the Dōngargāon inscr
+- C04-CII-095 | C | CII (T1) | p. 178 | S3 | Considering this, I am inclined to hold that the Karṇāta king mentioned in the present inscription appears to be Ereyāng
+- C04-CII-096 | C | CII (T1) | p. 178 | S3 | Sōmēśvara entered into a quarrel with his younger brother Vikramāditya; and in the fatricidal war that ensued between th
+- C04-CII-097 | C | CII (T1) | p. 179 | S3 | This grandiloquent account, with its high literary value, is of little use to the historian, as we have often stated; bu
+- C04-CII-098 | C | CII (T1) | p. 179 | S3 | Verses 33-34 speak of Udavāditya's valour and glorify him. But the description is all general, not mentioning any specif
+- C04-CII-099 | C | CII (T1) | p. 186 | S3 | It then proceeds to trace the genealogy of the ruling house of the Paramāras, beginning it from the Paramabhattāraka. Ma
+- C04-CII-100 | C | CII (T1) | p. 209 | S3 | As in the case of many Paramāra grants, the inscription opens with Om wasti and Srīr = jjayō = bhyudayaś = cha, followed
+- C04-CII-101 | C | CII (T1) | p. 210 | S3 | \( ^{6} \) But Jayavarman may be assumed to have had more intimate relations with his contemporary Kalachuri king Gayāka
+- C04-CII-102 | C | CII (T1) | p. 213 | S3 | It then introduces the house to which Lakshmīvarman belonged, mentioning the names of the Paramabhattāraka, Mahārājā-dhi
+- C04-CII-103 | C | CII (T1) | p. 253 | S3 | The following 12 stanzas (vv. 5-16) are devoted to the description of the dynasty of the Paramāras of (reigning at) Dhār
+- C04-CII-104 | C | CII (T1) | p. 270 | S3 | This portion, as we have already seen, after devoting the first four stanzas to maigalācharana, gives the genealogical p
+- C04-CII-105 | C | CII (T1) | p. 324 | S3 | Thereafter, the inscription is silent on the whole of the unpleasant episode following Bhōja's death, and merely states 
+- C04-CII-115 | C | CII (T1) | p. 253 | S4 | The adjective \( nity-otṣaḥaika-kautukī \) appearing in the second foot of the verse and applied to Udayāditya has been 
+- C04-CII-116 | C | CII (T1) | p. 294 | S4 | We have seen that since the time of Udavāditya the northern frontier of the Paramāra kingdom extended up to Jhālrapātān 
+- C04-CII-118 | C | CII (T1) | p. 76 | S5 | Arthūnā, which was an important centre under the Paramāras and which, with the hamlet Thalī, was then one and the same p
+- C04-CII-124 | C | CII (T1) | p. 159 | S5 | Lōlārka's wife was Padmāvatī, who resembled Lakshmī with her fair limbs. She built the palace (i.e., temple) of Nimbādit
+- C04-CII-125 | C | CII (T1) | p. 326 | S5 | He constructed a temple of Śiva at Dēvapālapura, another, which was lofty and dedicated to Ambikā, at Śākapura, and stil
+- C04-CII-126 | C | CII (T1) | p. 326 | S5 | Verse 55 of the inscription tells us that Jayavarman “erected temples with sky-kissing golden jars, donated cities, gold
+- C04-CII-127 | C | CII (T1) | p. 327 | S5 | a Brahmapuri, with the permission of his master, to Brāhmaṇas — a city furnished with the surrounding wall and street (p
+- C04-CII-128 | C | CII (T1) | p. 99 | S6 | Ind., Banerji observes that “the very fact that an ordinary feudatory chief dares to make a grant of land without referr
+- C04-CII-133 | C | CII (T1) | p. 175 | S6 | The inscription commences with the mention of the year, Sanivat 1157, corresponding to 1100-01 A.C. No details of the ye
+- C04-CII-134 | C | CII (T1) | p. 179 | S6 | The next two verses introduce his son Lakshmadēva: and the following twenty verses are devoted to give a laudatory accou
+- C04-CII-135 | C | CII (T1) | p. 187 | S6 | As we shall presently see, the localities showing the situation of the gift land were all lying in the western Betwā val
+- C04-CII-136 | C | CII (T1) | p. 187 | S6 | That Sallakshanavarman's grandson Madanavarman had once again to acquire this region is shown by his own Augasī plate re
+- C04-CII-137 | C | CII (T1) | p. 192 | S6 | We know that the Paramāra king Yasōvarman perfored the anniversary of his father Naravarman either in October or in Nove
+- C04-CII-138 | C | CII (T1) | p. 194 | S6 | The record goes to indicate that the pillar on which it is incised belongs to the temple of Chachchikā or Chachikā, whic
+- C04-CII-139 | C | CII (T1) | p. 204 | S6 | The inscription is one of the Mahārāja, the illustrious Yaśōvarmadēva, whose pedigree must have been mentioned in the no
+- C04-CII-140 | C | CII (T1) | p. 205 | S6 | As it would appear from the construction, these two villages were granted in exchange of some other land which had been 
+- C04-CII-141 | C | CII (T1) | p. 210 | S6 | The long-drawn war of the Paramāras with their western neighbours who were the Chaulukyas of Gujarāt, is well known; and
+- C04-CII-142 | C | CII (T1) | p. 210 | S6 | And under the circumstances it appears to be quite natural for Yaśo varman's son, Jayavarman, to leave the capital immed
+- C04-CII-143 | C | CII (T1) | p. 211 | S6 | unsettled conditions that followed Jayasimha's death in V.S. 1200 or 1142-43 A.C., Jayavarman re-occupied Mälwä,\(^{1}\)
+- C04-CII-144 | C | CII (T1) | p. 213 | S6 | The inscription is a royal charter issued by the Mahākumāra, the illustrious Lakshmīvarman, who had attained the privile
+- C04-CII-145 | C | CII (T1) | p. 213 | S6 | The record then states that Lakshmīvarman confirmed or again donated (punar=api dattau) the grant already made by his pr
+- C04-CII-146 | C | CII (T1) | p. 214 | S6 | The whole discussion on the division of the Paramāra kingdom during the fourth decade of the twelfth century may be summ
+- C04-CII-147 | C | CII (T1) | p. 214 | S6 | Jayavarman has been omitted in the present record, and also that Lakshmīvarman's name has similarly been omitted in the 
+- C04-CII-148 | C | CII (T1) | p. 214 | S6 | Moreover, the statement of the Bhopāl grant of Udayavarman to the effect that Lakshmīvarman succeeded in occupying the t
+- C04-CII-149 | C | CII (T1) | p. 215 | S6 | and resumed the government, proclaiming himself as a sovereign lord: and the younger brother Lakshmīvarman continued to 
+- C04-CII-150 | C | CII (T1) | p. 215 | S6 | As for the localities mentioned in the inscription, Dhārā (l. 6) is obviously the modern Dhār, now the principal town of
+- C04-CII-151 | C | CII (T1) | p. 226 | S6 | Hariśchandra, the son of Lakshmīvarman, is known to have issued a grant from the same place vidishā, only a couple of ye
+- C04-CII-152 | C | CII (T1) | p. 232 | S6 | The grant was made, as seen above, on the ninth day of a month, the name of which is lost along with the figures showing
+- C04-CII-153 | C | CII (T1) | p. 232 | S6 | In view of this consideration, it does not appear to be impossible that Harischandra was very young when he succeeded hi
+- C04-CII-154 | C | CII (T1) | p. 235 | S6 | The charter then refers to the predecessors of the donor, giving the names of the Paramabhattāraka, Mahārājādhirāja and 
+- C04-CII-155 | C | CII (T1) | p. 236 | S6 | Comparing the evidence supplied by the present and the following grants of Harischandra, we notice another inconsistency
+- C04-CII-156 | C | CII (T1) | p. 242 | S6 | Like many other Paramāra grants, the present record opens with two verses in honour of the god Śiva, and they are follow
+- C04-CII-157 | C | CII (T1) | p. 243 | S6 | The importance of the present record, however, lies in the fact that it tells us that Hariśchandra was the son of Lakshm
+- C04-CII-158 | C | CII (T1) | p. 247 | S6 | The genealogical portion (ll. 3 ff.) mentions the names of Yasōvarman and his successor Jayavarman, both as sovereign lo
+- C04-CII-159 | C | CII (T1) | p. 248 | S6 | Referring to that history, we know that Jayavarman's son Vindhyavarman succeeded in recovering his ancestral dominions f
+- C04-CII-160 | C | CII (T1) | p. 254 | S6 | Verse 11 of the present record tells us that Yaśōvarman had a son named Ajayavarman (tasnād = Ajayaavarm = ābhāt); this 
+- C04-CII-161 | C | CII (T1) | p. 254 | S6 | The expression Gurjarōchchhēda-nurbandhī applied to Vindhyavarman in verse 12 has a reference to his success in liberati
+- C04-CII-162 | C | CII (T1) | p. 264 | S6 | This is so far the earliest known inscription connecting Dēvapāla, a scion of the Mahākumāra line with the main branch o
+- C04-CII-163 | C | CII (T1) | p. 271 | S6 | The inscription does not specify Dêvapâla's relationship with Arjunavarman whom he is said to have succeeded, or the sta
+- C04-CII-164 | C | CII (T1) | p. 272 | S6 | Bilhaṇa is evidently the same as the Mahā-sāndhi-vigrahika of Arjunaivarman's grandfather Vindhyavarman, as we know from
+- C04-CII-165 | C | CII (T1) | p. 281 | S6 | The inscription refers itself to the auspicious and victorious reign of the illustrious Dēvapālādeva, who is evidently i
+- C04-CII-166 | C | CII (T1) | p. 290 | S6 | This person was a son of Dēvapāla and the younger brother of Jaitugidēva, as we already know. And in view of the fact th
+- C04-CII-167 | C | CII (T1) | p. 299 | S6 | 54) mentions a ruler, whose name is again lost but who is said to have put to flight (made kāndūśika) a Yadu king. This 
+- C04-CII-168 | C | CII (T1) | p. 300 | S6 | The fragmentary nature of the inscription does not enable us to know if any other donation was recorded in it; but it re
+- C04-CII-169 | C | CII (T1) | p. 307 | S6 | The plates were issued by the Mahārdjādhivāja, the illustrious Jayavarmadeva, the younger brother of Jaitugideva. They r
+- C04-CII-170 | C | CII (T1) | p. 323 | S6 | And as none of the remaining six of the names mentioned here is so far known as belonging to the Paramāra house of Dhāra
+- C04-CII-171 | C | CII (T1) | p. 324 | S6 | This account too is equally confusive. The composer of the record, besides his ignorance of the fact that Vākpati and Mu
+- C04-CII-172 | C | CII (T1) | p. 324 | S6 | Then are mentioned the following rulers in turn: Udayāditya's son Naravarman (vv. 37-38), the latter's son Yaśōvarman (v
+- C04-CII-173 | C | CII (T1) | p. 325 | S6 | \( ^{1} \) Verse 52 is again historically important; it states, in a poetic way, that Jayasiniha was both — a dauhitra (
+- C04-CII-174 | C | CII (T1) | p. 325 | S6 | The document proceeds to state that Děvapāla was succeeded by his son Jaitugidēva (v. 49), and the latter, by Jayavarman
+- C04-CII-175 | C | CII (T1) | p. 373 | S6 | Prithvīraja III, who succeeded his father Sōmēśvara on the Chāhamāna throne of Ajmer almost about the same time (in 1178
+- C04-CII-176 | C | CII (T1) | p. 467 | S6 | For we know that in 1145 A.C. Mālwā was conquered by the Chaulukya house of Gujarāt; and this calamity befalling the imp
+- C04-CII-177 | C | CII (T1) | p. 476 | S6 | The title of Mahārājādihirāja attached to Krishnarāja's name in the present and the following inscriptions, both of whic
+- C04-GANGULY-001 | C | GANGULY (T5) | p. 6 | S1 | In the early years of the 9th century they having been hard pressed by the Rāstrakūtas, surrendered Malwa to their contr
+- C04-GANGULY-002 | C | GANGULY (T5) | p. 7 | S1 | In the middle of the 10th century A. D., this vast empire collapsed, and was divided between a number of independent rul
+- C04-GANGULY-003 | C | GANGULY (T5) | p. 15 | S1 | This made him greatly indignant, whereupon he threw an offering into the fire with some holy sayings. At once a hero spr
+- C04-GANGULY-004 | C | GANGULY (T5) | p. 17 | S1 | While a particular bard denies the fire-origin of the Paramâras, others maintain that not only the Cauhâns but the Param
+- C04-GANGULY-005 | C | GANGULY (T5) | p. 19 | S1 | The only thing which can reasonably be gleaned from them is that 'Paramâra' was not the name of a race but of a family, 
+- C04-GANGULY-006 | C | GANGULY (T5) | p. 20 | S1 | The Pratihāras were a branch of the Gurjara race. They described themselves on rare occasions as Gurjaras, and always pr
+- C04-GANGULY-007 | C | GANGULY (T5) | p. 21 | S1 | An inscription, dated V. S. 1005=948 A. D., of the reign of the Paramâra Siyaka II, has recently been discovered in the 
+- C04-GANGULY-008 | C | GANGULY (T5) | p. 21 | S1 | Now all these arguments advanced by the learned scholars are open to discussion. Tradition is their main source of evide
+- C04-GANGULY-009 | C | GANGULY (T5) | p. 22 | S1 | "Paramara-bhattāraka Mahārājādhirāja Paramesśvara Akālavarṣa-deva Prthvīvallabha meditated upon the feet of Parama-bhatt
+- C04-GANGULY-010 | C | GANGULY (T5) | p. 22 | S1 | Câhamânas, the Caulukyas, and the Parihâras do not assert anything about their fire-origin. On the contrary, they tell u
+- C04-GANGULY-011 | C | GANGULY (T5) | p. 23 | S1 | Vappai referred to in the Harsola grant is undoubtedly the same as Vâkpatirâja I, the father of Vairisimpha II. Hence it
+- C04-GANGULY-012 | C | GANGULY (T5) | p. 23 | S1 | The original home of the Paramaras must have been in the Deccan, which once formed the home dominion of the Imperial Rāṣ
+- C04-GANGULY-013 | C | GANGULY (T5) | p. 24 | S1 | Padmagupta's Nava-sâhasâṅka-carita, written between the years 996-1000 A. D., is the earliest known record to describe t
+- C04-GANGULY-014 | C | GANGULY (T5) | p. 31 | S1 | This is, in my opinion, the real history of the overthrow of the Pratihâra rule in Málava, which was henceforward govern
+- C04-GANGULY-015 | C | GANGULY (T5) | p. 32 | S1 | From all these facts it can safely be asserted that between the years 808 and 812 A. D., the Gurjara -Pratihâras were ex
+- C04-GANGULY-016 | C | GANGULY (T5) | p. 33 | S1 | throne between 971 and 972 A. D. If a period of twenty-five years is allowed to each reign, Upendra's accession is to be
+- C04-GANGULY-017 | C | GANGULY (T5) | p. 34 | S1 | Barnett in thinking \( ^{4} \) that this Vairisimha is identical with the Vairisimha I who was the son and successor of 
+- C04-GANGULY-018 | C | GANGULY (T5) | p. 35 | S1 | In the Ujjain plate of Vākpati-Muñja, \( ^{2} \) the earliest ruler of the family is mentioned as Krṣnarāja, who is iden
+- C04-GANGULY-019 | C | GANGULY (T5) | p. 36 | S1 | This is entirely based on the traditional belief that the founder of the Paramāra family took his birth from a fire-pit 
+- C04-GANGULY-020 | C | GANGULY (T5) | p. 38 | S1 | Now, if all these discussions are briefly summarised, it follows that, between 808 and 812 A. D., Upendra, a member of t
+- C04-GANGULY-021 | C | GANGULY (T5) | p. 39 | S1 | Dambarasimha, a son of Upendra, founded a principality in the modern Banswara State. In the last quarter of the 10th cen
+- C04-GANGULY-022 | C | GANGULY (T5) | p. 40 | S1 | These rulers of Malwa played an important rôle in the history of ancient India, and once attained a high imperial positi
+- C04-GANGULY-024 | C | GANGULY (T5) | p. 42 | S1 | In the two land grants \( ^{7} \) of Vâkpati-Muñja, there appears a name Kṛṣnarâja, at whose feet Vairisimha II, the fat
+- C04-GANGULY-025 | C | GANGULY (T5) | p. 43 | S1 | Upendra began his rule between the years 808 and 812 A. D. We may, for the sake of convenience, provisionally take it as
+- C04-GANGULY-026 | C | GANGULY (T5) | p. 44 | S1 | Vairisimha I succeeded to the throne, after the close of his father's reign, about the year 836-7 A. D. His younger brot
+- C04-GANGULY-027 | C | GANGULY (T5) | p. 45 | S1 | Vakpati's rule seems to have come to a close about the year 917-18 A. D., when the charge of the government was assumed 
+- C04-GANGULY-028 | C | GANGULY (T5) | p. 48 | S1 | It settles one important fact that Malwa was not annexed to the kingdom of Kanauj before this time. But that the Pratihâ
+- C04-GANGULY-029 | C | GANGULY (T5) | p. 50 | S1 | During this period of turmoil and disorder the dethroned Paramâra Vairisimha II, who seems to have been living in exile 
+- C04-GANGULY-031 | C | GANGULY (T5) | p. 52 | S1 | (a) The Harsola grant, \( ^{1} \) dated V. S. 1005, Mâgha=949 A, D., January, records that Śiyaka from his camp on the b
+- C04-GANGULY-033 | C | GANGULY (T5) | p. 57 | S1 | A critical review of all these courses of events brings home to us the fact that the Paramāras were mainly instrumental 
+- C04-GANGULY-034 | C | GANGULY (T5) | p. 58 | S1 | \( ^{4} \) Shortly after his return from the southern expedition, he seems to have abdicated his throne in favour of his
+- C04-GANGULY-035 | C | GANGULY (T5) | p. 58 | S1 | Styaka was the real founder of the Paramāra kingdom, and the first imperial ruler of his family. From the position of a 
+- C04-GANGULY-036 | C | GANGULY (T5) | p. 59 | S1 | The first \( ^{x} \) is dated V. S. 1031=974 A. D., and was issued from the royal residence at Ujjain. There was a Brahm
+- C04-GANGULY-037 | C | GANGULY (T5) | p. 61 | S1 | That Vakpati and Muñja were names of one and the same king admits of no doubt. King Arjunavarman, in his commentary on A
+- C04-GANGULY-038 | C | GANGULY (T5) | p. 61 | S1 | Merutunga tells an interesting story \( ^{5} \) in connection with the birth and early life of Vakpati. Simhadanta-bhaṭa
+- C04-GANGULY-040 | C | GANGULY (T5) | p. 66 | S1 | Vakpati now divided this newly conquered territory among the princes of the royal family of Dhârâ. He established his so
+- C04-GANGULY-041 | C | GANGULY (T5) | p. 70 | S1 | These conquests made Vākapati master for some time of an extensive territory which comprised the Kalacuri kingdom on the
+- C04-GANGULY-042 | C | GANGULY (T5) | p. 72 | S1 | In the last battle the glorious Muñja, a king of unprecedented valour, fell a captive in the hands of Tailapa, and havin
+- C04-GANGULY-043 | C | GANGULY (T5) | p. 75 | S1 | Merutuñga's version of Vakpati's overthrow and execution, which we have just given, is corroborated in its main details 
+- C04-GANGULY-044 | C | GANGULY (T5) | p. 76 | S1 | D., when Muñja was on the throne of Malwa. \( ^{3} \) Tailapa II, the destroyer of Muñja, died shortly before 998 A. D. 
+- C04-GANGULY-045 | C | GANGULY (T5) | p. 79 | S1 | Sindhurāja assumed the appellations of Kumāranā-rāyaṇa and Navasāhasānka. He is generally described by Padmagupta as Ava
+- C04-GANGULY-046 | C | GANGULY (T5) | p. 308 | S1 | There, we have noticed that Vâkpati-Muñja established three new settlements at Jalor, Bhinmal and Mount Abu, to which he
+- C04-GANGULY-047 | C | GANGULY (T5) | p. 380 | S1 | It has been endeavoured to explain (p. 9.) why the Paramāras being members of the well kndwn Rāṣṭrakūṭa family did not d
+- C04-GANGULY-048 | C | GANGULY (T5) | p. 62 | S2 | With the accession of Vakpati, a new era dawned upon Malwa. A new spirit breathed through every sphere of life, and the 
+- C04-GANGULY-049 | C | GANGULY (T5) | p. 95 | S2 | the Jaina teacher may be provisionally accepted as true in the absence of any evidence to the contrary. The earliest kno
+- C04-GANGULY-050 | C | GANGULY (T5) | p. 97 | S2 | A number of contemporary records relate that Vakpati was succeeded by his younger brother, Sindhu-râja, who was again fo
+- C04-GANGULY-051 | C | GANGULY (T5) | p. 102 | S2 | If to all these epigraphic evidences is added that of Al Bérûnî, \( ^{1} \) who states that in 1030 A. D. Bhilsa was the
+- C04-GANGULY-052 | C | GANGULY (T5) | p. 102 | S2 | Bhoja rebuilt the city on a new model, and transferred his capital thither from Ujjain. \( ^{2} \) Rohaka was the prime 
+- C04-GANGULY-053 | C | GANGULY (T5) | p. 103 | S2 | The ideals which were set up by Vakpati were now fully realised in every sphere of life. The new king became renowned fo
+- C04-GANGULY-054 | C | GANGULY (T5) | p. 115 | S2 | never invaded by the Moslems during his rule. Hence it seems that he sent his mercenaries to fight with the Moslems some
+- C04-GANGULY-055 | C | GANGULY (T5) | p. 118 | S2 | \( ^{x} \) It was very difficult for Bhoja to carry out his military operations freely in the north until the forces of 
+- C04-GANGULY-056 | C | GANGULY (T5) | p. 120 | S2 | In the fierce battle that followed, the Paramāras suffered a severe reverse. The Sasbahu inscription \( ^{2} \) of the K
+- C04-GANGULY-057 | C | GANGULY (T5) | p. 133 | S2 | Thus ended the long career of Bhoja, admittedly a king of superior merit and rare valour. There is no doubt that he had 
+- C04-GANGULY-058 | C | GANGULY (T5) | p. 134 | S2 | The power of his mighty arm was felt by the Karṇāṭas and Śilāḥāras on the south, the Cedis on the east, and the Caulukya
+- C04-GANGULY-059 | C | GANGULY (T5) | p. 260 | S2 | \( ^{4} \) Through the influence of the poet Dhanapāla, Bhoja is said to have become favourably inclined towards the ten
+- C04-GANGULY-060 | C | GANGULY (T5) | p. 261 | S2 | In six month's time they arrived at the conclusion that "By meditation one obtains salvation, regardless of the religion
+- C04-GANGULY-061 | C | GANGULY (T5) | p. 264 | S2 | Twenty miles south of the city of Bhopal are the remains of the ancient city of Bhojpur. Tradition ascribes its foundati
+- C04-GANGULY-062 | C | GANGULY (T5) | p. 282 | S2 | Iconography also rose to a high level at this same time. In Sam. 1091=1034 A. D., by the orders of Bhoja, the famous scu
+- C04-GANGULY-063 | C | GANGULY (T5) | p. 309 | S2 | Dhandhuka was a contemporary of the king Bhoja of Malwa, during whose reign the enmity between the house of Anhilwar and
+- C04-GANGULY-064 | C | GANGULY (T5) | p. 310 | S2 | Dhandhuka's son and successor, Pârnapâla, probably with the assistance of Bhoja, succeeded in establishing his authority
+- C04-GANGULY-065 | C | GANGULY (T5) | p. 379 | S2 | The inscription was found in the possession of a person residing in Depalpur, 24 miles north-west of Indore. It is dated
+- C04-GANGULY-066 | C | GANGULY (T5) | p. 78 | S3 | Though Vakpati had two sons, Aranyarâja \( ^{2} \) and Candana, \( ^{3} \) who were appointed governors of Mount Abu and
+- C04-GANGULY-067 | C | GANGULY (T5) | p. 79 | S3 | \( ^{x} \) But the discovery of a large number of authentic documents prove the baselessness of this statement. At least
+- C04-GANGULY-068 | C | GANGULY (T5) | p. 107 | S3 | An inscription from Nagai, \( ^{6} \) dated Šaka 980 =1058 A. D., issued during his reign, states the fact of Somesvara’
+- C04-GANGULY-069 | C | GANGULY (T5) | p. 108 | S3 | From all these it may be concluded that Somesvara I, accompanied by his subordinates, Någadeva, Gundamaya, Jemarasa and 
+- C04-GANGULY-070 | C | GANGULY (T5) | p. 122 | S3 | Bhoja died some time before 1055 A. D., after which, no doubt, there was turmoil and disorder in the Malwa country. But 
+- C04-GANGULY-071 | C | GANGULY (T5) | p. 137 | S3 | It has been seen in the foregoing chapter that Bhoja fell ill, and died suddenly in the midst of his war with the combin
+- C04-GANGULY-072 | C | GANGULY (T5) | p. 138 | S3 | Somesvara, therefore, sent his son, Vikramāditya, a distinguished general, with a large army to help the cause of Jayasi
+- C04-GANGULY-073 | C | GANGULY (T5) | p. 138 | S3 | (i) The Mandhata plates \( ^{2} \) were issued from the royal camp itself at Dhāra, on the 13th of the dark half of Āsād
+- C04-GANGULY-074 | C | GANGULY (T5) | p. 142 | S3 | In the fierce battle that followed he lost his life, and Malwa was easily conquered by the invaders. The Caulukyas toget
+- C04-GANGULY-075 | C | GANGULY (T5) | p. 144 | S3 | As regards the Caulukya Karna, the Prthvîrâja-vijaya tells us that he conquered Mâlava. Arisimha reports that a Karna de
+- C04-GANGULY-082 | C | GANGULY (T5) | p. 149 | S3 | Bhoja with much affection aud appointed him his successor. When his son Jayacand's reign was ended, none of the Ponwar c
+- C04-GANGULY-090 | C | GANGULY (T5) | p. 312 | S3 | The death of Bhoja about 1055 A. D. deprived the Abu princes of a strong supporter against the incursions of the Cauluky
+- C04-GANGULY-102 | C | GANGULY (T5) | p. 380 | S4 | This Jayasimha is to be identified with the king of the same name who succeeded to the throne of Bhoja. It has been disc
+- C04-GANGULY-103 | C | GANGULY (T5) | p. 41 | S5 | Long before the ascendency of the Paramāras, Dhârâ had attained to the position of the chief city in Malwa. Ísvaravarman
+- C04-GANGULY-108 | C | GANGULY (T5) | p. 249 | S5 | Our information regarding the names of the towns and cities that rose to importance during the period under review is ve
+- C04-GANGULY-110 | C | GANGULY (T5) | p. 264 | S5 | The Paramâra kings were great builders of magnificent cities, lakes, and temples. Bhoja rebuilt the city of Dhârâ.
+- C04-GANGULY-111 | C | GANGULY (T5) | p. 272 | S5 | During the rule of the Paramāra dynasty it was an important town, and was one of the chief centres of architectural acti
+- C04-GANGULY-112 | C | GANGULY (T5) | p. 283 | S5 | Another image \( ^{1} \) has been discovered in the Devt tank at Dhar. It is carved out of hard white stone, and is in p
+- C04-GANGULY-113 | C | GANGULY (T5) | p. 37 | S6 | Vákpati, as has been noticed above, once proceeded as far as the country of Marwar, in the course of his military campai
+- C04-GANGULY-114 | C | GANGULY (T5) | p. 156 | S6 | The Nagpur stone inscription \( ^{5} \) is the main evidence to throw light upon the career of this monarch. It records 
+- C04-GANGULY-115 | C | GANGULY (T5) | p. 158 | S6 | The Nagpur stone inscription devotes nineteen verses to a record of the military excursions of Lakṣma-deva. His soldierl
+- C04-GANGULY-116 | C | GANGULY (T5) | p. 159 | S6 | Karṇa was really instrumental in bringing disgrace and ignominy on the Paramāras in the middle of the eleventh century A
+- C04-GANGULY-117 | C | GANGULY (T5) | p. 165 | S6 | \( ^{4} \) But, in the absence of any definite corroborative evidence, it is impossible to say with certainty whether he
+- C04-GANGULY-118 | C | GANGULY (T5) | p. 166 | S6 | Laksmadeva inherited from his father a kingdom, whose minimum extent lay between Jhalrapatan on the north, Bhilsa on the
+- C04-GANGULY-119 | C | GANGULY (T5) | p. 170 | S6 | Laksmadeva who seems at that time to have been on the throne of Malwa was not a man to yield before the Moslems without 
+- C04-GANGULY-120 | C | GANGULY (T5) | p. 172 | S6 | Lakṣmadeva closed his reign some time before 1094 A. D., and was succeeded by his younger brother Naravarman.
+- C04-GANGULY-121 | C | GANGULY (T5) | p. 173 | S6 | (iii) Colonel Tod dʒscovered an inscription on a marble stone at Madhukaraghar in Harauti (modern Bundi State).* It desc
+- C04-GANGULY-122 | C | GANGULY (T5) | p. 175 | S6 | Sallaksana-varman entered into hostilities with Naravarman and won a victory over him. An inscription from Ajaigarh tell
+- C04-GANGULY-123 | C | GANGULY (T5) | p. 177 | S6 | All these reverses sustained by the Malwa government undoubtedly prove the degeneration of its military strength in the 
+- C04-GANGULY-124 | C | GANGULY (T5) | p. 178 | S6 | Yaśovarman ascended the throne of Malwa at the time when almost all its military resources were exhausted by the long-pr
+- C04-GANGULY-125 | C | GANGULY (T5) | p. 179 | S6 | The inscription clearly shows that the disintegration of the Paramāra kingdom had begun since the latter part of the rei
+- C04-GANGULY-126 | C | GANGULY (T5) | p. 181 | S6 | Yasovarman capitulated and fell a captive to the Caulukya monarch. After this event, the supremacy of Jayasimha was esta
+- C04-GANGULY-127 | C | GANGULY (T5) | p. 182 | S6 | Siddharâja's victory over the king of Malwa was more than a mere military raid. He incorporated the country into his own
+- C04-GANGULY-128 | C | GANGULY (T5) | p. 183 | S6 | As regards Yasovarman, it is related that, within a short time, he managed to escape from the prison of Gujarat, with th
+- C04-GANGULY-129 | C | GANGULY (T5) | p. 183 | S6 | At any rate Malwa became part and parcel of the Gujarat empire between the years V. S. 1191 and 1193, the latter being t
+- C04-GANGULY-130 | C | GANGULY (T5) | p. 185 | S6 | Although Jayavarman succeeded in liberating his kingdom from the yoke of subordination, he could not long maintain his a
+- C04-GANGULY-131 | C | GANGULY (T5) | p. 186 | S6 | The fact that Jayavarman lost his throne and kingdom is indirectly evidenced by the Bhopal grant \( ^{4} \) of Udayavarm
+- C04-GANGULY-133 | C | GANGULY (T5) | p. 200 | S6 | In the latter part of the twelfth century A. D., no king of the name of Udayāditya is known to have ruled in Bhopal. The
+- C04-GANGULY-134 | C | GANGULY (T5) | p. 201 | S6 | the main Paramāra dynasty was overthrown, and a Gujarat sovereignty was established in its place, two junior branches of
+- C04-GANGULY-135 | C | GANGULY (T5) | p. 203 | S6 | Thus, after about a quarter of a century, Malwa resumed her life and work under the supremacy of the Paramâras. Vindhyav
+- C04-GANGULY-136 | C | GANGULY (T5) | p. 207 | S6 | Vindhyavarman's prowess as an able soldier and an astute general can hardly be over-estimated. Though he suffered a defe
+- C04-GANGULY-138 | C | GANGULY (T5) | p. 233 | S6 | All this evidence proves beyond doubt Visala's sweeping success in that enterprise. His invasion was of a plundering nat
+- C04-GANGULY-139 | C | GANGULY (T5) | p. 243 | S6 | Here we must close the long tale of a family of rulers, which emerged from comparative darkness into the political arena
+- C04-GANGULY-140 | C | GANGULY (T5) | p. 251 | S6 | The Paramāra kings were Kṣatriyas. They established social relations with the various ruling dynasties of India by inter
+- C04-GANGULY-141 | C | GANGULY (T5) | p. 255 | S6 | Even at the time when the Paramāra government was on the point of extinction, its armed forces amounted to thirty or for
+- C04-GANGULY-142 | C | GANGULY (T5) | p. 261 | S6 | The king Naravarman was favourably disposed to the Jaina religion. Samudraghosa studied "Tarka Sāstra" (logic) in Mālava
+- C04-BHOJA-TIMES-001 | C | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S1 | The Flarsola-plates®^, the earliest records of the Paramara dynasty so far discovered, hardly accept the identification 
+- C04-BHOJA-TIMES-002 | C | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S1 | TKe'aBoveTacts'fend'us foTieliev^fhat Upendra’s reign began sometime between A.D. 800 and 840.
+- C04-BHOJA-TIMES-003 | C | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S1 | In this list Krsnarajadeva stands as the first historical ruler,; of the Paramara-dynasty.
+- C04-BHOJA-TIMES-004 | C | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S1 | Vasistha then created out of the firepit a hero who slew the enemies and brought the cow back. In reward of this deed th
+- C04-BHOJA-TIMES-006 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | the poetess Sita in the times of Upendra, who wrote a ‘pra^asti’ on his exploits but the Jain author through an evident 
+- C04-BHOJA-TIMES-007 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | poetess SIta in the context of king Upendra (Krsiiiaraja the first king) of the Paramara dynasty.* Ganguly thinks that t
+- C04-BHOJA-TIMES-008 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | He was the son of Visiiu and a brother of Dhananjaya. Originally he was the inhabitant of Ahicchatra and later on settle
+- C04-BHOJA-TIMES-009 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | Padmagupta, the court poet of Sindhuraja, has referred to the poetess SIta in the context of king Upendra (Krsiiiaraja t
+- C04-BHOJA-TIMES-010 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | The work deals with the story that king Bhoia of Dhiira (ll.hC) discovered a throne which was once mernted by Indra to V
+- C04-BHOJA-TIMES-011 | C | BHOJA-TIMES (T5) | no page; Chapter III, Early Life | S2 | Ojha thus concludes that Bhoja must have ascended the throne in lOlO A.D. or some time late.
+- C04-BHOJA-TIMES-012 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S2 | Paramara Bhoja himself was a great devotee of this goddess. In her honour he installed an image in his famous university
+- C04-BHOJA-TIMES-013 | C | BHOJA-TIMES (T5) | no page; Introduction | S2 | Among all the Rajput dynasties which arose from the collapse of Pratiharas, Paramaras for sometime, continued to be the 
+- C04-BHOJA-TIMES-014 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S2 | inscription in Kanarese language from Sravana Belgola records that Paramara Bhoja worshipped at the feet of Jainacharya-
+- C04-BHOJA-TIMES-015 | C | BHOJA-TIMES (T5) | no page; Chapter III, Early Life | S2 | A close examination of the views explained above tends us to believe that Bhoja’s accession took place some time about A
+- C04-BHOJA-TIMES-016 | C | BHOJA-TIMES (T5) | no page; Chapter III, Early Life | S2 | Dr. Ganguly, relying on the authority of Merutuhga, assigns A.D. 1000 as the date of Bhoja’s accession to the throne.®
+- C04-BHOJA-TIMES-017 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | Bhoja erected several pillars. An iron pillar had recently been found at Dhara. prcbably, Kulachandra Bhoja’s general af
+- C04-BHOJA-TIMES-018 | C | BHOJA-TIMES (T5) | no page; Chapter IV, Political Achievements of Bhoja | S2 | Thus it goes Wi thout saying that the epithets, 'Paramabhatta- ralca’, ‘MaharajSdhIraja’, ‘Pafamasvara’, ‘Malavacakravar
+- C04-BHOJA-TIMES-019 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | James writes "While Hindu literature survives, the name of Bhoja Paramara and the nine gems cannot pcrirh.”= Mr. Josycr 
+- C04-BHOJA-TIMES-020 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | When Munja met his end, the empire of Malwa had almost collapsed and his successors Sindhuraja retained no more than a p
+- C04-BHOJA-TIMES-021 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | Filled with these thoughts Bhoja would go daily to the pavilion of distribution and bestow gold on petitioners waiting a
+- C04-BHOJA-TIMES-022 | C | BHOJA-TIMES (T5) | no page; Chapter III, Early Life | S2 | Dhanapala writes that Mufija had a great love for his nephew and therefore, he appointed Bhoja his successor.* It would 
+- C04-BHOJA-TIMES-023 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | His court was crowded with 400 selected scho- lars.^ Dhara at this time was the centre of political, intellectual and cu
+- C04-BHOJA-TIMES-024 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | From A.D. 940 to 1050, Malwa and the mainland of Gujarat formed one Integral kingdom and its greatest cultural and liter
+- C04-BHOJA-TIMES-025 | C | BHOJA-TIMES (T5) | no page; Chapter III, Early Life | S2 | states that like a ksatriya prince Bhoja underwent an extensive course of studies. He mastered ^astras on King’s craft, 
+- C04-BHOJA-TIMES-026 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | He was a great votary of the goddess of learning and in reality the very pivot of the literary movement of the day. He h
+- C04-BHOJA-TIMES-027 | C | BHOJA-TIMES (T5) | no page; Chapter IV, Political Achievements of Bhoja | S2 | of Bhoja’s empire is sketched in a laudatory verscas "Bhoja ruled the earth from Kailasa in Himalayas to Malabar and fro
+- C04-BHOJA-TIMES-028 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | Of all the Paramara rulers of Malwa, it was Bhoja alone who could put several rulers to submission. The saying of Alberu
+- C04-BHOJA-TIMES-030 | C | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S3 | Slyaka- Sriharsa was Bhoja’s grand-father The Kalvan-Plates of Yasovannan also
+- C04-BHOJA-TIMES-032 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S3 | After his death in C.A.D. 1054, the second empire of Gurjaradesa began to break up.
+- C04-BHOJA-TIMES-033 | C | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S3 | The table thus represents Upendra alias Krsnaraja as the first historical man of the Paramara family and Bhoja as the 9t
+- C04-BHOJA-TIMES-035 | C | BHOJA-TIMES (T5) | no page; Introduction | S3 | Several points pertaining to the political history of this period still bristle with controversies. These include his pa
+- C04-BHOJA-TIMES-036 | C | BHOJA-TIMES (T5) | no page; Chapter II | S3 | • TJte.yiew ti^at.jr^uflja wa^ Bhoja’s ,immedia.te predecesspr ..is , based on,,an account which with,some variations is
+- C04-BHOJA-TIMES-037 | C | BHOJA-TIMES (T5) | no page; Chapter II | S3 | In this way, we come to know that Munja was succeeded by Sindhuraja. It would, therefore, not be wrong to conclude that 
+- C04-BHOJA-TIMES-039 | C | BHOJA-TIMES (T5) | no page; Chapter I, Ancestors of Bhoja | S3 | Slyaka U can be said to be the grandfather of Bhoja.
+- C04-BHOJA-TIMES-041 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | Malwa The Paramiiras of Malwa, who ruled as independent monarchs, were the great builders of ^iva temples. The Paramara 
+- C04-BHOJA-TIMES-042 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | In Samvat 1019-1033 A.D. by the orders of Bhoja the famous sculptor Manaihala, executed an image of Sarasvati now preser
+- C04-BHOJA-TIMES-043 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | One of the most significant specimens of the Paramara Tem- ples of Malvva, is the Siva Temple known as Bhojesvara temple
+- C04-BHOJA-TIMES-045 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | The most famous of Bhoj’s temples was the one built at Dhara dedicated to Sarasvatl styled Sarasvatl-Sadana or Bharati
+- C04-BHOJA-TIMES-046 | C | BHOJA-TIMES (T5) | no page; Chapter V, Administration of Bhoja | S5 | Bhoja issued land grants Such as Betma® and Banswhara^® in his own sign-manual erected several temples in honour of his 
+- C04-BHOJA-TIMES-047 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | Kalanala and Rudra ^ Mcrutunga tells us that Bhoja rebuilt the city of Dhara.2 A Hoyasala grant from Bclur dated 1117 A.
+- C04-BHOJA-TIMES-048 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | But D.C. Ganguly'* doubts about Bhoja’s participation In the building of the great temple of Somanaih in Kathiawar or of
+- C04-BHOJA-TIMES-049 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | The most important work of Bhoja was (he transfer of his kingdom from Ujjayini to Dhara* which he beautified with magnif
+- C04-BHOJA-TIMES-050 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | Bhoja raised the fortress of Mandir or Mandapadurga and established a college which housed several hundred students.* In
+- C04-BHOJA-TIMES-051 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S5 | Innumerable temples were constructed during this period. Bboja alone is credited with the construction of several temple
+- C04-BHOJA-TIMES-052 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | Forts : — FORTS Bhoja is also said to have constructed a ‘Siva temple in the court of Chitor. He had named the Statue of
+- C04-BHOJA-TIMES-053 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S5 | Khandesh to northern Indore, were devout worshippers of Siva They were the great builders of Siva temples.
+- C04-BHOJA-TIMES-054 | C | BHOJA-TIMES (T5) | no page; Chapter III, Early Life | S6 | According to them, as the stoiy of the wicked uncle Vakpati Mufija’s alleged attempt to get his nephew assassinated, is 
+- C04-BHOJA-TIMES-055 | C | BHOJA-TIMES (T5) | no page; Chapter IV, Political Achievements of Bhoja | S6 | All the above statements, it appears, are imaginary for there is no any strong evidence to show Bhoja’s light with Mahmu
+- C04-BHOJA-TIMES-056 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The book praises Paramara king Arjuna Varma in his war against Jayasirhha, the king of Gujarat. This shows that Madana w
+- C04-PARTEMPLES-001 | C | PARTEMPLES (T5) | p. 8 | S1 | In this region, the family representing the main monarchical branch of the Paramāras, began its career as a vice regal h
+- C04-PARTEMPLES-002 | C | PARTEMPLES (T5) | p. 8 | S1 | 971, brother and successor of Krṣṇa III, but also plundered the city of Mānyakheta.\(^{1}\) He assumed the title Mahārāj
+- C04-PARTEMPLES-003 | C | PARTEMPLES (T5) | p. 9 | S1 | He was not only a great general but also a great poet and patron of art and literature. The poets Dhanika, Padmagupta, A
+- C04-PARTEMPLES-004 | C | PARTEMPLES (T5) | p. 9 | S2 | With the accession of Bhōja (c.A.D.1000-c.A.D.1055), the son and successor of Sindhurāja, a brilliant chapter was opened
+- C04-PARTEMPLES-008 | C | PARTEMPLES (T5) | p. 18 | S5 | Second inscription mentions the name of the Paramāra king Udayāditya, beginning with Udayāditya-dēvasya. The third one c
+- C04-PARTEMPLES-011 | C | PARTEMPLES (T5) | p. 10 | S6 | \( ^{11} \) The Paramāra princes moved to the east and established themselves in the region of Bhopal and Hoshangabad. U
+- C04-PARTEMPLES-012 | C | PARTEMPLES (T5) | p. 10 | S6 | The misfortune of the Paramāras continued to grow before it assumed serious proportion when Naravarmana (c.A.D.1093-1134
+- C04-PARTEMPLES-013 | C | PARTEMPLES (T5) | p. 10 | S6 | Taking advantage of the chaos and confusion created by the weakness of the later Paramāras, Ballāla an impostor of unkno
+- C04-PARTEMPLES-014 | C | PARTEMPLES (T5) | p. 11 | S6 | After Subhaṭavarman's death, his son and successor Arjunavarman (c.A.D. 1210-1215) continued the traditional war with th
+- C04-PARTEMPLES-015 | C | PARTEMPLES (T5) | p. 11 | S6 | A pillar inscription of Bhopal informs that the Lakṣmīvarman's feudatory Vijayasimha won a battle against his enemy. Acc
+- C04-GAZ-001 | C | GAZ (T7) | p. 42 | S1 | The Chandelias were ousted from Malwa by the Paramara king Siyaka II, whose known date is A. D. 972. He founded an indep
+- C04-GAZ-002 | C | GAZ (T7) | p. 43 | S2 | Son and successor of Sindhuraja was Bhoja Deva, the illustrious king of Malwa. He came to the throne about 1000 A. D. an
+- C04-GAZ-008 | C | GAZ (T7) | p. 43 | S6 | What happened to this region during the fight of the next Paramara king Naravarman (A.D. 1094) with the Chaulukya ruler 
+- C04-MADHYABHARAT-001 | C | MADHYABHARAT (T5) | p. 34 | S1 | This made possible for the Rajput feudatory powers to assert their independence and as a result the new Rajput Houses of
+- C04-MADHYABHARAT-002 | C | MADHYABHARAT (T5) | p. 35 | S2 | Munja was succeeded by Bhoja (1010-1050 A. D.) the greatest monarch of the Paramara dynasty, famous in Indian legend and
+- C04-MADHYABHARAT-003 | C | MADHYABHARAT (T5) | p. 36 | S2 | Bhoja rebuilt the old town of Dhara which had already become the capital of the Paramaras and raised it to the status of
+- C04-MADHYABHARAT-004 | C | MADHYABHARAT (T5) | p. 128 | S2 | The earlier histored of the town is not definitely known but the numerous wooded groves and lakes nearabout it seem to h
+- C04-MADHYABHARAT-008 | C | MADHYABHARAT (T5) | p. 48 | S5 | The number of the surviving examples of this full blown conception of architecture in Madhya Bharat is simply staggering
+- C04-MADHYABHARAT-010 | C | MADHYABHARAT (T5) | p. 145 | S5 | On the northern fringe of the Satpura ranges in the plain of Nimar lies a township named Un which it appears was a flour
+- C04-MADHYABHARAT-011 | C | MADHYABHARAT (T5) | p. 35 | S6 | But by the middle of the twelfth century, a large portion of the Paramara territory, including Ujjuin, was lost to Siddh
+- C04-MADHYABHARAT-012 | C | MADHYABHARAT (T5) | p. 144 | S6 | The Paramaras ruled over parts of Nimar including Maheshwar but they do not seem to have held the town in much importanc
+- C04-BHOJDEV-HI-001 | C | BHOJDEV-HI (T9) | p. 3 | S1 | राजा भोज परमार राजवंश में उत्पत्र हुआ था । यह परमार राजवंश मालवा में शासन करता था । सीयक ढितीय (दसवीं शती) तक परमार राष्
+- C04-BHOJDEV-HI-002 | C | BHOJDEV-HI (T9) | p. 3 | S1 | इसने कुन्तल तैलप द्वितीय को पराजित किया । हूणों को पराजित कर उसने वागड़ (वॉसवाझ-डूंगरपुर) क्षेत्र पर विजय प्राप्त की । त
+- C04-BHOJDEV-HI-003 | C | BHOJDEV-HI (T9) | p. 1 | S2 | परन्तु ऐसा शासक जिसकी इतिहास में उपस्थिति के सवल प्रमाण हो, जिसके अपने रचे ग्रंथ हो, जिसकी रचना की प्रामाणिकता समकालीन औ
+- C04-BHOJDEV-HI-004 | C | BHOJDEV-HI (T9) | p. 1 | S2 | राजा भोज अपने कृतित्व, व्यक्तिव और व्यवहार तथा उदारता के कारण अपने पूरे राज्य में ही नहीं, पूरे भारत में लोकप्रिय रहा । 
+- C04-BHOJDEV-HI-005 | C | BHOJDEV-HI (T9) | p. 2 | S2 | यही नहीं तुरुक्कों (तुकों) से युध्ध करने पर भी उसने रचनाधर्म में भेदभाव नहीं माना। यही कारण है कि भोज और किसी तुरुक्क (त
+- C04-BHOJDEV-HI-006 | C | BHOJDEV-HI (T9) | p. 3 | S2 | राजा भोज ने परम्परानुसार 55 वर्ष 7 मास 3 दिन तक गोड़ देश और दक्षिणापथ सहित विस्तृत क्षेत्र पर राज्य किया था - पंचाशत्वंच
+- C04-BHOJDEV-HI-007 | C | BHOJDEV-HI (T9) | p. 3 | S2 | राजा भोज (999-1055 ई.) इसी सिन्धुराज का पुत्र था। उसके 1010 से 1055 ई. तक के कई ताप्रपत्र, शिलालेख या भूतिलेख प्राप्त हो
+- C04-BHOJDEV-HI-009 | C | BHOJDEV-HI (T9) | p. 4 | S2 | ताम्रपत्रों में भोज के प्रथमों की पुष्पिकाओं में उन्हें 'महाराजाधिराज परमेश्वर श्रीभोजदेव' कहा गया है। स्पष्ट ही राजा भो
+- C04-BHOJDEV-HI-010 | C | BHOJDEV-HI (T9) | p. 4 | S2 | ऐसे वारह मण्डलों के स्वामी राजा भोज के अधीन थे तव समरांगणसूत्रधार रचा गया। ऐसे मंडलों में अवन्ति मण्डल, पूर्णपथक मण्डल, 
+- C04-BHOJDEV-HI-012 | C | BHOJDEV-HI (T9) | p. 4 | S2 | भोज परम दानी था । यह कहा जाता था कि श्रुओं को शुंखलावढ़ करने से लोहा और दानपत्र लिखने से भोज के राज्य में ताँव का अभाव ह
+- C04-BHOJDEV-HI-013 | C | BHOJDEV-HI (T9) | p. 8 | S2 | राजा भोज के सुदीर्घ शासनकाल में युद्ध के शंखनाद होते रहे, रणभेरी बजती रही। परन्तु वह शासन के सुनियोजन में दक्ष था। वह यो
+- C04-BHOJDEV-HI-014 | C | BHOJDEV-HI (T9) | p. 11 | S2 | भोज न केवल मित्रों अपितु शत्रुओं के लिए भी अपने गुणों में आदर्श रहा । और वे भी भोज के समान स्वयं को घोंपित करवाने में गौ
+- C04-BHOJDEV-HI-015 | C | BHOJDEV-HI (T9) | p. 15 | S2 | राजा भोज महाराजाधिराज परमेश्वर तो था ही क्योंकि उसके प्रस्थों से भी झात होता है कि उसके अधीनस्थ वारह राजा थे । यह उपाधि 
+- C04-BHOJDEV-HI-016 | C | BHOJDEV-HI (T9) | p. 20 | S2 | भोज के ज्योतिर्यन्थ राजमूगांक का प्रकाशन ब्रह्मविद्या (4/3) में प्रक्राशित हुआ जो 964 शक (1042 ई.) में रचा गया। *Gloss [
+- C04-BHOJDEV-HI-017 | C | BHOJDEV-HI (T9) | p. 92 | S2 | यह समस्त वारह राजसमूह जिस राजद्धडामणि की भुजास्तम्भ से वेंधी वृत्ति का है और जिसकी इच्छा से चारों ओर घूमता है। उस श्रीमा
+- C04-BHOJDEV-HI-018 | C | BHOJDEV-HI (T9) | p. 5 | S5 | राजा भोज एक महान् निर्मति था। भोज ने सुरक्षा की दृष्टि से अपनी राजधानी उज्जेन से हटाकर धारा नगरी कर दी। भोज ने उसे नयं त
+- C04-BHOJDEV-HI-019 | C | BHOJDEV-HI (T9) | p. 6 | S5 | राजा भोज के समय से मालवा में निर्माण-कांति आ गयी थी। प्रासाद, मन्दिर, तालाव, प्रतिमार्ज़ बनती रहीं और पूरा मालवा इन अनोख
+- C04-BHOJDEV-HI-020 | C | BHOJDEV-HI (T9) | p. 6 | S5 | यह वताया जाता है कि धारा नगरी में चौरासी चौराहे थे और प्रत्येक पर एक-एक मंदिर था। भोज ने चित्तीड़ में मन्दिर वनवाया था औ
+- C04-BHOJDEV-HI-022 | C | BHOJDEV-HI (T9) | p. 12 | S5 | प्रवन्धचित्नामणि के अनुसार भोज के 104 भवनों, ग्रन्थों और उपाधियों के एक ही नाम थे । इसकी पुष्टि जयवर्मदेव (1258 हैं.) के
+- C04-BHOJDEV-HI-023 | C | BHOJDEV-HI (T9) | p. 15 | S5 | प्रभाच्चाचार्य के अनुसार धारा में 84 प्रासाद और इतने ही चीराहे थे । पूर्वोक्त जयवर्मदेव के 1258 ई. के लेख के अनुसार भोज 
+- C04-BHOJDEV-HI-024 | C | BHOJDEV-HI (T9) | p. 21 | S5 | राजा भोज स्वयं महान् निर्माता था । उल्लेखों से स्पष्ट है कि उसने शताधिक प्रासाद तो अपनी राजधानी धारा नगरी में ही वनवाये 
+- C04-BHOJDEV-HI-025 | C | BHOJDEV-HI (T9) | p. 22 | S5 | मालवा, मेवाङ़ में कितने ही मन्दिर बनवाये, पाठशालाएँ वनवार्थी। भारत की धार्मिक दृष्टि से एकसूत्र में वाँधने के लिए धारी स
+- C04-BHOJDEV-HI-026 | C | BHOJDEV-HI (T9) | p. 45 | S5 | चौसठ पद नामक पूरा नगर कल्पित करें । उसमें सोलह कोष्ठ, छः पथ और नौ चत्वर (चौराहे) हो 14 चौकोर क्षेत्र में पूर्वे से पश्चि
+- C04-BHOJDEV-HI-027 | C | BHOJDEV-HI (T9) | p. 45 | S5 | ज्येष्ठपुर चार हजार चाप (चार कोस या प्रायः बारह किलोमीटर क्षेत्रफल) का होता है। मध्य दो हजार का और एक हजार चाप (एक कोस) 
+- C04-BHOJDEV-HI-028 | C | BHOJDEV-HI (T9) | p. 50 | S5 | जो अशास्त्रज द्वारा और विना लक्षणों के ही किया गया तथा अनुपठान से पवित्र हुए विना ही किया गया वह अप्रशस्त और निष्णल होता
+- C04-BHOJDEV-HI-029 | C | BHOJDEV-HI (T9) | p. 51 | S5 | सुवर्णकार सहित सभी अग्निजीवी और अन्य मजदूरों को आग्नेय (पूर्व-दक्षिण) दिशा में वसाये 189 वैश्य-व्यापारी, जुआड़ी-धूतं, चक
+- C04-BHOJDEV-HI-030 | C | BHOJDEV-HI (T9) | p. 52 | S5 | विप्र पूर्व दिशाभाग में, क्षत्रिय पश्चिम में, वैश्य और शूद्र क्रमशः दक्षिण तथा उत्तर में किये जायें 1100 वणिक, वैद्य और 
+- C04-BHOJDEV-HI-031 | C | BHOJDEV-HI (T9) | p. 52 | S5 | यूअरवाले, भेड़ पालक, शिकारी, मछुआरे, दमनाधिकृत (दण्ड वाले अधिकारी) आहे नैन्ध्त्य दिशा में वसाये जाये 191 जो रथ और आयुध म
+- C04-BHOJDEV-HI-032 | C | BHOJDEV-HI (T9) | p. 9 | S6 | इन प्रस्थों में सर्वाधिक लोकप्रिय वल्लाल का भोजप्रवंध है । इसमें भोज, कालिदास और अन्य अनेक कवियों से सर्वन्धित छोटी-छोटी
+- C04-BHOJDEV-HI-033 | C | BHOJDEV-HI (T9) | p. 10 | S6 | शुभशील के भोजप्रबंध में कतिपय कथाएँ वल्लाल की पुस्तक जैसी भी हैं। रल्ननंदन गणि (1340 ई.) भोजप्रबंध में कतिपय कथाएँ वल्ला
+- C04-BHOJDEV-HI-034 | C | BHOJDEV-HI (T9) | p. 10 | S6 | इनके अतिरिक्त राजस्थानी, अवधी सहित विभिन्न भापाओं के काव्यग्रन्थों में भी भोज उपस्थित है। नरपति नाह् के बीसलदेव रासो, जा
+- C04-BHOJDEV-HI-035 | C | BHOJDEV-HI (T9) | p. 12 | S6 | इसीलिए कविजन अपने आय्यदाता की "नवभोज राज" अपथि से प्रशंसा करते थे। इस भोज के वंशज तेरहवीं सदी के अन्त में हुए अन्य राज भ
+- C04-PANDE-001 | C | PANDE (T5) | p. 112 | S2 | शैवागमेषु मुख्यं पतिपशुपाशा इति क्रमात् त्रितयम्। तत्र पतिः शिव उक्तः पशवो ह्यणवोऽर्थपञ्चकं पाशः॥५॥ *Gloss [my translati
+- C04-PANDE-002 | C | PANDE (T5) | p. 117 | S2 | यस्याखिलं करतलामलकक्रमेण देवस्य विस्फुरुति चेतसि तत्त्वजातम् । श्रीभोजदेवनृपतिः स शिवागमार्थ तत्त्वप्रकाशमसमानमिदं व्यधत
+- C04-PANDE-003 | C | PANDE (T5) | p. 118 | S2 | Tattvaprakāśa, one of the most significant works on Śaiva Siddhānta, was authored by King Bhoja Paramāra of Malwa (1000-
+- C04-PANDE-004 | C | PANDE (T5) | p. 128 | S2 | Verse 75: The tattva of the tattvas has also been stated with ease by King Bhoja who has composed the Tattvaprakāśa. Ver
+- C04-RAJABHOJ-EN-001 | C | RAJABHOJ-EN (T9) | p. 2 | S1 | From the literary and epigraphic sources contemporary with the Paramaras, it is learnt that the founding ancestor of thi
+- C04-RAJABHOJ-EN-002 | C | RAJABHOJ-EN (T9) | p. 2 | S1 | The names of various kings of the Paramara dynasty, such as Upendra (उपेन्द्र), are found. Among them, Siyak (सीयक) or S
+- C04-RAJABHOJ-EN-003 | C | RAJABHOJ-EN (T9) | p. 164 | S1 | The event of King Bhoj's ancestors obtaining the kingdom of Malwa is described in the *Prabandha-chintamani*. According 
+- C04-RAJABHOJ-EN-004 | C | RAJABHOJ-EN (T9) | p. 165 | S1 | According to this story it is clearly evident that the Paramaras were once the protection-officers of Mahakal's Malava r
+- C04-RAJABHOJ-EN-005 | C | RAJABHOJ-EN (T9) | p. 1 | S2 | For reasons of security, King Bhoj shifted his capital from Ujjain to Dhar. Before this, he had duly settled and develop
+- C04-RAJABHOJ-EN-006 | C | RAJABHOJ-EN (T9) | p. 3 | S2 | Many copper-plate grants and stone inscriptions of King Bhoj are found. References to King Bhoj occur also in the inscri
+- C04-RAJABHOJ-EN-007 | C | RAJABHOJ-EN (T9) | p. 3 | S2 | A text of 1055 CE was written during King Bhoj's reign; from this it is clear that King Bhoj was alive up to 1055. Accor
+- C04-RAJABHOJ-EN-008 | C | RAJABHOJ-EN (T9) | p. 4 | S2 | Thus, by defeating various known and unknown kings — Gangeyadeva the Kalachuri king of Chedi, Tailapa II the Chalukya ki
+- C04-RAJABHOJ-EN-009 | C | RAJABHOJ-EN (T9) | p. 5 | S2 | Of all of them, Munj — because Bhojdev was the most capable — made Bhoj alone king. At this the other brothers and kinsm
+- C04-RAJABHOJ-EN-010 | C | RAJABHOJ-EN (T9) | p. 6 | S2 | But in the *Navasahasanka-charita* and in Bhoj's copper-plates, Sindhul too is called king — probably because, after Mun
+- C04-RAJABHOJ-EN-011 | C | RAJABHOJ-EN (T9) | p. 6 | S2 | > आकीर्णाङ्गितलः सरोजकलशच्छत्रादिभिर्लच्छने- > स्तस्याजायत मांसलायुतभुजः श्रीभोज इत्यात्मजः । > प्रीत्या योग्व इति प्रता
+- C04-RAJABHOJ-EN-012 | C | RAJABHOJ-EN (T9) | p. 16 | S2 | King Bhoj not only composed a voluminous treatise on craft such as the *Samarangana-sutradhara*, but also founded the ci
+- C04-RAJABHOJ-EN-013 | C | RAJABHOJ-EN (T9) | p. 54 | S2 | In Sindhuraja's time, Dhara was the hereditary capital of the Paramaras and Ujjayini the chief capital. Naturally, at th
+- C04-RAJABHOJ-EN-014 | C | RAJABHOJ-EN (T9) | p. 61 | S2 | From the Pratapgarh inscription of 946 CE it is learnt that Mandu and Ujjain were under the Pratiharas.¹ In 1046 CE the 
+- C04-RAJABHOJ-EN-015 | C | RAJABHOJ-EN (T9) | p. 143 | S2 | King Bhoj of Malwa, in the first half of the eleventh century, composed many works on various subjects. Some of those bo
+- C04-RAJABHOJ-EN-016 | C | RAJABHOJ-EN (T9) | p. 146 | S2 | King Bhoj's *Yukti-kalpataru* is a work on various subjects for the knowledge of princes. In it are briefly described th
+- C04-RAJABHOJ-EN-017 | C | RAJABHOJ-EN (T9) | p. 153 | S2 | According to the works found relating to King Bhoj, he was a peerless patron of poets and artists. Five hundred scholars
+- C04-RAJABHOJ-EN-018 | C | RAJABHOJ-EN (T9) | p. 156 | S2 | This Gangeyadeva had humiliated and killed King Munj. According to the *Prabandha-chintamani*, when King Bhoj became kin
+- C04-RAJABHOJ-EN-019 | C | RAJABHOJ-EN (T9) | p. 157 | S2 | But King Bhoj conquered even him, and on the occasion of the festival of the conquest of that Gangeyadeva Telang, Bhoj e
+- C04-RAJABHOJ-EN-020 | C | RAJABHOJ-EN (T9) | p. 159 | S2 | According to the *Rasamala*, the Kalachuri Gangeya extended his kingdom from Nepal to Karnataka. He also had a war with 
+- C04-RAJABHOJ-EN-021 | C | RAJABHOJ-EN (T9) | p. 163 | S2 | King Bhoj was a supreme connoisseur of poetry. In the Vijayanagara eulogy, in praise of Krishnaraya, it is said that he 
+- C04-RAJABHOJ-EN-022 | C | RAJABHOJ-EN (T9) | p. 165 | S2 | King Bhoj, by his talent, power and well-ordered planning, had established a vast empire. According to the presently kno
+- C04-RAJABHOJ-EN-023 | C | RAJABHOJ-EN (T9) | p. 167 | S3 | The son named Vatsaraja (Vachchharaja) is confirmed even by an inscription. Besides these, Bhoj had two more sons. In Ra
+- C04-RAJABHOJ-EN-026 | C | RAJABHOJ-EN (T9) | p. 24 | S5 | In laying out a town, a delightful region should be chosen. Of Purna, Supadma, Bhadra and Dhuma, the last is considered 
+- C04-RAJABHOJ-EN-027 | C | RAJABHOJ-EN (T9) | p. 27 | S5 | In a Sarvatobhadra town, Brahmanas and Kshatriyas should be settled in the east and the water-quarter. In the southeast 
+- C04-RAJABHOJ-EN-028 | C | RAJABHOJ-EN (T9) | p. 31 | S5 | Thus, only in an auspicious town are the royal building, the assembly-hall (*sabha*), the court of justice, the horse-st
+- C04-RAJABHOJ-EN-029 | C | RAJABHOJ-EN (T9) | p. 32 | S5 | Thus, in Bhoj's *Samarangana-sutradhara* and *Yukti-kalpataru*, scriptural light has been cast on town-planning. In it, 
+- C04-RAJABHOJ-EN-030 | C | RAJABHOJ-EN (T9) | p. 41 | S5 | Thus Dhara was Bhoj's model of town-layout, which he had settled in accordance with his own conception. According to the
+- C04-RAJABHOJ-EN-031 | C | RAJABHOJ-EN (T9) | p. 42 | S5 | In the ancient settlement situated at this site of Vidisha, the aforementioned Paramara-era architectural features are f
+- C04-RAJABHOJ-EN-032 | C | RAJABHOJ-EN (T9) | p. 43; | S5 | In the Paramara era this very settlement had become fully organized. The name of one Paramara-era part of Vidisha is Bha
+- C04-RAJABHOJ-EN-033 | C | RAJABHOJ-EN (T9) | p. 49 | S5 | From the ancient remains of Modi Pattan it is learnt that the settlement here, like Dhara, was endowed with parallel pat
+- C04-RAJABHOJ-EN-034 | C | RAJABHOJ-EN (T9) | p. 57 | S5 | King Bhoj himself, in his *Shringara-manjari-katha*, presented a detailed, embellished account of the peerless town of D
+- C04-RAJABHOJ-EN-035 | C | RAJABHOJ-EN (T9) | p. 63 | S5 | Thus, in ancient literature the fullest description is found of Ujjayini, Vidisha and Dhara. But in Paramara-era literat
+- C04-RAJABHOJ-EN-036 | C | RAJABHOJ-EN (T9) | p. 68 | S5 | These towns were temple-dominated. In Dhara there were 84 crossroads, and at each crossroad was a temple (*surasadana*).
+- C04-RAJABHOJ-EN-037 | C | RAJABHOJ-EN (T9) | p. 102 | S5 | If there is a temple of Vishnu at the entrance or in the middle, it is a capital. It is called a capital only when there
+- C04-RAJABHOJ-EN-038 | C | RAJABHOJ-EN (T9) | p. 103 | S5 | **Yukti-kalpataru** — King Bhoj, in his *Samarangana-sutradhara*, has given a detailed account relating to architecture.
+- C04-RAJABHOJ-EN-039 | C | RAJABHOJ-EN (T9) | p. 161–162 | S6 | In Merutunga's *Prabandha-chintamani* too, various stories relating to Bhoj are found; many of them are considered histo
+- C04-PARMAR-RAJPUT-001 | C | PARMAR-RAJPUT (T9) | p. 1 | S1 | Based on ancient relics, inscriptions, and corroborated historical evidence, the Parmars are traditionally regarded as b
+- C04-PARMAR-RAJPUT-002 | C | PARMAR-RAJPUT (T9) | p. 2 | S1 | the Parmara dynasty is described in the “Navasahasankacharitra” composed by the contemporary poet Padmagupta during the 
+- C04-PARMAR-RAJPUT-003 | C | PARMAR-RAJPUT (T9) | p. 2 | S1 | To destroy all these heathens, Rishi Vashishta by his fervor made offerings to the Agni Kund and produced the Chauhans, 
+- C04-PARMAR-RAJPUT-005 | C | PARMAR-RAJPUT (T9) | p. 3 | S1 | The original residence of the Parmaras is Malwa. And the branch there is believed to be the main branch of the Parmaras.
+- C04-PARMAR-RAJPUT-006 | C | PARMAR-RAJPUT (T9) | p. 4 | S1 | Vakpati Munj A.D. From 973 to 995, Parmar reigned supreme. Vakpati Munje was the adopted son and successor of Raja Siyak
+- C04-PARMAR-RAJPUT-007 | C | PARMAR-RAJPUT (T9) | p. 5 | S1 | Vakpati Munj is succeeded by his younger brother Sindhuraj on the throne of the kingdom. And Sidhuraj Kumar assumes the 
+- C04-PARMAR-RAJPUT-008 | C | PARMAR-RAJPUT (T9) | p. 5 | S1 | During the Parmar reign, the Siyak started a campaign in the north-west against the Hun princes. Balavarman, the father 
+- C04-PARMAR-RAJPUT-009 | C | PARMAR-RAJPUT (T9) | p. 6 | S2 | Raja Bhoja was the ninth king of Parmar dynasty. (Mathur, 1969, p. 319) There is historical evidence that the Parmar dyn
+- C04-PARMAR-RAJPUT-010 | C | PARMAR-RAJPUT (T9) | p. 7 | S2 | - Battle with Indraratha: According to the Udaipur Prashasti, when the Bhoja king was fighting with Solanki Jaisingh, at
+- C04-PARMAR-RAJPUT-011 | C | PARMAR-RAJPUT (T9) | p. 8 | S6 | At this time the Yadavas invade Malwa from the south and the Yadavas are victorious. So now, the fall of Paramara was co
+- C04-ARTPAR-001 | C | ARTPAR (T5) | p. 60 | S2 | मालवा के परमार शार्षक राजा भोज निकने विषय में आज अनेकों फिकदलित्यां पड़ी भोर सुनी जाती है क्लाप्रिय शासकों में अश्रमण्य 
+- C04-ARTPAR-002 | C | ARTPAR (T5) | p. 58 | S5 | इस समय जेजाक सुक्ति (बुन्देलवण्ड) क्षेत्र में कलचुरियों ने, खालियर क्षेत्र में कच्छपदावतों ने भीर मालवा क्षेत्र में कच्छ
+- C04-ARTPAR-003 | C | ARTPAR (T5) | p. 58 | S5 | उन समतामयिक राजशिलियों ने सैन्यकला, साहित्य, वस्तु एवं विलय के क्षेत्र में ब्रद्धितीय कर्पितमान स्थापित किया। मन्दिर निर
+- C04-ARTPAR-005 | C | ARTPAR (T5) | p. 25 | S6 | Jayasimha Siddharāja, a Chālukya ruler of Gujrat, is known to have defeated Naravarman and his successor Yasovarman. As 
+- C04-HARDY-001 | C | HARDY (T5) | p. 36 | S2 | paragon of kingly attributes, began (but never completed) a gigantic temple at Bhojpur (MP), linked to a colossal dam an
+- C04-HARDY-002 | C | HARDY (T5) | p. 32 | S5 | A king was a mediator between the human and divine worlds, and royal temples were a special case of royal giving (dana),
+- C04-SAMAR-1-001 | C | SAMAR-1 (T4) | Vol. 1, p. 2 ⚠ old OCR | S2 | Šrī Bhojadeva was first and foremost a man of great learning, a versatile scholar, a polymath indeed, for he has been cr
+- C04-SAMAR-1-002 | C | SAMAR-1 (T4) | Vol. 1, p. 386 ⚠ old OCR | S2 | Raghavan says - As example of miracles that could be worked out by yantras Bhoja mentions the production of fire in the 
+- C04-SAMAR-1-003 | C | SAMAR-1 (T4) | Vol. 1, p. 392 ⚠ old OCR | S2 | Raghavan says - The most curious of the yantras described by Bhoja in the Chapter is of course, the one that rises and t
+- C04-SAMAR-1-004 | C | SAMAR-1 (T4) | Vol. 1, p. 415 ⚠ old OCR | S2 | इति महाराजाधिराजश्रीभोजदेविविराचिते समराङ्गणसूत्रधारापरनामिन वासुशास्त्रे यज्ञविधानं नामैकर्जिशो3ध्याय:। *Gloss [my tran
+- C04-SAMAR-1-005 | C | SAMAR-1 (T4) | Vol. 1, p. 16 ⚠ old OCR | S5 | Datt's Town planning in Ancient India, p.39 saying - It was almost an invariable principle emphasised by the Śilpaśāstra
+- C04-SAMAR-1-006 | C | SAMAR-1 (T4) | Vol. 1, p. 22 ⚠ old OCR | S5 | And by what arrangement are to be the establishments of towns and mountains or the capitals of kings are to be organised
+- C04-SAMAR-1-007 | C | SAMAR-1 (T4) | Vol. 1, p. 26 ⚠ old OCR | S5 | In the town or capital in what quarters, areas and spot locations should (stay) Brāhmaṇas, Rājanyas (i.e. Kṣatriyas), Va
+- C04-SAMAR-1-008 | C | SAMAR-1 (T4) | Vol. 1, p. 77 ⚠ old OCR | S5 | In those earths endowed with such qualities one may introduce as per situation, the janapadas \( ^{1} \) , the khetas, \
+- C04-SAMAR-1-009 | C | SAMAR-1 (T4) | Vol. 1, p. 107 ⚠ old OCR | S5 | The qualified (lit. the one having knowledge expert in the Art) the architect guided by an astrologer and that very way 
+- C04-SAMAR-1-010 | C | SAMAR-1 (T4) | Vol. 1, p. 115 ⚠ old OCR | S5 | In which town or pura or nagara, the best among the gods are installed (in temples) in their own direction regions, havi
+- C04-YOGASUTRA-001 | C | YOGASUTRA (T5) | p. 6 | S2 | साधकोंके द्वारा उद्धृत: इस वृत्ति के इन उद्धरणों से भोज की प्रतिष्ठा का अनुमान लगाया जा सकता है।। *Gloss [my translation
+- C04-YOGASUTRA-002 | C | YOGASUTRA (T5) | p. 28 | S2 | तर भोज ने अ्रवन्तिका से राजधानी को उठाकर, धारानगरी की स्थापना की थी । यह नगरी अनेक ऐतिहासिक श्रवशेषों से पुर्ण है । यहाँ
+- C04-YOGASUTRA-003 | C | YOGASUTRA (T5) | p. 28 | S2 | ज चुत्तिकार भोज का परिचय--धाराधीदवर परमारवंशीय महारा भोज के पिता का नाम 'सिन्धुल' हैं । कोई कोई इनको 'सिन्धुराज' कहते है
+- C04-YOGASUTRA-004 | C | YOGASUTRA (T5) | p. 29 | S2 | ( ज॑ भोज का काल निश्‍चित ही है। सामान्यतया संवत्‌ १०७५-१११० | ह ०१६-१०५४ ई० ) तक इनका राज्यकाल ऐतिहासिकों ने माता है। ज 
+- C04-YOGASUTRA-005 | C | YOGASUTRA (T5) | p. 32 | S2 | 4 महाराज भोज हमारे देश के आदर्श नरपति हैं । विद्या, विक्रम गौरां के क्षेत्र में उनका कार्य चिरस्मरणीय रहेगा । *Gloss [my
+- C04-YOGASUTRA-006 | C | YOGASUTRA (T5) | p. 29 | S5 | | हैं, भोज की दानशूरता प्रसिद्ध है। इनके कई ताम्रपत्र मिल्न चके हैं ज भ॑मट, सेरुतु्ग, वल्लालसेन ग्रादि के ग्रन्थों से भो
+- C04-SAMAR-2-001 | C | SAMAR-2 (T5) | Vol. 2, p. 177 ⚠ old OCR | S2 | इति महाराजाधिराजश्रीभोजदेवविरचिते समराङ्गणसूत्रधारापरनादिन वासुशास्ते पीठपत्रकलक्षणं नामैकष्टितमोउध्याय:।। *Gloss [my tr
+- C04-SAMAR-2-002 | C | SAMAR-2 (T5) | Vol. 2, p. 348 ⚠ old OCR | S2 | Similar paintings are to be seen in the caves of Bagha situated on the banks of Dhārā river, which is famous because of 
+- C04-SAMAR-2-003 | C | SAMAR-2 (T5) | Vol. 2, p. 292 ⚠ old OCR | S5 | For the beneficence of the temples (abodes of gods Tridasāgāra) and for the sake of adornment of the town, for the enjoy
+- C04-TEMPLE-ECON-001 | C | TEMPLE-ECON (T5) | p. 21 | S5 | In January, 1750, Marthanda Varma "donated" his rajya to Sri Padmanaabha (Vishnu) and thereafter ruled as the deity's "v
+- C04-TEMPLE-ECON-002 | C | TEMPLE-ECON (T5) | p. 29 | S5 | - The Meenakshi Sundareswarar (Bhagwan Shiva is called the beautiful one Sundara+Eswara) mandir is in the centre of the 
+- C04-TEMPLE-ECON-003 | C | TEMPLE-ECON (T5) | p. 98 | S5 | She replaced many brick temples with stone ones. She left her unmistakable stamp in temples she renovated or built.
+- C04-KRAM-1-001 | C | KRAM-1 (T5) | p. 19 | S2 | In the ‘Samarāṅganasūtradhāra’, a treatise on architecture, the author, King Bhoja of Dhārā, who ruled over Mālava in th
+- C04-KRAM-1-002 | C | KRAM-1 (T5) | p. 18 | S5 | Man here is the patron or Yajamāna (lit. the sacrificer) on whose behalf the temple is built by the architect who is gui

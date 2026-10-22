@@ -16,13 +16,13 @@ import hashlib
 import json
 import os
 import sys
-import time
 from functools import lru_cache
 from pathlib import Path
 
 import numpy as np
 from dotenv import load_dotenv
-from mistralai.client import Mistral
+
+from local_embed import embed_batch
 
 load_dotenv()
 load_dotenv(Path(__file__).resolve().parent / ".env", override=False)
@@ -31,17 +31,6 @@ KB_DIR = Path(os.environ.get("KB_DIR", "kb"))
 
 class KBError(RuntimeError):
     pass
-
-
-def _require_key():
-    key = os.environ.get("MISTRAL_API_KEY")
-    if not key:
-        raise KBError("MISTRAL_API_KEY is not set. Put it in a .env file (see .env.example).")
-    return key
-
-
-def get_client():
-    return Mistral(api_key=_require_key())
 
 
 @lru_cache(maxsize=1)
@@ -78,18 +67,13 @@ def kb_stamp():
 
 
 def embed_texts(client, model, texts, attempts=5):
-    """Embed a list of texts in one request, with retry/backoff."""
-    delay = 5
-    for n in range(1, attempts + 1):
-        try:
-            r = client.embeddings.create(model=model, inputs=texts)
-            return [d.embedding for d in r.data]
-        except Exception as e:                       # noqa: BLE001 - retry transient API/network errors
-            if n == attempts:
-                raise
-            print(f"    embed retry {n}/{attempts - 1}: {type(e).__name__}", file=sys.stderr, flush=True)
-            time.sleep(delay)
-            delay = min(delay * 2, 60)
+    """Embed a list of texts in one request, with retry/backoff.
+
+    `client` is accepted (and ignored) for backward compatibility with
+    callers written against the old Mistral-embed signature (retrieve.py
+    passes its chat client here) -- embeddings now go through a local Ollama
+    model regardless; see local_embed.py."""
+    return embed_batch(model, texts, attempts=attempts)
 
 
 def _normalize(vec):
@@ -99,9 +83,9 @@ def _normalize(vec):
 
 
 def search_batch(queries, k=8, client=None):
-    """Return a list (one per query) of top-k hit lists."""
+    """Return a list (one per query) of top-k hit lists. `client` is accepted
+    for backward compatibility but unused -- see embed_texts()."""
     cfg, emb, chunks = _load()
-    client = client or get_client()
     vecs = embed_texts(client, cfg["model"], list(queries))
     results = []
     for vec in vecs:

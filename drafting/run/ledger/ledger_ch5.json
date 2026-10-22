@@ -1,0 +1,464 @@
+{
+ "chapter": 5,
+ "sections": {
+  "5.1": "The parts of a northern temple",
+  "5.2": "Sanctum, vestibule, hall and porches",
+  "5.3": "The vedī",
+  "5.4": "The court and its attendant shrines",
+  "5.5": "The northern spire and its parts",
+  "5.6": "The star plan and the seven-tiered tower",
+  "5.7": "The Bhūmija style and its origins",
+  "5.8": "Udayeśvara among the Paramāra temples",
+  "5.9": "Khajuraho or the Deccan",
+  "5.10": "Base mouldings and wall",
+  "5.11": "Doorways, pillars and ceilings",
+  "5.12": "Ornament and attendant figures",
+  "5.13": "Stone, masons and workshops",
+  "5.14": "The dancing Śiva of the antefixes",
+  "5.15": "Guardians of the directions",
+  "5.16": "The Mother Goddesses",
+  "5.17": "Gods and goddesses of the hall walls",
+  "5.18": "Composite images",
+  "5.19": "Divine couples of the lower niches",
+  "5.20": "Porch balustrades and the hall interior",
+  "5.21": "The damaged images",
+  "5.22": "The sculptural style of Paramāra Malwa",
+  "5.23": "Images and the iconographic canons",
+  "5.24": "Building norms in the texts",
+  "5.25": "The Samarāṅgaṇasūtradhāra and its temple rules",
+  "5.26": "Śaiva Siddhānta doctrine",
+  "5.27": "Readings of the sculptural programme",
+  "5.28": "The temple as cosmos"
+ },
+ "through_line": "The Udayeśvara read as historical evidence: the type and the building as it stands, with its vedī and court; the Bhūmija tower, its disputed origin, its place among Paramāra temples and between Khajuraho and the Deccan; the craft of its surfaces and the guilds behind them; the image programme set by rule and adjusted for symmetry; its damage; the texts as norms; Śaiva Siddhānta and the readings laid on the temple, ending on the temple's own inscribed words (Ch 6).",
+ "people": [
+  {
+   "name": "Beglar",
+   "full_name": "J. D. Beglar",
+   "first_section": "5.10",
+   "role": "nineteenth-century surveyor; praised the floral carving"
+  },
+  {
+   "name": "Fergusson",
+   "full_name": "James Fergusson",
+   "first_section": "5.10",
+   "role": "architectural historian; 'quite perfect'"
+  },
+  {
+   "name": "Kramrisch",
+   "full_name": "Stella Kramrisch",
+   "first_section": "5.6",
+   "role": "The Hindu Temple; first identified the Bhūmija group, cosmic reading"
+  },
+  {
+   "name": "Pande",
+   "full_name": "Anupa Pande",
+   "first_section": "5.1",
+   "role": "monograph on the Udayeśvara; Śaiva Siddhānta reading"
+  },
+  {
+   "name": "Hardy",
+   "full_name": "Adam Hardy",
+   "first_section": "5.1",
+   "role": "Bhūmija appears ready-made; dynastic choice"
+  },
+  {
+   "name": "Deva",
+   "full_name": "Krishna Deva",
+   "first_section": "5.1",
+   "role": "Temples of India; Bhūmija from Malwa, tenth century"
+  },
+  {
+   "name": "Adhikari",
+   "full_name": "Swati Mondal Adhikari",
+   "first_section": "5.8",
+   "role": "study of Un; model/follower"
+  },
+  {
+   "name": "Sharma",
+   "full_name": "R. K. Sharma",
+   "first_section": "5.1",
+   "role": "Art of the Paramāras of Malwa"
+  },
+  {
+   "name": "Granoff",
+   "full_name": "Phyllis Granoff",
+   "first_section": "5.28",
+   "role": "questions the cosmic reading"
+  },
+  {
+   "name": "Bafna",
+   "full_name": "Sonit Bafna",
+   "first_section": "5.24",
+   "role": "questions the grid reading"
+  },
+  {
+   "name": "Bhatia",
+   "full_name": "Pratipal Bhatia",
+   "first_section": "5.25",
+   "role": "Bhoja built on his own precepts"
+  }
+ ],
+ "terms": [
+  {
+   "term": "garbhagṛha",
+   "gloss": "womb chamber, the sanctum",
+   "first_section": "5.1"
+  },
+  {
+   "term": "prāsāda",
+   "gloss": "palace or seat of the deity; the shrine proper",
+   "first_section": "5.1"
+  },
+  {
+   "term": "śikhara",
+   "gloss": "spire",
+   "first_section": "5.1"
+  },
+  {
+   "term": "maṇḍapa",
+   "gloss": "hall",
+   "first_section": "5.1"
+  },
+  {
+   "term": "antarāla",
+   "gloss": "vestibule",
+   "first_section": "5.1"
+  },
+  {
+   "term": "jagatī",
+   "gloss": "moulded platform",
+   "first_section": "5.1"
+  },
+  {
+   "term": "sāndhāra / nirandhāra",
+   "gloss": "with / without an inner ambulatory",
+   "first_section": "5.1"
+  },
+  {
+   "term": "vedī",
+   "gloss": "separate low hall on the axis",
+   "first_section": "5.2"
+  },
+  {
+   "term": "kakṣāsana",
+   "gloss": "porch seat",
+   "first_section": "5.2"
+  },
+  {
+   "term": "pañcāyatana",
+   "gloss": "five-shrine plan",
+   "first_section": "5.4"
+  },
+  {
+   "term": "mañjarī",
+   "gloss": "shoot; the spire",
+   "first_section": "5.5"
+  },
+  {
+   "term": "kalaśa",
+   "gloss": "jar of the finial",
+   "first_section": "5.5"
+  },
+  {
+   "term": "śukanāsā",
+   "gloss": "antefix ('parrot's nose')",
+   "first_section": "5.5"
+  },
+  {
+   "term": "parivartanā",
+   "gloss": "rotation of the square",
+   "first_section": "5.6"
+  },
+  {
+   "term": "kūṭastambha",
+   "gloss": "miniature spire on a pilaster",
+   "first_section": "5.6"
+  },
+  {
+   "term": "latā",
+   "gloss": "flat band of the spire",
+   "first_section": "5.6"
+  },
+  {
+   "term": "bhūmi",
+   "gloss": "storey",
+   "first_section": "5.6"
+  },
+  {
+   "term": "pīṭha",
+   "gloss": "base",
+   "first_section": "5.10"
+  },
+  {
+   "term": "jāḍyakumbha",
+   "gloss": "lotus-shaped base moulding",
+   "first_section": "5.10"
+  },
+  {
+   "term": "grāsapaṭṭī",
+   "gloss": "band of monster faces",
+   "first_section": "5.10"
+  },
+  {
+   "term": "vedībandha",
+   "gloss": "wall-base mouldings",
+   "first_section": "5.10"
+  },
+  {
+   "term": "salilāntara",
+   "gloss": "recess between buttresses",
+   "first_section": "5.10"
+  },
+  {
+   "term": "miśraka",
+   "gloss": "mixed pillar type",
+   "first_section": "5.11"
+  },
+  {
+   "term": "nābhichanda",
+   "gloss": "ceiling of concentric coffered rings",
+   "first_section": "5.11"
+  },
+  {
+   "term": "kīrttimukha",
+   "gloss": "Face of Glory",
+   "first_section": "5.12"
+  },
+  {
+   "term": "sthapati / sthāpaka",
+   "gloss": "architect / architect-priest",
+   "first_section": "5.13"
+  },
+  {
+   "term": "tāṇḍava",
+   "gloss": "Śiva's vigorous dance",
+   "first_section": "5.14"
+  },
+  {
+   "term": "ūrdhvajānu",
+   "gloss": "dance pose with raised knee",
+   "first_section": "5.14"
+  },
+  {
+   "term": "karaṇa",
+   "gloss": "dance sequence ending in a stance",
+   "first_section": "5.14"
+  },
+  {
+   "term": "aṣṭa dikpālas",
+   "gloss": "eight guardians of the directions",
+   "first_section": "5.15"
+  },
+  {
+   "term": "mātṛkā / aṣṭamātṛkā",
+   "gloss": "Mother goddess / the eight Mothers",
+   "first_section": "5.16"
+  },
+  {
+   "term": "tilaka",
+   "gloss": "upper tier of the hall",
+   "first_section": "5.17"
+  },
+  {
+   "term": "khattikā",
+   "gloss": "small niche on the wall base",
+   "first_section": "5.19"
+  },
+  {
+   "term": "navatāla",
+   "gloss": "nine face-lengths",
+   "first_section": "5.23"
+  },
+  {
+   "term": "vāstupuruṣamaṇḍala",
+   "gloss": "square diagram of the site",
+   "first_section": "5.24"
+  },
+  {
+   "term": "śuddha adhvā",
+   "gloss": "pure order of five principles",
+   "first_section": "5.26"
+  },
+  {
+   "term": "pati / paśu / pāśa",
+   "gloss": "lord / soul / fetters",
+   "first_section": "5.26"
+  },
+  {
+   "term": "śivasāyujya",
+   "gloss": "company of Śiva",
+   "first_section": "5.27"
+  }
+ ],
+ "places": [
+  {
+   "name": "Un",
+   "first_section": "5.8",
+   "note": "Bhūmija group with an inscription of Udayāditya (Chaubara Dera)"
+  },
+  {
+   "name": "Onkar Mandhata",
+   "first_section": "5.7",
+   "note": "Amareśvara nucleus tenth century; later temple dated 1063"
+  },
+  {
+   "name": "Nemawar",
+   "first_section": "5.8",
+   "note": "Siddheśvara, nine storeys, later"
+  },
+  {
+   "name": "Ambarnath / Sinnar / Jhodga",
+   "first_section": "5.9",
+   "note": "Deccan comparisons"
+  },
+  {
+   "name": "Khajuraho",
+   "first_section": "5.9",
+   "note": "Candella temples; Lakṣmaṇa temple of 954"
+  }
+ ],
+ "figures": [
+  {
+   "what": "vedī interior",
+   "value": "23 feet square (Cunningham)",
+   "keyword": "23 feet",
+   "sections": [
+    "5.3"
+   ]
+  },
+  {
+   "what": "attendant shrines",
+   "value": "eight (six standing in ruin); counts 7, 8–9, 4+4 by source",
+   "keyword": "attendant shrines",
+   "sections": [
+    "5.4"
+   ]
+  },
+  {
+   "what": "spire",
+   "value": "seven tiers of five kūṭastambhas per sub-quarter (35)",
+   "keyword": "seven",
+   "sections": [
+    "5.6"
+   ]
+  },
+  {
+   "what": "star plan",
+   "value": "32 points (Hardy)",
+   "keyword": "thirty-two",
+   "sections": [
+    "5.6"
+   ]
+  },
+  {
+   "what": "hall pillars",
+   "value": "square 2 ft 9 in; 5 ft 6 + 3 ft 8 + 1 ft 3 = 10 ft 5 in",
+   "keyword": "pillars",
+   "sections": [
+    "5.11"
+   ]
+  },
+  {
+   "what": "Amareśvara date",
+   "value": "1063",
+   "keyword": "1063",
+   "sections": [
+    "5.8"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "What was the vedī for?",
+   "sections": [
+    "5.3"
+   ],
+   "status": "three readings, undecided"
+  },
+  {
+   "question": "How many attendant shrines, and in what plan?",
+   "sections": [
+    "5.4"
+   ],
+   "status": "counts side by side"
+  },
+  {
+   "question": "Where did the Bhūmija begin?",
+   "sections": [
+    "5.7"
+   ],
+   "status": "Malwa tenth century (Deva) vs eleventh-century emergence (Hardy)"
+  },
+  {
+   "question": "Who is the figure near the summit?",
+   "sections": [
+    "5.27"
+   ],
+   "status": "flag-bearer, king or architect"
+  },
+  {
+   "question": "Was the temple built from the Samarāṅgaṇasūtradhāra?",
+   "sections": [
+    "5.25"
+   ],
+   "status": "compatibility, not identity"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "5.28",
+   "to": "Ch 6",
+   "what": "the flag record and the praśasti as texts"
+  },
+  {
+   "from": "5.2",
+   "to": "Ch 10",
+   "what": "why the east door was shut"
+  },
+  {
+   "from": "5.21",
+   "to": "Ch 10",
+   "what": "who damaged the images"
+  },
+  {
+   "from": "5.20",
+   "to": "Ch 11",
+   "what": "the brass sheath and the temple's later care"
+  },
+  {
+   "from": "5.4",
+   "to": "Ch 10",
+   "what": "the mosque's date and builder"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "rule adjusted for symmetry",
+   "sections": [
+    "5.15",
+    "5.18",
+    "5.23",
+    "5.28"
+   ]
+  },
+  {
+   "motif": "the builder's name",
+   "sections": [
+    "5.2",
+    "5.13",
+    "5.27",
+    "5.28"
+   ]
+  },
+  {
+   "motif": "norm, not record",
+   "sections": [
+    "5.2",
+    "5.23",
+    "5.24",
+    "5.25"
+   ]
+  }
+ ]
+}

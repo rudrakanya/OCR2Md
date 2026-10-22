@@ -1,0 +1,25 @@
+{"c":"35fca922a1","keep":false,"reject_reason":"OCR-damaged Sanskrit text and footnotes"}
+{"c":"a8717110e7","keep":false,"reject_reason":"plate scale numbers and empty table"}
+{"c":"a3d098bb8c","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}
+{"c":"0f3c27ef71","keep":false,"reject_reason":"OCR-damaged Sanskrit imprecatory verses"}
+{"c":"88cf82548c","keep":false,"reject_reason":"OCR-damaged Sanskrit imprecatory verses"}
+{"c":"384fd25e5e","keep":true,"items":[{"unit":"C04","sub":"S3","type":"fact","strength":"contextual","span":[19,24],"note":"Arjunavarman's Piplianagar grant describes the Paramāras of Dhārā beginning with Bhōjadēva, followed by Udayāditya who stripped off the glory of his adversaries; then Naravarman, Yaśōvarman, Ajayavarman, Vindhyavarman."}]}
+{"c":"8432505fae","keep":true,"items":[{"unit":"C04","sub":"S4","type":"fact","strength":"contextual","span":[9,12],"note":"Editor takes nity-otsāhaika-kautukī of Udayāditya to mean 'whose sole delight was to perform deeds of valour'; he subdued the enemies who had overpowered the kingdom in Bhōjadēva's last days."}]}
+{"c":"59f1237f4e","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[11,12],"note":"Poetic records name Yaśōvarman's son Ajayavarman, prose records Jayavarman; editor holds them identical, name changed to suit the metre (against Kielhorn)."},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[14,14],"note":"Vindhyavarman liberated the Paramāra kingdom suffered at Chaulukya hands since Yaśovarman, whose kingdom Jayasinha Siddharāja had captured."}]}
+{"c":"a36b5190c8","keep":false,"reject_reason":"identification of Mandapa-durga and villages; no bearing"}
+{"c":"aeeac27214","keep":false,"reject_reason":"OCR-damaged Sanskrit verse table"}
+{"c":"ee31957723","keep":false,"reject_reason":"OCR-damaged Sanskrit verse table"}
+{"c":"9822dd4324","keep":false,"reject_reason":"textual footnotes only"}
+{"c":"51db491345","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"05d09151c8","keep":false,"reject_reason":"OCR-damaged Sanskrit text and footnote"}
+{"c":"e822c01174","keep":false,"reject_reason":"find-spot history and grant details at Ujjain/Broach; no bearing"}
+{"c":"e2074e2288","keep":false,"reject_reason":"grant details naming Ujjain and Broach; no bearing"}
+{"c":"60e1a03e45","keep":false,"reject_reason":"OCR-damaged Sanskrit table"}
+{"c":"3bf45d29e1","keep":false,"reject_reason":"textual footnotes only"}
+{"c":"dc609358dc","keep":false,"reject_reason":"OCR garbage"}
+{"c":"41bcc5bd28","keep":false,"reject_reason":"Sanskrit colophon, OCR-damaged"}
+{"c":"6adbba4ae2","keep":false,"reject_reason":"find-spot history and grant details on the Narmadā; no bearing"}
+{"c":"8afa6a63d7","keep":false,"reject_reason":"Narmadā grant details; no bearing"}
+{"c":"40a1ce104c","keep":false,"reject_reason":"OCR-damaged Sanskrit and footnotes"}
+{"c":"6701903d1b","keep":false,"reject_reason":"OCR-damaged Sanskrit verse table"}
+{"c":"44f6a513ec","keep":false,"reject_reason":"OCR-damaged Sanskrit verse table"}

@@ -64,8 +64,9 @@ books:
     language: en
     script: latin
     kind: book
-    _evidence: "H1 'BHOJA PARAMARA AND HIS TIMES'; 'Dr. MAHESH SINGH, B. D. College Lalganj'; 'BHARATIYA VIDYA PRAKASHAN'; year 1984 in front matter."
+    _evidence: "H1 'BHOJA PARAMARA AND HIS TIMES'; 'Dr. MAHESH SINGH, B. D. College Lalganj'; 'BHARATIYA VIDYA PRAKASHAN'; year 1984 in front matter. File was merged into the active corpus folder 2026-10-12 (this metadata row predates that; the physical file was missing until then). OCR quality is generally legible English with scattered character-level errors (e.g. 'MAprSpAN' for 'PRAKASHAN')."
     _stats: {chars: 793902, headings: 22}
+    page_alignment_note: "Could not be page-aligned 2026-10-12: its only located source, 'Reference Book documents/.Bhoja-Paramara-And-His-Times_text.pdf', is corrupted at the image-stream level (confirmed via PyMuPDF, an independent earlier layout-tool render, and a qpdf structural repair attempt -- all three render every sampled page blank). A companion .docx OCR transcript exists with clean text but carries no page-boundary markup of any kind. page_start remains unset for every chunk of this source."
 
   - file: bhojdev.md
     title: "भोजदेव (Bhojadeva)"
@@ -106,6 +107,7 @@ books:
     needs_review: true
     _evidence: "Header comment: 'English rendering of the Hindi book \"Jagta Hua Kasba\" / कथा उदयपुर — Full, faithful translation'; H1 'The Story of Udaipur'. Author not named in the file. NOTE: this is the C18 anchor text."
     _stats: {chars: 390810, headings: 11, devanagari: 3721}
+    page_alignment_note: "This file has no English-language source PDF of its own (confirmed 2026-10-12 by a recursive search of the whole project tree) -- it is a translation of Jagta_Hua_Kasba_OCR_text.md with no independent scan. Page markers added 2026-10-12 are therefore APPROXIMATE: each of this file's 3 top-level sections was matched to its corresponding Hindi section by heading correspondence (the headings are direct translations of each other), and pages were assigned by linear proportional position within each matched section, using the Hindi original's own (OCR-token-aligned) page numbers. These page numbers refer to Jagta_Hua_Kasba_OCR_text.md's scan, not to any English edition, and should be read as 'approximately this page of the Hindi original,' not as independently verified."
 
   - file: Jagta_Hua_Kasba_OCR_text.md
     title: "कथा उदयपुर (Jagta Hua Kasba) — Hindi original"
@@ -113,8 +115,9 @@ books:
     script: devanagari
     kind: book
     needs_review: true
-    _evidence: "H1 'कथा उदयपुर'; opening line describes a town of 8,000 people with 1,100-1,200 years of stories. Author not named in the OCR text. 249,147 Devanagari chars."
+    _evidence: "H1 'कथा उदयपुर'; opening line describes a town of 8,000 people with 1,100-1,200 years of stories. Author not named in the OCR text. 249,147 Devanagari chars. File was merged into the active corpus folder 2026-10-12 (this metadata row predates that; the physical file was missing until then)."
     _stats: {chars: 317938, headings: 3, devanagari: 249147}
+    page_alignment_note: "Page markers added 2026-10-12 by OCR'ing all 180 pages of the source scan ('Reference Book documents/Jagta Hua Kasba Udaypur Vijay Manohar Tiwari.pdf') and matching each page's rare, distinctive words against this file's own text via a monotonic longest-increasing-subsequence filter (not a sliding window, which was tried first and failed -- see the 2026-10-12 addendum). 168 of 180 pages matched; 12 did not and were left unmarked rather than guessed: page 1 (title page, almost no running text), page 72 (the scan page itself is visibly skewed/rotated, which degraded its OCR badly enough to lose anchor words), and pages 171-180 (back-matter photo captions and a promotional heritage-walk notice that were never transcribed into this file at all)."
 
   - file: Long-termhistoricchangesinclimaticvariablesofBetwa.md
     title: "Long-term historic changes in climatic variables of Betwa Basin, India"
@@ -193,12 +196,14 @@ books:
 
   - file: samarangana-sutradhara.md
     title: "Samarāṅgaṇa-sūtradhāra"
+    author: "Bhojadeva (attrib.)"
     language: sa
     script: mixed
     kind: primary_text
     needs_review: true
-    _evidence: "H1 'Samarāṅgaṇa-sūtradhāra — Chapter 27' and repeated 'SAMARĀNGANA-SŪTRADHĀRA'; body alternates English translation with ```sanskrit fenced Devanagari verse. No editor/translator or year in the extraction. Largest file in the corpus (1.42M chars, 331k Devanagari). Traditionally attributed to Bhoja — but the FILE does not say so, so I have not written that in."
-    _stats: {chars: 1422139, headings: 450, devanagari: 331140, iast_diacritics: 10907}
+    quality_warning: "Re-OCR'd 2026-10-13 (Tesseract Devanagari --psm 3 @ 400dpi, autocontrast + unsharp mask + Otsu adaptive threshold) to replace a two-file version (Samrangana Sutradhar Vol 1.md + Samarangan Vol 2 (a)_combined.md) whose quality had degraded from roughly the midpoint of Volume 2 onward, traced to a scanning ghosting/bleed-through defect. Mean confidence: Vol 1 86.7%, Vol 2 85.1%. Volume 1: 2 pages below 60% confidence, 22 pages flagged for possible layout/reading-order disruption from scan warping. Volume 2: 4 pages flagged for the same. 6 chapter-opening headings in Volume 2 (chapters 52, 55, 60, 72, 75, 80) could not be recovered by OCR at all and are not separately marked in heading_path -- their content is present and page-marked, just attached to the preceding chapter's heading. Check any passage against the page image before quoting it, especially on flagged pages."
+    _evidence: "This file combines what was previously two separate, separately-indexed files, Samrangana Sutradhar Vol 1.md (578 pages) and Samarangan Vol 2 (a)_combined.md (562 pages) -- both retired 2026-10-13, backed up under backups/2026-10-13_samarangana_reocr/. H1 'Samarāṅgaṇa-sūtradhāra'; H2 'Volume 1' / 'Volume 2'; H3 'Chapter N' headings below each (50 chapters in Volume 1, 27 of 33 detected directly in Volume 2 -- see quality_warning). Traditionally attributed to Bhoja; the file's own text does not state this directly, so author is recorded as attributed rather than confirmed. Source PDFs: 'Samrangana Sutradhar Vol 1.pdf' (578 pages) and 'Samarangan Vol 2.pdf' (562 pages, confirmed complete against its own page count -- the old filename's '(a)_combined' suffix referred to the prior OCR attempt, not a partial source)."
+    _stats: {chars: 2410771, headings: 81, devanagari: 655696}
 
   - file: serpentine-scimitar-inscription-udaypur.md
     title: "A serpentine scimitar of letters from Udaypur, district Vidisha, M.P."
@@ -311,3 +316,146 @@ books:
 # 4. Rows marked `needs_review: true` (17 of 25) mostly need a year or an
 #    author. The pipeline runs fine without them — they only affect citation
 #    display and the report — so this is not a blocker, just a quality knob.
+
+# ---------------------------------------------------------------------------
+# Added for the "Udaipur Books Markdown files" corpus rebuild -- files present
+# in that directory but missing from the manifest above (which was written for
+# "Udaypur Reference Markdown Files"). Metadata carried over from the pre-pull
+# books_manifest.yaml (filename-keyed) where available; one row (Anupa Pande,
+# second copy) read directly from the file since no prior record covered it.
+# ---------------------------------------------------------------------------
+  - file: A_serpentine_scimitar_of_letters_from_Ud.md
+    title: "A Serpentine Scimitar of Letters (the varṇanāgakṛpāṇikā inscription at Udaypur)"
+    author: "Singh, A."
+    year: 2019
+    language: en
+    kind: primary_text
+    _evidence: "Carried over from the pre-pull books_manifest.yaml (filename-keyed), itself sourced from this book's own title page."
+
+  - file: Art of Paramaras.md
+    title: "Art of the Paramāras of Malwa"
+    author: "Sharma, R. K."
+    language: en
+    kind: book
+    needs_review: true
+    _evidence: "Carried over from the pre-pull books_manifest.yaml; no year recorded there."
+
+  - file: Geo-Heritage of Udaypur The Third Eye.md
+    title: "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye"
+    language: en
+    kind: report
+    needs_review: true
+    _evidence: "Carried over from the pre-pull books_manifest.yaml; no author/year recorded there."
+
+  - file: History of Paramara Dynasty DC Ganguly.md
+    title: "History of the Paramāra Dynasty"
+    author: "Ganguly, D. C."
+    year: 1933
+    language: en
+    kind: book
+    _evidence: "Carried over from the pre-pull books_manifest.yaml, itself sourced from this book's own title page. Likely the same 1933 Ganguly thesis as paramara-dynasty-comprehensive-history.md under a different, fuller OCR pass -- left as a separate row per this manifest's own duplicate-handling policy (near-duplicate detection demotes at ingest, nothing is deleted)."
+
+  - file: History of the Parmar Rajput Dynasty.md
+    title: "History of the Parmar Rajput Dynasty"
+    author: "Venziya, Pratapsinh Ranaji"
+    year: 2025
+    language: en
+    kind: book
+    _evidence: "Carried over from the pre-pull books_manifest.yaml, itself sourced from this book's own title page."
+
+  - file: Inscriptions Corpus.md
+    title: "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras"
+    author: "Trivedi, Harihar Vithal (ed.)"
+    language: mixed
+    kind: primary_text
+    needs_review: true
+    _evidence: "Carried over from the pre-pull books_manifest.yaml; no year recorded there."
+
+  # Samarangan Vol 2 (a)_combined.md and Samrangana Sutradhar Vol 1.md were
+  # retired 2026-10-13 and merged into the single samarangana-sutradhara.md
+  # entry above (see its quality_warning and _evidence) -- their old rows
+  # are removed, not left as dead entries, since load_manifest() would
+  # otherwise describe files that no longer exist in the active corpus.
+
+  - file: Streamflow of the Betwa Rive.md
+    title: "Streamflow of the Betwa River under the Combined Effect of LU-LC and Climate Change"
+    author: "Kumar, Amit; Singh, Raghvender Pratap; Dubey, Swatantra Kumar; Gaurav, Kumar"
+    year: 2022
+    language: en
+    kind: report
+    _evidence: "Carried over from the pre-pull books_manifest.yaml, itself sourced from this book's own title page."
+
+  - file: Temple Economics.md
+    title: "Temple Economics (Arthavyavasthā of Mandirs), Volume I"
+    author: "Singh, Sandeep"
+    language: en
+    kind: book
+    needs_review: true
+    _evidence: "Carried over from the pre-pull books_manifest.yaml; no year recorded there."
+
+  - file: Temples of India.md
+    title: "Temples of India"
+    language: en
+    kind: book
+    needs_review: true
+    _evidence: "Carried over from the pre-pull books_manifest.yaml; no author/year recorded there."
+
+  - file: The Udayesvara Temple - Anupa Pande.md
+    title: "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta"
+    author: "Anupa Pande"
+    language: en
+    kind: book
+    needs_review: true
+    _evidence: "Read directly from this file's own header comment (OCR of The Udayesvara Temple, Anupa Pande, 199 pages) and table of contents, which matches the udayesvara-temple-art-architecture.md / Art-Architecture-Philosophy-Saiva-Siddhanta entries. A third, separately-OCR'd copy of the same Anupa Pande book under a different filename; left as its own row per this manifest's duplicate-handling policy -- near-duplicate detection demotes at ingest, nothing is deleted. No year stated in this copy either."
+    page_alignment_note: "Fixed 2026-10-12: this file already had an accurate page marker for essentially every one of its 199 pages, but in the form `<!-- page N src=IMAGEFILE.jpg -->`, which does not match src/chunker.py's PAGE_RE (it requires `-->` immediately after the page number). Reformatted to a bare `<!-- page N -->` followed by a separate `<!-- src: IMAGEFILE.jpg -->` comment carrying the original provenance; no OCR was re-run, no page numbers were changed."
+
+  - file: The Udayesvara Temple Art, Architecture and Philosophy of the Saiva Siddhanta.md
+    title: "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta"
+    author: "Pande, Anupa"
+    language: en
+    kind: book
+    needs_review: true
+    _evidence: "Carried over from the pre-pull books_manifest.yaml; no year recorded there. Same book as udayesvara-temple-art-architecture.md and The Udayesvara Temple - Anupa Pande.md under a third filename -- see those rows."
+
+  - file: The cultural heritage of madhya bharat.md
+    title: "The Cultural Heritage of Madhya Bharat"
+    author: "Patil, D. R."
+    year: 1952
+    language: en
+    kind: book
+    _evidence: "Carried over from the pre-pull books_manifest.yaml, itself sourced from this book's own title page."
+
+  - file: Vidisha Gazeteer.md
+    title: "Madhya Pradesh District Gazetteers: Vidisha"
+    author: "Government of Madhya Pradesh"
+    language: en
+    kind: gazetteer
+    needs_review: true
+    _evidence: "Carried over from the pre-pull books_manifest.yaml; no year recorded there. Likely the same gazetteer as vidisha-district-gazetteer.md (P. N. Shrivastav & Rajendra Verma, 1979) under a different filename -- left as its own row per this manifest's duplicate-handling policy."
+
+# ---------------------------------------------------------------------------
+# Added 2026-10-12: 1 book (patanjala-yogasutra-rajamartanda-bhoja.md) newly
+# merged into the active corpus from the legacy "Udaypur Reference Markdown
+# Files" directory at the user's explicit request, after the catalogue
+# reconciliation (Phase B1) and the ChromaDB audit. Nothing already in the
+# active corpus was removed or replaced -- this is a pure addition.
+#
+# bhoja-paramara-and-his-times.md and Jagta_Hua_Kasba_OCR_text.md were ALSO
+# merged in on 2026-10-12, but each already had an adequate manifest entry
+# earlier in this file (see their `file:` rows above) from before this
+# merge -- the manifest had pre-registered their bibliographic metadata
+# while the files themselves were still missing from the active folder. This
+# session had duplicated them here by mistake; the duplicates were removed
+# on 2026-10-12 and a short provenance note was folded into each original
+# entry instead, rather than leaving two rows per file.
+# ---------------------------------------------------------------------------
+  - file: patanjala-yogasutra-rajamartanda-bhoja.md
+    title: "Pātañjala-Yogasūtra with the Rājamārtaṇḍa-vṛtti of Bhojadeva (ed. Ram Shankar Bhattacharya)"
+    author: "Bhojadeva (Bhoja Paramāra), commentary; Patañjali, sūtras; Ram Shankar Bhattacharya, editor"
+    publisher: "Bharatiya Vidya Prakashan, Varanasi"
+    language: sa
+    script: devanagari
+    kind: primary_text
+    needs_review: true
+    quality_warning: "LOW-CONFIDENCE OCR -- do not cite a quotation from this source without checking it against the page image first. Re-OCR'd 2026-10-12 (Tesseract Devanagari --psm 3 @ 400dpi, with autocontrast + unsharp mask + Otsu adaptive threshold preprocessing, added this same day): mean word confidence 70.0% (up from the prior pipeline's measurement method, not a strictly comparable baseline -- see the 2026-10-12 addendum), 39 of 116 pages now gate 'pass', 75 'needs_recheck', and 2 (pdf pages 34, 115) 'illegible' -- both of which also carried no real body text in the pre-2026-10-12 file, so this is a more honest report of an existing gap, not a new loss. Gutter-damage distortion from the bad binding is a localised curvature, not a uniform tilt, and remains uncorrected (confirmed not fixable by a whole-page deskew)."
+    _evidence: "Title and editor read directly from the file's own header comment on 2026-10-12. That same header carries an explicit, file-authored quality warning: 'Devanagari OCR of Sanskrit conjuncts is imperfect... Check any passage against the page image before quoting it.' Added for the authorship/kinship evidence it carries about Bhoja Paramara's own scholarly output, not as a source for verbatim Sanskrit quotation without independent verification."

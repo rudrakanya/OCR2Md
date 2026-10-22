@@ -1,0 +1,27 @@
+{
+ "history writing sample.pdf": {
+  "pages": 11,
+  "image_only_pages": [],
+  "words": 1463,
+  "paragraphs": 26,
+  "sentences": 89,
+  "sentence_len_mean": 16.4,
+  "sentence_len_sd": 9.8,
+  "sentence_len_median": 16,
+  "share_short_le8": 0.169,
+  "share_long_ge30": 0.09,
+  "paragraph_len_mean": 56.3,
+  "paragraph_len_sd": 33.9,
+  "paragraph_len_min_max": [
+   16,
+   151
+  ],
+  "questions_per_1000w": 1.37,
+  "first_person_per_1000w": 17.77,
+  "quotations_per_1000w": 0.0,
+  "parentheses_per_1000w": 0.0,
+  "numbers_per_1000w": 0.68,
+  "diacritic_words_per_1000w": 0.0,
+  "footnote_markers": 0
+ }
+}

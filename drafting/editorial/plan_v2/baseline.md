@@ -1,0 +1,57 @@
+## Baseline: what Chapters 1–3 have already told (carried from v1)
+
+Later chapters **recall** this material in a clause and add only what is new. They never re-tell it. Sections are named so the drafting model can open them: `drafting/run/ch1/1.1.md` … `ch3/3.5.md`; `drafting/editorial/book_ledger.md` lists first mentions.
+
+- **1.1 (arrival and the living village):**
+  - the approach;
+  - the village and its 2011 census;
+  - the walled town and its gates; the time-keepers' house;
+  - the remembered water tally (56 stepwells, 52 wells, 12½ lakes, as memory);
+  - Berni Mata and the dancer legend;
+  - the temple still in worship; the fair; Hindus and Muslims at the shrine in the 1870s;
+  - the name confused with Udaipur;
+  - the snake-and-fire founding legend.
+- **1.2 (the Paramāra frame):**
+  - Dhārā; the eastern reach to Bhilsa;
+  - Bhoja's death and the occupation; Jayasiṃha;
+  - Udayāditya's recovery, c. 1070, "a kinsman of Bhoja; the exact relationship is disputed";
+  - the Nagpur boar image; the realm;
+  - the triad (Udayapura, Udayeśvara, Udayasamudra) and Nīlakaṇṭheśvara;
+  - V.S. 1116 and V.S. 1137 as readings;
+  - "lord's seat or new king's undertaking";
+  - *maṇḍala*s, *bhoga*s, *pāṭhaka*s; the Bhāillasvāmi-mahādvādaśaka;
+  - Rājyapāla at Udayapura (as corrected under U1, Part I); the Nemak reading.
+- **1.3 (the later sequence in outline):**
+  - Yaśovarman and the Caulukya capture; Madanavarman at Bhilsa, 1134; the *mahākumāra*s;
+  - Lūṇapasāka's grant, early 1170s (as corrected under U1);
+  - Devapāla residing at Udayapura;
+  - Jayavarman 1263/1269; Iltutmish; ʿAin-ul-Mulk and 1305;
+  - the mosque of 1336–38; the tradition dating a razing order to 1325;
+  - Hoshang Shah; the 1488 mosque by Moti Darwaza; the Shahi Masjid, 1632; the governor's mansion;
+  - the brass cover (V.S. 1841); Scindia maintenance ("Garde Sahib", in Tiwari's account); custody today;
+  - Adhikari's "fullest Bhūmija statement".
+- **1.4 (the inscriptions as story):**
+  - the praśasti's two slabs; the Gwalior museum; Garde's find of 1925–26;
+  - the agnikula; the unconfirmed names;
+  - the 1080 record read three ways; the "1059–1080" caption;
+  - the pilgrims' inscriptions in Sanskrit, Persian and Hindi; Turasadasa, V.S. 1696;
+  - Beglar, Cunningham and Bühler as first readers; the reset slab;
+  - the survival legends (Tughluq's gunpowder, Aurangzeb, a night's building, treasure, the flour-grinder woman).
+- **1.5 (older place or new town):**
+  - the Bhujariya Talab; the eighth-century two-line inscription; reused columns; the sixth-century layers; the uncemented wall;
+  - Tiwari's frontier-post idea; the Bhringraj and Gond traditions;
+  - the Udhapuram, sixteenth-century and 1513 records;
+  - closing line: "had to make terms with that stone and that water".
+- **Chapter 2 (the land):**
+  - the Betwa/Vētravatī and the Kewtan;
+  - rains, soils, crops;
+  - the Garhi–Teonda range, trap and sandstone, the temple stone "quarried in the hill close by";
+  - Bhojpur (comparative only);
+  - Udaypur's tanks, *kund*s and stepwells **at landscape level only**;
+  - illegal quarrying;
+  - closing line: "whether anyone had used it before Udaypur had its name, the ground itself does not say".
+- **Chapter 3 (before Udaypur):**
+  - Daśārṇa and Ākara; Vidisha/Besnagar; Sanchi; Heliodorus; Udayagiri;
+  - Badoh, Pathari and **the Seven Mothers panel**; the sixth-century cave on Udaypur's hill with figures "believed" to be Jain Tīrthaṅkaras;
+  - Bhilsa and Bhāillasvāmin; the Rāṣṭrakūṭas at Pathari (861); Gyaraspur; the Chandellas at Bhilsa (954);
+  - closing line: **"Who held the hill itself in those years is not known."**

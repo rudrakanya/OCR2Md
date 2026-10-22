@@ -1,0 +1,25 @@
+{"c":"b49f296e51","keep":true,"items":[{"unit":"C10","sub":"S4","type":"fact","strength":"contextual","span":[1,5],"note":"Gwalior State irrigation development began under Madho Rao Scindia after the famines of 1898 and 1900; a special Irrigation Department was constituted in 1905; 'the genesis of irrigation thus lay in the distress caused by famines'."}]}
+{"c":"c41a6fce6b","keep":false,"reject_reason":"irrigation tank and canal statistics for the district; no Udaypur link"}
+{"c":"5cf452d69e","keep":false,"reject_reason":"garbled irrigation project tables; generic"}
+{"c":"aade48608b","keep":true,"items":[{"unit":"C02","sub":"S2","type":"fact","strength":"direct","span":[15,19],"note":"Soil of the district is generally black cotton soil (mar), rich and very good for wheat but reduced in utility if kans grows."},{"unit":"C02","sub":"S5","type":"fact","strength":"direct","span":[28,31],"note":"The duab between the Bah and the Betwa is the richest cultivated area of Vidisha tahsil; the central tract is rich from silt deposits and a major wheat-growing district of the erstwhile Gwalior State."}]}
+{"c":"e32ade6990","keep":true,"items":[{"unit":"C08","sub":"S4","type":"figure","strength":"contextual","span":[1,4],"note":"Vidisha is predominantly a rabi crop area (65:35 in 1971-72); wheat commands 50 per cent of cropped area, then gram and jowar."}]}
+{"c":"5cd89ddc56","keep":true,"items":[{"unit":"C08","sub":"S4","type":"excerpt","strength":"contextual","span":[1,4],"note":"Agricultural operations follow the rainfall in the manner of the Malwa tract: fields broken with the bakhar, ploughing for autumn crops about the end of May, sowing after sufficient rain."}]}
+{"c":"53eb5b3f2b","keep":false,"reject_reason":"gram, jowar and maize area and yield statistics; generic"}
+{"c":"646e6dffdb","keep":false,"reject_reason":"minor crop statistics; generic"}
+{"c":"dfe11dd564","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"direct","span":[13,16],"note":"Bhilsa tobacco was famous all over the country; Edward Thornton in the mid-19th century considered tobacco produced near the town the finest in India."}]}
+{"c":"43489db820","keep":false,"reject_reason":"modern agricultural implements and seed improvement; generic"}
+{"c":"89782137b5","keep":false,"reject_reason":"improved seed varieties table; no Udaypur relevance"}
+{"c":"9935fbaffe","keep":false,"reject_reason":"improved seed and fertilizer distribution tables; generic"}
+{"c":"703dd5811b","keep":false,"reject_reason":"fertilizer and manure practice in the district; generic"}
+{"c":"81d55c0d0c","keep":false,"reject_reason":"crop diseases, pests and weeds; generic agricultural administration"}
+{"c":"898fbfcc99","keep":false,"reject_reason":"agriculture department tables and soil chemistry of the Vidisha farm; generic"}
+{"c":"090e4fd6ad","keep":false,"reject_reason":"agricultural co-operative society statistics; generic"}
+{"c":"51dda1f1c7","keep":false,"reject_reason":"livestock statistics and cattle breed; generic"}
+{"c":"a00927340d","keep":false,"reject_reason":"milk supply and goshala at Vidisha; generic"}
+{"c":"54326af4c0","keep":false,"reject_reason":"sheep, goat and poultry statistics; generic"}
+{"c":"5fe7fe60c3","keep":false,"reject_reason":"fisheries development; generic"}
+{"c":"22572c1254","keep":false,"reject_reason":"cattle breed improvement schemes; generic"}
+{"c":"92aaa5ebc9","keep":false,"reject_reason":"animal diseases and veterinary hospitals; generic"}
+{"c":"7acb7ccdd2","keep":true,"items":[{"unit":"C02","sub":"S4","type":"fact","strength":"direct","span":[1,2],"note":"About 60 per cent of the forests produce timber and fuel wood; other produce includes bamboo, gum, tendu leaves, lac, honey, wax and catechu."}]}
+{"c":"ddb6db36a5","keep":false,"reject_reason":"taccavi loans and state assistance to agriculture; generic"}
+{"c":"19311edb0e","keep":true,"items":[{"unit":"C10","sub":"S5","type":"fact","strength":"contextual","span":[10,12],"note":"State Gazetteer: after the Malwa famine of 1899-1900 numerous empty houses in every village and a seriously diminished supply of agricultural labour showed how serious its effects were (Bhilsa was among the least affected areas)."},{"unit":"C02","sub":"S3","type":"fact","strength":"contextual","span":[4,5],"note":"Malwa famine of great severity in 1899-1900 when rainfall was about 9 inches instead of over 30."}]}

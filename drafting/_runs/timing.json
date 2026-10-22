@@ -1,0 +1,8 @@
+{
+ "Retrieval (all 13 units, 394 queries, in memory)": "≈ 8 s per run (embedding 0.7–4.6 s, scoring ≈ 6 s)",
+ "Judging, wall clock": "judgment files written between 08:38 and 09:05 on 13 Oct 2026 (file timestamps; the pauses for the two account interruptions are not counted). Individual 6-packet batches took 1.5–10 min.",
+ "Judging, subagent tokens": "≈ 10–11 M in total. The ~45 subagent runs, including runs cut off by the session-limit and credit interruptions, reported 108k–380k tokens each, ≈ 240k on average.",
+ "Corpus text read by judges": "5,173 chunks ≈ 3.9 M tokens of chunk text (sentence-numbered packets)",
+ "Assembly + verification + rendering": "seconds per run (scripted, no model calls)",
+ "Chapter 1 pilot (before this run)": "1,527 chunks hand-judged in the earlier session"
+}

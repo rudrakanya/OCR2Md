@@ -1,0 +1,25 @@
+{"c": "f09612c4ec", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [9, 12], "note": "Vāstu is the planned site, square as a rule, with the full name Vāstupuruṣamāṇḍala."}]}
+{"c": "5e20adb469", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [4, 6], "note": "The Vāstupuruṣamaṇḍala is the plan of all Hindu architectural form; site-plan, ground-plan and sections are regulated by its norm."}]}
+{"c": "b6e6ba5767", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "quote", "strength": "contextual", "span": [1, 3], "note": "Mayamata prescribes a square Vāstu for gods and Brāhmaṇas; the square is the fundamental form of Indian architecture."}]}
+{"c": "9a20dc3815", "keep": false, "reject_reason": "Vedic fire-altar and hearth description; no bearing on any unit"}
+{"c": "862a12307c", "keep": false, "reject_reason": "Vedic sacrificial hearths; no bearing on any unit"}
+{"c": "586e8bdb85", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [50, 51], "note": "Samarāṅgaṇasūtradhāra IX.45 gives 84 aṅgulas as equal to vyāma=puruṣa, unlike the commentary's 120."}]}
+{"c": "05298e9537", "keep": true, "items": [{"unit": "C05", "sub": "S1", "type": "fact", "strength": "contextual", "span": [8, 10], "note": "The Garbhagṛha, the 'womb chamber' and innermost sanctuary, is generally built on a square plan and is cubical."}, {"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [39, 42], "note": "Varāhamihira prescribes the Vāstumaṇḍala of 64 squares for the temple (Bṛhat Saṃhitā LV.10); Utpala admits 81 squares."}]}
+{"c": "22508cbf9e", "keep": false, "reject_reason": "square versus circular Vedic hearths; no bearing on any unit"}
+{"c": "944b45752a", "keep": false, "reject_reason": "astronomical symbolism of the Vāstumaṇḍala border; too abstract, no specific bearing"}
+{"c": "6deb9ba061", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [11, 11], "note": "Presiding divinities' special significance is given in detail in the Samarāṅgaṇasūtradhāra of the early eleventh century."}]}
+{"c": "715a96cb42", "keep": false, "reject_reason": "table of stars and regents; no usable evidence"}
+{"c": "314f7d13c8", "keep": false, "reject_reason": "astronomical and cosmological symbolism; generic, no specific bearing"}
+{"c": "273af1abd2", "keep": false, "reject_reason": "Vedic myth of Cyavana; no bearing on any unit"}
+{"c": "6d18aa77c9", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [2, 3], "note": "The temple's Vāstumaṇḍala is laid out in 64 or else 81 squares."}]}
+{"c": "17972904cf", "keep": false, "reject_reason": "Yoni orientation formula; astrological detail, no specific bearing"}
+{"c": "aae2628cbd", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [6, 8], "note": "Drawing the square Vāstupuruṣamaṇḍala is imperative before building a temple; at the height of temple building about 1000 A.D. the diagram seems to have been drawn on the ground."}]}
+{"c": "a0db96e2bf", "keep": false, "reject_reason": "ritual marking of the square site; generic"}
+{"c": "955cb749cf", "keep": false, "reject_reason": "myth of Viśvakarman and Indra's banner; no bearing"}
+{"c": "8ca1607325", "keep": false, "reject_reason": "square and circle symbolism, banner of Indra; no bearing"}
+{"c": "8a6004df58", "keep": false, "reject_reason": "square symbolism; generic"}
+{"c": "65c9588989", "keep": false, "reject_reason": "square altar and symbolism; generic"}
+{"c": "418ecf74bf", "keep": false, "reject_reason": "Vāstu as remainder, Vedic symbolism; generic"}
+{"c": "67642d2d2a", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [1, 5], "note": "Bṛhat Saṃhitā LV.10 enjoins dividing the temple area into 64 squares; Hayaśīrṣapañcarātra lays down 64 squares for shrines and 81 for houses."}]}
+{"c": "a0cde2b4b6", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [3, 4], "note": "Varāhamihira in the sixth century describes both types; at the climax of temple building (about 900-1100 A.D.) the Īśānaśivagurudevapaddhati says the 81-square plan is fit for Prāsādas."}]}
+{"c": "b1506865b1", "keep": false, "reject_reason": "Vāstupuruṣa mythic/metaphysical identification; no specific bearing"}

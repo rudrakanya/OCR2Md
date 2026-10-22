@@ -1,0 +1,32 @@
+[
+ {
+  "chunk_id": "8f20c886fcdcdfb22af4ae665860826a1d27c93d",
+  "quote_start": "The date, which is expressed in words in lines 13-14 and aga",
+  "claim": null,
+  "why": "not a statement about Udayāditya's reign",
+  "was": {
+   "key": "Udayāditya: reign dates",
+   "value": "n/a (Vākpati-Muñja grant 1031 = 974/975 A.C.)"
+  }
+ },
+ {
+  "chunk_id": "0f527dff78b546d81820e428dd7bf3463b99d598",
+  "quote_start": "वह एक चौकोर रचना में वास्तु के नियमों के तहत बसाया गया एक व्",
+  "claim": null,
+  "why": "about a building at Bhopal, not kinship",
+  "was": {
+   "key": "Udayāditya: relation to Bhoja",
+   "value": "built Sabha Mandal at Bhopal after Bhoja"
+  }
+ },
+ {
+  "chunk_id": "dbfdc14e895babefc769ed7298b9bd0607a12c45",
+  "quote_start": "परमार राजाओं के बारे में उदयपुर से प्राप्त एक सबसे पुराना ले",
+  "claim": null,
+  "why": "general mention of the 1080 and 1229 inscriptions, not the Lūṇapasāka record",
+  "was": {
+   "key": "Lūṇapasāka record: date",
+   "value": "inscriptions of 1080 and 1229 (Devapaladeva) mentioned"
+  }
+ }
+]

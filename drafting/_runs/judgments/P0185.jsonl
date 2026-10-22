@@ -1,0 +1,25 @@
+{"c":"f8902748b2","keep":false,"reject_reason":"Samarāṅgaṇa Vimāna/Padma prāsāda proportions; technical, garbled old OCR"}
+{"c":"195b66efcf","keep":false,"reject_reason":"Samarāṅgaṇa Mahābhadra proportions; technical, garbled old OCR"}
+{"c":"d1d0680042","keep":false,"reject_reason":"Samarāṅgaṇa Śrī Vardhamāna proportions; technical, garbled old OCR"}
+{"c":"527fac0e74","keep":false,"reject_reason":"Samarāṅgaṇa Vardhamāna/Padmayoni storey proportions; technical, garbled old OCR"}
+{"c":"e2f83e5f69","keep":false,"reject_reason":"Samarāṅgaṇa Mahāpadma storey proportions; technical, garbled old OCR"}
+{"c":"c5dc312db9","keep":false,"reject_reason":"Samarāṅgaṇa Pañcaśāla proportions; technical, garbled old OCR"}
+{"c":"2738036220","keep":false,"reject_reason":"Samarāṅgaṇa Pañcaśāla/Pṛthvījaya proportions; technical, garbled old OCR"}
+{"c":"d09aa8408b","keep":false,"reject_reason":"Samarāṅgaṇa Pṛthvījaya closing verses and Bhoja colophon; already captured elsewhere, nothing specific to a unit, garbled old OCR"}
+{"c":"83a57f7e89","keep":false,"reject_reason":"Samarāṅgaṇa Niṣadha/Malayācala plan verses; technical, garbled old OCR"}
+{"c":"cd3b4be995","keep":false,"reject_reason":"Samarāṅgaṇa Niṣadha talacchanda proportions; technical, garbled old OCR"}
+{"c":"1980efba14","keep":false,"reject_reason":"Samarāṅgaṇa Niṣadha Skandha/Ghaṇṭā proportions; technical, garbled old OCR"}
+{"c":"eed3007bfe","keep":false,"reject_reason":"Samarāṅgaṇa Niṣadha/Malayādri proportions; technical, garbled old OCR"}
+{"c":"17ac4f2cd7","keep":false,"reject_reason":"Samarāṅgaṇa Malayādri storey proportions; technical, garbled old OCR"}
+{"c":"1b7eb6f24a","keep":false,"reject_reason":"Samarāṅgaṇa Mālyavān proportions; technical, garbled old OCR"}
+{"c":"4579bf5fab","keep":false,"reject_reason":"Overlap fragment of Mālyavān Śikhara verse with footnotes; no usable evidence"}
+{"c":"eb8de41d67","keep":false,"reject_reason":"Samarāṅgaṇa Mālyavān/Navamālika proportions; technical, garbled old OCR"}
+{"c":"f702c4f3b7","keep":false,"reject_reason":"Samarāṅgaṇa Navamālika proportions; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"8874f7864b","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[8,8],"note":"Prāsādas of the ground-sprung (bhūmija) kind are described as dear to all the gods and the ornament of the town (⚠ old OCR).","gloss":"Dear to all the gods, those raised from the ground are the ornament of the town, the one refuge of beneficences and a store of fame."}]}
+{"c":"6cbc332a3e","keep":false,"reject_reason":"Samarāṅgaṇa Kumuda prāsāda proportions; technical, garbled old OCR"}
+{"c":"5b726085a5","keep":false,"reject_reason":"Samarāṅgaṇa Kumuda Ghaṇṭā/Kalaśa proportions; technical, garbled old OCR"}
+{"c":"ecdadee331","keep":false,"reject_reason":"Samarāṅgaṇa Kamala prāsāda proportions; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"dab357a8eb","keep":false,"reject_reason":"Samarāṅgaṇa Kamala/Kamalodbhava proportions; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"5f083cf667","keep":false,"reject_reason":"Samarāṅgaṇa Kamalodbhava/Kiraṇa proportions; technical, garbled old OCR"}
+{"c":"a7b0b569f9","keep":false,"reject_reason":"Samarāṅgaṇa Kiraṇa proportions and deity list; technical, garbled old OCR"}
+{"c":"e936f4b2be","keep":true,"items":[{"unit":"C05","sub":"S5","type":"fact","strength":"contextual","span":[1,1],"note":"Śataśṛṅga prāsāda is described as dear to all the gods and specifically to Śiva (⚠ old OCR)."}]}

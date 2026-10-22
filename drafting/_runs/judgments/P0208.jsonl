@@ -1,0 +1,25 @@
+{"c":"2561a51a3f","keep":false,"reject_reason":"Multan Surya temple account; other town, no Udaypur link"}
+{"c":"cbd2f741c1","keep":false,"reject_reason":"Multan and Kashmir temple destruction accounts; no Udaypur link"}
+{"c":"d2230e16d5","keep":false,"reject_reason":"Kashmir temple destruction list; off-topic"}
+{"c":"33c04d207c","keep":false,"reject_reason":"Kashmir temple destruction list; off-topic"}
+{"c":"5c2d8e6038","keep":false,"reject_reason":"Kashmir temple destruction list; off-topic"}
+{"c":"d9e02e89ad","keep":false,"reject_reason":"Kashmir temple destruction list; off-topic"}
+{"c":"912547814f","keep":false,"reject_reason":"Kashmir temple destruction list; off-topic"}
+{"c":"0987ae6fb1","keep":false,"reject_reason":"Kashmir account and polemical generalisation; no Udaypur link"}
+{"c":"6021dca654","keep":true,"items":[{"unit":"C10","sub":"S1","type":"fact","strength":"contextual","span":[4,4],"note":"Iltutmish's army 'occupied Bhilsa, and destroyed a mandir whose construction, according to Minhaj - had taken three hundred years' (Temple Economics polemical compilation; Udaipur here is not relevant, Bhilsa is the district town)."}]}
+{"c":"f484c1ea2e","keep":false,"reject_reason":"Khalji campaigns elsewhere (Jhain, Chittor, Devagiri); no Udaypur link"}
+{"c":"4fe54df415","keep":true,"items":[{"unit":"C10","sub":"S1","type":"date","strength":"contextual","span":[7,8],"note":"Lists Alauddin's campaign temple destructions including 'Bhilsa (1292)' among others (secondary polemical compilation)."}]}
+{"c":"5545b07378","keep":false,"reject_reason":"south India Khalji raids; OCR fragmented, no Udaypur link"}
+{"c":"49b7b3da69","keep":false,"reject_reason":"Tughlaq-era destruction elsewhere; no Udaypur link"}
+{"c":"c625e13bbb","keep":false,"reject_reason":"Lodhi-era destruction at Mathura and Varanasi; no Udaypur link"}
+{"c":"f572fe1eb6","keep":false,"reject_reason":"Mughal destruction accounts elsewhere; no Udaypur link"}
+{"c":"0ee07c0243","keep":false,"reject_reason":"Jahangir and Shah Jahan accounts at Banaras and Orchha; no Udaypur link"}
+{"c":"700c4c531f","keep":false,"reject_reason":"Bahmani and Vijayanagar polemic; off-topic"}
+{"c":"ec164a7a4c","keep":false,"reject_reason":"Tipu Sultan temple destruction; off-topic"}
+{"c":"57b6585ff7","keep":false,"reject_reason":"polemical generalisations about Islamic construction; no Udaypur link"}
+{"c":"3451593920","keep":false,"reject_reason":"Taj Mahal and Rani ki Vav polemic; off-topic"}
+{"c":"b06217a96b","keep":false,"reject_reason":"polemical claims about Sanskrit and universities; no Udaypur link"}
+{"c":"701368aed1","keep":false,"reject_reason":"reading list and Gokul battle account; off-topic"}
+{"c":"778c6a4330","keep":false,"reject_reason":"Maratha temple renovation generalities; no Udaypur link"}
+{"c":"a51b77192b","keep":false,"reject_reason":"Savarkar on Marathas and Goa temple history; no Udaypur link"}
+{"c":"a1b9f4bbc0","keep":false,"reject_reason":"Maratha temple reconstruction elsewhere; no Udaypur link"}

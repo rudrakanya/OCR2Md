@@ -1,0 +1,25 @@
+{"c":"e6f268350c","keep":true,"items":[{"unit":"C08","sub":"S5","type":"quote","strength":"contextual","span":[5,12],"note":"General account of silpa as skill/craft and the tradition of offering light and flowers to Viswakarma before a craftsman begins work; background for craft and artisans, not specific to Udaypur."}]}
+{"c":"7594698206","keep":false,"reject_reason":"table about Pattachitra of Puri, Odisha; no bearing on any unit"}
+{"c":"a2efe80a88","keep":false,"reject_reason":"polemic on Pattachitra, Chikan and temple music; nothing usable for Udaypur units"}
+{"c":"d0f3a9c4a8","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[9,10],"note":"Many mandirs in the past offered land, a house, provisions and a share of prasad to musicians; only wealthy ones do so today. General temple-economics context (south India)."}]}
+{"c":"6a9a4e03a2","keep":false,"reject_reason":"modern political polemic about parikrama bans in UP; off-topic"}
+{"c":"3661e7e534","keep":false,"reject_reason":"illegal mining near Deeg (Braj) and polemic; off-topic for Udaypur"}
+{"c":"63e9cc0b52","keep":false,"reject_reason":"polemic about attacks on pilgrims elsewhere; off-topic"}
+{"c":"888c81ceec","keep":false,"reject_reason":"Kanwar Yatra incidents and politics; off-topic"}
+{"c":"d5209b1f74","keep":false,"reject_reason":"Kanwar Yatra commentary; off-topic"}
+{"c":"40bc2fcd95","keep":false,"reject_reason":"Kanwar Yatra commentary and polemic; off-topic"}
+{"c":"2abaa29262","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[3,5],"note":"Melas circulate goods between city and rural areas and some function as large regional livestock markets; general fair-economy background, not specific to Udaypur."}]}
+{"c":"adc0223c56","keep":false,"reject_reason":"Kumbh Mela and Covid polemic; off-topic"}
+{"c":"cd71ed462c","keep":false,"reject_reason":"Kumbh Mela abandonment and unrelated Massachusetts statistics; off-topic"}
+{"c":"495b2ed03a","keep":false,"reject_reason":"kalpavasis at Prayag Kumbh and polemic; off-topic"}
+{"c":"9e44132af4","keep":false,"reject_reason":"polemic on origin of Kumbh Mela; off-topic"}
+{"c":"bc33600afa","keep":false,"reject_reason":"Kumbh Mela urban study excerpts; off-topic"}
+{"c":"dcc420fd38","keep":false,"reject_reason":"Kumbh Mela hardships and polemic; off-topic"}
+{"c":"8bf2494a07","keep":false,"reject_reason":"Kumbh Mela finances and taxation; off-topic for Udaypur"}
+{"c":"fbfce2fb6f","keep":false,"reject_reason":"Kumbh Mela hygiene polemic; off-topic"}
+{"c":"ee02017d62","keep":false,"reject_reason":"polemic about Kumbh data and Harvard; off-topic"}
+{"c":"479887ae5e","keep":true,"items":[{"unit":"C08","sub":"S1","type":"fact","strength":"contextual","span":[1,9],"note":"Mathas of southern India as multi-purpose institutions: schools attached to temples, rest houses, hospitals, libraries, funded by kings, communities or philanthropists; general background for maṭhas and institutions."}]}
+{"c":"5cbda3d664","keep":false,"reject_reason":"political polemic on sects; off-topic"}
+{"c":"a34b443798","keep":false,"reject_reason":"Sikh-Hindu history in Punjab; off-topic"}
+{"c":"5176e7d287","keep":false,"reject_reason":"Kumbh astronomy and polemic; off-topic"}
+{"c":"2f80cff690","keep":true,"items":[{"unit":"C08","sub":"S3","type":"excerpt","strength":"contextual","span":[14,25],"note":"Devadasis as donors: from Chola-time inscriptions, they built and rebuilt shrines and gifted agricultural land, villages, jewels and lamps to temples; general temple-endowment background (south India)."}]}

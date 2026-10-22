@@ -69,7 +69,7 @@ class Chunk:
 @dataclass
 class Section:
     heading_path: list[str]
-    lines: list[str]
+    lines: list[tuple[str, int | None]]   # (line, page in force at that line)
     page_start: int | None
 
 
@@ -78,7 +78,15 @@ def _compile_junk(patterns: Iterable[str]) -> list[re.Pattern]:
 
 
 def split_sections(text: str, split_levels: int, junk: list[re.Pattern]) -> list[Section]:
-    """Walk the document once, tracking heading stack, fences and page markers."""
+    """Walk the document once, tracking heading stack, fences and page markers.
+
+    Every line is tagged with the page marker in force at that point (not just
+    the page active when the section's own heading was reached), so a long,
+    coarsely-headed section that spans several source pages still lets later
+    chunks inside it report the page they actually start on — see
+    `_atomic_blocks` and the per-block page tracking in `chunk_document`.
+    `page_start` is kept as the section's own initial page (the fallback a
+    chunk gets if no later marker inside the section overrides it)."""
     sections: list[Section] = []
     stack: list[str] = []
     current = Section(heading_path=[], lines=[], page_start=None)
@@ -88,14 +96,14 @@ def split_sections(text: str, split_levels: int, junk: list[re.Pattern]) -> list
     for line in text.splitlines():
         if FENCE_RE.match(line):
             in_fence = not in_fence
-            current.lines.append(line)
+            current.lines.append((line, page))
             continue
 
         if not in_fence:
             m_page = PAGE_RE.search(line)
             if m_page:
                 page = int(m_page.group(1))
-                if current.page_start is None and not any(l.strip() for l in current.lines):
+                if current.page_start is None and not any(l.strip() for l, _p in current.lines):
                     current.page_start = page
 
             m = HEADING_RE.match(line)
@@ -106,10 +114,10 @@ def split_sections(text: str, split_levels: int, junk: list[re.Pattern]) -> list
                 # heading path — otherwise every ASI library stamp in the corpus
                 # would start a new section named "ACCESSION NO. 52987".
                 if not title or any(p.search(title) for p in junk):
-                    current.lines.append(line)
+                    current.lines.append((line, page))
                     continue
                 if level <= split_levels:
-                    if any(l.strip() for l in current.lines):
+                    if any(l.strip() for l, _p in current.lines):
                         sections.append(current)
                     stack = stack[: level - 1]
                     while len(stack) < level - 1:
@@ -118,42 +126,49 @@ def split_sections(text: str, split_levels: int, junk: list[re.Pattern]) -> list
                     current = Section(heading_path=[h for h in stack if h],
                                       lines=[], page_start=page)
                     continue
-        current.lines.append(line)
+        current.lines.append((line, page))
 
-    if any(l.strip() for l in current.lines):
+    if any(l.strip() for l, _p in current.lines):
         sections.append(current)
     return sections
 
 
-def _atomic_blocks(lines: list[str], keep_tables_whole: bool,
-                   attach_footnotes: bool) -> list[str]:
+def _atomic_blocks(lines: list[tuple[str, int | None]], keep_tables_whole: bool,
+                   attach_footnotes: bool) -> list[tuple[str, int | None]]:
     """Group lines into units that must not be split internally: fenced blocks,
-    contiguous table rows, and paragraphs (with their trailing footnotes)."""
-    blocks: list[str] = []
-    buf: list[str] = []
+    contiguous table rows, and paragraphs (with their trailing footnotes).
+
+    Returns (block_text, page) pairs, `page` being the page in force at the
+    block's own first line — the page it begins on. A block consisting only
+    of a `<!-- page N -->` marker carries no letters, so `has_content` drops
+    it as scaffolding (as before); the page it announced survives anyway,
+    tagged onto whichever line follows, because `page` is threaded in by
+    `split_sections` per line, not read back out of the block text here."""
+    blocks: list[tuple[str, int | None]] = []
+    buf: list[tuple[str, int | None]] = []
     in_fence = False
     in_table = False
 
     def flush() -> None:
-        if buf and any(l.strip() for l in buf):
-            block = "\n".join(buf).strip("\n")
-            if has_content(block):
-                blocks.append(block)
+        if buf and any(l.strip() for l, _p in buf):
+            text = "\n".join(l for l, _p in buf).strip("\n")
+            if has_content(text):
+                blocks.append((text, buf[0][1]))
         buf.clear()
 
-    for line in lines:
+    for line, page in lines:
         if FENCE_RE.match(line):
             if in_fence:
-                buf.append(line)
+                buf.append((line, page))
                 in_fence = False
                 flush()
             else:
                 flush()
                 in_fence = True
-                buf.append(line)
+                buf.append((line, page))
             continue
         if in_fence:
-            buf.append(line)
+            buf.append((line, page))
             continue
 
         is_row = bool(TABLE_ROW_RE.match(line)) and keep_tables_whole
@@ -169,9 +184,10 @@ def _atomic_blocks(lines: list[str], keep_tables_whole: bool,
             continue
         if attach_footnotes and FOOTNOTE_RE.match(line) and blocks and not buf:
             # A footnote line belongs with the passage above it, not alone.
-            blocks[-1] = blocks[-1] + "\n" + line
+            prev_text, prev_page = blocks[-1]
+            blocks[-1] = (prev_text + "\n" + line, prev_page)
             continue
-        buf.append(line)
+        buf.append((line, page))
 
     flush()
     return blocks
@@ -206,24 +222,36 @@ def chunk_document(text: str, *, book_title: str, source_path: str, cfg,
                                 bool(ck.get("attach_footnotes", True)))
         buf: list[str] = []
         buf_tokens = 0
-        for block in blocks:
+        # The page a freshly-started buf should report. Defaults to the
+        # section's own starting page; updated per block below so a section
+        # spanning several source pages still gives each chunk inside it the
+        # page it actually starts on, instead of freezing at the section's
+        # first page for every chunk in a long section (found 2026-10-12 on
+        # Jagta_Hua_Kasba_OCR_text.md: 3 headings for the whole book meant
+        # every one of ~400 chunks reported one of only 3 page numbers).
+        buf_page = sec.page_start
+        for block, block_page in blocks:
             btok = token_len(block)
             if btok > max_tok:
                 if buf:
-                    pieces.append(("\n\n".join(buf), sec.heading_path, sec.page_start))
+                    pieces.append(("\n\n".join(buf), sec.heading_path, buf_page))
                     buf, buf_tokens = [], 0
                 for part in recursive.split_text(block):
                     if part.strip():
-                        pieces.append((part, sec.heading_path, sec.page_start))
+                        pieces.append((part, sec.heading_path, block_page))
                 continue
             if buf_tokens + btok > target and buf:
-                pieces.append(("\n\n".join(buf), sec.heading_path, sec.page_start))
-                # Carry the tail of the previous chunk forward as overlap.
+                pieces.append(("\n\n".join(buf), sec.heading_path, buf_page))
+                # Carry the tail of the previous chunk forward as overlap. The
+                # tail is prior content, so it keeps reporting buf_page, not
+                # the incoming block's page, until buf is next emptied.
                 buf, buf_tokens = _overlap_tail(buf, overlap, token_len)
+            if not buf:
+                buf_page = block_page
             buf.append(block)
             buf_tokens += btok
         if buf:
-            pieces.append(("\n\n".join(buf), sec.heading_path, sec.page_start))
+            pieces.append(("\n\n".join(buf), sec.heading_path, buf_page))
 
     pieces = _merge_orphans(pieces, min_tok, max_tok, token_len)
 

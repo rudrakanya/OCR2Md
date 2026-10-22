@@ -1,0 +1,59 @@
+# config_chunk1500.yaml — ablation variant: larger chunks (~1500 tokens).
+# Everything else identical to config.yaml. Used only by evaluate.py's
+# --config ablation comparison; not the default config for ingest/query/tag.
+
+corpus_dir: "Udaipur Books Markdown files"
+
+chroma_dir: "./chroma_db"
+collection_name: "udaypur_corpus_chunk1500"
+sidecar_db: "./chroma_db/sidecar_chunk1500.sqlite3"
+
+books_manifest: "./books_manifest.yaml"
+chapters_file: "./chapters.yaml"
+
+chunking:
+  target_tokens: 1500
+  overlap_tokens: 225
+  min_tokens: 300
+  header_levels: [1, 2, 3]
+  keep_tables_intact: true
+
+embedding:
+  backend: mistral
+  model: mistral-embed
+  dimension: 1024
+  batch_size: 16
+  concurrency: 5
+  normalize: true
+
+distance_metric: cosine
+
+tagging:
+  top_n: 5
+  cutoff_method: percentile
+  cutoff_percentile: 90
+  min_absolute_cutoff: 0.15
+  llm_verification: false
+
+retrieval:
+  default_k: 10
+  hybrid: false
+  hybrid_weight_dense: 0.6
+  hybrid_weight_lexical: 0.4
+  rrf_k: 60
+
+language_detection:
+  method: heuristic
+
+pass_thresholds:
+  recall_at_10: 0.75
+  ndcg_at_10: 0.60
+  mrr: 0.55
+  precision_at_3: 0.40
+  chapter_tagging_precision: 0.30
+  max_hard_negative_violations: 0
+  p99_latency_ms: 3000
+
+logging:
+  log_dir: "./logs"
+  run_manifest: true

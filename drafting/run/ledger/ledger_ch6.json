@@ -1,0 +1,660 @@
+{
+ "chapter": 6,
+ "sections": {
+  "6.1": "The temple inscription of 1080",
+  "6.2": "The long inscription of V.S. 1116",
+  "6.3": "The Amērā tank inscription",
+  "6.4": "The Udaypur praśasti: the stones and the text",
+  "6.5": "Royal virtue in the praśasti",
+  "6.6": "The genealogy and its critics",
+  "6.7": "The conquests claimed",
+  "6.8": "The makers of Paramāra praśastis",
+  "6.9": "The serpent-sword inscription at Udaypur",
+  "6.10": "Serpent charts across the kingdom",
+  "6.11": "The halls of learning at Dhārā",
+  "6.12": "Bhoja as author",
+  "6.13": "Poets and scholars of the Paramāra courts",
+  "6.14": "Learning in the later kingdom",
+  "6.15": "The Nāgarī script and lettering",
+  "6.16": "The inscriptions of the temple porches",
+  "6.17": "Reading a Paramāra grant",
+  "6.18": "The porch records under Caulukya rule and under Devapāla, 1163–1232",
+  "6.19": "The last Paramāra records",
+  "6.20": "Persian on the temple's stones",
+  "6.21": "Inscriptions of the hill",
+  "6.22": "The limits of the record"
+ },
+ "through_line": "Udaypur's inscriptions as evidence of literate royal culture: the signed six lines of 1080; the faulty V.S. 1116 inscription kept apart (held, RR-1); Amērā's dated verse; the praśasti as object, self-portrait, genealogy and claimed conquests, and its lost maker; the serpent of letters and its fellows, Dhārā's halls, Bhoja's books and the courts' poets; the dating of letters; the porch archive under Caulukya then Paramāra masters; the last Paramāra traces; Persian from 1336; the hill's pilgrims and unread lines; the limits of the record, into Chapter 7.",
+ "people": [
+  {
+   "name": "Mahipāla",
+   "full_name": "Paṇḍita Mahipāla, son of Paṇḍita Śṛṅgavāsa",
+   "first_section": "6.1",
+   "role": "poet of the 1080 record"
+  },
+  {
+   "name": "Verma",
+   "full_name": "Santosh Kumar Verma",
+   "first_section": "6.1",
+   "role": "reader of the Udaypur inscriptions, via Tiwari"
+  },
+  {
+   "name": "Vikrama",
+   "full_name": "Vikrama, a Brāhmaṇa",
+   "first_section": "6.3",
+   "role": "builder of the Amērā tank"
+  },
+  {
+   "name": "Saumatika",
+   "full_name": "Saumatika",
+   "first_section": "6.3",
+   "role": "engraver of the Amērā record"
+  },
+  {
+   "name": "Vaidya",
+   "full_name": "C. V. Vaidya",
+   "first_section": "6.6",
+   "role": "critic of the praśasti's genealogy"
+  },
+  {
+   "name": "Chittapa",
+   "full_name": "Paṇḍita Chittapa, mahākavi-cakravartin",
+   "first_section": "6.13",
+   "role": "Bhoja's court poet; sun eulogy at Vidisha"
+  },
+  {
+   "name": "Śrīchandra",
+   "full_name": "Śrīchandra, daṇḍanāyaka",
+   "first_section": "6.13",
+   "role": "commissioned Chittapa's eulogy"
+  },
+  {
+   "name": "Padmagupta",
+   "full_name": "Padmagupta (Parimala)",
+   "first_section": "6.13",
+   "role": "court poet of Muñja and Sindhurāja"
+  },
+  {
+   "name": "Dhanapāla",
+   "full_name": "Dhanapāla",
+   "first_section": "6.13",
+   "role": "court poet of Bhoja"
+  },
+  {
+   "name": "Madana",
+   "full_name": "Madana, Bālasarasvatī",
+   "first_section": "6.14",
+   "role": "royal preceptor of Arjunavarman; Pārijātamañjarī"
+  },
+  {
+   "name": "Āśādhara",
+   "full_name": "Āśādhara",
+   "first_section": "6.14",
+   "role": "Jain teacher at Nalakacchapura"
+  },
+  {
+   "name": "Dhāmadeva",
+   "full_name": "Dhāmadeva",
+   "first_section": "6.18",
+   "role": "treasury officer of Devapāla; 1229 gift"
+  },
+  {
+   "name": "Ustonatha",
+   "full_name": "Ustonatha of Ranathabore",
+   "first_section": "6.21",
+   "role": "pilgrim, samvat 1696"
+  }
+ ],
+ "terms": [
+  {
+   "term": "svasti",
+   "gloss": "hail",
+   "first_section": "6.1"
+  },
+  {
+   "term": "anuṣṭubh",
+   "gloss": "common verse metre",
+   "first_section": "6.1"
+  },
+  {
+   "term": "nāgabandha / sarpabandha",
+   "gloss": "serpent-knot diagram",
+   "first_section": "6.9"
+  },
+  {
+   "term": "varṇanāgakṛpāṇikā",
+   "gloss": "serpentine scimitar of letters",
+   "first_section": "6.9"
+  },
+  {
+   "term": "Māheśvara-sūtras",
+   "gloss": "opening aphorisms of Pāṇini's grammar",
+   "first_section": "6.10"
+  },
+  {
+   "term": "mahākavi-cakravartin",
+   "gloss": "emperor of great poets",
+   "first_section": "6.13"
+  },
+  {
+   "term": "pratīhāra",
+   "gloss": "door-keeper (officer)",
+   "first_section": "6.17"
+  },
+  {
+   "term": "pañcakula",
+   "gloss": "council (of elders)",
+   "first_section": "6.17"
+  },
+  {
+   "term": "siddham",
+   "gloss": "sign: let there be success",
+   "first_section": "6.18"
+  },
+  {
+   "term": "mahāmudrā",
+   "gloss": "seal office (in the 1229 record)",
+   "first_section": "6.18"
+  },
+  {
+   "term": "prākāra",
+   "gloss": "outer parapet wall of the temple court",
+   "first_section": "6.9"
+  },
+  {
+   "term": "vedikā",
+   "gloss": "ornamental railing (balustrade)",
+   "first_section": "6.9"
+  },
+  {
+   "term": "siddhāsiputrikā",
+   "gloss": "unique magical sword (Ujjain verse, via Saarthak Singh)",
+   "first_section": "6.9"
+  },
+  {
+   "term": "karaṇa",
+   "gloss": "astronomical half-day (named only)",
+   "first_section": "6.1"
+  },
+  {
+   "term": "ravi-saṃkrānti",
+   "gloss": "the Sun's transit",
+   "first_section": "6.1"
+  },
+  {
+   "term": "gotra",
+   "gloss": "lineage (exogamous clan)",
+   "first_section": "6.3"
+  },
+  {
+   "term": "khaḍga",
+   "gloss": "sword",
+   "first_section": "6.4"
+  },
+  {
+   "term": "vasantatilakā",
+   "gloss": "metre",
+   "first_section": "6.4"
+  },
+  {
+   "term": "śālinī",
+   "gloss": "metre",
+   "first_section": "6.4"
+  },
+  {
+   "term": "śārdūlavikrīḍita",
+   "gloss": "metre",
+   "first_section": "6.3"
+  },
+  {
+   "term": "mandākrāntā",
+   "gloss": "metre",
+   "first_section": "6.4"
+  },
+  {
+   "term": "sragdharā",
+   "gloss": "metre",
+   "first_section": "6.3"
+  },
+  {
+   "term": "ālavāla",
+   "gloss": "basin (word split in v. 1)",
+   "first_section": "6.4"
+  },
+  {
+   "term": "kalpavalli",
+   "gloss": "wish-fulfilling creeper",
+   "first_section": "6.5"
+  },
+  {
+   "term": "kavirāja",
+   "gloss": "king of poets",
+   "first_section": "6.5"
+  },
+  {
+   "term": "Bhargabhakta",
+   "gloss": "worshipper of Śiva",
+   "first_section": "6.5"
+  },
+  {
+   "term": "gauḍī",
+   "gloss": "style suited to the heroic mood",
+   "first_section": "6.8"
+  },
+  {
+   "term": "kāyastha",
+   "gloss": "scribal family name, as in the source",
+   "first_section": "6.8"
+  },
+  {
+   "term": "lakāra",
+   "gloss": "tenses and moods",
+   "first_section": "6.10"
+  },
+  {
+   "term": "āryā",
+   "gloss": "metre",
+   "first_section": "6.11"
+  },
+  {
+   "term": "goṣṭhī",
+   "gloss": "assembly",
+   "first_section": "6.11"
+  },
+  {
+   "term": "daṇḍanāyaka",
+   "gloss": "officer (unglossed)",
+   "first_section": "6.13"
+  },
+  {
+   "term": "vaṇṭaka",
+   "gloss": "share",
+   "first_section": "6.17"
+  },
+  {
+   "term": "maṅgalaṃ mahāśrīḥ",
+   "gloss": "closing blessing",
+   "first_section": "6.17"
+  },
+  {
+   "term": "viśva",
+   "gloss": "a twentieth of a bighā (if the reading holds)",
+   "first_section": "6.18"
+  },
+  {
+   "term": "udakapūrvakam",
+   "gloss": "with water poured",
+   "first_section": "6.18"
+  },
+  {
+   "term": "silavata",
+   "gloss": "mason",
+   "first_section": "6.21"
+  }
+ ],
+ "places": [
+  {
+   "name": "Amērā",
+   "first_section": "6.3",
+   "note": "village about 3 km south of Udaypur; tank inscription V.S. 1151"
+  },
+  {
+   "name": "Bhojaśālā (Kamal Maula mosque), Dhār",
+   "first_section": "6.10",
+   "note": "serpent charts; stone library"
+  },
+  {
+   "name": "Shiv Pindi",
+   "first_section": "6.21",
+   "note": "pilgrims' records, Jain cave inscription"
+  }
+ ],
+ "figures": [
+  {
+   "what": "1080 record",
+   "value": "six lines; V.S. 1137 Vaiśākha śukla 7",
+   "keyword": "six lines",
+   "sections": [
+    "6.1"
+   ]
+  },
+  {
+   "what": "V.S. 1116 temple inscription",
+   "value": "22 lines (Verma); held RR-1",
+   "keyword": "twenty-two",
+   "sections": [
+    "6.2"
+   ]
+  },
+  {
+   "what": "Amērā record",
+   "value": "V.S. 1151; about 15 verses",
+   "keyword": "1151",
+   "sections": [
+    "6.3"
+   ]
+  },
+  {
+   "what": "praśasti slab 2",
+   "value": "27 lines, 62.5 × 53 cm",
+   "keyword": "twenty-seven",
+   "sections": [
+    "6.4"
+   ]
+  },
+  {
+   "what": "serpent endings",
+   "value": "21 nominal, 18 verbal",
+   "keyword": "twenty-one",
+   "sections": [
+    "6.9"
+   ]
+  },
+  {
+   "what": "porch records",
+   "value": "1163 (V.S. 1220), 1172 (V.S. 1229), 1229 (V.S. 1286), 1232 (V.S. 1289)",
+   "keyword": "1229",
+   "sections": [
+    "6.18"
+   ]
+  },
+  {
+   "what": "last Paramāra record",
+   "value": "V.S. 1366 (Ganguly's table 1309; text misprints 1909)",
+   "keyword": "1366",
+   "sections": [
+    "6.19"
+   ]
+  },
+  {
+   "what": "Persian mosque records",
+   "value": "A.H. 737–39 (1336–38); 1488; 1632",
+   "keyword": "1336",
+   "sections": [
+    "6.20"
+   ]
+  },
+  {
+   "what": "serpent slab at Udaypur",
+   "value": "pinkish sandstone, 70 cm high; outer parapet, south projection of the court; reset face-inward",
+   "keyword": "70 cm",
+   "sections": [
+    "6.9"
+   ]
+  },
+  {
+   "what": "writing beside the Udaypur serpent",
+   "value": "5 lines: 3 near the middle (unread) + 2 near the top (a verse)",
+   "keyword": "Five lines",
+   "sections": [
+    "6.9"
+   ]
+  },
+  {
+   "what": "Udaypur serpent base",
+   "value": "3 aspirates, no anusvāra (Ujjain base: 4, with anusvāra, per CII)",
+   "keyword": "three aspirates",
+   "sections": [
+    "6.9"
+   ]
+  },
+  {
+   "what": "Amērā slab",
+   "value": "95.5 × 78 cm; panel c. 60 × 53 cm; 24 lines; 23 June 1094 (V.S. 1151 expired)",
+   "keyword": "",
+   "sections": [
+    "6.3"
+   ]
+  },
+  {
+   "what": "Udaypur praśasti",
+   "value": "22 verses in nine metres + 10 syllables of v. 23",
+   "keyword": "",
+   "sections": [
+    "6.4"
+   ]
+  },
+  {
+   "what": "Nagpur praśasti slab",
+   "value": "139.5 × 84 cm; 40 lines + 1; 58 verses",
+   "keyword": "",
+   "sections": [
+    "6.8"
+   ]
+  },
+  {
+   "what": "Dhār charts",
+   "value": "A 70 × 30.5 cm; B 91.55 × 45 cm, 180 verb endings",
+   "keyword": "",
+   "sections": [
+    "6.10"
+   ]
+  },
+  {
+   "what": "Un chart",
+   "value": "field 138 × 90 cm; chart 80 × 61 cm",
+   "keyword": "",
+   "sections": [
+    "6.10"
+   ]
+  },
+  {
+   "what": "Vāgdevī image",
+   "value": "V.S. 1091 (1033–34)",
+   "keyword": "",
+   "sections": [
+    "6.11"
+   ]
+  },
+  {
+   "what": "Rājamṛgāṅka",
+   "value": "Śaka 964 (1042–43)",
+   "keyword": "",
+   "sections": [
+    "6.12"
+   ]
+  },
+  {
+   "what": "Māndhātā plates of Devapāla",
+   "value": "3 plates, 12.10 kg, 80 lines, 32 donees, August 1225",
+   "keyword": "",
+   "sections": [
+    "6.17"
+   ]
+  },
+  {
+   "what": "1229 pillar",
+   "value": "26 Oct or 2 Nov 1229, or 11 or 18 Oct 1230",
+   "keyword": "",
+   "sections": [
+    "6.18"
+   ]
+  },
+  {
+   "what": "Tughluq doorway inscriptions",
+   "value": "A.H. 737 and 739",
+   "keyword": "",
+   "sections": [
+    "6.20"
+   ]
+  },
+  {
+   "what": "hill pilgrim records",
+   "value": "Samvat 1696 Chaitra vadi 11 = 27 April 1639",
+   "keyword": "",
+   "sections": [
+    "6.21"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Is the 22-line V.S. 1116 inscription the INTACH six-block record, and what do the first editions read?",
+   "sections": [
+    "6.2"
+   ],
+   "status": "HELD RR-1"
+  },
+  {
+   "question": "Who composed the Udaypur praśasti?",
+   "sections": [
+    "6.8"
+   ],
+   "status": "unknown; name lost"
+  },
+  {
+   "question": "Teaching aids or royal emblems?",
+   "sections": [
+    "6.10"
+   ],
+   "status": "both views; emblem at Udaypur"
+  },
+  {
+   "question": "The V.S. 1311 and 1366 records",
+   "sections": [
+    "6.19"
+   ],
+   "status": "HELD RR-11, RR-23"
+  },
+  {
+   "question": "Udaypur serpent verse: what does –pālaḥ protect; the 3-line middle inscription is unread",
+   "sections": [
+    "6.9"
+   ],
+   "status": "open; needs a fresh reading of the slab"
+  },
+  {
+   "question": "The word siddhāsiputrikā and Ujjain ll. 24–26 rest on Sastri, EI XXXI (1960), known only through Saarthak Singh",
+   "sections": [
+    "6.9"
+   ],
+   "status": "needs Sastri's edition in the corpus"
+  },
+  {
+   "question": "Ujjain called identical, yet CII's Ujjain base has the anusvāra that the Udaypur base lacks",
+   "sections": [
+    "6.9"
+   ],
+   "status": "noted; not resolved"
+  },
+  {
+   "question": "Does the 22-line V.S. 1116 record share its text with the V.S. 1562 pedigree (same names, same paired years, same JAOS page)?",
+   "sections": [
+    "6.2"
+   ],
+   "status": "HELD RR-1"
+  },
+  {
+   "question": "Who found the first praśasti slab, and its size (CII p. 130 missing from OCR)",
+   "sections": [
+    "6.4"
+   ],
+   "status": "needs re-OCR of CII p. 130"
+  },
+  {
+   "question": "Verse numbering: Mahesh Singh v. 18/20 vs CII and Tiwari v. 19/21; CII prose v. 8 vs text v. 7 for Upendra",
+   "sections": [
+    "6.6–6.7"
+   ],
+   "status": "noted"
+  },
+  {
+   "question": "Hūṇa victory: v. 16 gives Sindhurāja; CII p. 45 says Sīyaka",
+   "sections": [
+    "6.7"
+   ],
+   "status": "noted"
+  },
+  {
+   "question": "Dhār verb chart: Kātantra or Chāndra",
+   "sections": [
+    "6.10"
+   ],
+   "status": "disputed"
+  },
+  {
+   "question": "Mandu hostel documents (Govinda Bhatta)",
+   "sections": [
+    "6.11"
+   ],
+   "status": "Tiwari only"
+  },
+  {
+   "question": "Devapāla Mahākumāra (Tiwari) vs Mahārāja (CII) in the 1229 record",
+   "sections": [
+    "6.18"
+   ],
+   "status": "CII followed"
+  },
+  {
+   "question": "Jayasiṃha II or III for the V.S. 1366 record",
+   "sections": [
+    "6.19"
+   ],
+   "status": "HELD RR-11"
+  },
+  {
+   "question": "INTACH inscription appendix (1522, 1632, 1730) garbled by OCR",
+   "sections": [
+    "6.20"
+   ],
+   "status": "needs re-OCR"
+  },
+  {
+   "question": "Are INTACH's two cave lines the survey's cave inscription?",
+   "sections": [
+    "6.21"
+   ],
+   "status": "kept apart"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "6.22",
+   "to": "Ch 7",
+   "what": "the dated mosques and the hill as buildings"
+  },
+  {
+   "from": "6.18",
+   "to": "Ch 10",
+   "what": "the political reading of the porch records"
+  },
+  {
+   "from": "6.17",
+   "to": "Ch 8",
+   "what": "the grants' land and economy"
+  },
+  {
+   "from": "6.20",
+   "to": "Ch 10",
+   "what": "damage and the Tughluq mosque"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "the signed text",
+   "sections": [
+    "6.1",
+    "6.3",
+    "6.8"
+   ]
+  },
+  {
+   "motif": "the king's name on learning",
+   "sections": [
+    "6.5",
+    "6.9",
+    "6.10",
+    "6.12"
+   ]
+  },
+  {
+   "motif": "known through others' readings",
+   "sections": [
+    "6.2",
+    "6.19",
+    "6.22"
+   ]
+  }
+ ]
+}

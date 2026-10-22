@@ -1,0 +1,699 @@
+{
+ "chapter": 2,
+ "title": "The Betwa Valley: Geography, Geology and Natural Environment",
+ "plan_file": "ch02_plan_v3.md",
+ "sections": [
+  {
+   "sec": "2.1",
+   "title": "Where the water runs, and where it does not",
+   "plan_title": "Where the water runs, and where it does not",
+   "target": 850,
+   "words": 595,
+   "statement": "By the end, the reader knows four things about the Betwa: - Udaypur belongs to the Betwa's country, the river of the inscriptions and of Bhilsa, the eastern centre of the Paramāra kingdom, but not to its banks; - the nearest stream is a tributary a kilometre off; - the upper river runs mainly in the rains; - the sandstone that gives the town its stone gives it wells that fail in summer. So Udaypur's water had to be held.",
+   "transition": "What the river would not give, the monsoon gave once a year.",
+   "paras": [
+    {
+     "n": 1,
+     "body_ids": [
+      "C01-KB-GANGULY-016",
+      "C02-CII-001",
+      "C02-CII-002",
+      "C02-KB-GANGULY-002",
+      "C02-KB-MADHYABHARAT-001",
+      "C02-KB-PARTEMPLES-001"
+     ],
+     "note_ids": [],
+     "first": "In the Paramāra inscriptions the Betwa appears as the Vētravatī, the river that flows by Vidisha and the city of Bhilsa.",
+     "last": "In the third quarter of the twelfth century Udayapur lay in the Bhāillasvāmi-mahādvādaśaka, the province of Bhilsa.",
+     "words": 120,
+     "plan_match": "P1",
+     "match_score": 0.75,
+     "plan_title": "The river of the inscriptions",
+     "plan_point": "Introduce the Vētravatī as the inscriptions' river, flowing by Vidisha/Bhilsa with the ancient city in the fork, and Bhilsa as the eastern limit and later the name of the province (Bhāillasvāmi-mahādvādaśaka) in which a record of the early 1170s, under Caulukya rule, places Udayapura (R4, U1). Political geography is setting only. The river served the great city, not this village.",
+     "roles": {
+      "C01-KB-GANGULY-016": "E",
+      "C02-CII-001": "E",
+      "C02-CII-002": "E",
+      "C02-KB-GANGULY-002": "E",
+      "C02-KB-MADHYABHARAT-001": "E",
+      "C02-KB-PARTEMPLES-001": "C"
+     }
+    },
+    {
+     "n": 2,
+     "body_ids": [
+      "C02-GAZ-001",
+      "C02-GAZ-002",
+      "C02-GAZ-003",
+      "C02-GEOHER-001",
+      "C02-GEOHER-002"
+     ],
+     "note_ids": [],
+     "first": "The Betwa rises in the main Vindhyan range in the far south-west of Raisen district and, after a course of 96 km, enters Vidisha district 6 km south of Vidisha.",
+     "last": "No river runs through the village itself.",
+     "words": 125,
+     "plan_match": "P2",
+     "match_score": 0.62,
+     "plan_title": "Udaypur's margin",
+     "plan_point": "Place the village in the drainage: - the Betwa's course from Raisen; - the district's northward slope; - the Kewtan, 1.8 km from Shiva Pindi and 1 km from the village. The survey nevertheless counts Udaypur's as a landscape without rivers. What mattered here was whether a stream could be relied on, not how far away it was.",
+     "roles": {
+      "C02-GAZ-001": "C",
+      "C02-GAZ-002": "C",
+      "C02-GAZ-003": "C",
+      "C02-GEOHER-001": "E",
+      "C02-GEOHER-002": "E"
+     }
+    },
+    {
+     "n": 3,
+     "body_ids": [
+      "C02-BETWA-CLIM-001",
+      "C02-BETWA-CLIM-004",
+      "C02-BETWA-FLOW-002",
+      "C02-BETWA-FLOW-003",
+      "C02-KB-BETWA-FLOW-001"
+     ],
+     "note_ids": [],
+     "first": "In its present regime the Betwa is largely intermittent along its upper course and becomes perennial only in the last 85 km of a 590 km course, before it meets the Yamuna.",
+     "last": "Near its source, such a river offers little to rely on in the dry months.",
+     "words": 110,
+     "plan_match": "P3",
+     "match_score": 0.67,
+     "plan_title": "A river of the rains",
+     "plan_point": "In its present regime the upper Betwa is intermittent until its last 85 km, rising in June and falling after September, with most of its runoff in the monsoon. Near its source it cannot carry a settlement through the dry months. Keep it brief; the rains themselves are 2.2's subject.",
+     "roles": {
+      "C02-BETWA-CLIM-001": "C",
+      "C02-BETWA-CLIM-004": "C",
+      "C02-BETWA-FLOW-002": "E",
+      "C02-BETWA-FLOW-003": "E",
+      "C02-KB-BETWA-FLOW-001": "E"
+     }
+    },
+    {
+     "n": 4,
+     "body_ids": [
+      "C02-GAZ-053",
+      "C02-GEOHER-003",
+      "C02-KB-GAZ-004",
+      "C02-KB-GAZ-010",
+      "C02-KB-GAZ-011"
+     ],
+     "note_ids": [],
+     "first": "Groundwater offers little more security.",
+     "last": "In the villages the gram panchayats and Development Blocks arranged drinking water by constructing new wells and repairing old ones.",
+     "words": 127,
+     "plan_match": "P4",
+     "match_score": 0.83,
+     "plan_title": "Wells that fail in summer",
+     "plan_point": "In the Vindhyan sandstone around Udaypur, wells generally dry up in summer with water more than 15 m down. Only Vidisha draws a piped supply from the Betwa. The rock that gives the town its building stone withholds dependable groundwater.",
+     "roles": {
+      "C02-GAZ-053": "E",
+      "C02-GEOHER-003": "E",
+      "C02-KB-GAZ-004": "E",
+      "C02-KB-GAZ-010": "C",
+      "C02-KB-GAZ-011": "C"
+     }
+    },
+    {
+     "n": 5,
+     "body_ids": [
+      "C02-GEOHER-001",
+      "C02-GEOHER-028"
+     ],
+     "note_ids": [],
+     "first": "Udaypur’s water lies instead in lakes and ponds formed in natural depressions of the ground.",
+     "last": "With the river low outside the rains and the wells of the sandstone failing in summer, what these hollows hold after the monsoon matters to village and fields alike.",
+     "words": 109,
+     "plan_match": "P5",
+     "match_score": 1.0,
+     "plan_title": "Water held in the hollows",
+     "plan_point": "Udaypur's water lies in the depressions around it, and its streets drain towards the fields, so village and farmland depend on water held from one monsoon to the next. This is the hinge to the rains (2.2) and to the tanks (2.4). Deliver it once.",
+     "roles": {
+      "C02-GEOHER-001": "E",
+      "C02-GEOHER-028": "E"
+     }
+    }
+   ],
+   "unmatched_plan": [],
+   "missing_E": [],
+   "added": []
+  },
+  {
+   "sec": "2.2",
+   "title": "The rains and the farming year",
+   "plan_title": "The rains and the farming year",
+   "target": 850,
+   "words": 595,
+   "statement": "By the end, the reader knows that the year's water arrives in four months, that bad years come in runs, and that the black soil, the wells and the tanks carry the winter crop. Udaypur's farming year is built on water held from the rains. The modern climate trend appears only in a note.",
+   "transition": "Where the rain gathers or runs off is decided by the rock beneath it.",
+   "paras": [
+    {
+     "n": 1,
+     "body_ids": [
+      "C02-BETWA-CLIM-004",
+      "C02-GAZ-014",
+      "C02-GAZ-015",
+      "C02-GAZ-016",
+      "C02-GAZ-021",
+      "C02-GAZ-022"
+     ],
+     "note_ids": [],
+     "first": "In the district’s record as it stood in 1979, about 92 per cent of an average year’s 1,229.9 mm of rain fell in the four monsoon months from June to September, July the wettest of them.",
+     "last": "Over the Betwa basin as a whole, the water lost each year to evaporation, about 1,830 mm on average, is greater than the average rainfall of 1,138 mm.",
+     "words": 127,
+     "plan_match": "P1",
+     "match_score": 0.71,
+     "plan_title": "Four wet months",
+     "plan_point": "About 92 per cent of the rain falls in June–September and evaporation exceeds rainfall, so the year's supply is decided in one season. The heat of May, the end of the dry season, is a clause, not a paragraph. Date-stamp the 1979 Gazetteer here.",
+     "roles": {
+      "C02-BETWA-CLIM-004": "E",
+      "C02-GAZ-014": "C",
+      "C02-GAZ-015": "E",
+      "C02-GAZ-016": "E",
+      "C02-GAZ-021": "C",
+      "C02-GAZ-022": "C"
+     }
+    },
+    {
+     "n": 2,
+     "body_ids": [
+      "C02-GAZ-017",
+      "C02-GAZ-018",
+      "C02-GAZ-019",
+      "C02-GAZ-023"
+     ],
+     "note_ids": [],
+     "first": "In the fifty years from 1901 to 1950 the district’s rainfall ranged from 50 per cent of normal in 1905 to 149 per cent in 1948.",
+     "last": "Rain that does come may come at once: on 31 July 1951 Basoda received 360.2 mm in twenty-four hours, the heaviest fall recorded in a day at any station in the district.",
+     "words": 113,
+     "plan_match": "P2",
+     "match_score": 0.8,
+     "plan_title": "Bad years in runs",
+     "plan_point": "Low rainfall has come in runs at Vidisha and Basoda, and the famine of 1899–1900 shows how far one season can fall short. A store has to outlast more than one weak monsoon.",
+     "roles": {
+      "C02-GAZ-017": "E",
+      "C02-GAZ-018": "E",
+      "C02-GAZ-019": "E",
+      "C02-GAZ-023": "C"
+     }
+    },
+    {
+     "n": 3,
+     "body_ids": [
+      "C02-GAZ-013",
+      "C02-GAZ-040",
+      "C02-GEOHER-027",
+      "C02-KB-GAZ-005",
+      "C02-KB-GAZ-006",
+      "C02-KB-GAZ-007",
+      "C02-KB-GAZ-013",
+      "C02-KB-GAZ-014"
+     ],
+     "note_ids": [],
+     "first": "What the rain leaves in the ground depends on the soil.",
+     "last": "At the time of the 1979 compilation, wells irrigated land in Basoda tahsil among others, and the district’s tanks watered fields either by cultivation of their beds or by canals led out of them.",
+     "words": 274,
+     "plan_match": "P3",
+     "match_score": 0.8,
+     "plan_title": "Black soil and two crops",
+     "plan_point": "Udaypur's ground is three-quarters black cotton soil and a quarter red-yellow soil from sandstone and shale. The black soil holds moisture and is \"very good for wheat\". The kharif is 90 per cent rain-fed but the rabi only 34 per cent, so the winter crop leans on held water: in the soil, the wells and the tanks.",
+     "roles": {
+      "C02-GAZ-013": "C",
+      "C02-GAZ-040": "E",
+      "C02-GEOHER-027": "E",
+      "C02-KB-GAZ-005": "E",
+      "C02-KB-GAZ-006": "E",
+      "C02-KB-GAZ-007": "E",
+      "C02-KB-GAZ-013": "C",
+      "C02-KB-GAZ-014": "C"
+     }
+    },
+    {
+     "n": 4,
+     "body_ids": [
+      "C02-GAZ-045",
+      "C02-GAZ-046",
+      "C02-GAZ-047",
+      "C02-GAZ-052"
+     ],
+     "note_ids": [
+      "C02-BETWA-CLIM-007",
+      "C02-BETWA-CLIM-011",
+      "C02-BETWA-FLOW-004",
+      "C02-BETWA-FLOW-006",
+      "C02-KB-BETWA-FLOW-002"
+     ],
+     "first": "The richest cultivated tract of Vidisha tahsil is the *doab* enclosed by the Bah to the north and the Betwa to the south, and the whole central tract owes its wealth to river silt.",
+     "last": "Whether any such silt reaches Udaypur’s foothill ground, the records do not say.",
+     "words": 73,
+     "plan_match": "P4",
+     "match_score": 0.9,
+     "plan_title": "Without a doab",
+     "plan_point": "The district's best land lies where two rivers enclose it, in the doab of the Bah and the Betwa. Udaypur shares the black soil but not that advantage, so its harvest depends on the water it holds. The modern rainfall trend and the upper catchment's drying go in one note: what the present regime implies, never a claim about the eleventh century.",
+     "roles": {
+      "C02-BETWA-CLIM-007": "Note",
+      "C02-BETWA-CLIM-011": "Note",
+      "C02-BETWA-FLOW-004": "Note",
+      "C02-BETWA-FLOW-006": "Note",
+      "C02-GAZ-045": "E",
+      "C02-GAZ-046": "E",
+      "C02-GAZ-047": "E",
+      "C02-GAZ-052": "C",
+      "C02-KB-BETWA-FLOW-002": "Note"
+     }
+    }
+   ],
+   "unmatched_plan": [],
+   "missing_E": [],
+   "added": []
+  },
+  {
+   "sec": "2.3",
+   "title": "A seam of stone",
+   "plan_title": "A seam of stone",
+   "target": 900,
+   "words": 633,
+   "statement": "By the end, the reader sees the hill as geology turned into history. Udaypur sits where erosion stripped the trap from bedded sandstone. The temple's sandstone was quarried in the hill close by. The hills are remnants of a wasting tableland, dry on top and hollowed by caves. The thin forest on the slopes has long been grazed and cut by the village.",
+   "transition": "Of all this land offered, the town took its stone; its water it had to make.",
+   "paras": [
+    {
+     "n": 1,
+     "body_ids": [
+      "C02-GAZ-007",
+      "C02-GEOHER-005",
+      "C02-GEOHER-006",
+      "C02-KB-GAZ-008",
+      "C02-KB-GAZ-009"
+     ],
+     "note_ids": [],
+     "first": "Udaypur lies in the eastern part of the Vindhyan range, on ground between 340 and 480 m above sea level, with an average of 410 m.",
+     "last": "Udaypur and Gyaraspur lie among the foothills on its western side.",
+     "words": 99,
+     "plan_match": "P1",
+     "match_score": 0.83,
+     "plan_title": "A village on the tableland",
+     "plan_point": "Place Udaypur on the uneven, north-sloping tableland of the Vindhyan spurs, in the western foothills of the Garhi–Teonda range, at 340–480 m (mean 410 m). It sits above the river valleys that drain it. Describe the setting without saying it determined anything.",
+     "roles": {
+      "C02-GAZ-007": "E",
+      "C02-GEOHER-005": "E",
+      "C02-GEOHER-006": "C",
+      "C02-KB-GAZ-008": "E",
+      "C02-KB-GAZ-009": "E"
+     }
+    },
+    {
+     "n": 2,
+     "body_ids": [
+      "C02-GAZ-008",
+      "C02-GAZ-010",
+      "C02-GAZ-042",
+      "C02-GAZ-050",
+      "C02-GEOHER-013",
+      "C02-PANDE-001"
+     ],
+     "note_ids": [
+      "C02-MADHYABHARAT-003"
+     ],
+     "first": "Along this range the rock changes.",
+     "last": "Across the district, the upper Vindhyan sandstones make excellent building material and are cut on a large scale, and the buildings of Vidisha, Gyaraspur and many other places show their use from an early period.",
+     "words": 127,
+     "plan_match": "P2",
+     "match_score": 0.78,
+     "plan_title": "The seam and the temple's stone",
+     "plan_point": "- Erosion stripped the Deccan trap, which covers most of the district, from this range and left sandstone and limestone at the surface around Udaypur. - The temple is built of hard red sandstone quarried in the hill close by (the item is passive: no builders or quarrymen as subject). - The same Vindhyan sandstone built Vidisha and Gyaraspur and makes the northern region rich in monuments. The geology that sets the village apart from the trap country put the founder's building stone within reach. People chose the stone; the rock did not choose for them.",
+     "roles": {
+      "C02-GAZ-008": "E",
+      "C02-GAZ-010": "E",
+      "C02-GAZ-042": "C",
+      "C02-GAZ-050": "C",
+      "C02-GEOHER-013": "C",
+      "C02-MADHYABHARAT-003": "C",
+      "C02-PANDE-001": "E"
+     }
+    },
+    {
+     "n": 3,
+     "body_ids": [
+      "C02-GEOHER-007",
+      "C02-GEOHER-008",
+      "C02-GEOHER-009",
+      "C02-GEOHER-010",
+      "C02-GEOHER-011",
+      "C02-GEOHER-012",
+      "C02-GEOHER-014",
+      "C02-GEOHER-015",
+      "C02-GEOHER-016",
+      "C02-KB-GEOHER-008",
+      "C02-KB-GEOHER-009",
+      "C02-KB-GEOHER-010"
+     ],
+     "note_ids": [
+      "C02-GEOHER-005",
+      "C02-GEOHER-020"
+     ],
+     "first": "The hills on Udaypur’s skyline have been read as stages in the wasting of a sandstone tableland.",
+     "last": "The hill could give stone and shelter.",
+     "words": 236,
+     "plan_match": "P3",
+     "match_score": 0.81,
+     "plan_title": "Remnants of a tableland",
+     "plan_point": "In the survey's model, the hills on Udaypur's skyline are stages in the decay of a sandstone tableland: a two-storey mesa wearing down to a butte, as hard caprock breaks back over weaker beds. Water carved the caves and gullies but does not stay on the heights, whose valleys are dry and without channels. The hill offers stone and shelter, not supply. Give one figure per height; the rises above the plain go in a note.",
+     "roles": {
+      "C02-GEOHER-005": "Note",
+      "C02-GEOHER-007": "C",
+      "C02-GEOHER-008": "E",
+      "C02-GEOHER-009": "E",
+      "C02-GEOHER-010": "E",
+      "C02-GEOHER-011": "C",
+      "C02-GEOHER-012": "C",
+      "C02-GEOHER-014": "C",
+      "C02-GEOHER-015": "C",
+      "C02-GEOHER-016": "E",
+      "C02-GEOHER-020": "X",
+      "C02-KB-GEOHER-008": "X",
+      "C02-KB-GEOHER-009": "X",
+      "C02-KB-GEOHER-010": "C"
+     }
+    },
+    {
+     "n": 4,
+     "body_ids": [
+      "C02-GAZ-012",
+      "C02-GAZ-027",
+      "C02-GAZ-030",
+      "C02-GAZ-037",
+      "C02-GEOHER-019",
+      "C02-GEOHER-021",
+      "C02-KB-GEOHER-012"
+     ],
+     "note_ids": [],
+     "first": "Forest grows on its slopes.",
+     "last": "It is now covered with dense *van tulsī* and local grasses, among trees such as neem, bel, tamarind and palash, and grazing and illegal felling have left its plant cover much disturbed.",
+     "words": 167,
+     "plan_match": "P4",
+     "match_score": 0.58,
+     "plan_title": "Forest on the slopes",
+     "plan_point": "Woodland in the district keeps to the hill ranges and slopes, and on sandstone it is poor and shallow-soiled. The hill's present cover is disturbed by grazing and illegal felling: partly the village's own work, a forest used for timber, fuel and pasture. Leave wildlife out (Chapter 12). Tiwari's description of the fort hill in teak and grass may be used, naming Vijay Manohar Tiwari in full if this is the chapter's first mention.",
+     "roles": {
+      "C02-GAZ-012": "E",
+      "C02-GAZ-027": "E",
+      "C02-GAZ-030": "C",
+      "C02-GAZ-037": "C",
+      "C02-GEOHER-019": "C",
+      "C02-GEOHER-021": "E",
+      "C02-KB-GEOHER-012": "X"
+     }
+    }
+   ],
+   "unmatched_plan": [],
+   "missing_E": [
+    "C02-GEOHER-003"
+   ],
+   "added": []
+  },
+  {
+   "sec": "2.4",
+   "title": "Water made by kings and villagers",
+   "plan_title": "Water made by kings and villagers",
+   "target": 900,
+   "words": 632,
+   "statement": "By the end, the reader knows that storing water against the dry months was Paramāra practice. Bhoja's dam on the Betwa and his temple at Bhojpur are brief comparative evidence of it, as is the dynasty's habit of pairing temple and reservoir. The treatise the dynasty is credited with (its attribution doubted) prescribes such water as a norm. At Udaypur, town, temple and tank shared one name, and tanks, kunds and stepwells were sorted by use. The tanks are treated at landscape level; their detail is in Chapter 7.",
+   "transition": "The water was made; the town that held it was cut from its own hill.",
+   "paras": [
+    {
+     "n": 1,
+     "body_ids": [
+      "C02-BHOJA-TIMES-001",
+      "C02-BHOJA-TIMES-002",
+      "C02-GANGULY-001",
+      "C02-KB-BHOJA-TIMES-001",
+      "C02-RAJABHOJ-EN-003"
+     ],
+     "note_ids": [
+      "C02-BHOJA-TIMES-005",
+      "C02-KB-JAGTA-EN-001",
+      "C02-RAJABHOJ-EN-001"
+     ],
+     "first": "Holding water against the dry months was already Paramāra practice, and on a vast scale.",
+     "last": "The great lake did not last: a sultan of Mandu later had the dam breached and the lake emptied.",
+     "words": 147,
+     "plan_match": "P1",
+     "match_score": 0.73,
+     "plan_title": "Bhoja's lake",
+     "plan_point": "Bhoja's dam on the Betwa near Bhojpur held a lake of about 250 square miles, fed through the dry months from an auxiliary tank, and he built other tanks at Dhārā and elsewhere. Storing water against the dry season was already Paramāra practice on a vast scale. Keep it brief and comparative. The breach dispute goes in a note; popular accounts are attributed.",
+     "roles": {
+      "C02-BHOJA-TIMES-001": "E",
+      "C02-BHOJA-TIMES-002": "C",
+      "C02-BHOJA-TIMES-005": "Note",
+      "C02-GANGULY-001": "E",
+      "C02-KB-BHOJA-TIMES-001": "C",
+      "C02-KB-JAGTA-EN-001": "Note",
+      "C02-RAJABHOJ-EN-001": "Note",
+      "C02-RAJABHOJ-EN-003": "E"
+     }
+    },
+    {
+     "n": 2,
+     "body_ids": [
+      "C02-BHOJDEV-HI-002",
+      "C02-BHOJDEV-HI-004",
+      "C02-BHOJDEV-HI-005"
+     ],
+     "note_ids": [
+      "C02-KB-RAJABHOJ-EN-002",
+      "C02-KB-SAMAR-1-001"
+     ],
+     "first": "The dynasty’s learning set water among the first conditions of a town.",
+     "last": "A country of distant water and black soil shares some of the marks the treatise gives to *jāṅgala*.",
+     "words": 143,
+     "plan_match": "P2",
+     "match_score": 1.0,
+     "plan_title": "What the treatise asks of a site",
+     "plan_point": "The treatise credited to Bhoja (an attribution doubted: he may have been a general editor at most, per the note) classes dry country as *jāṅgala* and asks for stable sweet water, tanks and stepwells. These are norms, not a record of why Udaypur was chosen. A place without a perennial river could meet them only if its water was made.",
+     "roles": {
+      "C02-BHOJDEV-HI-002": "E",
+      "C02-BHOJDEV-HI-004": "E",
+      "C02-BHOJDEV-HI-005": "E",
+      "C02-KB-RAJABHOJ-EN-002": "Note",
+      "C02-KB-SAMAR-1-001": "Note"
+     }
+    },
+    {
+     "n": 3,
+     "body_ids": [
+      "C02-GEOHER-029",
+      "C02-KB-GAZ-012",
+      "C02-KB-GEOHER-001",
+      "C02-KB-GEOHER-002",
+      "C02-KB-GEOHER-003",
+      "C02-KB-GEOHER-005",
+      "C02-KB-GEOHER-007",
+      "C02-KB-GEOHER-018",
+      "C02-KB-INTACH-001",
+      "C02-KB-MADHYABHARAT-003"
+     ],
+     "note_ids": [],
+     "first": "At Udaypur, the dynasty’s own record ties the digging of a tank to the founding itself.",
+     "last": "One natural water body, the Bhujariya Talab beside a working quarry on the south-eastern outskirts, differs markedly in build from the Udaysagar and is tentatively dated before Udayāditya’s time.",
+     "words": 342,
+     "plan_match": "P3",
+     "match_score": 0.67,
+     "plan_title": "Udaypur's made water",
+     "plan_point": "At landscape level, set out the made water: - the tank below; - the inhabited mound and temple above; - kunds on the hilltop; - stepwells and baolis filled in the rains for year-round use; - the Bhujariya Talab, older than the Udaysagar, beside a live quarry. The water was sorted by use: tank water for fields and washing, groundwater for drinking. Several structures are undated, so the point is the pattern, not its first date. Detail is left to Chapter 7.",
+     "roles": {
+      "C02-GEOHER-029": "E",
+      "C02-KB-GAZ-012": "C",
+      "C02-KB-GEOHER-001": "E",
+      "C02-KB-GEOHER-002": "C",
+      "C02-KB-GEOHER-003": "C",
+      "C02-KB-GEOHER-005": "E",
+      "C02-KB-GEOHER-007": "C",
+      "C02-KB-GEOHER-018": "C",
+      "C02-KB-INTACH-001": "C",
+      "C02-KB-MADHYABHARAT-003": "C"
+     }
+    }
+   ],
+   "unmatched_plan": [],
+   "missing_E": [
+    "C02-GEOHER-028"
+   ],
+   "added": []
+  },
+  {
+   "sec": "2.5",
+   "title": "A town of its own stone",
+   "plan_title": "A town of its own stone",
+   "target": 500,
+   "words": 153,
+   "statement": "By the end, the reader sees the continuity of stone. The temple, the dry-masonry houses, the shops built without cement and today's quarries all come from the hill, and the quarrying that made the town now presses on the land around it. The chapter closes on the setting a founder found: what it allowed, and what it did not decide. Others had used this country long before (Chapter 3).",
+   "transition": "Chapter 3 turns to the people who used this country before Udaypur.",
+   "paras": [
+    {
+     "n": 1,
+     "body_ids": [
+      "C02-JAGTA-EN-001",
+      "C02-JAGTA-EN-002",
+      "C02-JAGTA-EN-003",
+      "C02-JAGTA-HI-004",
+      "C02-KB-GEOHER-006",
+      "C02-PANDE-001"
+     ],
+     "note_ids": [],
+     "first": "Udaypur was built from the ground it stands on.",
+     "last": "Some of the quarrying is unlawful: a ground report by Govind Saxena found illegal quarries working on forest-department land and taking out stone daily.",
+     "words": 112,
+     "plan_match": "P1",
+     "match_score": 1.0,
+     "plan_title": "Built of its own hill",
+     "plan_point": "From the temple to dry-masonry houses, cement-less shops and today's quarries, much of them illegal on forest land, Udaypur has been built from its own stone. The stone that made the town is now the pressure on its land. People act only where items describe them (a ground report on illegal quarrying; the stone cut and sent abroad); no invented builders or quarrymen.",
+     "roles": {
+      "C02-JAGTA-EN-001": "E",
+      "C02-JAGTA-EN-002": "E",
+      "C02-JAGTA-EN-003": "C",
+      "C02-JAGTA-HI-004": "C",
+      "C02-KB-GEOHER-006": "E",
+      "C02-PANDE-001": "C"
+     }
+    },
+    {
+     "n": 2,
+     "body_ids": [],
+     "note_ids": [],
+     "first": "The ground offers stone at hand and rain that can be held.",
+     "last": "It does not decide who settles on it, or when, or why; and whether anyone had used it before Udaypur had its name, the ground itself does not say.",
+     "words": 41,
+     "plan_match": null,
+     "match_score": 0.0,
+     "roles": {}
+    }
+   ],
+   "unmatched_plan": [
+    {
+     "p": "P2",
+     "title": "The setting a founder found",
+     "point": "Close the chapter on what the land made possible (stone at hand, rain to be held, black soil for wheat) and what it did not decide: who came, when, and why. Lead into Chapter 3 by content: this country was used long before Udaypur had a name. No new facts; recall cited ones briefly."
+    }
+   ],
+   "missing_E": [
+    "C02-GEOHER-001",
+    "C02-GEOHER-003",
+    "C02-GEOHER-027"
+   ],
+   "added": []
+  }
+ ],
+ "opening": "In the Paramāra inscriptions the Betwa appears as the Vētravatī, the river that flows by Vidisha and the city of Bhilsa.",
+ "closing": "It does not decide who settles on it, or when, or why; and whether anyone had used it before Udaypur had its name, the ground itself does not say.",
+ "opening_para": "In the Paramāra inscriptions the Betwa appears as the Vētravatī, the river that flows by Vidisha and the city of Bhilsa.",
+ "all_ids": [
+  "C01-KB-GANGULY-016",
+  "C02-BETWA-CLIM-001",
+  "C02-BETWA-CLIM-004",
+  "C02-BETWA-CLIM-007",
+  "C02-BETWA-CLIM-011",
+  "C02-BETWA-FLOW-002",
+  "C02-BETWA-FLOW-003",
+  "C02-BETWA-FLOW-004",
+  "C02-BETWA-FLOW-006",
+  "C02-BHOJA-TIMES-001",
+  "C02-BHOJA-TIMES-002",
+  "C02-BHOJA-TIMES-005",
+  "C02-BHOJDEV-HI-002",
+  "C02-BHOJDEV-HI-004",
+  "C02-BHOJDEV-HI-005",
+  "C02-CII-001",
+  "C02-CII-002",
+  "C02-GANGULY-001",
+  "C02-GAZ-001",
+  "C02-GAZ-002",
+  "C02-GAZ-003",
+  "C02-GAZ-007",
+  "C02-GAZ-008",
+  "C02-GAZ-010",
+  "C02-GAZ-012",
+  "C02-GAZ-013",
+  "C02-GAZ-014",
+  "C02-GAZ-015",
+  "C02-GAZ-016",
+  "C02-GAZ-017",
+  "C02-GAZ-018",
+  "C02-GAZ-019",
+  "C02-GAZ-021",
+  "C02-GAZ-022",
+  "C02-GAZ-023",
+  "C02-GAZ-027",
+  "C02-GAZ-030",
+  "C02-GAZ-037",
+  "C02-GAZ-040",
+  "C02-GAZ-042",
+  "C02-GAZ-045",
+  "C02-GAZ-046",
+  "C02-GAZ-047",
+  "C02-GAZ-050",
+  "C02-GAZ-052",
+  "C02-GAZ-053",
+  "C02-GEOHER-001",
+  "C02-GEOHER-002",
+  "C02-GEOHER-003",
+  "C02-GEOHER-005",
+  "C02-GEOHER-006",
+  "C02-GEOHER-007",
+  "C02-GEOHER-008",
+  "C02-GEOHER-009",
+  "C02-GEOHER-010",
+  "C02-GEOHER-011",
+  "C02-GEOHER-012",
+  "C02-GEOHER-013",
+  "C02-GEOHER-014",
+  "C02-GEOHER-015",
+  "C02-GEOHER-016",
+  "C02-GEOHER-019",
+  "C02-GEOHER-020",
+  "C02-GEOHER-021",
+  "C02-GEOHER-027",
+  "C02-GEOHER-028",
+  "C02-GEOHER-029",
+  "C02-JAGTA-EN-001",
+  "C02-JAGTA-EN-002",
+  "C02-JAGTA-EN-003",
+  "C02-JAGTA-HI-004",
+  "C02-KB-BETWA-FLOW-001",
+  "C02-KB-BETWA-FLOW-002",
+  "C02-KB-BHOJA-TIMES-001",
+  "C02-KB-GANGULY-002",
+  "C02-KB-GAZ-004",
+  "C02-KB-GAZ-005",
+  "C02-KB-GAZ-006",
+  "C02-KB-GAZ-007",
+  "C02-KB-GAZ-008",
+  "C02-KB-GAZ-009",
+  "C02-KB-GAZ-010",
+  "C02-KB-GAZ-011",
+  "C02-KB-GAZ-012",
+  "C02-KB-GAZ-013",
+  "C02-KB-GAZ-014",
+  "C02-KB-GEOHER-001",
+  "C02-KB-GEOHER-002",
+  "C02-KB-GEOHER-003",
+  "C02-KB-GEOHER-005",
+  "C02-KB-GEOHER-006",
+  "C02-KB-GEOHER-007",
+  "C02-KB-GEOHER-008",
+  "C02-KB-GEOHER-009",
+  "C02-KB-GEOHER-010",
+  "C02-KB-GEOHER-012",
+  "C02-KB-GEOHER-018",
+  "C02-KB-INTACH-001",
+  "C02-KB-JAGTA-EN-001",
+  "C02-KB-MADHYABHARAT-001",
+  "C02-KB-MADHYABHARAT-003",
+  "C02-KB-PARTEMPLES-001",
+  "C02-KB-RAJABHOJ-EN-002",
+  "C02-KB-SAMAR-1-001",
+  "C02-MADHYABHARAT-003",
+  "C02-PANDE-001",
+  "C02-RAJABHOJ-EN-001",
+  "C02-RAJABHOJ-EN-003"
+ ]
+}

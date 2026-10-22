@@ -1,0 +1,25 @@
+{"c":"29eba5f548","keep":true,"items":[{"unit":"C08","sub":"S3","type":"inscription","strength":"contextual","span":[21,22],"note":"Quoted inscription: a gift of lands to a devadasi and her successors, free of taxation, plus daily temple food; example of temple land grants (south India)."}]}
+{"c":"6435006b16","keep":false,"reject_reason":"devadasi legends from south India and polemic; no bearing on any unit"}
+{"c":"cb17528e5d","keep":false,"reject_reason":"Madras devadasi legislation; off-topic"}
+{"c":"4f87e1cbbf","keep":false,"reject_reason":"Bharatanatyam history and polemic; off-topic"}
+{"c":"21bc633aaa","keep":false,"reject_reason":"Kalakshetra polemic; off-topic"}
+{"c":"cad593915c","keep":false,"reject_reason":"devadasis, mridangam and conversion in Madras Presidency; off-topic"}
+{"c":"1995aeccd7","keep":false,"reject_reason":"polemic about dancers; off-topic"}
+{"c":"0166814fa4","keep":false,"reject_reason":"reading list and a boat-ritual excerpt from Banaras; off-topic"}
+{"c":"6ecb1b14c7","keep":false,"reject_reason":"table of Varanasi temple construction and destruction; other town"}
+{"c":"7a29332270","keep":false,"reject_reason":"Varanasi (Gyanvapi) material; other town"}
+{"c":"05a98865ca","keep":false,"reject_reason":"Varanasi fight-back list; other town"}
+{"c":"8e91da4024","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[6,8],"note":"A Hoysala king in 1279 donated a village with a stated revenue to pay a pilgrim tax and for worship at Visvesvara, Varanasi; example of royal temple endowment elsewhere."}]}
+{"c":"301df9305c","keep":false,"reject_reason":"Varanasi Visveswara temple history; other town"}
+{"c":"f4b01e372b","keep":false,"reject_reason":"Varanasi Ramlila; other town"}
+{"c":"4d6a3e1443","keep":false,"reject_reason":"Varanasi akharas; other town"}
+{"c":"0bc5028bd3","keep":false,"reject_reason":"Varanasi education history; other town"}
+{"c":"744288d790","keep":false,"reject_reason":"Varanasi education history; other town"}
+{"c":"5e11ec6b1b","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[5,6],"note":"Princes gave employment to pandits, agricultural land and houses to scholars, and set up chhatras with free food; patronage example from Varanasi, not Udaypur."}]}
+{"c":"3111f8502c","keep":false,"reject_reason":"Varanasi Sanskrit college and missionaries; off-topic"}
+{"c":"f05b194676","keep":true,"items":[{"unit":"C08","sub":"S5","type":"quote","strength":"contextual","span":[15,16],"note":"Birdwood (1880): images in metal, wood, stone and clay are made by carpenters, masons, potters, braziers and goldsmiths, not a separate caste; general craft-and-temple background (Benares)."}]}
+{"c":"1b643341b7","keep":false,"reject_reason":"Varanasi bazaar description and polemic; off-topic"}
+{"c":"c277197ac6","keep":false,"reject_reason":"polemic on loss of temples; no specific usable evidence"}
+{"c":"8c3a948c59","keep":false,"reject_reason":"polemic framework table; off-topic"}
+{"c":"ad14f8a795","keep":false,"reject_reason":"cattle breeds and Jallikattu; off-topic"}
+{"c":"a1bd4f5c21","keep":false,"reject_reason":"Jallikattu economics; off-topic"}

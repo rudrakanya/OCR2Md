@@ -1,0 +1,25 @@
+{"c":"ad4adce4aa","keep":false,"reject_reason":"Sanskrit verses on house defects (gṛhadoṣa); domestic timber/omen rules, no bearing on any unit"}
+{"c":"651cb626ae","keep":false,"reject_reason":"house-defect verses on vital points and omens; no bearing on any unit"}
+{"c":"1bb46d3b39","keep":false,"reject_reason":"house-defect verses on inauspicious trees; generic"}
+{"c":"5e441aaa1a","keep":false,"reject_reason":"house-defect verses and chapter colophon in garbled OCR; generic domestic omens"}
+{"c":"b47a5e2964","keep":false,"reject_reason":"Hindi translation of house-site omens (soil, months); generic, no temple/town bearing"}
+{"c":"6f9d0413ec","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[6,7],"xref":["C04"],"note":"Prescription that in a town the prāsāda-temple be built before the dwellings (vāstu); canonical rule on temple precedence in town planning.","gloss":"In the town, build the prāsāda-temple before the (other) vāstu dwellings."}]}
+{"c": "2327639630", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "quote", "strength": "contextual", "span": [8, 8], "gloss": "If a hall lacks an alinda (verandah) in front, behind or beside, it is not good in a house but is praiseworthy in a devālaya (temple).", "note": "Canonical (Samarāṅgaṇa-derived) rule distinguishing house and temple halls: an alinda-less śālā is 'praiseworthy in a devālaya'. Restored after a checker-crash workaround (QC follow-up)."}]}
+{"c":"4b2ef4e1f1","keep":false,"reject_reason":"house-defect rules on road-piercing; generic domestic"}
+{"c":"563d13e5c6","keep":false,"reject_reason":"house entrance types and their omens; generic domestic"}
+{"c":"3d340d3c08","keep":false,"reject_reason":"house hall (śālā) defect omens; generic domestic"}
+{"c":"348d98d224","keep":false,"reject_reason":"house defect omens; generic domestic"}
+{"c":"af8329568c","keep":false,"reject_reason":"wall projection omens; generic domestic"}
+{"c":"f9bdb1ba32","keep":false,"reject_reason":"house shape and doorway omens; generic domestic"}
+{"c":"af3d87dfa1","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[1,1],"note":"Material taken from another vāstu must not be used in a prāsāda (temple), or worship will not take place there.","gloss":"Material removed from one site must not be used in another; in such a prāsāda (temple) no worship occurs, and no householder dwells in such a house."},{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[4,7],"note":"Defines the shadow of a prāsāda's śikhara as 'dhvaja-chāyā' and treats sunrise tree/flag shadows as censurable.","gloss":"Tree-shadow and flag-shadow at sunrise are condemned; crossing the door they cause hunger, illness, quarrels. The shadow of a prāsāda's spire is called flag-shadow."}]}
+{"c":"38ac202e69","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[3,3],"note":"Images of condemned episodes from itihāsa-purāṇa are not desirable in houses but are proper in temples; canonical prescription on temple imagery.","gloss":"Images (pictures/sculptures) of censured episodes from history and purāṇa are not desirable in houses; in temples they are proper."}]}
+{"c":"6d54d01f8d","keep":false,"reject_reason":"garbled duplicate of page 115 text; OCR too damaged to quote"}
+{"c":"5553f241c2","keep":false,"reject_reason":"house storey/door omens; generic domestic"}
+{"c":"5652932477","keep":false,"reject_reason":"door piercing omens; generic domestic"}
+{"c":"c744aaace4","keep":false,"reject_reason":"door defect omens, damaged OCR; generic domestic"}
+{"c":"e4bf84c2df","keep":false,"reject_reason":"house beam/post omens; generic domestic"}
+{"c":"fc43d34eb5","keep":false,"reject_reason":"timber selection rules for houses; generic"}
+{"c":"4716b911fa","keep":false,"reject_reason":"trees to avoid and vital-point omens; generic domestic"}
+{"c":"5b99709616","keep":false,"reject_reason":"vital-point omens; generic domestic"}
+{"c":"58310cdfaf","keep":false,"reject_reason":"house omens; generic domestic"}
+{"c":"4312803a52","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[5,5],"xref":["C04"],"note":"Colophon attributes the Gṛhadoṣanirūpaṇa chapter of the Samarāṅgaṇasūtradhāra vāstuśāstra to Mahārājādhirāja Śrī Bhojadeva.","gloss":"Thus ends the chapter 'Exposition of house defects' in the vāstu-śāstra Samarāṅgaṇasūtradhāra, composed by Mahārājādhirāja Śrī Bhojadeva."}]}

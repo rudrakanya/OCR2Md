@@ -1,0 +1,327 @@
+{
+  "run_id": "20261009-182935",
+  "benchmark_file": "eval\\benchmark_passages_v1.yaml",
+  "benchmark_sha256": "237d10d1b7cd0ea391049973700ee7d7f0d81d4193febe3e95d72f75a635831c",
+  "collection": "udaypur_corpus_openai_large",
+  "collection_count": 5862,
+  "embedding_model": "text-embedding-3-large",
+  "config_hash": "d3ffab5bb3b5",
+  "n_queries": 12,
+  "k_values": [
+    3,
+    5,
+    10
+  ],
+  "runs": {
+    "dense only": {
+      "summary": {
+        "EvR@3": 0.45,
+        "EvR@5": 0.45,
+        "EvR@10": 0.45,
+        "MRR": 0.3,
+        "n_eligible": 10,
+        "n_unanswerable_or_no_evidence": 2
+      },
+      "per_query": [
+        {
+          "id": "PL-01",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "Jagta_Hua_Kasba_EN.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 2,
+          "RR": 0.5
+        },
+        {
+          "id": "PL-02",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "A_serpentine_scimitar_of_letters_from_Ud.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 2,
+          "RR": 0.5
+        },
+        {
+          "id": "PL-03",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "History of Paramara Dynasty DC Ganguly.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 2,
+          "RR": 0.5
+        },
+        {
+          "id": "PL-04",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "History of Paramara Dynasty DC Ganguly.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-05",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "Jagta_Hua_Kasba_EN.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-06",
+          "answerable": false,
+          "n_groups": 0,
+          "top_book": "Jagta_Hua_Kasba_EN.md",
+          "EvR@3": null,
+          "EvR@5": null,
+          "EvR@10": null,
+          "first_rank": null,
+          "RR": null
+        },
+        {
+          "id": "PL-07",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "bhojdev.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-08",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "Geo-Heritage of Udaypur The Third Eye.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "PL-09",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-10",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "The Hindu Temple Vol 1 Stella Kramrisch.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-11",
+          "answerable": false,
+          "n_groups": 0,
+          "top_book": "Vidisha Gazeteer.md",
+          "EvR@3": null,
+          "EvR@5": null,
+          "EvR@10": null,
+          "first_rank": null,
+          "RR": null
+        },
+        {
+          "id": "PL-12",
+          "answerable": true,
+          "n_groups": 2,
+          "top_book": "Vidisha Gazeteer.md",
+          "EvR@3": 0.5,
+          "EvR@5": 0.5,
+          "EvR@10": 0.5,
+          "first_rank": 2,
+          "RR": 0.5
+        }
+      ]
+    },
+    "hybrid (dense+BM25, RRF)": {
+      "summary": {
+        "EvR@3": 0.4,
+        "EvR@5": 0.5,
+        "EvR@10": 0.6,
+        "MRR": 0.39166666666666666,
+        "n_eligible": 10,
+        "n_unanswerable_or_no_evidence": 2
+      },
+      "per_query": [
+        {
+          "id": "PL-01",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "The cultural heritage of madhya bharat.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "PL-02",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "A_serpentine_scimitar_of_letters_from_Ud.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 2,
+          "RR": 0.5
+        },
+        {
+          "id": "PL-03",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "The cultural heritage of madhya bharat.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "PL-04",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "Some Paramara Templess.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-05",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "A_serpentine_scimitar_of_letters_from_Ud.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-06",
+          "answerable": false,
+          "n_groups": 0,
+          "top_book": "Jagta_Hua_Kasba_EN.md",
+          "EvR@3": null,
+          "EvR@5": null,
+          "EvR@10": null,
+          "first_rank": null,
+          "RR": null
+        },
+        {
+          "id": "PL-07",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "bhojdev.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "PL-08",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "Geo-Heritage of Udaypur The Third Eye.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "PL-09",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 4,
+          "RR": 0.25
+        },
+        {
+          "id": "PL-10",
+          "answerable": true,
+          "n_groups": 1,
+          "top_book": "The Udayesvara Temple - Anupa Pande.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 1.0,
+          "first_rank": 6,
+          "RR": 0.16666666666666666
+        },
+        {
+          "id": "PL-11",
+          "answerable": false,
+          "n_groups": 0,
+          "top_book": "Vidisha Gazeteer.md",
+          "EvR@3": null,
+          "EvR@5": null,
+          "EvR@10": null,
+          "first_rank": null,
+          "RR": null
+        },
+        {
+          "id": "PL-12",
+          "answerable": true,
+          "n_groups": 2,
+          "top_book": "The Hindu Temple Vol 1 Stella Kramrisch.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        }
+      ]
+    }
+  },
+  "comparison": {
+    "hybrid_wins": [
+      "PL-09",
+      "PL-10"
+    ],
+    "hybrid_losses": [
+      "PL-12"
+    ],
+    "ties": [
+      "PL-01",
+      "PL-02",
+      "PL-03",
+      "PL-04",
+      "PL-05",
+      "PL-07",
+      "PL-08"
+    ],
+    "n_a": [
+      "PL-06",
+      "PL-11"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{"c":"d352df90ff","keep":false,"reject_reason":"generic women's training/parda discussion for Bhoja-era India; no bearing on Udaypur units"}
+{"c":"7634dba240","keep":false,"reject_reason":"generic parda/veil discussion from Sanchi and Ajanta; no bearing on any unit"}
+{"c":"2b0a236553","keep":false,"reject_reason":"widow remarriage/sati footnotes and garbled OCR; generic"}
+{"c":"400534c762","keep":false,"reject_reason":"generic sati and prostitution discussion for the period; not specific to Udaypur or any unit"}
+{"c":"1ecffca418","keep":false,"reject_reason":"generic prostitution and prohibited-food rules from Alberuni; no specific bearing on any unit"}
+{"c":"f7e221797f","keep":true,"items":[{"unit":"C09","sub":"S5","type":"fact","strength":"contextual","span":[16,22],"note":"Summary of customary diet of the period (rice, wheat, pulses, vegetables, sweets, milk preparations; meat eaten but vegetarianism growing) as general background for food"}]}
+{"c":"728173b87e","keep":true,"items":[{"unit":"C09","sub":"S5","type":"fact","strength":"contextual","span":[18,23],"note":"Bhoja's Yuktikalpataru mentions wine-drinking vessels; author infers drinking was common in the period's cities"}]}
+{"c":"0dc38c2441","keep":false,"reject_reason":"generic dress and bodice discussion; no bearing on any unit"}
+{"c":"91cf4ef11d","keep":false,"reject_reason":"generic sari styles and stitched clothes; no bearing on any unit"}
+{"c":"2828ded874","keep":false,"reject_reason":"generic stitched clothing discussion; no bearing on any unit"}
+{"c":"ee447e5a13","keep":true,"items":[{"unit":"C09","sub":"S5","type":"fact","strength":"contextual","span":[53,56],"note":"Bhoja's Yuktikalpataru describes embroidery, woollen, cotton and silk clothes, evidencing fashion among the rich; little is known of the poor's dress"}]}
+{"c":"a974f55223","keep":false,"reject_reason":"generic shoes, coiffure and cosmetics notes; no bearing on any unit"}
+{"c":"7ffe94cb3f","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[90,94],"note":"Sculptures of the Gahadavala, Chandela, Kalachuri and Paramara dynasties tally closely in the ornaments they depict"}]}
+{"c":"9f5440aaae","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[43,46],"note":"Author thinks Paramara sculptors, like Gahadavala, Kalachuri and Chandela ones, depict only two bangles on each hand"}]}
+{"c":"a9ff3faf48","keep":true,"items":[{"unit":"C06","sub":"S4","type":"fact","strength":"contextual","span":[1,4],"note":"Madana's drama Parijatamanjari was first acted at the spring festival in the city of Dhara, showing court literary and theatrical culture"},{"unit":"C08","sub":"S2","type":"fact","strength":"contextual","span":[42,44],"note":"Dancers thronged temple courtyards and palaces; Bhoja's palace plan includes a dancing hall and theatre"}]}
+{"c":"c6e9dec736","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[1,4],"note":"Natesvara temple scene of Siva dancing on a bull, and Ganesa dancing, cited as parallels for dance imagery in temple sculpture"},{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[10,13],"note":"Dancing Siva appears in niches of early Chedi temples; dancing damsels and surasundaris common in sculptures of the age"}]}
+{"c":"84867dcdf0","keep":false,"reject_reason":"generic music, instruments and games; no bearing on any unit"}
+{"c":"12db378c7d","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02-C13"}
+{"c":"8577fdff71","keep":false,"reject_reason":"generic suicide vows and standard-of-living anecdotes; no bearing on any unit"}
+{"c":"1398591b6c","keep":true,"items":[{"unit":"C07","sub":"S5","type":"fact","strength":"contextual","span":[4,9],"note":"Manasollasa prescribes the plan of a king's residence (one to nine storeys, white-washed, latticed passages, ivory fencing, pillars of gold or sandal-wood) as background for palaces"}]}
+{"c":"1bff5c8965","keep":false,"reject_reason":"generic statements on agriculture and sources; no Udaypur bearing"}
+{"c":"54d4962510","keep":false,"reject_reason":"footnotes and land-type lists only; generic"}
+{"c":"574030482a","keep":false,"reject_reason":"generic land terminology in grants (kshetra, khila, aprahata); no Udaypur bearing"}
+{"c":"336a9010a8","keep":true,"items":[{"unit":"C08","sub":"S4","type":"fact","strength":"contextual","span":[95,100],"note":"Small-scale irrigation works appear in contemporary records, done by private persons or government; tanks, lakes and wells regarded as meritorious"}]}
+{"c":"35c419caf2","keep":true,"items":[{"unit":"C07","sub":"S4","type":"fact","strength":"contextual","span":[19,24],"note":"Stepped wells known in the period (example at Patna built by Rani-Udayamati); doubtful whether they served irrigation"}]}

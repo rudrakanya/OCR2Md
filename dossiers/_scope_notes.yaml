@@ -1,0 +1,92 @@
+# dossiers/_scope_notes.yaml — machine-readable per-chapter scope notes,
+# extracted from dossiers/_scope_boundaries.md's prose table so gen_outline.py
+# can feed each chapter's boundary directly into its outline prompt and
+# rendered output. Edit THIS file if you edit _scope_boundaries.md -- they
+# are not auto-synced.
+
+C01: >-
+  Owns the town's own textual/scriptural memory -- Puranic mentions,
+  place-name etymology. Written/literary tradition specifically about this
+  place. Hands off to C15 for oral/folk (non-scriptural) tradition about the
+  town.
+C02: >-
+  Owns hydrology/climate (Betwa/Vetravati river system, monsoon, discharge).
+  No significant cross-chapter overlap identified.
+C03: >-
+  Owns geology, flora, fauna, landscape. See-also (not a hard boundary):
+  C13's agriculture section may reference this chapter's soil-profile
+  findings for context; this chapter should not itself discuss agricultural
+  use of that soil.
+C04: >-
+  Owns material, archaeological prehistory of the broader Vidisha region
+  (palaeolithic/chalcolithic record, Besnagar) -- evidence BEFORE and
+  INDEPENDENT of any textual tradition. Hands off to C05 once organized
+  dynastic polities appear.
+C05: >-
+  Owns regional political evolution (Avanti to Malwa, pre-Paramara
+  dynasties, trade routes, sacred cities) -- the centuries between C04's
+  prehistory and C06's Paramaras specifically. Receives from C04; hands off
+  to C06 once the Paramaras themselves are the subject, and to C16 for the
+  post-Paramara decline that follows.
+C06: >-
+  Owns Paramara dynastic succession, court culture, and Bhoja's reign as a
+  POLITICAL/DYNASTIC narrative -- the world Udayaditya inherited. Does NOT
+  own the specific founding act (C07's) or the temple's architecture (C08's).
+C07: >-
+  Owns the founding EVENT itself: who, when, why, and the inscriptional
+  record of it (the Udaypur Prashasti's naming and dates). Does not analyze
+  the temple's architectural style in technical depth (C08's) or re-litigate
+  dynastic politics (C06's).
+C08: >-
+  Owns the temple's structural/architectural form (plan, courtyard,
+  gateways, Bhumija/Nagara sikhara, typology). Assumes the founding (C07) as
+  settled fact, cited briefly if needed, not re-argued. Does not cover
+  sculpture/iconography (C09's) or inscriptions as texts (C10's). Clean
+  split from C11 (built heritage) -- no overlap.
+C09: >-
+  Owns sculptural and iconographic content: which deities, what attributes,
+  what the imagery means. Hands off to C08 for structural context and to
+  C12 for the deeper ritual/philosophical meaning behind a depicted deity
+  or symbol.
+C10: >-
+  Owns epigraphy as a discipline: script, paleography, the serpentine
+  scimitar inscription, translation and dating cruxes. Other chapters
+  (C06, C07) may cite an inscription's CONTENT briefly for a historical
+  claim without re-doing this chapter's epigraphic analysis.
+C11: >-
+  Owns other built structures' EXISTENCE and historical/architectural
+  description (forts, mosques, shrines, stepwells) -- excludes the main
+  temple entirely. C17 owns the SAME structures' conservation status
+  specifically; a structure can appear in both, but this chapter should not
+  narrate conservation history.
+C12: >-
+  Owns the intellectual/ritual/philosophical thought-world (Saiva
+  Siddhanta, tantra, worship practice) as ideas and practice. Hands off to
+  C09 for the visual/sculptural representation of a given deity or symbol.
+C13: >-
+  Owns economic activity: agriculture, irrigation, trade, land grants,
+  temple endowments. May reference C03's soil/geology for context (see C03's
+  note) but is the owner of agricultural discussion itself.
+C14: >-
+  Owns social/demographic composition: castes, languages, everyday life --
+  distinct from C13's economic activity and C12's belief/practice.
+C15: >-
+  Owns oral/folk tradition specifically -- festivals, legends, myths -- as
+  content, distinct from C01's written/scriptural tradition and C18's
+  present-day register.
+C16: >-
+  Owns post-Paramara decline: invasions, Malwa Sultanate, medieval
+  disruption. Receives from C05; hands off to C17 for modern/institutional
+  history.
+C17: >-
+  Owns institutional/legal history of site protection: ASI, heritage law,
+  INTACH surveys, post-Independence. Receives from C16. Also owns
+  conservation status specifically for structures C11 catalogs by existence.
+C18: >-
+  Owns the town's present-day lived experience (anchored on Jagta Hua
+  Kasba) -- local, oral, contemporary register. Receives from C17; hands
+  off to AW for forward-looking challenges.
+AW: >-
+  Owns present-day conservation struggles and recommendations --
+  forward-looking, recommendation register, not narrative history. Receives
+  from C18.

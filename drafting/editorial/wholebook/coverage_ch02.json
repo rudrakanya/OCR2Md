@@ -1,0 +1,621 @@
+{
+ "unit": "02",
+ "direct": 146,
+ "totals": {
+  "assigned": 68,
+  "excluded": 67,
+  "cross-reference": 11
+ },
+ "by_sub": {
+  "S1": {
+   "assigned": 17,
+   "excluded": 7
+  },
+  "S2": {
+   "excluded": 7,
+   "assigned": 18,
+   "cross-reference": 2
+  },
+  "S3": {
+   "assigned": 11,
+   "excluded": 22
+  },
+  "S4": {
+   "assigned": 6,
+   "excluded": 7,
+   "cross-reference": 8
+  },
+  "S5": {
+   "assigned": 16,
+   "excluded": 24,
+   "cross-reference": 1
+  }
+ },
+ "status": {
+  "C02-GAZ-001": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-002": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-003": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-004": [
+   "excluded",
+   "the Kethan's course and a modern irrigation tank; stream names kept separate (RR-38); §2.1 uses the Kewtan from the survey"
+  ],
+  "C02-GAZ-005": [
+   "excluded",
+   "the Nion and the Keotan, district streams; §2.1 names the Betwa's tributaries from C02-GAZ-001/-003; stream names kept separate (RR-38)"
+  ],
+  "C02-GAZ-006": [
+   "excluded",
+   "the district's latitude and shape; no Udaypur bearing"
+  ],
+  "C02-GAZ-007": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-008": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-009": [
+   "excluded",
+   "the district's geological formations (alluvium, laterite, trap); §2.3 carries Udaypur's own rock from the survey and C02 items"
+  ],
+  "C02-GAZ-010": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-011": [
+   "excluded",
+   "district seismicity; no Udaypur bearing"
+  ],
+  "C02-GAZ-012": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-013": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-014": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-015": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-016": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-017": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-018": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-019": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-020": [
+   "excluded",
+   "district humidity; §2.2 keeps to rainfall and season"
+  ],
+  "C02-GAZ-021": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-022": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-024": [
+   "excluded",
+   "rainfall frequency table, 1901–50; §2.2 states the range and runs from C02 items"
+  ],
+  "C02-GAZ-025": [
+   "excluded",
+   "monthly rainfall table, 1951–60; not needed; §2.2 gives the record's summary"
+  ],
+  "C02-GAZ-026": [
+   "excluded",
+   "monthly rainfall table (continuation); not needed"
+  ],
+  "C02-GAZ-027": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-028": [
+   "excluded",
+   "khair forests of the Sironj and Lateri ranges; another part of the district; §2.3 uses the Gyaraspur range"
+  ],
+  "C02-GAZ-029": [
+   "excluded",
+   "bamboo in the Lateri and Sironj ranges; another part of the district"
+  ],
+  "C02-GAZ-030": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-031": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C02-GAZ-032": [
+   "excluded",
+   "grass reserves of the Sironj and Lateri ranges; another part of the district"
+  ],
+  "C02-GAZ-033": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C02-GAZ-034": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C02-GAZ-035": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C02-GAZ-036": [
+   "excluded",
+   "district fish fauna; the wildlife is Ch 12's, and no item ties these fish to Udaypur"
+  ],
+  "C02-GAZ-037": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-038": [
+   "excluded",
+   "a list of tree species (district appendix); §2.3 names Udaypur's trees from the survey"
+  ],
+  "C02-GAZ-039": [
+   "excluded",
+   "a list of grasses (district appendix); not needed"
+  ],
+  "C02-GAZ-040": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-041": [
+   "excluded",
+   "generality (\"inexhaustible reserves of building materials\"); §2.3 carries the sandstone from specific items"
+  ],
+  "C02-GAZ-042": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-043": [
+   "excluded",
+   "groundwater in the trap country; §2.1 gives the district's two groundwater regimes from C02-GAZ-053; the sandstone, not the trap, is Udaypur's"
+  ],
+  "C02-GAZ-044": [
+   "excluded",
+   "laterite iron ore for indigenous furnaces (district); no Udaypur bearing; Ch 8's trades use Udaypur items"
+  ],
+  "C02-GAZ-045": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-046": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-047": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-048": [
+   "excluded",
+   "the use of sandstone at Bhilsa and Gyaraspur; §2.3 quotes the same statement from another item"
+  ],
+  "C02-GAZ-049": [
+   "excluded",
+   "minor minerals and quarries (district); §2.5 carries Udaypur's quarries"
+  ],
+  "C02-GAZ-050": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-051": [
+   "excluded",
+   "the district economy and its rabi crops; §2.2 states the rabi predominance from C02 items"
+  ],
+  "C02-GAZ-052": [
+   "assigned",
+   "C"
+  ],
+  "C02-GAZ-053": [
+   "assigned",
+   "E"
+  ],
+  "C02-GAZ-054": [
+   "excluded",
+   "ancient canal on the Bes at Besnagar (Kham Baba site); Besnagar, not Udaypur; Ch 3's Vidisha is told from its own map"
+  ],
+  "C02-GAZ-055": [
+   "excluded",
+   "a gneiss fort in another town of the district; compatibility is not identity (R6)"
+  ],
+  "C02-GAZ-056": [
+   "excluded",
+   "land-utilisation table (district); not needed"
+  ],
+  "C02-GAZ-057": [
+   "excluded",
+   "land-utilisation table (continuation); not needed"
+  ],
+  "C02-GAZ-058": [
+   "excluded",
+   "irrigation projects table (district); not needed"
+  ],
+  "C02-GAZ-059": [
+   "excluded",
+   "irrigation projects table (continuation); no Udaypur entry"
+  ],
+  "C02-GAZ-060": [
+   "excluded",
+   "irrigation projects table (continuation); no Udaypur entry"
+  ],
+  "C02-GEOHER-001": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-002": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-003": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-004": [
+   "excluded",
+   "the survey's statement of its own aims; no evidence"
+  ],
+  "C02-GEOHER-005": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-006": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-007": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-008": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-009": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-010": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-011": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-012": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-013": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-014": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-015": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-016": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-017": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C02-GEOHER-018": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C02-GEOHER-019": [
+   "assigned",
+   "C"
+  ],
+  "C02-GEOHER-020": [
+   "assigned",
+   "X"
+  ],
+  "C02-GEOHER-021": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-022": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C02-GEOHER-023": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C02-GEOHER-024": [
+   "cross-reference",
+   "ch07"
+  ],
+  "C02-GEOHER-025": [
+   "cross-reference",
+   "ch07"
+  ],
+  "C02-GEOHER-026": [
+   "excluded",
+   "amalaka, slab and pillar fragments of red and white sandstone on the hilltop; home §7.2 (the hill's sculpture and fragments), carried there by Ch 7 items"
+  ],
+  "C02-GEOHER-027": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-028": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-029": [
+   "assigned",
+   "E"
+  ],
+  "C02-GEOHER-030": [
+   "cross-reference",
+   "ch07"
+  ],
+  "C02-BETWA-CLIM-001": [
+   "assigned",
+   "C"
+  ],
+  "C02-BETWA-CLIM-002": [
+   "excluded",
+   "basin temperature trends by station; §2.2's note gives the basin finding from C02-BETWA-CLIM-001/-004"
+  ],
+  "C02-BETWA-CLIM-003": [
+   "excluded",
+   "basin precipitation trends by station; the note gives the basin-level finding (no significant trend)"
+  ],
+  "C02-BETWA-CLIM-004": [
+   "assigned",
+   "E"
+  ],
+  "C02-BETWA-CLIM-005": [
+   "excluded",
+   "the study's season definitions; method, not evidence"
+  ],
+  "C02-BETWA-CLIM-006": [
+   "excluded",
+   "rainy-day trends by station; not needed"
+  ],
+  "C02-BETWA-CLIM-007": [
+   "assigned",
+   "Note"
+  ],
+  "C02-BETWA-CLIM-008": [
+   "excluded",
+   "winter rainy-day trends by station; not needed"
+  ],
+  "C02-BETWA-CLIM-009": [
+   "excluded",
+   "rainy-day trends for the basin, and the onset of monsoon; not needed for Ch 2; the present regime only"
+  ],
+  "C02-BETWA-CLIM-010": [
+   "excluded",
+   "temperature persistence by station; not needed"
+  ],
+  "C02-BETWA-CLIM-011": [
+   "assigned",
+   "Note"
+  ],
+  "C02-BETWA-CLIM-012": [
+   "excluded",
+   "winter temperature persistence by station; not needed"
+  ],
+  "C02-BETWA-CLIM-013": [
+   "excluded",
+   "near-duplicate of C02-BETWA-CLIM-011"
+  ],
+  "C02-BETWA-CLIM-014": [
+   "excluded",
+   "onset of monsoon at Shivpuri and Tikamgarh; other stations"
+  ],
+  "C02-BETWA-CLIM-015": [
+   "excluded",
+   "temperature rise and its effect; the note carries the finding from C02-BETWA-CLIM-004"
+  ],
+  "C02-BETWA-CLIM-016": [
+   "excluded",
+   "summer rainfall and crop productivity; the note carries the rabi risk from C02-KB items"
+  ],
+  "C02-BETWA-CLIM-017": [
+   "excluded",
+   "rainy-day trends at other stations; not needed"
+  ],
+  "C02-BETWA-CLIM-018": [
+   "excluded",
+   "the basin as underdeveloped and famine-prone (modern study); §2.2 states the famines from the Gazetteer"
+  ],
+  "C02-BETWA-CLIM-019": [
+   "excluded",
+   "crop timing at Tikamgarh and Shivpuri; other stations"
+  ],
+  "C02-BETWA-CLIM-020": [
+   "excluded",
+   "onset of monsoon at Tikamgarh and Shivpuri; other stations"
+  ],
+  "C02-BETWA-FLOW-001": [
+   "excluded",
+   "the 16% fall in monsoon streamflow; §2.2's note carries it from C02-KB-BETWA-FLOW-001"
+  ],
+  "C02-BETWA-FLOW-002": [
+   "assigned",
+   "E"
+  ],
+  "C02-BETWA-FLOW-003": [
+   "assigned",
+   "E"
+  ],
+  "C02-BETWA-FLOW-004": [
+   "assigned",
+   "Note"
+  ],
+  "C02-BETWA-FLOW-005": [
+   "excluded",
+   "annual flow figures 1982–2020; the note gives the summary finding"
+  ],
+  "C02-BETWA-FLOW-006": [
+   "assigned",
+   "Note"
+  ],
+  "C02-BETWA-FLOW-007": [
+   "excluded",
+   "catchment elevations; §2.3 gives Udaypur's own heights"
+  ],
+  "C02-BETWA-FLOW-009": [
+   "excluded",
+   "the study's choice of catchment; method"
+  ],
+  "C02-BETWA-FLOW-010": [
+   "excluded",
+   "the catchment's temperature and rainfall; §2.2 uses the Gazetteer's district record"
+  ],
+  "C02-BETWA-FLOW-011": [
+   "excluded",
+   "SPI and SDI dry and wet events; not needed"
+  ],
+  "C02-BETWA-FLOW-012": [
+   "excluded",
+   "monsoon rainfall trend in the catchment; the note gives the basin finding"
+  ],
+  "C02-BETWA-FLOW-013": [
+   "excluded",
+   "projected streamflow to 2100; projection, outside the book's evidence horizon"
+  ],
+  "C02-BETWA-FLOW-014": [
+   "excluded",
+   "catchment land use 1990–2020; not needed"
+  ],
+  "C02-BETWA-FLOW-015": [
+   "excluded",
+   "catchment population growth; the village's counts are §12.1's"
+  ],
+  "C02-BETWA-FLOW-016": [
+   "excluded",
+   "projected agricultural water demand; projection"
+  ],
+  "C02-JAGTA-HI-001": [
+   "excluded",
+   "a teak-forested hill with a small fort: a different place, not Udaypur (ROADMAP 17); dropped from the Ch 2 plan"
+  ],
+  "C02-JAGTA-HI-002": [
+   "excluded",
+   "Tiwari: sandstone quarries as the reason for Udaypur's importance; a cause from testimony; the land is setting, not cause (R5); §4.5's note says so"
+  ],
+  "C02-JAGTA-HI-003": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C02-JAGTA-EN-002)"
+  ],
+  "C02-JAGTA-HI-004": [
+   "assigned",
+   "C"
+  ],
+  "C02-RAJABHOJ-EN-001": [
+   "assigned",
+   "Note"
+  ],
+  "C02-RAJABHOJ-EN-002": [
+   "excluded",
+   "popular account (T9) of Bhoja boating on the lake; not evidence"
+  ],
+  "C02-RAJABHOJ-EN-003": [
+   "assigned",
+   "E"
+  ],
+  "C02-RAJABHOJ-EN-004": [
+   "excluded",
+   "popular account (T9) that the dam let Bhoja found Bhilsa; Ch 3's Bhilsa readings are from T5 items"
+  ],
+  "C02-BHOJA-TIMES-001": [
+   "assigned",
+   "E"
+  ],
+  "C02-BHOJA-TIMES-002": [
+   "assigned",
+   "C"
+  ],
+  "C02-BHOJA-TIMES-004": [
+   "excluded",
+   "the lake's effect on the Betwa's floods; §2.4 tells the dam from other items"
+  ],
+  "C02-JAGTA-EN-001": [
+   "assigned",
+   "E"
+  ],
+  "C02-JAGTA-EN-002": [
+   "assigned",
+   "E"
+  ],
+  "C02-JAGTA-EN-003": [
+   "assigned",
+   "C"
+  ],
+  "C02-CII-001": [
+   "assigned",
+   "E"
+  ],
+  "C02-CII-002": [
+   "assigned",
+   "E"
+  ],
+  "C02-INTACH-001": [
+   "excluded",
+   "district physiography (garbled); §2.3 carries the range from other items"
+  ],
+  "C02-INTACH-002": [
+   "excluded",
+   "the district as agricultural; generality"
+  ],
+  "C02-BHOJDEV-HI-001": [
+   "excluded",
+   "popular account (T9) of the Bhojpur dam and its breach; §2.4 tells it from T5 items with the variants noted"
+  ],
+  "C02-MADHYABHARAT-002": [
+   "excluded",
+   "the north-eastern plateau (regional); §2.3 and Ch 3 use specific items"
+  ],
+  "C02-GANGULY-001": [
+   "assigned",
+   "E"
+  ],
+  "C02-PANDE-001": [
+   "assigned",
+   "E"
+  ]
+ },
+ "contextual_cited": 6
+}

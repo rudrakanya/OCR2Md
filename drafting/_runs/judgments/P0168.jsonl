@@ -1,0 +1,25 @@
+{"c": "9b23e0ab57", "keep": true, "items": [{"unit": "C07", "sub": "S5", "type": "excerpt", "strength": "contextual", "span": [4, 4], "note": "Palace for the Lord of the Earth to be created facing east on the square of Maitra (⚠ old OCR)"}]}
+{"c": "9884ef33f2", "keep": false, "reject_reason": "zone allocation for palace buildings; generic"}
+{"c": "e5d4875615", "keep": false, "reject_reason": "allocation of palace rooms; generic"}
+{"c": "7361e4add8", "keep": false, "reject_reason": "palace furniture and stable placement; generic"}
+{"c": "2ba551723a", "keep": false, "reject_reason": "palace gate and hall placement; generic"}
+{"c": "dfec5bcfb6", "keep": false, "reject_reason": "timber and tree-species selection; generic, no link to the Betwa region"}
+{"c": "ccbd0779ed", "keep": false, "reject_reason": "timber and tree-species selection; generic, no link to the Betwa region"}
+{"c": "a2f44f3bd9", "keep": false, "reject_reason": "timber and tree-species selection; generic, no link to the Betwa region"}
+{"c": "386521a30d", "keep": false, "reject_reason": "timber and tree-species selection; generic, no link to the Betwa region"}
+{"c": "bfa51bbd7b", "keep": false, "reject_reason": "botanical lexical footnotes"}
+{"c": "4707b05831", "keep": false, "reject_reason": "botanical and plaster footnotes; generic"}
+{"c": "ad5089aede", "keep": true, "items": [{"unit": "C05", "sub": "S1", "type": "excerpt", "strength": "contextual", "span": [11, 11], "note": "Sastri: Vajralepa plasters applied hot to temples, mansions, liṅga images, walls and wells, said to adhere for a very long time (⚠ old OCR)"}]}
+{"c": "64e978db70", "keep": false, "reject_reason": "timber and tree-species selection; generic, no link to the Betwa region"}
+{"c": "51b0967c16", "keep": false, "reject_reason": "botanical lexical footnotes"}
+{"c": "499daf935b", "keep": false, "reject_reason": "botanical lexical footnotes"}
+{"c": "cf2ff13c5d", "keep": false, "reject_reason": "botanical lexical footnotes"}
+{"c": "5b1d751347", "keep": false, "reject_reason": "omens in felled timber; no bearing"}
+{"c": "9ae06d75a8", "keep": false, "reject_reason": "omens in felled timber; no bearing"}
+{"c": "e295b54dd8", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and construction; no specific bearing"}
+{"c": "dcc1799b36", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and construction; no specific bearing"}
+{"c": "8134737f39", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and construction; no specific bearing"}
+{"c": "3d80f1325a", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and construction; no specific bearing"}
+{"c": "0b6519a873", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and construction; no specific bearing"}
+{"c": "6bfbdacd8f", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and construction; no specific bearing"}
+{"c": "8db5150007", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and construction; no specific bearing"}

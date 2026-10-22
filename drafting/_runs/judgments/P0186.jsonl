@@ -1,0 +1,25 @@
+{"c":"3b3d964880","keep":false,"reject_reason":"Samarāṅgaṇa Śataśṛṅga/Niravadya proportions; technical, garbled old OCR"}
+{"c":"d1599a805f","keep":false,"reject_reason":"Samarāṅgaṇa Niravadya proportions; technical, garbled old OCR"}
+{"c":"5a2d23b93a","keep":false,"reject_reason":"Samarāṅgaṇa Sarvāṅgasundara proportions; technical, garbled old OCR"}
+{"c":"57cc588212","keep":false,"reject_reason":"Samarāṅgaṇa Sarvāṅgasundara/Aṣṭaśāla plan verses; technical, garbled old OCR"}
+{"c":"88fa1e7ba5","keep":false,"reject_reason":"Samarāṅgaṇa Svastika prāsāda proportions; technical, garbled old OCR"}
+{"c":"f04781fb92","keep":false,"reject_reason":"Samarāṅgaṇa Svastika Ghaṇṭā/Kalaśa proportions; technical, garbled old OCR"}
+{"c":"7d8523bb27","keep":false,"reject_reason":"Samarāṅgaṇa Vajra Svastika/Harmyatala proportions; technical, garbled old OCR"}
+{"c":"5089100fdb","keep":false,"reject_reason":"Samarāṅgaṇa Harmyatala proportions; technical, garbled old OCR"}
+{"c":"2a40d9a6d6","keep":false,"reject_reason":"Samarāṅgaṇa Udayācala plan verses; nothing for C02–C13 (pilot-judged for C01); name Udayācala is a prāsāda type, not Udaypur"}
+{"c":"3f19b78f53","keep":false,"reject_reason":"Samarāṅgaṇa Udayācala/Gandhamādana proportions; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"c7e332c986","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[17,17],"note":"Distinguishes types by feature: door structure for Latinas, Kūṭaka for Nāgaras, a pavilion in front of the ground for Bhūmijas (⚠ old OCR).","gloss":"Of the Latinas the door structure, of the Nāgaras the Kūṭaka; for the Bhūmijas a pavilion is to be made in front of the ground."}]}
+{"c":"374e11b348","keep":true,"items":[{"unit":"C05","sub":"S2","type":"quote","strength":"contextual","span":[12,13],"xref":["C04"],"note":"Closes the bhūmija-prāsāda chapter: the seven Bhūmija prāsādas are named and the chapter is credited to Bhojadeva's Samarāṅgaṇasūtradhāra (⚠ old OCR)."}]}
+{"c":"15090c8594","keep":false,"reject_reason":"Samarāṅgaṇa mandapa chapter opening and Vyatirikta definitions; generic, garbled old OCR"}
+{"c":"61ebb99762","keep":false,"reject_reason":"Samarāṅgaṇa eight mandapa names and proportions; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"479812cd96","keep":false,"reject_reason":"Samarāṅgaṇa mandapa Madhyabhadra/Rathikā proportions; technical, garbled old OCR"}
+{"c":"0a2a9feb18","keep":false,"reject_reason":"Samarāṅgaṇa mandapa windows and doors verses; technical, garbled old OCR"}
+{"c":"5624ec9adb","keep":false,"reject_reason":"Samarāṅgaṇa mandapa Tulā/Ghaṇṭikā ornament verses; technical, garbled old OCR"}
+{"c":"3c8577684f","keep":false,"reject_reason":"Samarāṅgaṇa Bhadra mandapa measurement verses; technical, garbled old OCR"}
+{"c":"dd9d055c7d","keep":false,"reject_reason":"Samarāṅgaṇa Nandana/Mahendra mandapa proportions; technical, garbled old OCR"}
+{"c":"819a65675e","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[16,16],"note":"Gṛharāja structure is described as the temple even of the divine mothers (⚠ old OCR)."}]}
+{"c":"b4aba0ec7b","keep":false,"reject_reason":"Samarāṅgaṇa mandapa gavākṣa proportions and chapter colophon; technical, garbled old OCR"}
+{"c":"6900575c69","keep":false,"reject_reason":"Samarāṅgaṇa twenty-seven mandapa proportions; technical, garbled old OCR"}
+{"c":"e73fbb8ead","keep":false,"reject_reason":"Samarāṅgaṇa mandapa Puṣpaka and Bhadra projections; technical, garbled old OCR"}
+{"c":"20dc39788d","keep":false,"reject_reason":"Samarāṅgaṇa list of mandapa names; generic, garbled old OCR"}
+{"c":"d20e57fe27","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[11,11],"xref":["C08"],"note":"Lists uses of a mandapa: dining, a sacrificial altar with a chief priest, and a promenading spot in a king's palace (⚠ old OCR).","gloss":"The fifty-cubit mandapa site, for dining, for sacrifice with a chief priest (yati), and as a promenade in a king's palace."}]}

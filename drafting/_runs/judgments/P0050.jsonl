@@ -1,0 +1,25 @@
+{"c":"c569e43366","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[5,5],"note":"Satyarāja of the Vāgaḍa branch is stated to have obtained dignity (vibhava) from Bhōjadeva, the renowned Paramāra king of Malwā."}]}
+{"c":"5321da2129","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[12,17],"xref":["C04"],"note":"Maṇḍalīka's Śiva temple at Pānāhedā and the grants of bull-toll, land, garden and rice fields for worship, as a Paramāra-branch endowment parallel; not Udaypur."}]}
+{"c":"c543766abc","keep":false,"reject_reason":"chronology of the Vāgaḍa branch of Paramāras; no bearing on Udaypur"}
+{"c":"325dc36d41","keep":false,"reject_reason":"Vāgaḍa-branch regnal chronology and Pānāhedā village identifications; off-topic"}
+{"c":"c1876b3ec6","keep":false,"reject_reason":"garbled Sanskrit verse text; metre list"}
+{"c":"28f04a45f7","keep":false,"reject_reason":"garbled Sanskrit verse text and plate captions"}
+{"c":"0934d05713","keep":false,"reject_reason":"garbled Sanskrit verse text"}
+{"c":"393241bbb3","keep":false,"reject_reason":"OCR garbage, nothing quotable"}
+{"c":"60de7b2f4e","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02-C13 (garbled Sanskrit verse)"}
+{"c":"936ba6f0dc","keep":false,"reject_reason":"garbled Sanskrit verse text"}
+{"c":"a57a7c8d4b","keep":false,"reject_reason":"garbled Sanskrit verse text"}
+{"c":"6edb1d6378","keep":false,"reject_reason":"editing history and physical description of the Arthūnā inscription; off-topic"}
+{"c":"7393d75ce4","keep":true,"items":[{"unit":"C06","sub":"S3","type":"fact","strength":"direct","span":[20,25],"note":"Hook-like stroke at the left of letter tops is a characteristic of the Arthūnā writing and, the editor says, appears also in the Udaipur prasasti."}]}
+{"c":"bc2c68783d","keep":false,"reject_reason":"orthography and description of the Arthūnā prasasti of the Vāgaḍa branch; off-topic"}
+{"c":"29ed44c0ae","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[14,15],"xref":["C04"],"note":"The Mālava king is called Harsha in the Udaipur prasasti and Siyaka in the Pānāhedā inscription; editor takes this as proof that the two are identical."},{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[6,7],"note":"Arthūnā inscription gives the Vasishtha sacrificial-pit myth of the Paramāras' creation; editor calls it a later invention to glorify the family."}]}
+{"c":"b37b25347d","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[1,5],"note":"Imposts on goods sold in the bazaar (sugar, cotton, coconuts, salt, butter, oil, cloth) listed in the Arthūnā inscription; a Paramāra-branch parallel for trade and market levies."},{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[8,10],"note":"Monthly and festival levies on traders' houses, braziers' shops, distillers and a gambling house in the town, collected on the fourteenth of each bright half."},{"unit":"C08","sub":"S4","type":"fact","strength":"contextual","span":[12,12],"note":"Includes a hāraka of barley on a water-wheel among the taxes."},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[13,14],"note":"King built a town with white-washed houses and gardens and donated it, with land, to the temple deity."}]}
+{"c":"5be0779d23","keep":false,"reject_reason":"footnotes on measures and terms of the Arthūnā imposts; no usable claim"}
+{"c":"7479665ef2","keep":false,"reject_reason":"debate on the Arthūnā temple and local place-names; off-topic"}
+{"c":"ed36da0617","keep":false,"reject_reason":"metre list and garbled Sanskrit text"}
+{"c":"9d25eca908","keep":false,"reject_reason":"garbled Sanskrit verse text"}
+{"c":"27fd10322e","keep":false,"reject_reason":"garbled Sanskrit verse text"}
+{"c":"202fe016e8","keep":false,"reject_reason":"garbled Sanskrit verse text"}
+{"c":"4de58c8049","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[24,24],"note":"Footnote identifies the dramma as a silver coin struck to the weight-standard of the Attic drachma, 67.5 grains."}]}
+{"c":"e9f220d9cf","keep":false,"reject_reason":"textual footnotes on readings; no usable claim"}
+{"c":"52abc1e9f4","keep":false,"reject_reason":"garbled Sanskrit verse text of the Arthūnā inscription"}

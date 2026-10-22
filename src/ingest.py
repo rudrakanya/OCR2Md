@@ -29,7 +29,7 @@ class IngestError(RuntimeError):
 
 def load_corpus(cfg) -> list[tuple[Path, str]]:
     """§3: fail loudly on an empty file or non-UTF-8 bytes."""
-    corpus_dir = Path(cfg.get_path("project.corpus_dir"))
+    corpus_dir = st.resolve(cfg, "project.corpus_dir")
     if not corpus_dir.is_dir():
         raise IngestError(f"corpus_dir does not exist: {corpus_dir}")
     pattern = cfg.get_path("project.glob", "*.md")

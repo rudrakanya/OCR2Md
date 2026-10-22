@@ -1,0 +1,319 @@
+{
+ "unit": "12",
+ "direct": 71,
+ "totals": {
+  "excluded": 11,
+  "assigned": 56,
+  "cross-reference": 4
+ },
+ "by_sub": {
+  "S1": {
+   "excluded": 6,
+   "assigned": 11,
+   "cross-reference": 1
+  },
+  "S2": {
+   "assigned": 4
+  },
+  "S3": {
+   "excluded": 2,
+   "assigned": 7
+  },
+  "S4": {
+   "assigned": 17,
+   "excluded": 2
+  },
+  "S5": {
+   "assigned": 17,
+   "cross-reference": 3,
+   "excluded": 1
+  }
+ },
+ "status": {
+  "C12-JAGTA-HI-001": [
+   "excluded",
+   "v1: (eight thousand; a testimony count)"
+  ],
+  "C12-JAGTA-HI-002": [
+   "excluded",
+   "v1: (distances),(approach, already in 1.1)"
+  ],
+  "C12-JAGTA-HI-003": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-004": [
+   "assigned",
+   "X"
+  ],
+  "C12-JAGTA-HI-005": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-006": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-007": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-008": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C12-JAGTA-HI-009": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-011": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-012": [
+   "excluded",
+   "v1: (5 km),(→ Ch 5/10),(→ Ch 1/3)"
+  ],
+  "C12-JAGTA-HI-013": [
+   "excluded",
+   "v1: (5 km),(→ Ch 5/10),(→ Ch 1/3)"
+  ],
+  "C12-JAGTA-HI-014": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-015": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-016": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-017": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-018": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-019": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-020": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-021": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-022": [
+   "assigned",
+   "X"
+  ],
+  "C12-JAGTA-HI-023": [
+   "excluded",
+   "v1: (→ Afterword)"
+  ],
+  "C12-JAGTA-HI-024": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-025": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-026": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-027": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-028": [
+   "assigned",
+   "X"
+  ],
+  "C12-JAGTA-HI-029": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-030": [
+   "cross-reference",
+   "ch13"
+  ],
+  "C12-JAGTA-HI-031": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-032": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-033": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-034": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-035": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-036": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-HI-037": [
+   "cross-reference",
+   "ch13"
+  ],
+  "C12-JAGTA-HI-038": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-HI-039": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-EN-001": [
+   "excluded",
+   "v1: (eight thousand; a testimony count)"
+  ],
+  "C12-JAGTA-EN-002": [
+   "excluded",
+   "v1: (distances),(approach, already in 1.1)"
+  ],
+  "C12-JAGTA-EN-003": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-EN-004": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-005": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-EN-006": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-EN-007": [
+   "excluded",
+   "v1: (→ Ch 9)"
+  ],
+  "C12-JAGTA-EN-008": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-009": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-010": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-011": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-EN-012": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-013": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-EN-014": [
+   "assigned",
+   "C"
+  ],
+  "C12-JAGTA-EN-015": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-016": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-017": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-018": [
+   "assigned",
+   "E"
+  ],
+  "C12-JAGTA-EN-019": [
+   "assigned",
+   "X"
+  ],
+  "C12-GEOHER-001": [
+   "assigned",
+   "E"
+  ],
+  "C12-GEOHER-002": [
+   "assigned",
+   "E"
+  ],
+  "C12-GEOHER-003": [
+   "assigned",
+   "E"
+  ],
+  "C12-GEOHER-004": [
+   "assigned",
+   "E"
+  ],
+  "C12-GEOHER-005": [
+   "assigned",
+   "E"
+  ],
+  "C12-GAZ-005": [
+   "assigned",
+   "E"
+  ],
+  "C12-GAZ-006": [
+   "assigned",
+   "E"
+  ],
+  "C12-GAZ-007": [
+   "excluded",
+   "v1: (location or district totals not needed)"
+  ],
+  "C12-GAZ-008": [
+   "assigned",
+   "E"
+  ],
+  "C12-INTACH-001": [
+   "assigned",
+   "C"
+  ],
+  "C12-INTACH-002": [
+   "assigned",
+   "C"
+  ],
+  "C12-INTACH-004": [
+   "cross-reference",
+   "ch13"
+  ],
+  "C12-ARTPAR-001": [
+   "excluded",
+   "v1: (location or district totals not needed)"
+  ],
+  "C12-MADHYABHARAT-001": [
+   "excluded",
+   "v1: (location or district totals not needed)"
+  ]
+ },
+ "contextual_cited": 3
+}

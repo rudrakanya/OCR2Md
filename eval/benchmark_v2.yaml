@@ -1,0 +1,384 @@
+# =============================================================================
+# eval/benchmark_v2.yaml — repaired retrieval benchmark, Phase 8.
+#
+# v1 (eval/benchmark_v1.yaml) is UNCHANGED and preserved. This file starts
+# from all 30 of v1's queries, same stable IDs, and applies ONLY the fixes
+# this phase could independently verify against the raw corpus text. See
+# eval/benchmark_v2_notes.md for the full change log, the annotation policy
+# (duplicate-OCR handling, unanswerable-query handling, source-discovery
+# labelling), and this benchmark's limitations. Read that file before citing
+# any number produced from this one.
+#
+# NEW FIELD vs v1: `source_discovery` on every entry --
+#   "direct"          every relevant_books entry was found by reading/grepping
+#                      the raw files myself, with no retrieval run first
+#                      (this is what ALL of v1 claimed, and most of v2 still is)
+#   "system-assisted"  at least one relevant_books entry was first SEEN in
+#                      Phase 7's retrieval output, then independently
+#                      re-verified by reading the raw source text before being
+#                      added here (never added on retrieval rank/score alone)
+# Per the task constraint for this phase: a benchmark is not claimed
+# independent where labels were adjusted using the evaluated system's own
+# results without that direct, textual re-verification. Every
+# "system-assisted" entry below WAS re-verified against raw text -- the
+# passages quoted in `evidence` are from directly reading the file, not from
+# a query snippet.
+#
+# NEW FIELD: `review_marker` -- "none" | "uncertain" -- "uncertain" means a
+# human reviewer should re-check this judgment; evidence is weaker or the
+# relevance call is debatable, not wrong.
+#
+# Still unchanged from v1's schema and policy: book-level judging, no
+# chunk-level (`relevant_chunks`) labels, `graded` for weighted relevance,
+# `answerable` for deliberate traps, `heading`/`why`/`evidence` as free-text
+# human-review aids silently ignored by src/evaluate.py's relevance().
+# =============================================================================
+
+meta:
+  created_by: assistant
+  created_on: 2026-10-10
+  status: spot-checked, not peer-reviewed, not expert-validated
+  judging: book_level (with a few `graded` weights); no chunk-level labels
+  independence_note: >
+    4 of 30 entries (BV-02, BV-11, BV-13, BV-19) were revised using a source
+    first surfaced by retrieval output from Phase 7, then independently
+    re-verified by reading the raw corpus file directly before being added.
+    This is disclosed per-entry via source_discovery: system-assisted. The
+    other 26 entries are carried over from v1 unchanged (source_discovery:
+    direct throughout). This remains a single reviewer's pass -- see
+    eval/benchmark_v2_notes.md for limitations.
+  n_queries: 30
+  supersedes: eval/benchmark_v1.yaml (preserved unchanged, not deleted)
+  changelog: eval/benchmark_v2_notes.md
+
+queries:
+
+  # ── exact names / dates / rare terms ────────────────────────────────────
+  - id: BV-01
+    query: "serpentine scimitar inscription of letters at the Udayesvara temple parapet"
+    relevant_books: [A_serpentine_scimitar_of_letters_from_Ud.md]
+    heading: "title / Abstract"
+    why: "This is the paper's own subject and title."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Read lines 1-11: title is literally 'A serpentine scimitar of letters from Udaypur...'; abstract describes the parapet-wall inscription."
+
+  - id: BV-02
+    query: "when and by whom was the town and temple of Udaypur founded"
+    relevant_books: [A_serpentine_scimitar_of_letters_from_Ud.md, History of Paramara Dynasty DC Ganguly.md,
+                     The cultural heritage of madhya bharat.md]
+    graded: {A_serpentine_scimitar_of_letters_from_Ud.md: 3, The cultural heritage of madhya bharat.md: 3,
+            History of Paramara Dynasty DC Ganguly.md: 2}
+    heading: "Patil, 'Udaypur' chapter, p.114-115 (new); serpentine paper body; Ganguly 'UDAYĀDITYA' section"
+    why: "CHANGED FROM v1 (added The cultural heritage of madhya bharat.md, graded 3 -- direct evidence, not tangential). Patil's book states the exact founding inscription content and both V.S./A.D. construction dates in one passage; this is at least as direct as the two already-listed sources, possibly more so."
+    answerable: true
+    source_discovery: system-assisted
+    review_marker: none
+    evidence: "Read The cultural heritage of madhya bharat.md lines 1022-1035 directly: 'One of the many old Sanskrit inscriptions on this temple records that the Paramara king Udayaditya of Malwa founded a town, built a temple of Shiva and excavated a tank, and designated all the three works after his own name as Udayapura, Udayeshvara and Udayasamudra... the construction of the temples was commenced in V. S. 1116 (A.D. 1059)... the flag staff was erected in V. S. 1137 (A.D. 1080).' First seen as Phase 7's top-ranked hit for this query; re-verified here by reading the passage directly, not by trusting the retrieval snippet or rank."
+
+  - id: BV-03
+    query: "meaning of varnanagakripanika the serpentine sword of letters"
+    relevant_books: [A_serpentine_scimitar_of_letters_from_Ud.md]
+    heading: "Keywords; body text on the diagram's design"
+    why: "This exact Sanskrit term and its gloss appear only in this paper."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Keywords line: 'varṇṇaṇāgakṛpānikā'; body explains it as 'a unique magical sword (siddhāṣiputrikā)'."
+
+  - id: BV-04
+    query: "Heliodorus pillar and Garuddhwaja at Besnagar near Vidisha"
+    relevant_books: [Vidisha Gazeteer.md]
+    heading: "introductory historical overview (line ~51)"
+    why: "Named explicitly as a landmark of ancient Vidisha (Besnagar, Sunga period)."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep 'Heliodoros' -> line 51: 'The Heliodoros Pillar or the Garuddhwaja at Besnagar...'"
+
+  - id: BV-05
+    query: "stone inscription from Balagami dated Saka 993 describing a Paramara king's defeat"
+    relevant_books: [History of Paramara Dynasty DC Ganguly.md]
+    heading: "UDAYĀDITYA section, narrative of the Caulukya invasion"
+    why: "This specific inscription and date are quoted directly in this book only."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep 'Udayāditya' line 1577: 'A stone inscription from Balagami, dated Saka 993 = 1071 A. D., reports of the damdanayaka Udayāditya...'"
+
+  - id: BV-06
+    query: "SWAT model simulation of Betwa river streamflow under CMIP6 climate scenarios"
+    relevant_books: [Streamflow of the Betwa Rive.md]
+    heading: "Abstract"
+    why: "SWAT/CMIP6/SSP scenario modelling is this paper's specific methodology, not discussed elsewhere in the corpus."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Abstract: 'coupled the observed and projected LU-LC and climatic variables in the SWAT ... model'; 'four CMIP6 climatic scenarios (SSP126, SSP245, SSP370, and SSP585)'."
+
+  - id: BV-07
+    query: "percentage decline in Betwa river monsoon streamflow between 2001 and 2020"
+    relevant_books: [Streamflow of the Betwa Rive.md]
+    heading: "Abstract"
+    why: "The exact figure (16%) is stated once, in this paper's abstract."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Abstract: 'reduction in the mean monsoon stream flow of the Betwa River by 16% during 2001–2020 as compared to 1982–2000.'"
+
+  # ── conceptual / thematic ────────────────────────────────────────────────
+  - id: BV-08
+    query: "conservation values and heritage significance of the Udaypur hill fortification"
+    relevant_books: [Geo-Heritage of Udaypur The Third Eye.md]
+    heading: "10.2 Values; 10.3 Conservation"
+    why: "A dedicated values/conservation framework for the FORT specifically is set out only here."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Headings confirmed by grep: '## 10.2 Values', '## 10.3 Conservation', '## Architectural and Technical value' etc. Checked Intach Udaypur (1).md too (grep 'conservation|restoration') -- it discusses conservation of individual temples/havelis, not the hill fortification as a subject; judged tangential to THIS query and not added."
+
+  - id: BV-09
+    query: "threats to Udaypur's geo-heritage such as vandalism, theft and illegal mining"
+    relevant_books: [Geo-Heritage of Udaypur The Third Eye.md]
+    heading: "15.4 Threats to the Geo-heritage"
+    why: "An itemised threats list (vandalism, theft, illegal mining, encroachment) is unique to this survey."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep '^##' confirmed headings '## 15.4 Threats to the Geo-heritage', '## 2. Vandalism', '## 3. Theft', '## 4. Illegal mining'."
+
+  - id: BV-10
+    query: "temple economy and the arthavyavastha (financial system) of mandirs"
+    relevant_books: [Temple Economics.md]
+    heading: "title page"
+    why: "This book's entire subject is temple financial/economic organisation."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Title page reads '## Arthwyavstha of Mandir' (note the OCR'd spelling of arthavyavastha)."
+
+  - id: BV-11
+    query: "iconography of dikpalas, the guardian deities of the cardinal directions"
+    relevant_books: ["iconography of hindus, buddhists and jains Gupte.md", "The Hindu Temple Vol 2.md"]
+    graded: {"iconography of hindus, buddhists and jains Gupte.md": 3, "The Hindu Temple Vol 2.md": 3}
+    heading: "Gupte: DIKPALAS OR LOKA-PALAS; Kramrisch Vol 2: p.135-136, '8 Dikpālas', Vāstumaṇḍala placement"
+    why: "CHANGED FROM v1 (added The Hindu Temple Vol 2.md, graded 3). Kramrisch gives a direct architectural-iconographic account of the 8 Dikpalas' placement in temple design, not a passing mention."
+    answerable: true
+    source_discovery: system-assisted
+    review_marker: none
+    evidence: "Read The Hindu Temple Vol 2.md around line 1757 directly: 'the presence of the 8 Dikpālas or their substitutes...', and again at line 1760 ('8 Dikpālas' among Valabhī-temple deity groups). First seen as Phase 7's #1-ranked hit for this query; confirmed here by reading the passage, not by rank. NOTE: Patil's Udaypur chapter (BV-02) also lists 'the eight Guardians of the Quarters' once, in passing, as part of a general sculpture inventory with no iconographic explanation -- judged TANGENTIAL, not added here."
+
+  # ── single-section / passage-specific ───────────────────────────────────
+  - id: BV-12
+    query: "demography of the Udaypur geo-heritage project area"
+    relevant_books: [Geo-Heritage of Udaypur The Third Eye.md]
+    heading: "4.2 Demography"
+    why: "A short, specific subsection with this exact title."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep '^##' confirmed '## 4.2 Demography' at line 333."
+
+  - id: BV-13
+    query: "traditional water structures such as talab, baoli and kund in central India"
+    relevant_books: [Geo-Heritage of Udaypur The Third Eye.md, "Intach Udaypur (1).md"]
+    graded: {Geo-Heritage of Udaypur The Third Eye.md: 3, "Intach Udaypur (1).md": 2}
+    heading: "Geo-Heritage 9.3 (definitional taxonomy); Intach Udaypur (1).md structure inventory table (named baolis with coordinates)"
+    why: "CHANGED FROM v1 (added Intach Udaypur (1).md, graded 2 -- a different but equally direct kind of evidence: a concrete inventory of named baolis, vs. Geo-Heritage's general taxonomy of what a baoli/kund IS)."
+    answerable: true
+    source_discovery: system-assisted
+    review_marker: none
+    evidence: "Read Intach Udaypur (1).md's heritage inventory table directly: named entries 'Puttal Baoli', 'Santbhu ji Ki Baoli', 'Setho ki Bantyu Baoli', 'Ghod Dod Baoli', 'Tulsi Mahadev Baoli', each tagged 'Water Structure(Baoli)' with coordinates and condition. First located while re-checking this query in Phase 8; confirmed by reading the table itself, not a retrieval score."
+
+  - id: BV-14
+    query: "fauna recorded at Udaypur hill, including mongoose and langur"
+    relevant_books: [Geo-Heritage of Udaypur The Third Eye.md]
+    heading: "5.1 Faunal diversity"
+    why: "A numbered faunal checklist naming these species appears only here."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep confirmed '## 4. Mangoose: Herpestesauropunctatus' and '## 5. Langoor: Semnopithecus entellus' under '## 5.1 Faunal diversity'."
+
+  - id: BV-15
+    query: "architectural splendor of Udaypur village and its regional historical significance"
+    relevant_books: ["Intach Udaypur (1).md"]
+    heading: "title page / Part A"
+    why: "This is this survey's own stated subtitle and structure."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Lines 10-13: '## THE ARCHITECTURAL SPLENDOR OF' / '## UDAYPUR'; line 47: '## PART A- Understanding the Regional Significance'."
+
+  # ── local legend / folklore (English translation) ──────────────────────
+  - id: BV-16
+    query: "local legends about the meaning of the name Udaipur"
+    relevant_books: [Jagta_Hua_Kasba_EN.md]
+    heading: "The Meanings of Udaipur"
+    why: "A section with exactly this title discusses local etymological legends."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep '^#' confirmed '### The Meanings of Udaipur' at line 999."
+
+  - id: BV-17
+    query: "relationship between Maharaja Bhoj and Udayaditya in local tradition"
+    relevant_books: [Jagta_Hua_Kasba_EN.md]
+    heading: "What was the relationship between Maharaja Bhoj and Udayaditya?"
+    why: "A section posing and answering exactly this question."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep '^#' confirmed '### What was the relationship between Maharaja Bhoj and Udayaditya?' at line 1125."
+
+  # ── Devanagari / transliteration / Indic-language ───────────────────────
+  - id: BV-18
+    query: "भोज और समराङ्गणसूत्रधार वास्तुशास्त्र का ग्रंथ"
+    relevant_books: [bhojdev.md]
+    heading: "भोजदेवकृत / समराङ्गणसूत्रधार / वास्तुशास्त्र"
+    why: "Pure Devanagari query against the one source whose heading matches almost verbatim."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep '^##' confirmed headings '## भोजदेवकृत', '## समराङ्गणसूत्रधार', '## वास्तुशास्त्र' at lines 278/281/284."
+
+  - id: BV-19
+    query: "उदयपुर का उदयेश्वर मंदिर" # Udaypur's Udayeshvar temple (note: source heading is OCR-garbled)
+    relevant_books: [Art of Paramaras.md, The cultural heritage of madhya bharat.md]
+    graded: {Art of Paramaras.md: 3, The cultural heritage of madhya bharat.md: 3}
+    heading: "Art of Paramaras.md: उदयपुर का उदयेऋवर मंदिर (OCR'd); Patil: 'Udayeshvara temple.—' full description"
+    why: "CHANGED FROM v1 (added The cultural heritage of madhya bharat.md, graded 3). Patil's book has a full, direct physical description of the Udayeshvara temple (layout, shrines, sculpture, spire) -- this is squarely a correct answer to the query, in a non-garbled English source."
+    answerable: true
+    source_discovery: system-assisted
+    review_marker: none
+    evidence: "Read The cultural heritage of madhya bharat.md lines 1035-1050 directly: 'Udayeshvara temple.—One of the many old Sanskrit inscriptions...' through the full description of the shrine, hall, porches and spire. First seen as a Phase 7 retrieval hit; confirmed here by reading the passage. Art of Paramaras.md's own match is kept from v1, now with the OCR-garble explicitly noted."
+
+  - id: BV-20
+    query: "राजा भोज की वास्तुशास्त्र संबंधी रचनाएँ और परमार वंश"
+    relevant_books: [bhojdev.md, Raja_Bhoj_Aur_Parmarkaleen_EN.md]
+    heading: "bhojdev.md throughout; Raja_Bhoj_Aur_Parmarkaleen_EN.md title"
+    why: "Second Devanagari probe, this one plausibly matching two sources instead of one."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "bhojdev.md's opening paragraph (lines 7-9) discusses Raja Bhoj's authorship directly; Raja_Bhoj_Aur_Parmarkaleen_EN.md's title names both Bhoj and the Paramara era."
+
+  # ── OCR-noise-aware ──────────────────────────────────────────────────────
+  - id: BV-21
+    query: "arthavyavastha financial system of Hindu temples (note: source spells it Arthwyavstha)"
+    relevant_books: [Temple Economics.md]
+    heading: "title page"
+    why: "Tests whether retrieval survives an OCR misspelling of a Sanskrit compound in the actual source heading."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Title page literally reads 'Arthwyavstha of Mandir', a garbled OCR rendering of 'Arthavyavastha'."
+
+  # ── multiple sources / overlapping evidence ─────────────────────────────
+  - id: BV-22
+    query: "sandstone as building stone in Vidisha district temple architecture"
+    relevant_books: [Vidisha Gazeteer.md, Geo-Heritage of Udaypur The Third Eye.md]
+    heading: "Vidisha Gazeteer.md geology section; Geo-Heritage 'Sandstone:' subsection"
+    why: "Both independently describe the district's sandstone, from different angles (gazetteer vs. geological survey)."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Geo-Heritage grep confirmed '## Sandstone:' heading at line 462; Vidisha Gazeteer's general geology/archaeology overview (line 51) names the same stone tradition."
+
+  - id: BV-23
+    query: "genealogy of Udayaditya from Sauravira and Gondala to his son Naravarman"
+    relevant_books: [History of Paramara Dynasty DC Ganguly.md, A_serpentine_scimitar_of_letters_from_Ud.md]
+    graded: {History of Paramara Dynasty DC Ganguly.md: 3, A_serpentine_scimitar_of_letters_from_Ud.md: 1}
+    heading: "Ganguly: Udayapur inscription genealogy (Sauravira/Gondala/Jnata/Udayaditya); serpentine paper: one-line Naravarman succession note"
+    why: "CHANGED FROM v1: grade for the serpentine paper lowered 2 -> 1. Phase 7 found it absent from the top-10 for this query; re-reading it confirms its Naravarman content is a single brief dating aside, not a genealogical treatment -- still directly on-topic (names the son + dates), but minor relative to the paper's real subject. Marked uncertain: it is debatable whether a retriever 'should' surface a single incidental sentence for a genealogy-framed query."
+    answerable: true
+    source_discovery: direct
+    review_marker: uncertain
+    evidence: "Ganguly line 1636-1644: full genealogy from an inscription found in the Nilakanthesvara temple. Serpentine paper's ONLY relevant content: 'Udayāditya (c. 1070–93) and his son Naravarman (1094–1134)' -- one clause, not a genealogical narrative."
+
+  - id: BV-24
+    query: "the Saiva Siddhanta philosophy and metaphysics of the Udayesvara temple"
+    relevant_books: ["The Udayesvara Temple - Anupa Pande.md", "The Udayesvara Temple Art, Architecture and Philosophy of the Saiva Siddhanta.md"]
+    graded: {"The Udayesvara Temple - Anupa Pande.md": 3, "The Udayesvara Temple Art, Architecture and Philosophy of the Saiva Siddhanta.md": 3}
+    heading: "Contents: 'II. The Metaphysics of Saivism and Saiva Siddhanta' (identical in both)"
+    why: "DUPLICATE-OCR POLICY APPLIED (see eval/benchmark_v2_notes.md): both files are confirmed separate OCR passes of ONE underlying Anupa Pande book (identical table of contents), not two independent sources corroborating each other. Both are listed because a book-level metric cannot express 'these are the same evidence twice' -- a reviewer must not read R@k=1 here as two independent confirmations. Grading kept equal (3/3) deliberately, not as a sign they are distinct works."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Both files' tables of contents list an identical chapter: 'The Metaphysics of Śaivism and Śaiva Siddhānta' (grep 'Metaphysics' confirmed at line 20 of the TOC and lines 1764/2483 of the chapter heading itself, in both files). A third copy of the same book, udayesvara-temple-art-architecture.md, is referenced in eval/gold.yaml but does not exist in this corpus directory at all."
+
+  # ── heading / chapter-specific ──────────────────────────────────────────
+  - id: BV-25
+    query: "methodology and objectives of the Udaypur geo-heritage study"
+    relevant_books: [Geo-Heritage of Udaypur The Third Eye.md]
+    heading: "6. OBJECTIVES; 7. METHODOLOGY"
+    why: "Two short, specifically-titled sections back to back."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep '^##' confirmed '## 6. OBJECTIVES' (line 850) and '## 7. METHODOLOGY' (line 869)."
+
+  - id: BV-26
+    query: "petroglyph of Lajja Gauri found at Udaypur"
+    relevant_books: [Geo-Heritage of Udaypur The Third Eye.md]
+    heading: "Annexure 7: Petroglyph - Lajja Gauri"
+    why: "A single, very specifically named annexure -- a precise single-passage probe."
+    answerable: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "grep '^##' confirmed '## Annexure 7: Petroglyph - Lajja Gauri' at line 2474."
+
+  # ── unanswerable (deliberate traps) ──────────────────────────────────────
+  # POLICY (see eval/benchmark_v2_notes.md): these four are intentionally
+  # excluded from the headline Precision/Recall/MRR/nDCG mean in any report
+  # built from this file. src/evaluate.py itself does NOT implement this
+  # exclusion (confirmed by reading relevance()/evaluate_queries() -- an
+  # empty relevant_books set forces relevance=0 for every hit, which forces
+  # P@k=R@k=RR=nDCG=0 for the query regardless of retrieval quality, and the
+  # harness's mean() then folds that fixed 0 into every aggregate). The
+  # `exclude_from_aggregate` marker records the intent; it is NOT read by
+  # src/evaluate.py and changes no evaluator behavior by itself.
+  - id: BV-27
+    query: "GDP growth rate of Madhya Pradesh in 2024"
+    relevant_books: []
+    heading: null
+    why: "This is a heritage/history/geology corpus with no contemporary state-level economic statistics."
+    answerable: false
+    exclude_from_aggregate: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "No file in the 26-file corpus is a macroeconomic or government-statistics source; confirmed by the corpus's own file list and subject matter sampled throughout this benchmark."
+
+  - id: BV-28
+    query: "population of Mumbai according to the 2021 census"
+    relevant_books: []
+    heading: null
+    why: "Out of geographic scope entirely -- the corpus concerns Vidisha district, Madhya Pradesh, not Mumbai."
+    answerable: false
+    exclude_from_aggregate: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "No Mumbai-related content found or expected anywhere in this Vidisha/Udaypur-focused corpus."
+
+  - id: BV-29
+    query: "best tourist attractions and lake palaces in Udaipur, Rajasthan"
+    relevant_books: []
+    heading: null
+    why: "Deliberate name-collision trap: Udaipur, Rajasthan (the famous 'City of Lakes') is a different place entirely from Udaypur/Udayapura, Vidisha district, MP, which this corpus is about."
+    answerable: false
+    exclude_from_aggregate: true
+    source_discovery: direct
+    review_marker: none
+    evidence: "Every file sampled in this benchmark identifies 'Udaypur'/'Udayapura' as the Vidisha-district village with the Udayesvara temple, never the Rajasthan city. Phase 7's actual run returned only Vidisha/MP-corpus content for this query at visibly lower dense-cosine scores (0.41-0.48) than genuinely on-topic queries (0.55-0.65+) -- noted here as context, not as proof; the relevance label itself was decided from the corpus contents, not from that run."
+
+  - id: BV-30
+    query: "exact birth date of King Bhoja of Malwa"
+    relevant_books: []
+    heading: null
+    why: "Medieval Indian inscriptions and chronicles typically record regnal/accession dates, not birth dates; none of the history sources sampled here state one."
+    answerable: false
+    exclude_from_aggregate: true
+    source_discovery: direct
+    review_marker: uncertain
+    evidence: "Ganguly's History of the Paramara Dynasty (sampled extensively for Udayaditya, Bhoja's successor) discusses Bhoja's reign and death but no birth date was found in the passages read. This is NOT a confirmed absence across the entire ~400-page book -- flagged uncertain rather than asserted as definitively unanswerable."

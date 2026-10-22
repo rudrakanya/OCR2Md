@@ -1,0 +1,25 @@
+{"c":"110f0a381e","keep":false,"reject_reason":"Mahmud of Ghazni and Paramdeo identification, no bearing on Udaypur"}
+{"c":"ca75c7d7e5","keep":false,"reject_reason":"Bhoja's standing army and start of Kalachuri war, no bearing on Udaypur"}
+{"c":"b47426e8b9","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[70,75],"note":"The Udaipur Prasasti records Bhoja's victory over a Chedi king, unnamed in the Prasasti but beyond doubt the Kalachuri Gangeyadeva.","xref":["C04"]}]}
+{"c":"bc09a38af3","keep":false,"reject_reason":"Kalvan inscription and Dhar Prasasti on Gangeya, no bearing on Udaypur"}
+{"c":"bbd669120f","keep":false,"reject_reason":"dating Bhoja's victory over Gangeyadeva, no bearing on Udaypur"}
+{"c":"da09f30978","keep":true,"items":[{"unit":"C04","sub":"S3","type":"quote","strength":"direct","span":[65,68],"note":"Nagpur inscription of Laksmadeva says Udayaditya, a kinsman of Bhoja, cleansed away the clouds of difficulties that spread over Dhara after Bhoja's death.","claim":{"key":"Udayāditya: relation to Bhoja","value":"kinsman of Bhoja (Nagpur inscription)"}},{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[74,78],"note":"H.C. Ray holds that the Nagpur inscription's mention of Karna shows the Udaipur prasasti was right in naming the Chedi lord as an adversary of the Paramara king.","claim":{"key":"Udaipur praśasti: location / date / reliability","value":"Ray: right in naming the lord of Chedi among Bhoja's adversaries"}}]}
+{"c":"95126b7b93","keep":false,"reject_reason":"Chandella and Kalachuri war narrative, no bearing on Udaypur"}
+{"c":"478cb73bba","keep":false,"reject_reason":"Chandella and Kachchapaghata war narrative, no bearing on Udaypur"}
+{"c":"a935d46369","keep":false,"reject_reason":"Gwalior reverse and Kanauj campaign start, no bearing on Udaypur"}
+{"c":"77ea1f4e81","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[69,70],"note":"The Udaipur Prasasti tells that Bhoja conquered the king of the Gurjaras.","xref":["C04"]}]}
+{"c":"2adb94ec01","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[19,22],"note":"Ganguly reads the Basahi plate verse with the Udaipur Prasasti to suggest Bhoja established some political authority over Kanauj for a time.","xref":["C04"]}]}
+{"c":"c7c7a557f5","keep":false,"reject_reason":"Chamba prince Sahavahana identification, no bearing on Udaypur"}
+{"c":"23a6bf1a12","keep":false,"reject_reason":"Chahamana wars, no bearing on Udaypur"}
+{"c":"9f18734424","keep":false,"reject_reason":"Chahamana and Bhima wars, no bearing on Udaypur"}
+{"c":"5662ba8150","keep":false,"reject_reason":"Bhoja-Bhima relations narrative, no bearing on Udaypur"}
+{"c":"e2395fa744","keep":false,"reject_reason":"Bhoja-Bhima gatha and Damara story, no bearing on Udaypur"}
+{"c":"4ee04c23ca","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[70,73],"note":"Bhoja's victory over Bhima is well recorded in the Udaipur Prasasti, which says the king of Gujarat was conquered by his mercenaries.","xref":["C04"]}]}
+{"c":"9b947e1079","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[4,5],"note":"Buhler holds the Gurjara prince in the Prasasti was none other than Bhima (OCR noisy at start).","xref":["C04"]}]}
+{"c":"12560a8650","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[56,61],"note":"Buhler says the hints on Bhoja's end in verse 20 of the Udaipur-Prasasti agree closely with the Nagpur-Prasasti and are reconcilable with Merutunga's story.","xref":["C04"]}]}
+{"c":"d29202b244","keep":true,"items":[{"unit":"C06","sub":"S1","type":"quote","strength":"direct","span":[25,30],"note":"The Udayapur Prasasti sums up Bhoja's military activities in one sloka: Karnatas, Lata, Gurjaras, Turuskas, Chedi, Indraratha, Toggal and Bhima conquered by his mercenaries alone.","xref":["C04"]}]}
+{"c":"0e8e3e3cab","keep":false,"reject_reason":"Merutunga verses and Bhoja's generals, no bearing on Udaypur"}
+{"c":"666d0cd2b3","keep":false,"reject_reason":"summary of Bhoja's military career, too general and no Udaypur bearing"}
+{"c":"915e10d783","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[35,38],"note":"Lists the imperial epithets applied to Bhoja, including Malavacakravartin and Dharesvara, as justified."}]}
+{"c":"e28cca0635","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (provincial divisions of Bhoja's empire, no Udaypur bearing)"}
+{"c":"961b99ebb1","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[45,48],"note":"The Udaipur prasasti, with other sources, refers to the hereditary system of kingship.","xref":["C04"]},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[2,4],"note":"Betma plates (V.S. 1076, A.D. 1020) record Bhoja granting property to Brahmanas, including villages."}]}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-6-astra",
+ "reasoning_effort": "high",
+ "why": "Chosen from client.models.list() (135 models visible to this key, listed 2026-10-13). OpenAI's models page (developers.openai.com/api/docs/models) describes gpt-6-astra as 'our flagship model for complex reasoning and coding' and 'our most capable model for the most demanding work'; it accepts reasoning effort low/medium/high/xhigh/max. Newer-dated gpt-6.1-sol is described as 'near-Astra performance for complex work at a lower cost' — a cheaper tier, not the flagship. Override with the OPENAI_MODEL environment variable.",
+ "prices_per_1M": {
+  "gpt-6-astra": {"input": 10.0, "output": 50.0},
+  "gpt-6.1-sol": {"input": 2.0, "output": 10.0},
+  "gpt-6-sol": {"input": 2.0, "output": 10.0},
+  "gpt-5.5": {"input": 5.0, "output": 30.0}
+ },
+ "prices_source": "developers.openai.com/api/docs/pricing, standard tier, short context (fetched 2026-10-13)"
+}

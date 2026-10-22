@@ -2,9 +2,9 @@
 """
 build_kb.py — build a local vector knowledge base from Markdown sources.
 
-Chunks every .md file in a source directory, embeds the chunks with Mistral
-embeddings (mistral-embed), and persists a simple, dependency-light vector store
-under ./kb/ :
+Chunks every .md file in a source directory, embeds the chunks with a local
+Ollama embedding model (bge-m3 by default), and persists a simple,
+dependency-light vector store under ./kb/ :
 
     kb/embeddings.npy   float32 [N, dim], L2-normalized (cosine == dot product)
     kb/chunks.jsonl     one record per chunk:
@@ -28,7 +28,8 @@ the last build, it skips (no re-embedding). Use --force to rebuild anyway.
 
 Query it with kb_search.py.
 
-Requires: mistralai, python-dotenv, numpy ; MISTRAL_API_KEY in .env.
+Requires: requests, python-dotenv, numpy ; an Ollama server at OLLAMA_URL
+(default http://localhost:11434) with the embedding model pulled.
 Usage:    python build_kb.py ["Udaypur Reference Markdown Files"] [--force]
 """
 import argparse
@@ -37,21 +38,23 @@ import json
 import os
 import re
 import sys
-import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 import numpy as np
 from dotenv import load_dotenv
-from mistralai.client import Mistral
 
+from local_embed import embed_batch
 from md_clean import clean_lines
 from config import CFG
 
 load_dotenv()
 load_dotenv(Path(__file__).resolve().parent / ".env", override=False)
 
-MODEL = os.environ.get("MISTRAL_EMBED_MODEL", "mistral-embed")
+# mistral-embed is billing-blocked (402) on this account -- same wall the OCR
+# pipeline hit. Switched to a local Ollama model (see local_embed.py); bge-m3
+# is multilingual, which this corpus needs (English/Sanskrit/Devanagari mixed).
+MODEL = os.environ.get("OLLAMA_EMBED_MODEL", "bge-m3")
 KB_DIR = Path(os.environ.get("KB_DIR", "kb"))
 MAX_CHARS = 1800                       # hard ceiling on chunk size (~350-450 words)
 MIN_FLUSH = int(MAX_CHARS * 0.6)       # prefer to break at a paragraph past this
@@ -267,7 +270,7 @@ def fingerprint(files, contexts=None):
             "files": stat}
 
 
-def embed_all(client, texts):
+def embed_all(texts):
     out, i = [], 0
     while i < len(texts):
         batch, toks = [], 0
@@ -276,17 +279,7 @@ def embed_all(client, texts):
             if batch and (toks + tt > BATCH_TOKENS or len(batch) >= BATCH_ITEMS):
                 break
             batch.append(texts[i]); toks += tt; i += 1
-        delay = 5
-        for attempt in range(5):
-            try:
-                r = client.embeddings.create(model=MODEL, inputs=batch)
-                out.extend(d.embedding for d in r.data)
-                break
-            except Exception as e:                       # noqa: BLE001 retry transient
-                if attempt == 4:
-                    raise
-                print(f"    embed retry {attempt+1}: {type(e).__name__}", flush=True)
-                time.sleep(delay); delay = min(delay * 2, 60)
+        out.extend(embed_batch(MODEL, batch))
         print(f"  embedded {len(out)}/{len(texts)} chunks", flush=True)
     return out
 
@@ -296,10 +289,6 @@ def main():
     ap.add_argument("src_dir", nargs="?", default="Udaypur Reference Markdown Files")
     ap.add_argument("--force", action="store_true", help="rebuild even if sources are unchanged")
     args = ap.parse_args()
-
-    key = os.environ.get("MISTRAL_API_KEY")
-    if not key:
-        print("ERROR: MISTRAL_API_KEY not set (put it in .env or the environment)"); sys.exit(1)
 
     files = sorted(glob.glob(os.path.join(args.src_dir, "*.md")))
     if not files:
@@ -335,8 +324,7 @@ def main():
         print("ERROR: sources produced no text chunks"); sys.exit(1)
     print(f"{len(files)} files -> {len(texts)} chunks; embedding with {MODEL} ...", flush=True)
 
-    client = Mistral(api_key=key)
-    arr = np.asarray(embed_all(client, texts), dtype="float32")
+    arr = np.asarray(embed_all(texts), dtype="float32")
     norms = np.linalg.norm(arr, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
     arr = arr / norms
@@ -371,26 +359,6 @@ def main():
         print(f"Sparse index: {n} chunks, {st['mentions']:,} entity mentions, "
               f"{st['entities']} entities -> {store.path}", flush=True)
     except Exception as e:
-        print(f"WARNING: sparse index not built ({type(e).__name__}: {e}). "
-              f"Dense retrieval works; hybrid does not. "
-              f"Fix, then run: python entities.py --reindex", file=sys.stderr)
-
-    # The dense matrix and the SQLite store must be built from the SAME chunk
-    # list in the SAME order: rowid is the join key between them, and a
-    # mismatch would silently pair one passage's vector with another's text.
-    # Building both here is what keeps that invariant true by construction.
-    try:
-        from entities import EntityIndex
-        from kb_store import KBStore
-        store = KBStore()
-        alias_map = EntityIndex.load(store=store).alias_map()
-        n = store.build(records, contexts=contexts, alias_map=alias_map,
-                        stamp={"built_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                               "count": int(arr.shape[0]), "config": CFG.hash()})
-        st = store.stats()
-        print(f"Sparse index: {n} chunks, {st['mentions']:,} entity mentions, "
-              f"{st['entities']} entities -> {store.path}", flush=True)
-    except Exception as e:                            # noqa: BLE001 - dense KB is still valid
         print(f"WARNING: sparse index not built ({type(e).__name__}: {e}). "
               f"Dense retrieval works; hybrid does not. "
               f"Fix, then run: python entities.py --reindex", file=sys.stderr)

@@ -1,0 +1,25 @@
+{"c":"a37ef11ef7","keep":false,"reject_reason":"district industrial worker census statistics; no Udaypur link"}
+{"c":"6aa55f5356","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"direct","span":[3,3],"note":"States that the jajam floor-cloths of Basoda and the red sandstone kundies of Udaypura have a great local reputation."},{"unit":"C02","sub":"S5","type":"quote","strength":"direct","span":[4,5],"xref":["C07"],"note":"Building construction was important in Vidisha; lime-stone and sandstone buildings in Bhilsa, Gyaraspur and other places 'testify to its extensive use from an early period'."}]}
+{"c":"42eeec39e5","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Sironj textile trade, not Udaypur)"}
+{"c":"22b96c2e18","keep":false,"reject_reason":"Sironj dyeing, paper and decline of industries; no Udaypur link"}
+{"c":"85ae69609b","keep":false,"reject_reason":"electric power supply history; no Udaypur link"}
+{"c":"e6a0180e39","keep":true,"items":[{"unit":"C02","sub":"S5","type":"fact","strength":"direct","span":[9,11],"xref":["C07"],"note":"Fine sandstone is found in many places of Vidisha District; buildings in Vidisha, Gyaraspur and many other places testify to its extensive use from an early period; both sandstone and limestone were used."}]}
+{"c":"98dc40dd3b","keep":true,"items":[{"unit":"C02","sub":"S5","type":"fact","strength":"direct","span":[1,2],"note":"The district has no important mineral resources except fine sand; mines and quarries of minor minerals such as clay, sandstone and murram exist all over it."}]}
+{"c":"6a4496f567","keep":false,"reject_reason":"modern factory listings; no Udaypur link"}
+{"c":"a26294419e","keep":false,"reject_reason":"small scale industry statistics; no Udaypur link"}
+{"c":"7f5c832261","keep":false,"reject_reason":"modern cottage industry listing of the district; generic"}
+{"c":"74dc93c64b","keep":false,"reject_reason":"industrial cooperative society statistics; no Udaypur link"}
+{"c":"1042db1668","keep":false,"reject_reason":"state financial assistance to industry; no Udaypur link"}
+{"c":"0b30a75989","keep":false,"reject_reason":"modern industrial potential survey; generic"}
+{"c":"22bfdf7622","keep":false,"reject_reason":"trade union registrations; no Udaypur link"}
+{"c":"b7be38557e","keep":false,"reject_reason":"labour welfare legislation; no Udaypur link"}
+{"c":"c6e118f428","keep":false,"reject_reason":"indigenous banking at Sironj in the Mughal period; no Udaypur link"}
+{"c":"3955f60885","keep":false,"reject_reason":"rural credit survey debt statistics 1951; no Udaypur link"}
+{"c":"4486cc4416","keep":false,"reject_reason":"debt repayment survey tables; no Udaypur link"}
+{"c":"d4c425ef72","keep":false,"reject_reason":"credit agency statistics; no Udaypur link"}
+{"c":"12b06dfa9e","keep":false,"reject_reason":"money-lender statistics; no Udaypur link"}
+{"c":"5d5bf70f20","keep":false,"reject_reason":"cooperative bank history; no Udaypur link"}
+{"c":"6f93e5bd50","keep":false,"reject_reason":"land development bank statistics; no Udaypur link"}
+{"c":"8561f9ca0b","keep":false,"reject_reason":"cooperative credit loans; no Udaypur link"}
+{"c":"fb3aa22259","keep":false,"reject_reason":"cooperative society statistics; no Udaypur link"}
+{"c":"9ebc1f8140","keep":false,"reject_reason":"commercial bank history and garbled number list; no Udaypur link"}

@@ -1,0 +1,25 @@
+{"c":"3a6fdfa87d","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa chapter close and storey rules; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"7774d131a1","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[3,4],"note":"Opens the Nāgara prāsāda section, naming Meru, Mandara, Kailāsa, Kumbha, Mṛgarāja and Gaja (⚠ old OCR)."}]}
+{"c":"8284df705d","keep":false,"reject_reason":"Samarāṅgaṇa list of twenty Nāgara types; generic names, no Udaypur link, garbled old OCR (pilot-judged for C01)"}
+{"c":"1c01048c1b","keep":false,"reject_reason":"Samarāṅgaṇa Nāgara types (Kumbha, Samudraka, Garuḍa) shape descriptions; garbled old OCR (pilot-judged for C01)"}
+{"c":"082987be83","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[11,11],"xref":["C02"],"note":"Prescribes that prāsādas may be brick, wooden or stone-carved, with entrance halls and arched portals (⚠ old OCR)."}]}
+{"c":"91197882c7","keep":false,"reject_reason":"Samarāṅgaṇa Meru-type cubit sizes; technical, garbled old OCR"}
+{"c":"38b0af1e56","keep":false,"reject_reason":"Samarāṅgaṇa cubit sizes and Śuddha Puṣpaka layout; technical, garbled old OCR"}
+{"c":"2dae634cdd","keep":false,"reject_reason":"Samarāṅgaṇa Puṣpaka talacchanda measurements; no conservation content, garbled old OCR"}
+{"c":"b03e7741db","keep":false,"reject_reason":"Samarāṅgaṇa Meru-type moulding layer counts; technical, garbled old OCR"}
+{"c":"565ca07e4c","keep":false,"reject_reason":"Samarāṅgaṇa Giripattri/Kumbha layer verses; technical, garbled old OCR"}
+{"c":"072e169548","keep":false,"reject_reason":"Samarāṅgaṇa Śukanāsa/Mālā layer verses; technical, garbled old OCR"}
+{"c":"18868718c1","keep":false,"reject_reason":"Samarāṅgaṇa Varaṇḍikā/Giripattrikā layer verses; technical, garbled old OCR"}
+{"c":"d357163a31","keep":false,"reject_reason":"Samarāṅgaṇa fourth-storey layer verses; technical, garbled old OCR"}
+{"c":"c3051719c3","keep":false,"reject_reason":"Samarāṅgaṇa Ghaṇṭā/Padma layer verses; technical, garbled old OCR"}
+{"c":"6a2386b8d7","keep":false,"reject_reason":"Samarāṅgaṇa sixth-storey Pīṭha layer verses; technical, garbled old OCR"}
+{"c":"061a50a7aa","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[13,13],"xref":["C04"],"note":"Closing verse: the twenty Meru-type main prāsādas are illustrated, and whoever builds them is honoured in the assembly of architects; chapter colophon names Bhojadeva (⚠ old OCR).","gloss":"Meru and the other twenty chief prāsādas, ending with the eighth storey, have been described; whoever builds these becomes honoured in the assembly of architects."}]}
+{"c":"edae848806","keep":false,"reject_reason":"Samarāṅgaṇa Vāvāṭa prāsāda name list; generic, garbled old OCR"}
+{"c":"90eba8f4f4","keep":false,"reject_reason":"Samarāṅgaṇa Digbhadra plan measurements; technical, garbled old OCR"}
+{"c":"de1543210a","keep":false,"reject_reason":"Samarāṅgaṇa Digbhadra storey heights; technical, garbled old OCR"}
+{"c":"6d33d05a12","keep":false,"reject_reason":"Samarāṅgaṇa Śrīvatsa definition fragment with footnotes; no usable evidence"}
+{"c":"d819cff74e","keep":false,"reject_reason":"Samarāṅgaṇa Śrīvatsa/Vardhamāna plan measurements; technical, garbled old OCR"}
+{"c":"cf5ba64e14","keep":false,"reject_reason":"Samarāṅgaṇa Vardhamāna storey proportions; technical, garbled old OCR"}
+{"c":"a47d6ca8ea","keep":false,"reject_reason":"Samarāṅgaṇa Nandyāvarta/Nandivardhana proportions; technical, garbled old OCR"}
+{"c":"c004ae9447","keep":false,"reject_reason":"Samarāṅgaṇa Nandivardhana proportions; technical, garbled old OCR"}
+{"c":"2aebbf2ed7","keep":false,"reject_reason":"Samarāṅgaṇa Vimāna plan proportions; technical, garbled old OCR"}

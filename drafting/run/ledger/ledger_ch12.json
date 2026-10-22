@@ -1,0 +1,194 @@
+{
+ "chapter": 12,
+ "sections": {
+  "12.1": "Population and the census record",
+  "12.2": "Roads, stations, schools and the panchayat",
+  "12.3": "Living inside the old town",
+  "12.4": "Fields, the market and the quarries",
+  "12.5": "The living hill",
+  "12.6": "The temple's visitors",
+  "12.7": "The town becoming visible, 2020–21",
+  "12.8": "The lane to the temple, 2021",
+  "12.9": "Outsiders' views of residents and officials",
+  "12.10": "Expectations of a tourist town"
+ },
+ "through_line": "Udaypur at the last record (early 2020s): the census's slow village (1901 928 or 1,619; 1971 2,025; 2011 6,383); the state's village of panchayat, two 'nearest' stations and schools (record of services stops 1979); households in the ruins; wheat for the Ganj Basoda mandi, district crafts, quarry wages, fields against the reserved forest; the living hill of bats, vultures, herds, pilgrims and trekkers, and the 1968 Udaipura block (not shown to be this hill); visitors who take darśan and leave, officials' VIP darśan; the town becoming visible in 2021 (walkers, Saxena's film, Bhopal); residents setting back their own shopfronts in 2021; outsiders' verdicts, each attributed, the record speaking about residents more than for them; expectations of a tourist town, where the arc from a king's town to a visited village reaches the present, into the Afterword.",
+ "people": [
+  {
+   "name": "Ajit Vadnerkar",
+   "full_name": "Ajit Vadnerkar",
+   "first_section": "12.3",
+   "role": "word-scholar; guest post reprinted by Tiwari (pp. 163–166)"
+  },
+  {
+   "name": "Shivkumar Vivek",
+   "full_name": "Shivkumar Vivek",
+   "first_section": "12.1",
+   "role": "journalist; guest post of 20 Feb 2022 (pp. 161–162)"
+  },
+  {
+   "name": "Madanmohan Upadhyay",
+   "full_name": "Dr Madanmohan Upadhyay",
+   "first_section": "12.9",
+   "role": "INTACH convener, Bhopal; retired IAS (legal review)"
+  },
+  {
+   "name": "Suresh Mishra",
+   "full_name": "Dr Suresh Mishra",
+   "first_section": "12.2",
+   "role": "historian of the heritage walks (died April 2021)"
+  }
+ ],
+ "terms": [
+  {
+   "term": "mandi",
+   "gloss": "the grain market",
+   "first_section": "12.4"
+  },
+  {
+   "term": "abhiṣeka",
+   "gloss": "ablution",
+   "first_section": "12.6"
+  },
+  {
+   "term": "jagirdars",
+   "gloss": "estate-holders",
+   "first_section": "12.5"
+  }
+ ],
+ "places": [
+  {
+   "name": "Mandi Bamora",
+   "first_section": "12.2",
+   "note": "second station and market town; road via Kurwai"
+  },
+  {
+   "name": "Kurwai",
+   "first_section": "12.2",
+   "note": "assembly constituency of Udaypur"
+  },
+  {
+   "name": "Mahuli",
+   "first_section": "12.1",
+   "note": "small village near Udaypur (INTACH)"
+  },
+  {
+   "name": "Udaipura shooting block",
+   "first_section": "12.5",
+   "note": "Gyaraspur Range, 1968 table; not shown to be Udaypur's hill (RR-27)"
+  },
+  {
+   "name": "Tribal Museum, Bhopal",
+   "first_section": "12.7",
+   "note": "hall of the Udaypur presentation"
+  }
+ ],
+ "figures": [
+  {
+   "what": "population 1901",
+   "value": "928 or 1,619 (both printed; RR-26)",
+   "keyword": "1,619",
+   "sections": [
+    "12.1"
+   ]
+  },
+  {
+   "what": "population 1971",
+   "value": "2,025",
+   "keyword": "2,025",
+   "sections": [
+    "12.1"
+   ]
+  },
+  {
+   "what": "2011 by sex",
+   "value": "3,405 men, 2,978 women",
+   "keyword": "3,405",
+   "sections": [
+    "12.1"
+   ]
+  },
+  {
+   "what": "bird species",
+   "value": "over fifty-eight; thirty-three of fifty-nine biome species",
+   "keyword": "fifty-eight",
+   "sections": [
+    "12.5"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "1901 census figure",
+   "sections": [
+    "12.1"
+   ],
+   "status": "open RR-26"
+  },
+  {
+   "question": "1968 shooting-block table columns",
+   "sections": [
+    "12.5"
+   ],
+   "status": "open RR-27"
+  },
+  {
+   "question": "date of the lane widening",
+   "sections": [
+    "12.8"
+   ],
+   "status": "open RR-28"
+  },
+  {
+   "question": "Raja Miyan / Raja Mishra",
+   "sections": [
+    "12.8"
+   ],
+   "status": "open RR-29 (not named)"
+  },
+  {
+   "question": "guest speakers pp. 161–170",
+   "sections": [
+    "12.3",
+    "12.7",
+    "12.10"
+   ],
+   "status": "partly resolved: pp. 161–162 Vivek, 163–166 Vadnerkar; 1.1 misattributes C01-JAGTA-EN-015"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "12.10",
+   "to": "Afterword",
+   "what": "residents' expectations and outsiders' predictions; the plans"
+  },
+  {
+   "from": "12.7",
+   "to": "Afterword",
+   "what": "INTACH's offer and the booking of the hall"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "the record speaks about residents more than for them",
+   "sections": [
+    "12.9",
+    "12.10"
+   ]
+  },
+  {
+   "motif": "district, not village",
+   "sections": [
+    "12.1",
+    "12.4",
+    "12.5"
+   ]
+  },
+  {
+   "motif": "from king's town to visited village",
+   "sections": [
+    "12.10"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{"c":"443190701c","keep":false,"reject_reason":"Jallikattu/NGO polemic; Udaipur-Rajasthan book, no bearing on any unit"}
+{"c":"0689558158","keep":false,"reject_reason":"generic polemical list of ways mandirs are 'destroyed'; no specific usable evidence"}
+{"c":"e5afef262d","keep":false,"reject_reason":"Sanskrit/judiciary polemic; generic, no bearing on Udaypur units"}
+{"c":"12efacc3a0","keep":false,"reject_reason":"Tamil Nadu court case on Tamil mantras; off-topic"}
+{"c":"9b7ce5db43","keep":false,"reject_reason":"Tamil Nadu court case on Tamil hymns; off-topic"}
+{"c":"659093807a","keep":false,"reject_reason":"polemic on Sanskrit vs Tamil and judiciary; off-topic"}
+{"c":"b75f8fbcc5","keep":false,"reject_reason":"Sanskrit neuroscience/mantra commentary plus OCR-judge garbage text; off-topic"}
+{"c":"55e69a08c0","keep":false,"reject_reason":"Sanskrit chanting polemic and health study; no bearing on any unit"}
+{"c":"1321e493ca","keep":true,"items":[{"unit":"C05","sub":"S4","type":"quote","strength":"contextual","span":[21,23],"note":"General Naṭarāja imagery: the CERN plaque quoting Capra on the cosmic dance uniting 'ancient mythology, religious art and modern physics' (Temple Economics, Rajasthan book; general context only)."}]}
+{"c":"6ade8dde0a","keep":false,"reject_reason":"Veecharuval sickle ban; off-topic"}
+{"c":"1b752d9bb3","keep":true,"items":[{"unit":"C08","sub":"S3","type":"quote","strength":"contextual","span":[1,3],"note":"General temple economics: Brahmins who ran the temple were responsible for economic activity, guiding farmers on weather, sowing, seeds, crop rotation and water management (cites Laxminama, 2018)."}]}
+{"c":"1aafd1c018","keep":false,"reject_reason":"modern priest salaries in Karnataka/Andhra; no bearing on Udaypur units"}
+{"c":"1126e956da","keep":false,"reject_reason":"modern Andhra priest pay revision; off-topic"}
+{"c":"8b19195824","keep":false,"reject_reason":"modern priest salaries and Imam court case; off-topic"}
+{"c":"9a918e6e82","keep":true,"items":[{"unit":"C08","sub":"S2","type":"excerpt","strength":"contextual","span":[3,8],"note":"Agama prescription that the officiant (acharya) be honoured with dakshina to gladden his heart, rather than paid as a wage; general ritual-economy context (cites Deepa Duraiswamy, Temple Management in the Agama-s)."}]}
+{"c":"a7209eda4b","keep":false,"reject_reason":"polemic on ASI neglect of temples elsewhere; no specific Udaypur or usable heritage-administration evidence"}
+{"c":"2b8b8ceb4c","keep":false,"reject_reason":"news items on ASI neglect at other temples (Konark, Wayanad, Lingaraj); off-topic"}
+{"c":"48ddd9ad3a","keep":false,"reject_reason":"news items on other temples and missing monuments; polemic, nothing specific to Udaypur"}
+{"c":"400209a426","keep":true,"items":[{"unit":"C11","sub":"S5","type":"figure","strength":"contextual","span":[17,18],"note":"CAG audit: of a sample of 1655 centrally protected monuments, 92 (6%) were not traceable; general context for heritage-management problems."}]}
+{"c":"66b8b8202e","keep":true,"items":[{"unit":"C11","sub":"S5","type":"excerpt","strength":"contextual","span":[1,3],"note":"CAG audit finding: numerous cases of encroachment and unauthorised construction around protected sites, and no comprehensive assessment of required preservation works (Para 3.4).","xref":["C13"]},{"unit":"C11","sub":"S3","type":"excerpt","strength":"contextual","span":[5,9],"note":"CAG audit: ASI lacked an updated Conservation Policy and prioritisation criteria; monuments selected arbitrarily for conservation (Para 4.1.1)."}]}
+{"c":"b2f16278c7","keep":false,"reject_reason":"polemical Bhojshala/ASI commentary; duplicate CAG material, advocacy not evidence"}
+{"c":"68593134a7","keep":false,"reject_reason":"list of temple vandalism incidents in Andhra Pradesh; off-topic"}
+{"c":"7871a47826","keep":false,"reject_reason":"idol vandalism news from Bihar/Assam; off-topic"}
+{"c":"a1c4eb69ca","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"22fe47a9aa","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}

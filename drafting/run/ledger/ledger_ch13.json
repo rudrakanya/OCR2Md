@@ -1,0 +1,50 @@
+{
+ "chapter": 13,
+ "sections": {
+  "13.1": "Where the record stops",
+  "13.2": "Agencies, owners and coordination",
+  "13.3": "Translating the inscriptions on site",
+  "13.4": "Guides, signs and heritage walks",
+  "13.5": "Clearing, excavating and recording",
+  "13.6": "Schools and the next generation",
+  "13.7": "Residents and citizens as keepers",
+  "13.8": "Professionals and researchers",
+  "13.9": "Tourism circuits and partnerships",
+  "13.10": "A heritage town",
+  "13.11": "Testing the proposals",
+  "13.12": "Conservation by use"
+ },
+ "through_line": "Afterword: the record's horizon (the 2019 letter; 2021 in a clause each; Vivek's post of 20 February 2022 the latest dated item; the survey 2021 or later, RR-31); protection building by building and no one answering for the town; the proposals on record from translations on site, guides and walks, clearing and monitoring, schools, residents and merchants, readers of inscriptions and the book's open questions, to circuits, partnership and Mishra's heritage town, each attributed; the proposals tested 'on the evidence of this book' (who pays, where the risk is, pace, people); the one argument, 'this book argues', conservation by use; the close on the temple seen from the Ganj Basoda road and the lane its residents widened.",
+ "people": [
+  {"name": "Suresh Mishra", "full_name": "Suresh Mishra", "first_section": "13.1", "role": "historian; proposed the heritage town; died in the corona epidemic (13.1; first 11.6)"},
+  {"name": "Madanmohan Upadhyay", "full_name": "Madanmohan Upadhyay", "first_section": "13.5", "role": "INTACH Bhopal convener; panchayat documentation, readers of inscriptions, international notice (first 11.5)"},
+  {"name": "Ajit Vadnerkar", "full_name": "Ajit Vadnerkar", "first_section": "13.7", "role": "guest post in Tiwari's book: merchants, first steps, circuit and PPP, the kiosks (first 12.3)"},
+  {"name": "Shivkumar Vivek", "full_name": "Shivkumar Vivek", "first_section": "13.1", "role": "guest post of 20 Feb 2022, the latest dated item (first 12.1)"}
+ ],
+ "terms": [
+  {"term": "gumati", "gloss": "kiosk (in quotation only)", "first_section": "13.10"}
+ ],
+ "places": [
+  {"name": "Kashi Vishwanath corridor", "first_section": "13.1", "note": "named only as Tiwari's model in the 2019 letter"},
+  {"name": "Bhimbetka", "first_section": "13.9", "note": "UNESCO site in this part of Madhya Pradesh (survey's framing)"}
+ ],
+ "figures": [
+  {"what": "earliest dated proposal", "value": "Tiwari's letter to a Collector, 2019 (writer's own account)", "keyword": "2019", "sections": ["13.1"]},
+  {"what": "latest dated item in the evidence", "value": "Vivek's post, 20 February 2022", "keyword": "2022", "sections": ["13.1"]},
+  {"what": "Geo-Heritage survey date", "value": "undated; 2021 or later (references consulted April 2021)", "keyword": "April 2021", "sections": ["13.1"]},
+  {"what": "hill fortification for notification", "value": "continuous stretch of about 1,400 m (survey)", "keyword": "1,400", "sections": ["13.2"]}
+ ],
+ "open_questions": [
+  {"question": "The Geo-Heritage survey's own date", "sections": ["13.1"], "status": "open RR-31 (inferred 2021 or later)"},
+  {"question": "Guest voices at Tiwari pp. 161–167", "sections": ["13.1", "13.7", "13.9", "13.10"], "status": "resolved by the Ch 12 plan (Vivek; Vadnerkar)"},
+  {"question": "The 2021 revenue order and the palace's status", "sections": ["13.1", "13.2", "13.11"], "status": "legal review LR-1"},
+  {"question": "The illegal-quarrying finding", "sections": ["13.5"], "status": "legal review LR-2"},
+  {"question": "Criticism of panchayats, the district association and departments", "sections": ["13.7", "13.8"], "status": "legal review (attributed opinion)"}
+ ],
+ "forward_refs": [],
+ "motifs": [
+  {"motif": "proposal, not plan", "sections": ["13.2", "13.3", "13.4", "13.5", "13.6", "13.9", "13.10"]},
+  {"motif": "who pays", "sections": ["13.10", "13.11"]},
+  {"motif": "conservation by use", "sections": ["13.12"]}
+ ]
+}

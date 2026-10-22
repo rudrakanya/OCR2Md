@@ -1,0 +1,927 @@
+{
+ "unit": "04",
+ "direct": 221,
+ "totals": {
+  "excluded": 113,
+  "cross-reference": 18,
+  "assigned": 90
+ },
+ "by_sub": {
+  "S1": {
+   "excluded": 24,
+   "assigned": 6
+  },
+  "S2": {
+   "excluded": 5,
+   "cross-reference": 1,
+   "assigned": 5
+  },
+  "S3": {
+   "excluded": 40,
+   "assigned": 27,
+   "cross-reference": 5
+  },
+  "S4": {
+   "excluded": 26,
+   "assigned": 29,
+   "cross-reference": 3
+  },
+  "S5": {
+   "assigned": 19,
+   "excluded": 14,
+   "cross-reference": 3
+  },
+  "S6": {
+   "excluded": 4,
+   "cross-reference": 6,
+   "assigned": 4
+  }
+ },
+ "status": {
+  "C04-JAGTA-EN-002": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-003": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-004": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-005": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-006": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-007": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-008": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-009": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-010": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-011": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-012": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-013": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-019": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-020": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-021": [
+   "cross-reference",
+   "ch06"
+  ],
+  "C04-JAGTA-EN-023": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-EN-024": [
+   "assigned",
+   "E"
+  ],
+  "C04-JAGTA-EN-025": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-EN-026": [
+   "excluded",
+   "Verma's reading of Record B's verses, via Tiwari (T8); Record B is cited from Ganguly and CII (R1)"
+  ],
+  "C04-JAGTA-EN-027": [
+   "assigned",
+   "C"
+  ],
+  "C04-JAGTA-EN-028": [
+   "excluded",
+   "Verma's reading of Record B's verses, via Tiwari (T8); Record B is cited from Ganguly and CII (R1)"
+  ],
+  "C04-JAGTA-EN-029": [
+   "assigned",
+   "C"
+  ],
+  "C04-JAGTA-EN-030": [
+   "excluded",
+   "Verma's speculation, via Tiwari, on Udayāditya's accession after Jayasiṃha's death (T8, R5); the war is carried by CII (C04-CII-096) (reason corrected 16 Oct audit)"
+  ],
+  "C04-JAGTA-EN-031": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-032": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-033": [
+   "excluded",
+   "testimony on the Nagpur inscription's issuer; cited via CII (C04-CII-084); Research Register RR-5"
+  ],
+  "C04-JAGTA-EN-034": [
+   "excluded",
+   "renderings of the Jainad and Dōngargāon kinship verses, via Tiwari (T8); the readings are in §1.2's note (C04-CII-083/-086); decision D2"
+  ],
+  "C04-JAGTA-EN-035": [
+   "excluded",
+   "renderings of the Jainad and Dōngargāon kinship verses, via Tiwari (T8); the readings are in §1.2's note (C04-CII-083/-086); decision D2"
+  ],
+  "C04-JAGTA-EN-036": [
+   "excluded",
+   "Tiwari on Jagaddēva as youngest son and Lakṣmadeva's early death (T8); carried by CII (C04-CII-077, -079, -085) (reason corrected 16 Oct audit)"
+  ],
+  "C04-JAGTA-EN-037": [
+   "excluded",
+   "Tiwari's chronological argument on the kinship (opinion, R5); decision D2"
+  ],
+  "C04-JAGTA-EN-038": [
+   "assigned",
+   "Note"
+  ],
+  "C04-JAGTA-EN-039": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-040": [
+   "excluded",
+   "distance from testimony (R5; the settled range is told in §1.1); the Udayasamudra is Ch 7's"
+  ],
+  "C04-JAGTA-EN-041": [
+   "excluded",
+   "v1: Tiwari's imagined consecration festival , the dancer , the Bhopal sabhā-maṇḍapa , \"500 km from Dhar\" and quarry-as-reason : fiction risk, unsupported, distance"
+  ],
+  "C04-JAGTA-EN-042": [
+   "assigned",
+   "E"
+  ],
+  "C04-JAGTA-EN-043": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-EN-044": [
+   "assigned",
+   "Note"
+  ],
+  "C04-JAGTA-EN-045": [
+   "assigned",
+   "E"
+  ],
+  "C04-JAGTA-EN-046": [
+   "excluded",
+   "testimony on strategic importance; the land is setting, not cause"
+  ],
+  "C04-JAGTA-EN-048": [
+   "assigned",
+   "X"
+  ],
+  "C04-JAGTA-EN-049": [
+   "excluded",
+   "Tiwari's argument from the absence of earlier inscriptions; told in §1.5"
+  ],
+  "C04-JAGTA-EN-050": [
+   "excluded",
+   "testimony making an uncorroborated claim (Jayasiṃha's first writing in the district); no CII support (R5)"
+  ],
+  "C04-JAGTA-EN-051": [
+   "excluded",
+   "testimony repeating the working dates; C04-PANDE-005 and C04-PARTEMPLES-005 used instead"
+  ],
+  "C04-JAGTA-EN-052": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-EN-053": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-EN-056": [
+   "assigned",
+   "E"
+  ],
+  "C04-JAGTA-EN-057": [
+   "excluded",
+   "Naravarman's Vijay Mandir: Naravarman's reign belongs to Ch 10"
+  ],
+  "C04-JAGTA-EN-058": [
+   "assigned",
+   "C"
+  ],
+  "C04-JAGTA-EN-061": [
+   "excluded",
+   "v1: Tiwari's imagined consecration festival , the dancer , the Bhopal sabhā-maṇḍapa , \"500 km from Dhar\" and quarry-as-reason : fiction risk, unsupported, distance"
+  ],
+  "C04-JAGTA-EN-062": [
+   "assigned",
+   "C"
+  ],
+  "C04-JAGTA-EN-063": [
+   "excluded",
+   "Naravarman's Vijay Mandir: Naravarman's reign belongs to Ch 10"
+  ],
+  "C04-JAGTA-EN-065": [
+   "cross-reference",
+   "ch07"
+  ],
+  "C04-JAGTA-EN-066": [
+   "cross-reference",
+   "ch07"
+  ],
+  "C04-JAGTA-EN-067": [
+   "excluded",
+   "Naravarman's Vijay Mandir: Naravarman's reign belongs to Ch 10"
+  ],
+  "C04-JAGTA-EN-071": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C04-JAGTA-HI-001": [
+   "excluded",
+   "Tiwari's general statement of the kingdom's extent (T8); the extent is carried by T1/T5 items (R5) (reason corrected 16 Oct audit)"
+  ],
+  "C04-JAGTA-HI-002": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-003": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-004": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-005": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-006": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-007": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-008": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-013": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-014": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-021)"
+  ],
+  "C04-JAGTA-HI-016": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-HI-017": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-HI-018": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-HI-019": [
+   "excluded",
+   "Verma's reading of Record B's verses, via Tiwari (T8); Record B is cited from Ganguly and CII (R1)"
+  ],
+  "C04-JAGTA-HI-020": [
+   "excluded",
+   "Hindi original of C04-JAGTA-EN-030: Verma's speculation on the accession (T8, R5); the war is carried by CII (reason corrected 16 Oct audit)"
+  ],
+  "C04-JAGTA-HI-021": [
+   "excluded",
+   "Verma's reading of Record B's verses, via Tiwari (T8); Record B is cited from Ganguly and CII (R1)"
+  ],
+  "C04-JAGTA-HI-022": [
+   "excluded",
+   "Verma's reading of Record B's verses, via Tiwari (T8); Record B is cited from Ganguly and CII (R1)"
+  ],
+  "C04-JAGTA-HI-023": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-024": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-027, C04-JAGTA-EN-029)"
+  ],
+  "C04-JAGTA-HI-026": [
+   "excluded",
+   "renderings of the Jainad and Dōngargāon kinship verses, via Tiwari (T8); the readings are in §1.2's note (C04-CII-083/-086); decision D2"
+  ],
+  "C04-JAGTA-HI-027": [
+   "cross-reference",
+   "ch06"
+  ],
+  "C04-JAGTA-HI-028": [
+   "excluded",
+   "Verma's rendering of the praśasti's verses, as Tiwari reports it (T8); superseded by CII's edition of the same verses (T1, used in 4.1–4.3); the poem as text is Ch 6's"
+  ],
+  "C04-JAGTA-HI-029": [
+   "excluded",
+   "renderings of the Jainad and Dōngargāon kinship verses, via Tiwari (T8); the readings are in §1.2's note (C04-CII-083/-086); decision D2"
+  ],
+  "C04-JAGTA-HI-030": [
+   "excluded",
+   "Tiwari on Jagaddēva as youngest son and Lakṣmadeva's early death (T8); carried by CII (C04-CII-077, -079, -085) (reason corrected 16 Oct audit)"
+  ],
+  "C04-JAGTA-HI-031": [
+   "excluded",
+   "renderings of the Jainad and Dōngargāon kinship verses, via Tiwari (T8); the readings are in §1.2's note (C04-CII-083/-086); decision D2"
+  ],
+  "C04-JAGTA-HI-032": [
+   "assigned",
+   "C"
+  ],
+  "C04-JAGTA-HI-035": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-021)"
+  ],
+  "C04-JAGTA-HI-036": [
+   "excluded",
+   "distance from testimony (R5; the settled range is told in §1.1); the Udayasamudra is Ch 7's"
+  ],
+  "C04-JAGTA-HI-037": [
+   "excluded",
+   "Hindi original of C04-JAGTA-EN-054 (p. 11); the border with the Kalacuri lands is carried by C04-JAGTA-EN-042 (reason corrected 16 Oct audit)"
+  ],
+  "C04-JAGTA-HI-038": [
+   "excluded",
+   "Hindi original of English renderings used (C04-JAGTA-EN-042, -044)"
+  ],
+  "C04-JAGTA-HI-039": [
+   "excluded",
+   "Hindi original of English renderings used (C04-JAGTA-EN-042, -044)"
+  ],
+  "C04-JAGTA-HI-040": [
+   "excluded",
+   "Hindi original of English renderings used (C04-JAGTA-EN-042, -044)"
+  ],
+  "C04-JAGTA-HI-041": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-HI-042": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-056)"
+  ],
+  "C04-JAGTA-HI-043": [
+   "excluded",
+   "Hindi original of C04-JAGTA-EN-059 (p. 97): testimony on Udayāditya's memory, no added evidence (R5) (reason corrected 16 Oct audit)"
+  ],
+  "C04-JAGTA-HI-044": [
+   "excluded",
+   "testimony on strategic importance; the land is setting, not cause"
+  ],
+  "C04-JAGTA-HI-045": [
+   "excluded",
+   "Verma's question, via Tiwari, on who built Udaypur; no added evidence; the question is §4.5's (founded or renamed)"
+  ],
+  "C04-JAGTA-HI-046": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-048)"
+  ],
+  "C04-JAGTA-HI-047": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-048)"
+  ],
+  "C04-JAGTA-HI-048": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-062)"
+  ],
+  "C04-JAGTA-HI-049": [
+   "excluded",
+   "testimony restating facts carried by T1/T5 items (R5); adds no evidence"
+  ],
+  "C04-JAGTA-HI-052": [
+   "excluded",
+   "v1: Tiwari's imagined consecration festival , the dancer , the Bhopal sabhā-maṇḍapa , \"500 km from Dhar\" and quarry-as-reason : fiction risk, unsupported, distance"
+  ],
+  "C04-JAGTA-HI-058": [
+   "excluded",
+   "Tiwari's imagined scene (no fiction)"
+  ],
+  "C04-JAGTA-HI-059": [
+   "assigned",
+   "Note"
+  ],
+  "C04-JAGTA-HI-060": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-048)"
+  ],
+  "C04-JAGTA-HI-061": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-048)"
+  ],
+  "C04-JAGTA-HI-062": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-021)"
+  ],
+  "C04-JAGTA-HI-064": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C04-JAGTA-EN-066)"
+  ],
+  "C04-JAGTA-HI-065": [
+   "excluded",
+   "Naravarman's Vijay Mandir: Naravarman's reign belongs to Ch 10"
+  ],
+  "C04-JAGTA-HI-068": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C04-CII-020": [
+   "excluded",
+   "agnikula: told in §1.4 (C01-KB-CII-015); recalled in a clause in 4.1"
+  ],
+  "C04-CII-021": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-022": [
+   "excluded",
+   "held for the approved D3 revision (RR-40; ch04_plan_v2.md §4.1 P4, drafted in ch04/v2_work/4.1.md); not in the text as written"
+  ],
+  "C04-CII-023": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-069": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-070": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-071": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-072": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-076": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-077": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-078": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-079": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-080": [
+   "excluded",
+   "held for the approved D3 revision (RR-40; ch04_plan_v2.md §4.3 P1 and §4.4 P1); not in the text as written"
+  ],
+  "C04-CII-081": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-082": [
+   "assigned",
+   "Note"
+  ],
+  "C04-CII-083": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-084": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-085": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-086": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-087": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-088": [
+   "excluded",
+   "conventional praise of earlier kings in a later record; no event"
+  ],
+  "C04-CII-106": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-107": [
+   "assigned",
+   "Note"
+  ],
+  "C04-CII-108": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-109": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-110": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-111": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-112": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-113": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-114": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-117": [
+   "excluded",
+   "held for the approved D3 revision (RR-40; ch04_plan_v2.md, last section, P5); not in the text as written"
+  ],
+  "C04-CII-119": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-120": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-121": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-122": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-123": [
+   "excluded",
+   "held for the approved D3 revision (RR-40; ch04_plan_v2.md §4.4 note); not in the text as written"
+  ],
+  "C04-CII-129": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-130": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-131": [
+   "assigned",
+   "E"
+  ],
+  "C04-CII-132": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-023": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-030": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-032": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-039": [
+   "assigned",
+   "Note"
+  ],
+  "C04-GANGULY-076": [
+   "assigned",
+   "Note"
+  ],
+  "C04-GANGULY-077": [
+   "cross-reference",
+   "ch01"
+  ],
+  "C04-GANGULY-078": [
+   "assigned",
+   "Note"
+  ],
+  "C04-GANGULY-079": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-080": [
+   "excluded",
+   "Ganguly's summary of the recovery; the CII items carry it"
+  ],
+  "C04-GANGULY-081": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-083": [
+   "excluded",
+   "v1: Ras Mālā and Belava : tradition and East Bengal marriages, off-axis. Udayāditya's marriages ; are optional for §4.4 P4 and were omitted for length"
+  ],
+  "C04-GANGULY-084": [
+   "excluded",
+   "v1: Ras Mālā and Belava : tradition and East Bengal marriages, off-axis. Udayāditya's marriages ; are optional for §4.4 P4 and were omitted for length"
+  ],
+  "C04-GANGULY-085": [
+   "assigned",
+   "C"
+  ],
+  "C04-GANGULY-086": [
+   "excluded",
+   "v1: Ras Mālā and Belava : tradition and East Bengal marriages, off-axis. Udayāditya's marriages ; are optional for §4.4 P4 and were omitted for length"
+  ],
+  "C04-GANGULY-087": [
+   "excluded",
+   "v1: Ras Mālā and Belava : tradition and East Bengal marriages, off-axis. Udayāditya's marriages ; are optional for §4.4 P4 and were omitted for length"
+  ],
+  "C04-GANGULY-088": [
+   "assigned",
+   "Note"
+  ],
+  "C04-GANGULY-089": [
+   "excluded",
+   "v1: Ras Mālā and Belava : tradition and East Bengal marriages, off-axis. Udayāditya's marriages ; are optional for §4.4 P4 and were omitted for length"
+  ],
+  "C04-GANGULY-091": [
+   "cross-reference",
+   "ch01"
+  ],
+  "C04-GANGULY-092": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-093": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-094": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-095": [
+   "excluded",
+   "realm to Jhalrapatan, Bhilsa and Nimar: told in §1.2 (C01-KB-GANGULY-004); C04-CII-111 used in 4.3"
+  ],
+  "C04-GANGULY-096": [
+   "assigned",
+   "C"
+  ],
+  "C04-GANGULY-097": [
+   "excluded",
+   "Ganguly's evaluative verdict on the reign (T5 opinion); adds no fact (R7)"
+  ],
+  "C04-GANGULY-098": [
+   "assigned",
+   "Note"
+  ],
+  "C04-GANGULY-099": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C04-GANGULY-100": [
+   "excluded",
+   "distance (\"thirty miles\" north of Bhilsa) conflicts with the settled 55–70 km range; not used"
+  ],
+  "C04-GANGULY-101": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-104": [
+   "assigned",
+   "C"
+  ],
+  "C04-GANGULY-105": [
+   "assigned",
+   "C"
+  ],
+  "C04-GANGULY-106": [
+   "assigned",
+   "E"
+  ],
+  "C04-GANGULY-107": [
+   "excluded",
+   "Naravarman's literary patronage; Ch 10 treats rank and endowment only; not used"
+  ],
+  "C04-GANGULY-109": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C04-GANGULY-132": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C04-GANGULY-137": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C04-BHOJA-TIMES-005": [
+   "excluded",
+   "duplicate of C04-CII-023 (Upendra first king)"
+  ],
+  "C04-BHOJA-TIMES-029": [
+   "cross-reference",
+   "ch01"
+  ],
+  "C04-BHOJA-TIMES-031": [
+   "assigned",
+   "E"
+  ],
+  "C04-BHOJA-TIMES-034": [
+   "excluded",
+   "reign dates superseded by CII (1011–1047; 1080–1093)"
+  ],
+  "C04-BHOJA-TIMES-038": [
+   "assigned",
+   "C"
+  ],
+  "C04-BHOJA-TIMES-040": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C04-BHOJA-TIMES-044": [
+   "excluded",
+   "Udaypur among towns grown under the Paramāras: told in §1.2 (C01-BHOJA-TIMES-006)"
+  ],
+  "C04-PARTEMPLES-005": [
+   "assigned",
+   "E"
+  ],
+  "C04-PARTEMPLES-006": [
+   "assigned",
+   "C"
+  ],
+  "C04-PARTEMPLES-007": [
+   "assigned",
+   "E"
+  ],
+  "C04-PARTEMPLES-009": [
+   "cross-reference",
+   "ch05"
+  ],
+  "C04-PARTEMPLES-010": [
+   "assigned",
+   "Note"
+  ],
+  "C04-GAZ-003": [
+   "cross-reference",
+   "ch01"
+  ],
+  "C04-GAZ-004": [
+   "assigned",
+   "E"
+  ],
+  "C04-GAZ-005": [
+   "assigned",
+   "E"
+  ],
+  "C04-GAZ-006": [
+   "assigned",
+   "E"
+  ],
+  "C04-GAZ-007": [
+   "assigned",
+   "E"
+  ],
+  "C04-MADHYABHARAT-005": [
+   "assigned",
+   "Note"
+  ],
+  "C04-MADHYABHARAT-006": [
+   "assigned",
+   "E"
+  ],
+  "C04-MADHYABHARAT-007": [
+   "cross-reference",
+   "ch05"
+  ],
+  "C04-MADHYABHARAT-009": [
+   "assigned",
+   "C"
+  ],
+  "C04-GEOHER-001": [
+   "assigned",
+   "E"
+  ],
+  "C04-GEOHER-002": [
+   "assigned",
+   "E"
+  ],
+  "C04-GEOHER-003": [
+   "assigned",
+   "C"
+  ],
+  "C04-GEOHER-004": [
+   "excluded",
+   "survey generality (many monuments under the Paramāras); no specific evidence"
+  ],
+  "C04-BHOJDEV-HI-008": [
+   "excluded",
+   "popular account (T9) of the praśasti's conquest list; CII used"
+  ],
+  "C04-BHOJDEV-HI-011": [
+   "assigned",
+   "C"
+  ],
+  "C04-BHOJDEV-HI-021": [
+   "excluded",
+   "duplicate of C04-CII-070 at a weaker tier (T9)"
+  ],
+  "C04-PANDE-005": [
+   "assigned",
+   "C"
+  ],
+  "C04-PANDE-006": [
+   "assigned",
+   "Note"
+  ],
+  "C04-PANDE-007": [
+   "assigned",
+   "C"
+  ],
+  "C04-INTACH-001": [
+   "excluded",
+   "the canon phrase at a weaker tier (T7); C04-BHOJA-TIMES-038 and C04-CII-084 used"
+  ],
+  "C04-INTACH-002": [
+   "assigned",
+   "C"
+  ],
+  "C04-INTACH-003": [
+   "assigned",
+   "C"
+  ],
+  "C04-RAJABHOJ-EN-024": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C04-RAJABHOJ-EN-025": [
+   "excluded",
+   "popular generality (T9) on Paramāra patronage"
+  ],
+  "C04-KRAM-2-001": [
+   "assigned",
+   "C"
+  ],
+  "C04-KRAM-2-002": [
+   "excluded",
+   "v1: Kramrisch on the treatise and on the patron; Chapter 5"
+  ],
+  "C04-PARMAR-RAJPUT-004": [
+   "excluded",
+   "v1: Bhoja legends and court lore ;;;;;: tier 9 or irrelevant; at most one clause on \"remembered patron\""
+  ],
+  "C04-ARTPAR-004": [
+   "excluded",
+   "garbled OCR crediting Bhoja with the temple; contradicts T1; not used"
+  ],
+  "C04-HARDY-003": [
+   "assigned",
+   "E"
+  ]
+ },
+ "contextual_cited": 37
+}

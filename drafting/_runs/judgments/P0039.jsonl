@@ -1,0 +1,25 @@
+{"c":"59f407213d","keep":true,"items":[{"unit":"C03","sub":"S3","type":"fact","strength":"direct","span":[4,7],"xref":["C08"],"note":"Bhāillasvāmippura is the ancient city of Vidishā (Bhilsā), formerly capital of the Akara-janapada, roughly east Mālava; named from a Sun image, with Albērūnī (c. 1030 A.C.) quoted."},{"unit":"C03","sub":"S2","type":"date","strength":"direct","span":[8,11],"note":"Earliest mention of the name Bhillasvāmin is in an inscription of V.S. 935 or 878 A.C.; also Bhillasvāmipura in the Māndhātā inscription of V.S. 1331."},{"unit":"C02","sub":"S1","type":"fact","strength":"direct","span":[12,13],"note":"Vētravatī is the river Bēwā flowing by the city of Bhilsā."}]}
+{"c":"25761458c4","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}
+{"c":"5312c75780","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}
+{"c":"c672ab1c19","keep":false,"reject_reason":"OCR-damaged Sanskrit donee list and plate scale numbers"}
+{"c":"d306078c63","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}
+{"c":"fabf5f5dd0","keep":false,"reject_reason":"OCR-damaged Sanskrit imprecatory verses"}
+{"c":"d5ccf7bcf1","keep":false,"reject_reason":"OCR-damaged Sanskrit text and textual footnotes"}
+{"c":"797c4b26b5","keep":false,"reject_reason":"donee name table for a Bhopāl grant; no bearing on any unit"}
+{"c":"15edbaa0de","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[5,9],"note":"Lexical terms tala-hattikā (market on low land) and āvāsanikā (stall or shop); the latter also occurs in a Bhilsa inscription of V.S. 935."},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[14,18],"note":"Piplianagar grant genealogy: Udayāditya, Naravarman, Yaśōvarman, Jayavarman; Hariśchandra obtained his principality through Jayavarman."}]}
+{"c":"fadb307bcb","keep":false,"reject_reason":"footnotes on errors in an earlier transcript"}
+{"c":"2da080d056","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[2,5],"note":"Hariśchandra was son of Lakshmīvarman; he extended his kingdom south of the Narmadā into Hoshangābād District."}]}
+{"c":"68d64aae30","keep":false,"reject_reason":"identification of Nilagiri and Palasavāḍā place-names in Hoshangābād; no bearing"}
+{"c":"06349cec2b","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"dca486cf90","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}
+{"c":"8d26baac4d","keep":false,"reject_reason":"footnotes identifying Hoshangābād places; no bearing"}
+{"c":"6c66e6c4a7","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}
+{"c":"31228faf69","keep":false,"reject_reason":"OCR-damaged Sanskrit imprecatory verses"}
+{"c":"52a117106b","keep":false,"reject_reason":"find-spot and physical description of Bhopāl plates"}
+{"c":"30bfc686f2","keep":false,"reject_reason":"palaeography and orthography notes only"}
+{"c":"8df0cf3700","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[9,13],"note":"Udayavarman's grant (V.S. 1256) lists Yasōvarman, Jayavarman, Lakshmīvarman, Harischandra and Udayavarman; Lakshmīvarman established himself in the Bhopāl region as subordinate to the Imperial Paramāra house."}]}
+{"c":"d2dbdaeae6","keep":true,"items":[{"unit":"C10","sub":"S1","type":"fact","strength":"contextual","span":[9,14],"xref":["C04"],"note":"Mahākumāra house held the Mahādvādaśaka region to 1157 A.C.; it then passed to Chaulukya Kumārapāla per an inscription of V.S. 1220 and an Ajayapāla inscription 'at Udaipur' of V.S. 1229."},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[16,20],"note":"Jayavarman's son Vindhyavarman recovered ancestral dominions from Chaulukya Mūlarāja II, after the present grant, and had to fight the Yādavas and Hoysalas."}]}
+{"c":"bec5dea57a","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"848882bdb8","keep":false,"reject_reason":"identification of villages near Nēmāwar; no bearing"}
+{"c":"e446aaaf81","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}
+{"c":"3bafd4edcb","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant"}

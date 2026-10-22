@@ -1,0 +1,2887 @@
+[
+ {
+  "id": "C12-JAGTA-HI-001",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 2",
+  "also": [],
+  "flags": [],
+  "quote": "आठ हजार आबादी का हाशिए पर मौजूद एक ऐसा उजाड़ सा कस्बा जो बीते कई दशकों से कुछ कहना चाहता था।\n*Gloss [my translation]:* A marginalised, desolate-looking town of eight thousand people, which for several decades had wanted to say something.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "eight thousand (author's round figure)"
+  },
+  "gloss": "A marginalised, desolate-looking town of eight thousand people, which for several decades had wanted to say something.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-002",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 2",
+  "also": [],
+  "flags": [],
+  "quote": "मध्यप्रदेश की राजधानी भोपाल से डेढ़ सौ किलोमीटर के फासले पर यह उदयपुर है।\n*Gloss [my translation]:* This Udaipur is at a distance of a hundred and fifty kilometres from Bhopal, the capital of Madhya Pradesh.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "150 km from Bhopal"
+  },
+  "gloss": "This Udaipur is at a distance of a hundred and fifty kilometres from Bhopal, the capital of Madhya Pradesh.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-003",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 4",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "also Ch 11"
+  ],
+  "quote": "मगर आजादी के बाद देश में पैदा हुई उम्मीदों से उदयपुर दशकों तक अछूता ही रहा। आजादी देश में और देश के लोगों के लिए, अगर किसी नई सुबह को लेकर आने वाली थी तो बाकी देश का पता नहीं, वह नई सुबह उदयपुर की ढह चुके दुर्ग की दीवारों तक कभी नहीं आई। वह उदासी से घिरा हुआ उजाड़ ही बना रहा। उसकी पुरातन भव्यता में झांकने की जरूरत किसी को महसूस नहीं हुई।\n*Gloss [my translation]:* But Udaipur remained untouched for decades by the hopes born in the country after independence. If independence brought a new dawn, it never reached the walls of Udaipur's fallen fort. It remained a desolation wrapped in sadness; no one felt a need to look into its ancient grandeur.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "But Udaipur remained untouched for decades by the hopes born in the country after independence. If independence brought a new dawn, it never reached the walls of Udaipur's fallen fort. It remained a desolation wrapped in sadness; no one felt a need to look into its ancient grandeur.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-004",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 7",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "quote": "धूल खाता हुआ एक बेतरतीब और बरबाद तिराहा, जिसके सामने की डामर रोड 16 किलोमीटर दूर जाकर गंज बौसादा से जोड़ती है। गंज बासीदा सबसे नजदीक रेलवे स्टेशन और छोटा कारोबारी शहर है। उदयपुर विदिशा जिले की इसी तहसील में आता है। तिराहे की दूसरी सड़क 90 डिग्री का मोड़ लेती हुई 22 किलोमीटर दूर मंडी बामौरा की तरफ चली जाती है, जो दूसरा रेलवे स्टेशन है और एक छोटा सा कारोबारी कस्बा है। इसी सड़क से मंडी बामौरा से सात किलोमीटर दूर कुरवाई है, जिसकी विधानसभा सीट के दायरे में उदयपुर आता है।\n*Gloss [my translation]:* A dusty, ruined three-way junction whose tarmac road in front joins Ganj Basoda 16 km away. Ganj Basoda is the nearest railway station and a small trading town; Udaipur falls in this tehsil of Vidisha district. The other road turns 90 degrees and goes 22 km to Mandi Bamora, the second railway station. On this road, seven km from Mandi Bamora, is Kurwai, within whose assembly constituency Udaipur falls.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "16 km from Ganj Basoda by road; Vidisha district"
+  },
+  "gloss": "A dusty, ruined three-way junction whose tarmac road in front joins Ganj Basoda 16 km away. Ganj Basoda is the nearest railway station and a small trading town; Udaipur falls in this tehsil of Vidisha district. The other road turns 90 degrees and goes 22 km to Mandi Bamora, the second railway station. On this road, seven km from Mandi Bamora, is Kurwai, within whose assembly constituency Udaipur falls.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-005",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 9",
+  "also": [],
+  "flags": [],
+  "quote": "वह एक ग्राम पंचायत है। पत्थर की खदानों के इस मालामाल इलाके की यह हालत बिल्कुल नहीं होनी चाहिए।\n*Gloss [my translation]:* It is a gram panchayat. This condition should not be at all in this area rich in stone quarries.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "It is a gram panchayat. This condition should not be at all in this area rich in stone quarries.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-006",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 18",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "quote": "सुरेश मिश्र जैसे इतिहास के जानकार के साथ हुई इस हेरिटेज वॉक के बारे में अपने तरोताजा अनुभवों पर मैंने लिखा कि आठ हजार आबादी की इस बस्ती में हजार-बारह सौ साल की इमारतें आज भी काफी हद तक बची हुई है।\n*Gloss [my translation]:* I wrote that in this settlement of eight thousand people, buildings a thousand to twelve hundred years old survive to a considerable extent even today.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "about 8,000 (author's post)"
+  },
+  "gloss": "I wrote that in this settlement of eight thousand people, buildings a thousand to twelve hundred years old survive to a considerable extent even today.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-007",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 163",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "quote": "- लगभग समूचे उदयपुर की नींव में इतिहास दबा हुआ है। बहुत कुछ तो खण्डहरों में दिखता है, मगर बहुत से खण्डहरों को पक्के मकान में तब्दील किया जा चुका है। प्राचीन और अर्वाचीन के इन पैबन्दों को पहचानने के लिए किसी विशेषज्ञ की नज़र नहीं चाहिए। ये किसी भी सामान्य पर्यटक की आँख\nभी पहचान सकती है।\n*Gloss [my translation]:* History lies buried in the foundations of almost the whole of Udaypur. Much can be seen in the ruins, but many ruins have been converted into pucca houses. No expert's eye is needed to identify these patches of ancient and modern. The eye of any ordinary tourist can also identify them.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "History lies buried in the foundations of almost the whole of Udaypur. Much can be seen in the ruins, but many ruins have been converted into pucca houses. No expert's eye is needed to identify these patches of ancient and modern. The eye of any ordinary tourist can also identify them.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-008",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 163",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "quote": "- विदिशा से करीब सत्तर किलोमीटर दूर उदयपुर को आज कृष्बा भी नहीं कहा जा सकता। एक सोया हुआ सा गाँव जो अपने अतीत से जागने की बात जोह रहा है... आज से एक हजार वर्ष पहले जब वह सुमावस्था में गया था, तब जिसका वैभव प्राचीन दशाणर्ण राज्य के मन्दिर-नगर का रहा होगा।\n*Gloss [my translation]:* About seventy km from Vidisha, Udaypur today cannot even be called a qasba. A sleeping village that waits to wake from its past... A thousand years ago when it went into slumber, its splendour must have been that of a temple-town of the ancient Dasharna kingdom.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "about 70 km from Vidisha"
+  },
+  "gloss": "About seventy km from Vidisha, Udaypur today cannot even be called a qasba. A sleeping village that waits to wake from its past... A thousand years ago when it went into slumber, its splendour must have been that of a temple-town of the ancient Dasharna kingdom.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-009",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 15",
+  "also": [],
+  "flags": [],
+  "quote": "ज्यादातर स्थानीय लोग अपनी रोजी-रोटी और खेती-बाड़ी के अलावा कुछ और सोचते ही नहीं हैं। वे लोग भी जिनकी रोजमर्रा की जरूरतें दूसरों से ज्यादा पूरी हो चुकी हैं।\n*Gloss [my translation]:* Most local people think of nothing beyond their daily bread and farming. Even those whose daily needs are better met than others.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Most local people think of nothing beyond their daily bread and farming. Even those whose daily needs are better met than others.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-011",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 85",
+  "also": [
+   "Ch 2"
+  ],
+  "flags": [
+   "also Ch 2"
+  ],
+  "quote": "गोविंद सक्सेना की एक ग्राउंड रिपोर्ट ने बताया कि ढाई हजार हेक्टेयर से ज्यादा वन विभाग की जमीन पर नाजायज खदानें चल रही हैं, जिनमें से लाखों रुपए का पत्थर हर दिन निकाला जाता है। स्थानीय गांवों के लोग जिंदा रहने लायक दिहाड़ी पर मजदूरी के लिए लगाए जाते हैं। पत्थर के मालदार लुटेरे बेददी से खदानों में धमाके करते हैं।\n*Gloss [my translation]:* A ground report by Govind Saxena said illegal mines are running on more than two and a half thousand hectares of forest department land, from which stone worth lakhs of rupees is extracted every day. People of local villages are put to labour at wages barely enough to live. The wealthy stone looters blast the mines ruthlessly.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "A ground report by Govind Saxena said illegal mines are running on more than two and a half thousand hectares of forest department land, from which stone worth lakhs of rupees is extracted every day. People of local villages are put to labour at wages barely enough to live. The wealthy stone looters blast the mines ruthlessly.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-012",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 23",
+  "also": [],
+  "flags": [],
+  "quote": "जो लोग उदयपुर गए हैं या इस इलाके के बाशिंदे हैं, वे जानते हैं कि महाराणा उदयान्दित्य का बनवाया हुआ मंदिर पांच किलोमीटर दूर से दिखाई देने लगता है। जब आप मुख्य सड़क से उदयपुर की तरफ बढ़ते हैं तो मंदिर की भव्यता देखने लायक होती है।\n*Gloss [my translation]:* Those who have gone to Udaypur or live in this area know that the temple built by Maharana Udayaditya becomes visible from five kilometres away. As you proceed toward Udaypur from the main road, the temple's grandeur is worth seeing.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Those who have gone to Udaypur or live in this area know that the temple built by Maharana Udayaditya becomes visible from five kilometres away. As you proceed toward Udaypur from the main road, the temple's grandeur is worth seeing.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-013",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 27",
+  "also": [],
+  "flags": [],
+  "quote": "आप आज भी देवी प्रतिमाओं के आभूषणों से मंडित वक्ष और स्तन कटे हुए देख सकते हैं। नाक और कान टूटे हुए दिखाई देंगे। चेहरों को विकृत ही पाएंगे।\n*Gloss [my translation]:* Even today you can see the breasts and chests of goddess images, adorned with ornaments, cut off; noses and ears broken; faces disfigured.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Even today you can see the breasts and chests of goddess images, adorned with ornaments, cut off; noses and ears broken; faces disfigured.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-014",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 73",
+  "also": [],
+  "flags": [],
+  "quote": "कहानी है, जिसकी खुदाई में दशकों पहले शानदार कलाकृतियों वाला एक पुराना\nआवास दफन था। श्रद्धा और परिश्रम से उसकी सफाई की गई थी। वही अब उनका\nघर है, जो कथा उदयपुर का एक प्रकाशित पृष्ठ है।\n*Gloss [my translation]:* An old dwelling with splendid artwork lay buried decades ago in the excavation. It was cleaned with devotion and effort. That is now their home, a lit page of the Udaipur tale.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "An old dwelling with splendid artwork lay buried decades ago in the excavation. It was cleaned with devotion and effort. That is now their home, a lit page of the Udaipur tale.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-015",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 96",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "इस साल सबसे बड़ा बदलाव यह आया है कि गंजबासौदा के जागरूकजनों ने नए सिर से नई दृष्टि से अपने पड़ोस के इस उदास नगर को देखना शुरू किया है। उसका हालचाल पूछना शुरू किया है। युवाओं की एक टोली हर दूसरे-तीसरे दिन उदयपुर के आसपास भटक रही है। हर जगह उदयपुर अपने बारे में कुछ नई जानकारी दे रहा है। सामाजिक कार्यकर्ता प्रवीण शर्मा तो रोज ही कभी किसी खंडहर, कभी किसी पुराने मकान और कभी किसी झाड़-झंखाड़ में जा-जाकर उदयपुर की भूली-बिसरी कथा के पन्ने पलट रहे हैं।\n*Gloss [my translation]:* The biggest change this year is that aware people of Ganj Basoda have begun to look anew at this sad town in their neighbourhood. They have begun to enquire after its welfare. A group of youths wanders around Udaypur every second or third day. Everywhere Udaypur is giving some new information about itself. Social worker Praveen Sharma goes every day, sometimes to some ruin, sometimes some old house, sometimes some thicket, turning the pages of Udaypur's forgotten story.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "The biggest change this year is that aware people of Ganj Basoda have begun to look anew at this sad town in their neighbourhood. They have begun to enquire after its welfare. A group of youths wanders around Udaypur every second or third day. Everywhere Udaypur is giving some new information about itself. Social worker Praveen Sharma goes every day, sometimes to some ruin, sometimes some old house, sometimes some thicket, turning the pages of Udaypur's forgotten story.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-016",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 152",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "पिछले एक साल में उपाध्याय का कई बार उदयपुर जाना हुआ। वे मानते हैं कि स्थानीय लोगों की एक अलग दुनिया है और अपनी बेशकीमती विरासत के प्रति उनका जीवंत संबंध ऐसा नहीं रहा है कि वे अपनी ओर से कोई कारगर पहल करें। एक किस्म की उदासीनता से भरी दूरी ही रही है। जब तक वे इससे जुड़ाव महसूस नहीं करते तब तक केवल बाहरी प्रयासों या सरकारी कोशिशों से अपेक्षित नतीजे नहीं आ सकते।\n*Gloss [my translation]:* Upadhyay visited Udaypur many times in the last year. He believes that local people have a separate world and their living connection with their priceless heritage has not been such that they take any effective initiative on their own. There has been a distance full of a kind of indifference. Until they feel attached to it, expected results cannot come from outside efforts or government efforts alone.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Upadhyay visited Udaypur many times in the last year. He believes that local people have a separate world and their living connection with their priceless heritage has not been such that they take any effective initiative on their own. There has been a distance full of a kind of indifference. Until they feel attached to it, expected results cannot come from outside efforts or government efforts alone.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-017",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 161",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "उन्होंने इसे अंधेरी वीधियों से निकालने का निश्चय किया। इतिहास विशेषज्ञ डॉ. सुरेश मिश्र को लेकर गए और अतीत के घटनाक्रम के धागों को बुनकर समय के दुश्चक्र को बूढ़ा। कुछ उत्साही युवाओं की टोली संगठित हुई। उसके बाद से वे लोगों को इस धरोहर के प्रति सजग करने में जुटे हैं।\n*Gloss [my translation]:* He resolved to bring it out of the dark lanes. He took the history expert Dr. Suresh Mishra and, weaving the threads of past events, searched the cruel cycle of time. A group of enthusiastic youths organised. Since then they have been busy making people aware of this heritage.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "He resolved to bring it out of the dark lanes. He took the history expert Dr. Suresh Mishra and, weaving the threads of past events, searched the cruel cycle of time. A group of enthusiastic youths organised. Since then they have been busy making people aware of this heritage.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-018",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 165",
+  "also": [],
+  "flags": [],
+  "quote": "मानों सदियों का खोया हुआ गौरव और वैभव लौटा लाने के लिए उदयपुर उठ खड़ा हुआ हो।\nइस नवनिर्मित चौड़े, विस्तर्ण और जनसहयोग से बने रास्ते को देखकर लगता है कि जैसे बाहरी आक्रमणकारियों को दक्कन की राह का ऐसा ही प्रशस्त वैभव बार बार लोलुप बनाता था।\n*Gloss [my translation]:* As if Udaypur had risen to bring back centuries of lost glory. Seeing this newly built wide, broad road built with public cooperation, it seems that such a broad splendid road to the Deccan again and again made outside invaders greedy.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "As if Udaypur had risen to bring back centuries of lost glory. Seeing this newly built wide, broad road built with public cooperation, it seems that such a broad splendid road to the Deccan again and again made outside invaders greedy.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-019",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 15",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "आजादी के इतने साल बाद तक किसी पंचायत के निर्वाचित प्रतिनिधियों को नहीं लगा कि यह कुछ ऐसा है, जिसकी बेहतर देखभाल की जानी चाहिए। सरकारी अमले में कोई ऐसा नहीं था, जो यहां के बारे में कागजों पर ही कोई प्रस्ताव बनाकर आगे बढ़ा देता। किसी स्कूल टीचर को भी कुछ दिखाई नहीं दिया, जिसकी बात आगे कहीं ले जाई जाती। नागरिकों में से किसी के मन में यह ख्याल नहीं आया कि वह उदयपुर की नष्ट होती संपदा के लिए कुछ छोटी-मोटी पहल ही करे।\n*Gloss [my translation]:* Even after so many years of independence, none of the elected panchayat representatives felt this was something to be better looked after. No one in officialdom drew up even a paper proposal and forwarded it. No school teacher saw anything whose word could be carried further. It did not occur to any citizen to take even a small initiative for Udaypur's perishing wealth.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Even after so many years of independence, none of the elected panchayat representatives felt this was something to be better looked after. No one in officialdom drew up even a paper proposal and forwarded it. No school teacher saw anything whose word could be carried further. It did not occur to any citizen to take even a small initiative for Udaypur's perishing wealth.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-020",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 17",
+  "also": [],
+  "flags": [],
+  "quote": "मैंने लिखा कि एक हज़ार साल पुराना राजमहल किसी की निजी संपत्ति कैसे हो सकता है? मगर ऐसा है। भोपाल से डेढ़ सौ किलोमीटर दूर विदिशा जिले के उदयपुर की तीन तस्वीरें इसकी गवाह हैं। जो कुछ उस साइन बोर्ड पर दर्ज था, उसे ही हेडलाइन बनाकर अपने फेसबुक पेज पर एक लेख लिखा, इनहीं तीनों तस्वीरों के साथ।\n5 जनवरी 2021 की उस पोस्ट का शीर्षक था- \"उदयपुर पैलेस, खसरा नंबर-822, निजी संपत्ति।\"\n*Gloss [my translation]:* I wrote: how can a thousand-year-old palace be someone's private property? But it is so. Three pictures of Udaypur in Vidisha district, 150 km from Bhopal, bear witness. Whatever was recorded on that signboard I made the headline of an article on my Facebook page, with the same three pictures. The title of that post of 5 January 2021 was 'Udaipur Palace, Khasra Number-822, Private Property.'",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "I wrote: how can a thousand-year-old palace be someone's private property? But it is so. Three pictures of Udaypur in Vidisha district, 150 km from Bhopal, bear witness. Whatever was recorded on that signboard I made the headline of an article on my Facebook page, with the same three pictures. The title of that post of 5 January 2021 was 'Udaipur Palace, Khasra Number-822, Private Property.'",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-021",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 19",
+  "also": [],
+  "flags": [],
+  "quote": "यह एक अलग ही दुनिया है। अतीत से कटी हुई। वर्तमान से बेफिक्र। भविष्य की धुंधली कल्पनाएं भी नहीं हैं। वे हर छोटे बड़े काम के लिए सरकारों के भरोसे हैं।\n*Gloss [my translation]:* This is an altogether different world. Cut off from the past. Careless of the present. Not even hazy imaginations of the future. They depend on governments for every small and big task.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "This is an altogether different world. Cut off from the past. Careless of the present. Not even hazy imaginations of the future. They depend on governments for every small and big task.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-022",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 21",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "राजधानी भोपाल की नाक के नीचे सिर्फ़ डेढ़ सौ किलोमीटर दूर एक पूरा पुराना नगर अपने एक हजार साल पुराने वैभव में बचा हुआ जैसे दम तोड़ रहा हो। लेकिन ग्राम पंचायत से लेकर संसद तक की यात्रा करने वाले जनता के प्रतिनिधियों और प्रशासनिक पराक्रमियों ने अब तक इसे बेशर्मी से घूरे की तरह रखकर छोड़ा है।\n*Gloss [my translation]:* Only a hundred and fifty kilometres away, right under the nose of the capital Bhopal, an entire old town, preserved in its thousand-year-old splendour, seems to be gasping. But the people's representatives and administrative heroes, who journey from gram panchayat to Parliament, have shamelessly left it like a dung heap until now.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Only a hundred and fifty kilometres away, right under the nose of the capital Bhopal, an entire old town, preserved in its thousand-year-old splendour, seems to be gasping. But the people's representatives and administrative heroes, who journey from gram panchayat to Parliament, have shamelessly left it like a dung heap until now.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-023",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 23",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "यह गनीमत है कि उदयपुर का मंदिर इस हश्र को प्राप्त होने से बच गया। वह इस इलाके में प्राचीन भारतीय स्थापत्य का कोहिनूर है, जिसे घूरे पर डालकर रखा गया है और मुझे ताज्जुब है कि यहां आने वाले अफसर इसे ऐसा ही छोड़-छोड़कर जाते रहे।\n*Gloss [my translation]:* It is fortunate that the Udaipur temple was spared such a fate. It is the Kohinoor of ancient Indian architecture in this region, yet it has been kept on a rubbish heap, and I am astonished that visiting officials keep leaving it that way.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "It is fortunate that the Udaipur temple was spared such a fate. It is the Kohinoor of ancient Indian architecture in this region, yet it has been kept on a rubbish heap, and I am astonished that visiting officials keep leaving it that way.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-024",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 67",
+  "also": [
+   "Ch 7",
+   "Ch 11"
+  ],
+  "flags": [
+   "also Ch 7, Ch 11"
+  ],
+  "quote": "संकरी गली में दोनों तरफ दस-दस फुट सफाई की गई थी। जिनके मकान और दुकानों के अगले हिस्से हटाए गए थे वे नए सिरों से निर्माण शुरू करा रहे थे। लेकिन रास्ते में बाईं तरफ वह मकान बीच में सड़क पर निकला हुआ ही था, जिस पर हमने जामा मस्जिद का साइन बोर्ड टंगा देखा था। उसका दस फुट हिस्सा अकेला था, जिसे छुआ नहीं गया था।\n*Gloss [my translation]:* In the narrow lane ten feet on each side had been cleared. Those whose house and shop fronts were removed were starting to rebuild. But on the left stood the house projecting into the road on which we had seen a Jama Masjid signboard. Its ten-foot portion alone had not been touched.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "In the narrow lane ten feet on each side had been cleared. Those whose house and shop fronts were removed were starting to rebuild. But on the left stood the house projecting into the road on which we had seen a Jama Masjid signboard. Its ten-foot portion alone had not been touched.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-025",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 73",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "खुश होकर बताया कि उन्होंने अपनी ज्यादा जगह खाली की है। बिना किसी आदेश\nके। उदयपुर की भलाई के लिए कमाया गया यह उनके हिस्से का सवाब है।\n*Gloss [my translation]:* Happily he told that he had vacated more of his space, without any order. This earned merit of his share is for Udaipur's good.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Happily he told that he had vacated more of his space, without any order. This earned merit of his share is for Udaipur's good.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-026",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 88",
+  "also": [],
+  "flags": [],
+  "quote": "जिन लोगों से भी हम अपनी यात्राओं में मिले थे, उनमें एक किस्म की जिज्ञासा जरूर जाग रही थी। वे इसे उदयपुर के ऐसे विकास की शुरुआत मान रहे थे, जब यहां बाहर के लोगों का आना-जाना बढ़ेगा। उनके कारोबार चमकेंगे। यानी कुलमिलाकर बात अपने फायदे की थी।\n*Gloss [my translation]:* Everyone we met had a curiosity awakening. They saw it as the start of the kind of development when outsiders would come more often. Their business would shine. In short it was about their own benefit.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Everyone we met had a curiosity awakening. They saw it as the start of the kind of development when outsiders would come more often. Their business would shine. In short it was about their own benefit.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-027",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 10",
+  "also": [],
+  "flags": [],
+  "quote": "बहुत ही कम लोग मंदिर के हैरतअंगेज स्थापत्य पर ध्यान देते। न के बराबर इसके असल इतिहास में झांकते। सारे ही मंदिर से बाहर आकर बिना समय गंवाए उदयपुर से बाहर हो जाते।\n*Gloss [my translation]:* Very few people paid attention to the temple's astonishing architecture. Almost none looked into its real history. All came out of the temple and left Udaipur without wasting time.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Very few people paid attention to the temple's astonishing architecture. Almost none looked into its real history. All came out of the temple and left Udaipur without wasting time.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-028",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 15",
+  "also": [],
+  "flags": [],
+  "quote": "मंदिर के स्थापत्य को दूर से ही देखकर पहली बार उदयपुर आए डॉ. सुरेश मिश्र की आंखें चकाचौंध हो गईं। उन्हें यह अंदाजा भी नहीं था कि भोपाल के इतने पास चौबीस कैरेट का एक ऐतिहासिक स्थान इतनी भव्यता के साथ मौजूद है, जिसे स्थानीय बेपरवाही ने बिल्कुल खराब परिवेश के बीच उपेक्षित रख छोड़ा है।\n*Gloss [my translation]:* Seeing the temple's architecture from afar, Dr. Suresh Mishra, visiting Udaypur for the first time, was dazzled. He had no idea that a 24-carat historic place existed in such grandeur so near Bhopal, left neglected amid a very poor setting by local indifference.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Seeing the temple's architecture from afar, Dr. Suresh Mishra, visiting Udaypur for the first time, was dazzled. He had no idea that a 24-carat historic place existed in such grandeur so near Bhopal, left neglected amid a very poor setting by local indifference.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-029",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 19",
+  "also": [
+   "Ch 8"
+  ],
+  "flags": [
+   "also Ch 8"
+  ],
+  "quote": "हर दिन दूर-दूर से लोग उदयपुर आते हैं। ज्यादातर सिर्फ 11 वीं सदी के मंदिर के दर्शन करने आते हैं और वे भी सिर्फ महादेव की पूजा-अर्चना के लिए। गर्भगृह से बाहर आकर वे हक्के-बक्के से गर्दन ऊंची करके मंदिर के स्थापत्य को देखते हैं। मोबाइल आजकल सबके पास हैं तो फोटो खींचना फूल चढ़ाने जैसी आवश्यक रस्म बन गई है ताकि सोशल मीडिया पर प्रसारित कर सकें। इक्का-दुक्का ही कोई पत्थरों पर उकेरे इस चमत्कार की डिटेल्स में जाना चाहता होगा।\n*Gloss [my translation]:* Every day people come to Udaypur from far away. Most come only to see the 11th-century temple, and only to worship Mahadeva. Coming out of the sanctum they look up amazed at the temple's architecture. Mobiles are with everyone nowadays, so taking photos has become a necessary ritual like offering flowers, so that they can circulate on social media. Only a rare one would want to go into the details of this wonder carved on stone.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Every day people come to Udaypur from far away. Most come only to see the 11th-century temple, and only to worship Mahadeva. Coming out of the sanctum they look up amazed at the temple's architecture. Mobiles are with everyone nowadays, so taking photos has become a necessary ritual like offering flowers, so that they can circulate on social media. Only a rare one would want to go into the details of this wonder carved on stone.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-030",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 19",
+  "also": [],
+  "flags": [],
+  "quote": "यह पूरे जिले में एकमात्र ऐसी जगह है, जिसे एक शानदार पर्यटन केंद्र के रूप में ऐसा विकसित किया जा सकता है कि लोगों को एक पूरा दिन यहां बिताकर अपने अतीत में झांकने का मौका मिले।\n*Gloss [my translation]:* This is the only such place in the whole district that can be developed into a splendid tourist centre where people can spend a full day peering into their past.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "This is the only such place in the whole district that can be developed into a splendid tourist centre where people can spend a full day peering into their past.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-031",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 34",
+  "also": [],
+  "flags": [],
+  "quote": "साहब को सपरिवार नीलकंठेश्वर महादेव के दर्शन कराने की आकांक्षा गंज बासौदा के हर एसडीएम और तहसीलदार की होती है। वीआईपी दर्शन की इस परंपरा में साहब सीधे गर्भगृह में शिव के समक्ष पहुंचते हैं। हो सकता है इतिहास में दिलचस्प उन्हें थोड़ी देर के लिए मंदिर के शानदार वास्तु को देखने के लिए रोकती हो। शायद ही कोई कलेक्टर मंदिर के आसपास की बदहाली पर गौर करता हो। कोई उदयपुर की गलियों में नहीं गया होगा, जहां एक हजार साल का ज्ञात इतिहास हर खंडहर, हर इमारत और हर दरवाजे से झांक-झांककर कुछ कहता है।\n*Gloss [my translation]:* Every SDM and tehsildar of Ganj Basoda wishes to bring the officer with family for darshan of Nilakantheshwar Mahadev. In this VIP darshan tradition the officer goes straight to the sanctum. Perhaps interest in history makes him pause briefly to view the temple's fine architecture. Hardly any collector notices the neglect around the temple. No one will have gone into Udaipur's lanes, where a thousand years of known history peeps from every ruin, building and doorway.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Every SDM and tehsildar of Ganj Basoda wishes to bring the officer with family for darshan of Nilakantheshwar Mahadev. In this VIP darshan tradition the officer goes straight to the sanctum. Perhaps interest in history makes him pause briefly to view the temple's fine architecture. Hardly any collector notices the neglect around the temple. No one will have gone into Udaipur's lanes, where a thousand years of known history peeps from every ruin, building and doorway.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-032",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 41",
+  "also": [],
+  "flags": [],
+  "quote": "गोविंद सक्सेना भी एक दिन बाइक से 70 किलोमीटर चलकर उदयपुर आए। वे सोचें उसी राजमहल पर जा धमके, जिसने अचानक ही उदयपुर को सुर्खियों में ला दिया था। उन्होंने कई जर्रर बरामदों, वीरान सभागृहों, धूलधूसरित सीढ़ियों और उखड़े तहखानों में जाकर वीडियो पर राजमहल को हर एंगल से उतारा। वे उस छत पर भी गए जो निजी संपत्ति बनाकर रखी गई थी और अब बाहर लोहे के बड़े दरवाजे पर ताला जड़ा हुआ था।\n*Gloss [my translation]:* Govind Saxena came to Udaipur one day by bike over 70 kilometres. He went into many ruined verandas, deserted halls, dusty stairs and torn-up cellars and filmed the palace from every angle. He also went to the roof that had been kept as private property, now locked with a large iron gate.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Govind Saxena came to Udaipur one day by bike over 70 kilometres. He went into many ruined verandas, deserted halls, dusty stairs and torn-up cellars and filmed the palace from every angle. He also went to the roof that had been kept as private property, now locked with a large iron gate.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-033",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 76",
+  "also": [],
+  "flags": [],
+  "quote": "आकाशवाणी से संजीव शर्मा और डायरेक्ट फील्ड पब्लिसिटी के अधिकारी अजय उपाध्याय की टीम उनमें से थी, जो कभी न कभी उदयपुर जा चुकी थी लेकिन उदयपुर के नाम पर एकमात्र परिचय सिर्फ मंदिर से ही था कि एक प्राचीन भव्य मंदिर\nवहां है।\n*Gloss [my translation]:* Some, who had gone to Udaipur at some time, knew Udaipur only by the temple: that an ancient grand temple is there.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Some, who had gone to Udaipur at some time, knew Udaipur only by the temple: that an ancient grand temple is there.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-034",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 93",
+  "also": [],
+  "flags": [],
+  "quote": "पिछली बार वे दूसरे सैलानियों की तरह सिर्फ मंदिर से ही लौट गए थे। इस बार उदयपुर का आमंत्रण गलियों में घूमने का था।\n*Gloss [my translation]:* Last time, like other tourists, they had returned from the temple alone. This time Udaipur's invitation was to roam its lanes.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Last time, like other tourists, they had returned from the temple alone. This time Udaipur's invitation was to roam its lanes.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-035",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 95",
+  "also": [
+   "Ch 8"
+  ],
+  "flags": [
+   "also Ch 8"
+  ],
+  "quote": "दो किलोमीटर पहले से हमने देखा कि एक लंबा हुजूम मंदिर की तरफ अग्रसर था। चार सौ पुलिस वाले खासतौर से शाम तक आने वाले हजारों श्रद्धालुओं की सुविधा और सुरक्षा में लगाए थे। उदयपुर की हेरिटेज टीम सरकारी अफसरों के साथ मैदान में थी।\n*Gloss [my translation]:* From two kilometres earlier we saw a long throng advancing toward the temple. Four hundred policemen were specially deployed for the convenience and security of the thousands of devotees arriving until evening. Udaypur's heritage team was in the field with government officers.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "From two kilometres earlier we saw a long throng advancing toward the temple. Four hundred policemen were specially deployed for the convenience and security of the thousands of devotees arriving until evening. Udaypur's heritage team was in the field with government officers.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-036",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 103",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "रावणटोल और पिसनहारी भी उदयपुर के दबे-कुचले अतीत का एक उपेक्षित हिस्सा भर हैं। बाहर से आए ज्यादातर लोगों को इनके बारे में कुछ भी बताने वाला तक कोई नहीं। एएसआई के कर्मचारी मंदिर में आने वालों को इस नगर की चार ओर चीजों के बारे में बताने में बिल्कुल ही नाकाम हैं। उनकी नौकरियां जो भी हों लेकिन उन्हें इस लायक तो बनाया ही जा सकता था कि वे मंदिर में दर्शन करने आने वालों को उदयपुर की चार बेहतरीन जगहों पर जाने की सलाह ही दे दें और इतना भी नहीं तो, मंदिर के बारे में दस मिनट कुछ तथ्य बता दें।\n*Gloss [my translation]:* Ravanatol and Pisanhari are also only a neglected part of Udaypur's suppressed past. Most people coming from outside have no one to tell them anything about them. ASI employees are completely failing to tell visitors to the temple about the other things of this town. Whatever their jobs, they could at least have been made capable of advising visitors to the temple to visit the four best places of Udaypur, or at least telling ten minutes of facts about the temple.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Ravanatol and Pisanhari are also only a neglected part of Udaypur's suppressed past. Most people coming from outside have no one to tell them anything about them. ASI employees are completely failing to tell visitors to the temple about the other things of this town. Whatever their jobs, they could at least have been made capable of advising visitors to the temple to visit the four best places of Udaypur, or at least telling ten minutes of facts about the temple.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-037",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 151",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "कहते हैं कि यह वाकई एक मिसाल बन सकता है। उदयपुर में यह क्षमता है कि उसे\nअंतरराष्ट्रीय स्तर पर एक शानदार टूरिस्ट स्पॉट की तरह लाया जाए। एकमुश्त इतने\nविविधतापूर्ण स्मारक मैंने दुनिया में कहीं नहीं देखे।\n*Gloss [my translation]:* Dr. Upadhyay says that it can truly become an example. Udaypur has the capacity to be brought up as a splendid tourist spot on the international level. I have not seen so many diverse monuments together anywhere in the world.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "Dr. Upadhyay says that it can truly become an example. Udaypur has the capacity to be brought up as a splendid tourist spot on the international level. I have not seen so many diverse monuments together anywhere in the world.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-038",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 163",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "उदयपुर (विदिशा) के दिन फिरने वाले हैं।\n- इतिहास, पुरातत्व व सांस्कृतिक निधियों के संरक्षण-संवर्धन में रुचि रखने वाले लोग लगातार यहाँ आ रहे हैं। स्थानीय लोगों में उत्साह है कि सदियों की उपेक्षा के शिकार रहे उदयपुर के स्मारक अब जी उठेंगे...\n*Gloss [my translation]:* The days of Udaypur (Vidisha) are about to turn. People interested in the protection and promotion of history, archaeology and cultural treasures are coming here continuously. Among local people there is enthusiasm that Udaypur's monuments, victims of centuries of neglect, will now come alive.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "The days of Udaypur (Vidisha) are about to turn. People interested in the protection and promotion of history, archaeology and cultural treasures are coming here continuously. Among local people there is enthusiasm that Udaypur's monuments, victims of centuries of neglect, will now come alive.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-039",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 166",
+  "also": [],
+  "flags": [],
+  "quote": "- मुझे तो लगता है, उदयपुर को प्राचीन धरोहर का महत्व मिलने जा रहा है। हालाँकि ये ‘आज-अभी’ में नहीं होगा, पर निश्चित ही दस सदियों से जो इतिहास सोया था, वह हलके से करवट तो ले रहा है। उदयपुर के इतिहास की थोड़ी सुनगुन रखते हुए भी उसके पौराण्य गौरव से अनभिज्ञ इस सुमधुर नगरी के वासी ही अब पर्यटन-परिचर बनने को कमर कसने लगे हैं।\n*Gloss [my translation]:* I feel Udaypur is going to get the importance of ancient heritage. Though it will not happen 'right now', certainly the history that slept for ten centuries is gently turning over. Even the residents of this sweet town, who have a little murmur of Udaypur's history but are unaware of its ancient glory, have now begun to gird themselves to become tourism attendants.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "I feel Udaypur is going to get the importance of ancient heritage. Though it will not happen 'right now', certainly the history that slept for ten centuries is gently turning over. Even the residents of this sweet town, who have a little murmur of Udaypur's history but are unaware of its ancient glory, have now begun to gird themselves to become tourism attendants.",
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-001",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 2 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "A ruined little town of eight thousand people, existing on the margins, which for several past decades had wanted to say something.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "eight thousand"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-002",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 7 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "Suresh Mishra and I got off at that corner which — hemmed in by lumps and shanties — was Udaipur's wretched little bus stand. A dust-eating, disorderly and ruined three-way junction, in front of which the tar road runs 16 kilometres away to join Ganj Basoda. Ganj Basoda is the nearest railway station and a small commercial town. Udaipur falls in this same tehsil of Vidisha district. The other road of the junction takes a 90-degree turn and goes off 22 kilometres away toward Mandi Bamora, which is another railway station and a small commercial town. On this same road, seven kilometres from Mandi Bamora, is Kurwai, in whose assembly-constituency Udaipur falls.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "16 km to Ganj Basoda; Vidisha district"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-003",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 85 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "The network of the powerful, greedy plunderers engaged in the illegal mining of sand and stone is strong everywhere. Wherever they are, they all believe in advancing together. The better coordination of the local agents of the political parties with the forest department, the police and the administration comes into use in the distribution of the spoils (*maal-e-ganimat*).",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-004",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 88 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "During this fresh stir of Udaipur, Praveen Sharma had come to the fore among those aware people who had begun to spend some time among the temple and the images, taking it out of their farming work — peeking around the unknown places, and, if some useful stone or image appeared, taking its photo and getting it placed in the right place.\nand sending it on social media, so that people would know what all is present here, and in what condition. The image that had gone missing from that spot, he had brought from somewhere and had placed there only four days earlier. He had reached [there] to show INTACH's team just this — in what condition the heritage lies ownerless, and what kinds of artistic works need to be saved.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-005",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 4 (Hindi original)",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 11"
+  ],
+  "quote": "But from the hopes born in the country after Independence, Udaipur remained untouched for decades. If freedom was to bring some new dawn for the country and for the people of the country — leave the rest of the country aside — that new dawn never came up to the walls of Udaipur's collapsed fort. It remained a desolation encircled by gloom. No one felt the need to peer into its ancient magnificence.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-006",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 15 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "For so many years after Independence, not a single elected representative of any panchayat felt that this was something that ought to be better looked after. In the government machinery there was no one who would even make a proposal on paper about this place and push it forward. To no schoolteacher either did anything appear that could be taken further somewhere. In none of the citizens' minds did the thought arise that he should take at least some small initiative for Udaipur's perishing wealth. It is possible that some correspondence too had taken place; but it had no effect here. Most of the local people think of nothing besides their own livelihood and farming — even those people whose everyday needs have been fulfilled more than others'.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-007",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 21 (Hindi original)",
+  "also": [
+   "Ch 9"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 9"
+  ],
+  "quote": "On the corners, three-way junctions, roads and walls of Udaipur's lanes, pieces of green cloth have recently been laid. Innocent Hindu villagers, on the authority of some outside maulvi, hand you, with folded hands, the breaking news of the appearance here of some pir, some unknown (*rahmatullah alaih*). I am no knower of astrology, but I can make a prophecy: in the coming years, gaudy mazars (tombs) will be built here, where, at the urs and mushairas of \"communal unity,\" these same people's representatives will grace [the occasion] and these same greatly-glorious officers will busy themselves with their arrangements.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-008",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 63 (Hindi original)",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 11"
+  ],
+  "quote": "That narrow, six-to-seven-foot, suffocating lane leading up to the temple had been widened by ten feet each on both sides. The front portions of the houses and shops of the people on both sides had been removed.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-009",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 67 (Hindi original)",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 11"
+  ],
+  "quote": "In the narrow lane, ten feet each had been cleared on both sides. Those whose houses' and shops' front portions had been removed were getting fresh construction started. But on the way, on the left, that house was still jutting out into the middle of the road — the one on which we had seen the Jama Masjid signboard hung. Its ten-foot portion stood alone, which had not been touched.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-010",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 68 (Hindi original)",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 11"
+  ],
+  "quote": "After coming out of the temple, on the left was his very shop. He did not wait for any government order to remove the old construction at this place, and gave eight feet more space.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-011",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 70 (Hindi original)",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 11"
+  ],
+  "quote": "The 57-year-old Raja Mishra [apparently the same \"Raja Miyan\" mentioned earlier — the source spells it both ways] came forward and gave his share of eight feet more land to make the temple's road wider and better. Raja Mishra did not wait for the government machinery to come and give instruction or advice. The work that is necessary, he did not put off to tomorrow. His initiative opened the way for 40 businessmen to set back those shops and houses, built over several decades, by which a 30-foot-wide road had turned into a ten-foot-wide narrow and suffocating lane.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-012",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 87 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "In all the people we met on our journeys, a kind of curiosity was certainly awakening. They were taking it as the beginning of such a development of Udaipur as would increase the coming and going of outsiders here; their businesses would shine. That is, on the whole, the matter was one of their own benefit.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-013",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 161 (Hindi original)",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "≈",
+   "also Afterword"
+  ],
+  "quote": "A band of a few enthusiastic youths got organized. Since then they have been engaged in making people alert toward this heritage.\nEvery month, taking along some presiding figure, connoisseur or curious soul, their band goes to Udaipur.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-014",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 165 (Hindi original)",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 11"
+  ],
+  "quote": "- …And truly, some aware citizens sprang into action… the enthusiastic Praveen Sharma, Kaustubh Shirhonkar, Kamlesh Sharma, Gagan Dubey and Amit Shukla of Ganjbasoda;\n- Raja Miyan of Udaipur;\n- Ramakant Srivastava of Mandi Bamora… and many other people. On the initiative of all these, it was, first of all, the local people themselves who began removing the encroachments. After that, they took up the task of clearing the obstructed path leading to the temple. …And, in no time at all, in a small town, through public cooperation, a nearly three-foot-wide cemented road was built and made ready.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-015",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 10 (Hindi original);",
+  "also": [
+   "at ≈ p. 10 (Hindi original)   also Ch 8"
+  ],
+  "flags": [
+   "≈",
+   "also at ≈ p. 10 (Hindi original)   also Ch 8"
+  ],
+  "quote": "The interest of the Indian visitors was only in the temple — not even the temple, but in the Neelkantheshwar Mahadev seated in the sanctum of the temple. People would go straight in, perform worship and ablution (*abhishek*), and, hanging one more category of the poison of their endless desires around the neck of Bholenath [Shiva], come out — a son's job, a daughter's marriage, court matters, land disputes, the wish to become wealthy.\nEver since cameras became easy and ever since the mobile came into hand, people would stop outside for a while to take photos and the like. Very few people would pay attention to the astonishing architecture of the temple. Next to none would peer into its real history. All would come out of the temple and, without wasting time, get out of Udaipur.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-016",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 20 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "Every day people come to Udaipur from far and wide. Most come only to have darshan of the 11th-century temple — and that too only for the worship of Mahadev. Coming out of the sanctum, they stare up dumbfounded, craning their necks, at the temple's architecture. Everyone has a mobile these days, so taking photos has become a necessary rite like offering flowers — so that they can broadcast it on social media. Only a rare one or two would want to go into the details of this miracle carved on stones — next to none.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-017",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 46 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "Govind's hard work appeared on *Patrika*'s portal within a few days. But it was a big thing that his video of Udaipur was watched by more than a lakh of viewers.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-018",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 75 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "More than a hundred people came into the hall of the Tribal Museum, available for only one-and-a-quarter hours.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-EN-019",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 81 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "Udaipur is a sad little town at such a distance as one may set out from Bhopal in the morning and return by evening, where an effective echo of history seems to have come to rest.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "set out from Bhopal in the morning, return by evening"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GEOHER-001",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 20",
+  "also": [],
+  "flags": [],
+  "quote": "According to the 2011 census, the population of Udaypur is 6,383 people. Out of this, the male population is 3,405, and the female population is 2,978. The literacy rate of Udaypur village is 54.28%, out of which 60.70% of males and 46.94% of females are literate. There are about 1,247 houses in Udaypur village.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "6,383 (2011 census)"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GEOHER-002",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 11",
+  "also": [
+   "Ch 8"
+  ],
+  "flags": [
+   "also Ch 8"
+  ],
+  "quote": "The cultural landscape of this area shows that it is largely an agrarian economy growing wheat, which caters to the big local Mandi at Ganj Basoda.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GEOHER-003",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 143",
+  "also": [],
+  "flags": [],
+  "quote": "There are many local villagers who go to the religious sites all over the place. So proper track needs to be defined for the purpose of the safety and security of all the pilgrims who go up to this site.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GEOHER-004",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 144",
+  "also": [],
+  "flags": [],
+  "quote": "This is the expansion of the village population and the agricultural activity across the region. This is rapidly growing, and so is the population. The area adjacent to this Geo heritage site is either forest land or revenue land. As the intensity of agriculture increases, there is greater pressure on community resources, and an increase in the population of the village over the past years poses a threat to the natural terrain of the reserve forest area.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GEOHER-005",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 144",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "Along the trek route, adventurers are treated to glimpses of the hill fort's rugged beauty, with sharp chiseled marks and naturally coloured texture patterns of deposition and sedimentation adorning the sandstone cliffs.\nAs word spreads of the abandoned historical hill fort and the adventure-filled trek required to reach it, tourists from far and wide are drawn to the region, eager to experience the thrill of discovery for themselves. With proper infrastructure and conservation efforts in place, this site has the potential to become a premier geological and historical attraction showcasing the incredible diversity and beauty of the region's landscapes while providing a thrilling venture for all who dare to explore its hidden depths.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-005",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 270",
+  "also": [],
+  "flags": [],
+  "quote": "The primary schools at Shamshabad,\nUdaipur and Gulabganj were converted into middle schools in 1950-51.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-006",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 272",
+  "also": [],
+  "flags": [],
+  "quote": "In 1963-64, the middle schools at Udaipur and Gulabganj were converted into higher secondary schools and the number of these schools thus rose to 13 in the District.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-007",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "also": [],
+  "flags": [],
+  "quote": "Its nearest railway station is Bareth, situated at a distance of about 6.5 km. to the west of Udayapur. The latter is connected by road with Bareth railway station on Bhopal-Bina main line of the Central Railway. The village is also connected by road with Basoda, lying to the south-west of Udayapur at a distance of about 13 km. It is about 55 km. to the north-east of Vidisha, the District headquarters.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "about 55 km NE of Vidisha, 13 km from Basoda, Bareth station 6.5 km to the west"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-008",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 348",
+  "also": [],
+  "flags": [],
+  "quote": "It covers an area of about 1,966 hectares. Its population was 928 in 1901 while it increased to 2025 in 1971 as against 1619 in 1901.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "2025 (1971)"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-INTACH-001",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 12",
+  "also": [],
+  "flags": [],
+  "quote": "Udaypur village is located in Basuda Tehsil of Vidisha district in Madhya Pradesh, India.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH)",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-INTACH-002",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 36",
+  "also": [],
+  "flags": [],
+  "quote": "\"The total geographical area of the village is 1966 hectares. Udaypur has a total population of 6,383 people. There are about 1,247 houses in the Udaypur village.\"1 The total population of Udaypur village is 6,383 out of which 3,405 and 2,978 are male &",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH)",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "6,383 (villageinfo, 2021 access)"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-INTACH-004",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 3",
+  "also": [
+   "Afterword"
+  ],
+  "flags": [
+   "also Afterword"
+  ],
+  "quote": "The most interesting part of Udaypur Heritage is that the large number of them are still in relatively good condition which makes it a place for future Tourism Development of the other adjoining villages.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH)",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-ARTPAR-001",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "ARTPAR",
+  "book_title": "Art of the Paramāras of Malwa — Sharma, R. K.",
+  "page": "p. 60",
+  "also": [],
+  "flags": [],
+  "quote": "उदस्युट जो पर्बं माध्यमा में पर्यात् महत्वपूर्ण स्थान रहा है संदूल रेलवे की बीना और विविधा रेलवे स्टेशनों के बीच पड़ने वाली बरेठ स्टेशन से छः किलोमीटर दूर वस माग से जुड़ा हुआ है ।\n*Gloss [my translation]:* Udaypur, which has held an important place in Mālwā, lies six kilometres from Bareth station on the Central Railway between Bina and Vidisha stations, and is connected by bus.",
+  "tier": 5,
+  "tier_note": "T5 modern scholarship: modern scholarship (art history)",
+  "sub": "S1",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "6 km from Bareth station, between Bina and Vidisha stations (Central Railway)"
+  },
+  "gloss": "Udaypur, which has held an important place in Mālwā, lies six kilometres from Bareth station on the Central Railway between Bina and Vidisha stations, and is connected by bus.",
+  "in_log": true
+ },
+ {
+  "id": "C12-MADHYABHARAT-001",
+  "unit": "C12",
+  "kind": "direct",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 114",
+  "also": [],
+  "flags": [],
+  "quote": "This town lies 4 miles by a metalled road to the east of the Bareth Station on the Central Railway between Bina and Bhilsa. It can also be visited from the next station Basoda, whence it is about 8 miles by a fair weather road.",
+  "tier": 5,
+  "tier_note": "T5 modern scholarship: modern scholarship and archaeological observation (Patil)",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "4 miles E of Bareth Station; about 8 miles from Basoda"
+  },
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-JAGTA-HI-010",
+  "unit": "C12",
+  "kind": "contextual",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 36",
+  "also": [],
+  "flags": [],
+  "quote": "कपड़ा, अनाज और पत्थर के करोड़पति कारोबारी सौ से ऊपर होंगे। कोई कलेक्टर उद्यपुर के विकास के लिए झोली फैलाएगा तो एक ही बैठक में दो-चार करोड़ जुटाना मुश्किल नहीं होगा।\n*Gloss [my translation]:* There must be over a hundred crorepati traders in cloth, grain and stone. If a collector spread his bag for Udaipur's development, raising two or four crore in a single meeting would not be hard.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S2",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": "There must be over a hundred crorepati traders in cloth, grain and stone. If a collector spread his bag for Udaipur's development, raising two or four crore in a single meeting would not be hard.",
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-001",
+  "unit": "C12",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 66",
+  "also": [],
+  "flags": [],
+  "quote": "According to the figures of Census 1971, the population of the District is 6,58,427 (349,767 males and 308,660 females), living in four towns (Vidisha, Sironj, Basoda and Kurwai) and 1,510 villages in an area of 7,433 sq. km. The density of population per sq. kilometre is 89 in comparison to the state density of 94.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-002",
+  "unit": "C12",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 69",
+  "also": [],
+  "flags": [],
+  "quote": "The Flying from 386,075 to 489,213, recording a growth rate of 26.71 Decades: per cent in 1951-61 decade as against the State average of 1951-61 & 1961-71 26.17. In 1961-71, Vidisha District recorded a growth rate of 34.59 per cent which is much higher than the State average\nof 28.67 per cent. Reasons of a higher rate of growth despite intensive efforts of the family planning organisation, may be attributed to lower death rate and higher expectancy of life at birth.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-003",
+  "unit": "C12",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 70",
+  "also": [],
+  "flags": [],
+  "quote": "Predominantly a rural district, Vidisha had a rural population of 4,24,933 persons (224,290 males and 200,643 females), constituting 86.86 per cent of the total population in 1961. Urban component was of the order of 64,280 persons, constituting 13.14 per cent in 1961. With an increase of urban component to 14.16 per cent in 1971 the rural proportion declined to 85.84 per cent, the respective population being 92,876 and 565,551.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-GAZ-004",
+  "unit": "C12",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 71",
+  "also": [],
+  "flags": [],
+  "quote": "During the period from 1901 to 1971, the rural population recorded an increase of 169.18 per cent. Recording 418.92 per cent increase in urban population during 1901-71, it is higher than the State average (365.33 per cent) and still higher than the Divisional average (281.83 per cent).",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S1",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C12-INTACH-003",
+  "unit": "C12",
+  "kind": "contextual",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 98",
+  "also": [],
+  "flags": [],
+  "quote": "“A small village Mahuli, near Udaipur falls in Vidisha district in Madhya Pradesh state, with an area of 3,02 square km, the total\ngeographical area of the village is 21.478 hectares. Nearest Railway Station is at Raukher, approximately 4.39 km away. Mahuli is\nstained 14km away from sub-district headquarters Boarda Road and 61km away from district headquarters Vidisha. \"Consisting of around 25\nhouseholds, Mahuli is a home for a total population of approximately 125 people.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH)",
+  "sub": "S1",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true
+ },
+ {
+  "id": "C01-KB-INTACH-001",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 88",
+  "quote": "The structure is used by the family and has many sculptures of olden times in ruins for the last 60 years. The whole house has been spread across the 12 courtyards most of which remains in a ruined state.\nThe entrance of the house has a door and a stone balcony on the floor above. The entrance leads to the central courtyard which has a temple in the north.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "kb-new"
+  ],
+  "sub": "S2",
+  "note": "Identifies a house still used by its family, its twelve mostly ruined courtyards, stone balcony, and courtyard temple. Useful evidence of inhabited heritage; surrounding OCR warrants checking against the scan.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "559c3d767934b6c3daf5df8691f201a507e9e44d",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 88",
+  "language": "en",
+  "kb_step": "B",
+  "kb_section": "1.1",
+  "context": "… Najbara Figure 350: Inside view of the Najbara Figure Figure 189: Plan of Unknown Makbara in High school. 006 41. Danu Rai Mathur Havel The Dalat Raj Mathur Havel is situated east of the Raj. Udayadit Palace at GPS 23-54.02.2 N and 78.03.73 E. This residence is a historic haven taken care of by the government by Dalat Rai Mathur and is now being taken care of by the 6th generation of the family. This structure is located in Khasra no. 735. It is currently in private ownership. The southern portion of the hamlet is surrounded by the haveli across the street was for the 6th generation of the family. The structure is used by the family and has many sculptures of olden times in ruins for the last 60 years. The whole house has been spread across the 12 courtyards most of which remains in a ruined state. The entrance of the house has a door and a stone balcony on the floor above. The entrance leads to the central courtyard which has a temple in the north. A sculpture reflecting Vishnu is the most impressive which is placed in the northwest corner of the courtyard along with other notable sculptures of Shiva-Parvat and Ganesha. A for the cattle. It has beautifully carved stones lined on the roof along with geometrical stone jails. Each element has a detail that speaks of the glorious past of the whole complex. J. Daulat Rahmanthravell, Interview of Chandra ShekharNath Raj Mahbur Hajoei …",
+  "v_note": "",
+  "borrowed": true
+ },
+ {
+  "id": "C07-JAGTA-EN-037",
+  "unit": "C07",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 72 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "— [the story of history's storms,] in whose excavation, decades ago, an old residence with splendid artworks lay buried. With devotion and labour it was cleaned. That very [place] is now their house, which is a published page of the story of Udaipur.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C10-GAZ-052",
+  "unit": "C10",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 67",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 12"
+  ],
+  "quote": "Two Parganas, viz, Bhilsa and Basoda with a population of 54,293 and 65,896, respectively in 1901, were recorded. During the 70 years (1901–71) the population of the District almost has trebled itself, registering a total increase of about 189 per cent.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S5",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C10-GAZ-053",
+  "unit": "C10",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 68",
+  "also": [],
+  "flags": [],
+  "quote": "In 1931 Vidisha recorded a population of 345,818. A fall of 0.64 per cent or 2,229 persons over 1921 is a peculiar phenomenon to the District. This uncanny behaviour of population in Vidisha has been Decade of Peculiar described in 1931 Census as fictitious. Seasonal influx of field Phenomenon labourers at the harvest time in the District was largely responsible for an unusual increase during the Census of 1921.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S5",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C07-JAGTA-HI-051",
+  "unit": "C07",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 18",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 12"
+  ],
+  "quote": "पूरा नगर अपने पुराने डिजाइन पर ऊबड़-खाबड़ हालत में मौजूद है, जहां परमार राजवंश के वास्तुशिल्प के अनुसार बने दीवार-दरवाजे, मंदिर, महल, तालाब, बावड़ी, कमरे, दीवारें और गलियां हैं। इनसे गुजरते हुए लगता है कि आप अतीत में लौटकर सदियों पहले के खोए हुए वैभव की सैर कर रहे हैं।\n*Gloss [my translation]:* The whole town exists in a rough condition on its old design, where there are walls, gateways, temples, palace, tanks, stepwells, rooms, walls and lanes built according to Paramāra dynasty architecture. Passing through them it feels as though you have returned to the past and are touring the lost splendour of centuries ago.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "The whole town exists in a rough condition on its old design, where there are walls, gateways, temples, palace, tanks, stepwells, rooms, walls and lanes built according to Paramāra dynasty architecture. Passing through them it feels as though you have returned to the past and are touring the lost splendour of centuries ago.",
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C08-GAZ-006",
+  "unit": "C08",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 183",
+  "also": [
+   "Ch 2",
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 2, Ch 12"
+  ],
+  "quote": "As might be expected, the most important means of livelihood in the District in the year 1951 as well as in 1961, was agriculture. Of the total workers in 1951 about 72.95 per cent were engaged in agriculture which increased to 75.22 per cent in 1961.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S4",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C08-GAZ-007",
+  "unit": "C08",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 184",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 12"
+  ],
+  "quote": "The District is predominantly rural. This is evident from the fact that the highest percentage of agriculture in the rural area had been maintained in the proportion of total workers. Cultivation was the main occupation followed by agricultural labour. In the 1951 census this District had the largest number of agricultural labourers in the former Madhya Bharat.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S4",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C08-GAZ-015",
+  "unit": "C08",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 180",
+  "also": [],
+  "flags": [],
+  "quote": "There were 1,276 leather-cutters, lasters, sewers, etc., (180 females) engaged in shoe-making and other connected jobs. Of these, 492 with 74 females were in the urban sector. The total number of blacksmiths, hammer-smiths and forggmen was 337 with 49 females and 84 out of them (4 females) were in the urban sector.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S5",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C08-GAZ-016",
+  "unit": "C08",
+  "kind": "contextual",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 180",
+  "also": [],
+  "flags": [],
+  "quote": "Out of a total of 1,826 such workers only 42 were females. As villagers largely need a carpenter's service, mainly in connection with the pursuance of their agricultural operations, only 279 of the carpenters (2 females) plied their occupation in the urban sector. All these jobs are pursued conventionally by a particular sections of the population since long past.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S5",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-JAGTA-EN-003",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 84 (Hindi original)",
+  "also": [
+   "Ch 11",
+   "Ch 12"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 11, Ch 12"
+  ],
+  "quote": "Udaipur is a region rich with quarries of stone. A ground report of Govind Saxena told that illegal quarries are running on more than two and a half thousand hectares of forest-department land, from which stone worth lakhs of rupees is extracted every day.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-JAGTA-EN-028",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 85 (Hindi original)",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 12"
+  ],
+  "quote": "Some people believe that the ground-blasts done for the legal-and-illegal mining of stone have created an existential threat for the temple. The savage plunderers of stone are pocketing lakhs of rupees every day.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-021",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 37",
+  "also": [],
+  "flags": [],
+  "quote": "Due to intensive human intervention by way of grazing and illegal tree cutting the flora of this terrain is quite disturbed.\nIt is time that planning is carried out about the reintroduction of the natural species of this ecosystem.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-017",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 136",
+  "also": [],
+  "flags": [],
+  "quote": "CAVE I: On the western side, a narrow-channeled cave having an extended inner depth of 9 meters towards the right of the entrance and is currently occupied by thousands of bats. The mouth of the cave's entrance is 3.1 meters in length and 2.6 meters in width, with the floor of the entry passageway covered in mounds of bats' excreta called guano. The depth of the guano layer, as measured during the on-site visit, came out to be 500-600 mm.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-018",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 140",
+  "also": [],
+  "flags": [],
+  "quote": "Cave IV: Cave IV is on the extreme southern-eastern part of the hill and is the 3rd biggest cave of all the other caves. It's also inaccessible on foot. The survey team couldn't reach there but observed it from the foothill. To get a clear idea about this cave, INTACH Bhopal chapter conducted a drone survey, and only then did they have a brief idea about it. The drone footage reveals that this cave is slightly higher above the other caves and further ahead of Cave III. There's a possibility that it's also inhabited by some scavenger birds.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-019",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 12",
+  "also": [],
+  "flags": [],
+  "quote": "The entire area is covered with dense Van Tulsi and local grasses. Trees like Akola, Cactus, Neem, Bel, Tamarind, Palash, and Dodai are native to this region. Red ants, Vultures, Squirrels, Monkeys, Pigeons, Bees, and Parrots are seen in abundance.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-020",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 20",
+  "also": [],
+  "flags": [],
+  "quote": "Walking up the hill, which rises almost 270 meters from the level of Udaypur village, we come across interesting geological formations such as caves made by nature. These are deep caves which house thousands of Bats and other birds, animals, and reptiles who have been staying here for millions of years.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-022",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 37",
+  "also": [],
+  "flags": [],
+  "quote": "The caves around the hill are home to thousands of bats, which have their own ecosystem. A note on the bat excreta, called Guana, deposited by thousands of bats, is also added as a technical note.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-023",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 40",
+  "also": [],
+  "flags": [],
+  "quote": "Udaypur hosts over 58 bird species, including iconic vultures like the Oriental White-backed, Long-billed, and Red-headed. During winter, its water bodies attract migratory birds like the Sarus Crane and Painted Stork. Representing the Indo-Malayan Tropical Dry Zone, Udaypur is vital for conserving 33 of the 59 bird species identified in this biome by Bird Life International.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-025",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 143",
+  "also": [],
+  "flags": [],
+  "quote": "This site is very rich from an archaeological and architectural heritage point of view. It's also a storehouse, micro flora and fauna, particularly Bryophytes and lichens. They need to be studied more systematically using the services of the expert agencies, such as the Birbal Sahni Institute of Paleobotany or Lichens Park in Uttarakhand, for this research.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GAZ-031",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 27",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 12"
+  ],
+  "quote": "The extension of cultivation, the destruction of forest areas, and the absence of scientific management of the game in the past, adversely affected the wild life in the District. The ex-rulers and jagirdars shot the game for fun as and when they liked in their respective jurisdictions, though the general public was debarred from shooting in the Reserves. After the formation of Madhya Bharat in 1948, most of the Reserved forests were opened for permit holders. However, the poaching activities increased during the fifties. The increased number of gun licences and the use of jeep-cars made it easy to kill animals without a sense of adventure and for easy economic gains. However, it is now being suppressed by the Government with greater zeal.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GAZ-033",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 28–29",
+  "also": [],
+  "flags": [],
+  "quote": "The birds met within the District are similar to those found in the adjoining districts. Pea-fowl or mor (Pavo cristatus), red jungle-fowl or jungle-mungi (Gallus ferrugineus), bhat titar (Pterocles exustus), greyfowl or bater … (Coturnis communis), and grey pigeon (Harial), are usually found. In the winter season the migratory water fowls, e. g., geese and ducks like pochards and teals are very common.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GAZ-034",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 28",
+  "also": [],
+  "flags": [],
+  "quote": "Number of Wild Animals Reported in 1968\n<!-- element:table -->\n<table><tr><td>Name of Range &amp; Shooting Block</td><td>Tiger</td><td>Panther</td><td>Sambhar</td><td>Cheetal</td><td>Other</td><td>Blue Bull</td><td>Hyaema Jackal deer</td></tr><tr><td colspan=\"8\">1. Gyaraspur Range</td></tr><tr><td>Udaipura</td><td>3</td><td>—</td><td>10</td><td>4</td><td>30</td><td>—</td><td>—</td></tr><tr><td>Mohammadgarh</td><td>2</td><td>—</td><td>5</td><td>—</td><td>25</td><td>—</td><td>—</td></tr><tr><td>Ghatera</td><td>3</td><td>—</td><td>15</td><td>—</td><td>45</td><td>—</td><td>—</td></tr><tr><td>Gyaraspur</td><td>1</td><td>—</td><td>6</td><td>10</td><td>—</td><td>15</td><td>—</td></tr><tr><td colspan=\"8\">2.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GAZ-035",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 28",
+  "also": [],
+  "flags": [],
+  "quote": "The zoological types in the category of mammals found in the District are Indian hare or Khargosh (Lepus ruficaudatus), black or kala hiran (Antelona cervicaprea) which has become very rare mostly due to indiscriminate poaching, porcupine, squirrel, beavers, four-horned antilope (Tetracerus quadricornis), chinkara (Gazella bennettii), barking deer (Carvus mutjac), sambhar (Carvus unicolor), chital (Carvus axis), pig, boar, tiger, (Felis tigris), leopard (Felis pardus), nilgai (Boselaphus tragocamelus), and monkey (Semnopithecus entehus).",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-GEOHER-013",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 145",
+  "also": [],
+  "flags": [],
+  "quote": "These 8th, 9th, and 10th century CE sculptures have been vandalized, and the temples no longer exist on the ground from the top story to the middle story, and the bottom story vandalism can be extensively seen. This is a common problem across unprotected heritage sites that needs intervention at the community level.\nIllegal mining is the most significant issue at this rich geo-site. The geo heritage site around the lower hill fortification hall is severely threatened by illegal sandstone mining carried on all over this area over the past many years. Though on record they no mine exists today, but occasional dynamite blasts can be heard. These dynamite blasts pose a threat not only to the protected Natraj sculpture but also to this ancient fortification wall.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-GEOHER-014",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 146",
+  "also": [
+   "Ch 2"
+  ],
+  "flags": [
+   "also Ch 2"
+  ],
+  "quote": "and cattle, goat, and sheep come up to the top of the hill for grazing on a regular basis. This damages the young plants, apart from causing harm to the antiquities in this area. The illicit grazing also causes erosion of the land and degradation of the natural plant system of the area, degradation of the forest cover, or the tree cover.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-KB-GEOHER-012",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 10",
+  "quote": "The geo heritage hill, which is the focus of this work, is a reserved forest area in revenue records and the working plan of the Forest Department, as shown in Annexure 3.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "kb-new"
+  ],
+  "sub": "S4",
+  "note": "Identifies Udaypur's geo-heritage hill as reserved forest in revenue records and the Forest Department working plan; supplies documentary grounding for its forest status.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "64ebdd53b3974c5dbbbbd2e5ab9cd92f122e5b93",
+  "author": null,
+  "log_citation": "scan p. 10",
+  "language": "en",
+  "kb_step": "B",
+  "kb_section": "2.4",
+  "context": "… seen; the view was taken from the roof of the north-west gateway of the great mandir, which will presently be noticed.\" Map 1 Image showing the historic map of the entire region These have all been captured in the book “The Architectural Splendor of Udaypur”; the most significant and biggest of them is the Udayeshwar Mandir, also known as Neelkantheshwar temple, a monument protected by the Archaeological Survey of India. Other significant structures of this area are the Udaypur Mahal, Bhujariya Talab, Udaysagar Talab, Ganesh Temple, etc. A list of significant historical sites is given in Annexure 2. The Topo sheet of the entire terrain is attached as Annexure 3. The geo heritage hill, which is the focus of this work, is a reserved forest area in revenue records and the working plan of the Forest Department, as shown in Annexure 3. Google Earth Lidnpur, Madhya Pradesh [Unreadable] [Unreadable] Map 2 Image showing Google Earth image of the entire region The Parmar Kingdom placed significant emphasis on the water systems therefore, many stepwells, large reservoirs, and other forms of water systems are found in the village as well as on the geo heritage site, which will be discussed when we do a level-wise analysis. The 2 large water bodies relevant to Udaypur …",
+  "v_note": "",
+  "borrowed": true
+ },
+ {
+  "id": "C01-JAGTA-EN-025",
+  "unit": "C01",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 20 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "Every day people come to Udaipur from far and wide. Most come only to have darshan of the 11th-century temple — and that too only for the worship of Mahadev.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C08-PANDE-011",
+  "unit": "C08",
+  "kind": "direct",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 92",
+  "also": [
+   "Ch 9",
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 9, Ch 12"
+  ],
+  "quote": "This temple is a living one, where right up to the 21st century, there are the usual morning and evening pūja and aarti. The priests also perform, on request, special pūjas like Rudrāṣṭaka, Śiva Mahimā and Śiva Abhiṣeka. Religious fairs are held in the vicinity of temple on Śaiva festivals. The main festival of the year is on Śivarātri. All the villagers gather here, as also those of the adjacent villages. On this occasion, an unending stream of devotees lines up in front of the temple from the morning to the evening. The four Mondays of the Śrāvana month, i.e. around July (Sāvan ke Somavār) are also significant for the worship of Śiva.",
+  "tier": 5,
+  "tier_note": "T5 modern scholarship: modern scholarship (temple monograph)",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-JAGTA-EN-034",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 103 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "The ASI employees are completely failing to tell those who come to the temple about the four surrounding things of this city. Whatever their jobs may be, they could at least be made capable enough that they would give those who come for darshan at the temple the advice to go to Udaipur's four finest places — and, if not even that, then tell some facts about the temple for ten minutes.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-JAGTA-HI-030",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 89",
+  "also": [],
+  "flags": [],
+  "quote": "जो मूर्ति जिस जगह से गायब हुई थी, वह चार दिन पहले ही उन्होंने कहीं से लाकर रखवाई थी। वे इंटक की टीम को यही दिखाने पहुंचे थे कि विरासत किस मांग में लावारिस पड़ी है और कैसी-कैसी कलात्मक कृतियों को बचाने की जरूरत है। वे पहुंचे तो बड़े जोश में थे लेकिन उमा-महेश्वर वहां नजर नहीं आए।\n*Gloss [my translation]:* The idol that had disappeared from that place he had brought back from somewhere four days earlier. They had come to show the INTACH team how heritage lies orphaned. They arrived full of enthusiasm but Uma-Maheshwar were not to be seen there.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "The idol that had disappeared from that place he had brought back from somewhere four days earlier. They had come to show the INTACH team how heritage lies orphaned. They arrived full of enthusiasm but Uma-Maheshwar were not to be seen there.",
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-JAGTA-EN-022",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 47 (Hindi original)",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 12"
+  ],
+  "quote": "In a corner of the ruined palace of the Paramaras' architecture, some Qazi family had hung a signboard of private property. From the Patwari to the Tehsildar and from the SDM to the Collector, very many people came and went on the chairs, and that board kept challenging them for decades.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C13-JAGTA-HI-021",
+  "unit": "C13",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 76",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "also Ch 11"
+  ],
+  "quote": "जब उदयपुर की हेरिटेज वॉक के अनुभव सुनाए तो उपाध्याय जी एक ऐसी भावदशा को उपलब्ध हो गए कि अभी पंख लगें और उदयपुर के राजमहल की छत पर ही जा उतरों। वे उदयपुर की कथा पर केंद्रित हमारा पावर पाइंट प्रेजेंटेशन भोपाल में अगले ही रविवार को कराने के लिए तैयार हो गए। यह इंटैक की ओर से उदयपुर के लिए एक बिल्कुल ही ताजा ऑफर था। तीन दिन बचे थे। मैंने निकटतम संभव तारीख दो मार्च रखने के लिए कहा, ताकि कुछ बेहतर तैयारी हो सके। उसी मीटिंग से श्यामला हिल्स पर जनजातीय संग्रहालय का हॉल बुक हो गया।\n*Gloss [my translation]:* When we narrated the experience of the Udaipur heritage walk, Upadhyayji was ready to hold our PowerPoint presentation on the Udaipur story in Bhopal next Sunday. This was a fresh offer from INTACH for Udaipur. I asked for 2 March; from that meeting the hall at the Tribal Museum on Shyamla Hills was booked.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "When we narrated the experience of the Udaipur heritage walk, Upadhyayji was ready to hold our PowerPoint presentation on the Udaipur story in Bhopal next Sunday. This was a fresh offer from INTACH for Udaipur. I asked for 2 March; from that meeting the hall at the Tribal Museum on Shyamla Hills was booked.",
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C13-JAGTA-HI-020",
+  "unit": "C13",
+  "kind": "direct",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 165",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 12"
+  ],
+  "quote": "और सचमुच कुछ जागरूक नागरिक सक्रिय हो गये...गंजबासौदा के उत्साही प्रवीण शर्मा, कौस्तुभ शिरहोणकर, कमलेश शर्मा, गगन दुबे, अमित शुक्ला।\nउदयपुर के राजा मियाँ।\nमंडी बामोरा के रमिस्कान्त श्रीवास्तव...और भी अनेक लोग... इन सबकी पहल पर सबसे पहले तो स्थानीय लोगों ने ही अतिक्रमण हटाने शुरू किए। उसके बाद मन्दिर तक पहुँचने का अवश्रुद्ध मार्ग प्रशस्त करने का बीड़ा उठा लिया।...और देखते ही देखते एक छोटे से कस्बे में जनसहयोग से करीब तीन फुट चौड़ी सीमेंटेड सड़क बन तैयार हो गयी।\n*Gloss [my translation]:* And truly some aware citizens became active: the enthusiastic Praveen Sharma, Kaustubh Shirhonkar, Kamlesh Sharma, Gagan Dubey and Amit Shukla of Ganj Basoda; Raja Miyan of Udaypur; Ramiskant Shrivastava of Mandi Bamora and many others. On their initiative first of all the local people themselves began removing the encroachments. After that they took up the task of clearing the blocked path to the temple, and in no time in a small town a cemented road about three feet wide was ready with public cooperation.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": "And truly some aware citizens became active: the enthusiastic Praveen Sharma, Kaustubh Shirhonkar, Kamlesh Sharma, Gagan Dubey and Amit Shukla of Ganj Basoda; Raja Miyan of Udaypur; Ramiskant Shrivastava of Mandi Bamora and many others. On their initiative first of all the local people themselves began removing the encroachments. After that they took up the task of clearing the blocked path to the temple, and in no time in a small town a cemented road about three feet wide was ready with public cooperation.",
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C07-JAGTA-EN-026",
+  "unit": "C07",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 8 (Hindi original)",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 12"
+  ],
+  "quote": "The third corner of that desolate three-way junction of Udaipur takes you into an extremely narrow lane, barely six or seven feet wide. This single crooked and extremely narrow lane, entering the settlement from the main road, goes upward along a slope. This is a painful path to reach the greatest identity of a Udaipur that, in its own time, was magnificent and more than a thousand years old. On both sides of this roughly three-hundred-metre-long lane are decades-old shops made of stone — of cloth, groceries, sweets.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-JAGTA-EN-011",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 98 (Hindi original)",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 12"
+  ],
+  "quote": "Narayan Vyas, who had begun his services in the Archaeological Survey of India (ASI) in 1972 and, at the start of his job, had been sent directly to Udaipur. He remembers well that then, on three sides of the temple, people had built their houses stuck completely [against it]. They were several decades old. We cannot even imagine in what condition it must have lain, and since when. Then those people were removed by being given compensation. When four feet of rubble was removed on the three sides, the temple's splendid foundation came out, which can be seen even today.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S3",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C11-JAGTA-EN-033",
+  "unit": "C11",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 98 (Hindi original)",
+  "also": [],
+  "flags": [
+   "≈"
+  ],
+  "quote": "But the two houses in front were left out. In them, people are living comfortably to this day. Perhaps they found the compensation too little; the deal was not struck; so they must have refused to move. This encroachment of the Neelkantheshwar Mahadev temple, if it was not removed, was simply not removed.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C01-KB-GAZ-002",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 348",
+  "quote": "The Village has primary and higher secondary, schools ayurvedic and veterinary dispensaries and post office. Weekly market is held here on every Monday.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "kb-new"
+  ],
+  "sub": "S5",
+  "note": "Records a Monday weekly market and village services: primary and higher-secondary schools, Ayurvedic and veterinary dispensaries, and a post office. Use as gazetteer-period evidence, not confirmation of present provision.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "559a39e3f988e4b31367fa23b78655a4e5e23beb",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 348",
+  "language": "en",
+  "kb_step": "B",
+  "kb_section": "1.1",
+  "context": "… small mosque, graveyard and a common raised platform. The architecture of the mosque resembles that of Mandu buildings of Muslim origin. According to the Persian and Sanskrit inscriptions on it, it was constructed by an agent of Sherkhan during the reign of Ghias Shah Khilji, Sultan of Mandu in A. D. 1488. A few other monuments include a large Ghod-daud-ki-baodi having spacious and easy flight of steps, along which horses could run down to reach the water, and rock sculptures in the vicinity, like a huge unfinished image and a panel of Sapta Matrikas in the side of an adjoining hill, the shape of which is like a Buddhist Stupa. The Village has primary and higher secondary, schools ayurvedic and veterinary dispensaries and post office. Weekly market is held here on every Monday. It covers an area of about 1,966 hectares. Its population was 928 in 1901 while it increased to 2025 in 1971 as against 1619 in 1901. Vidisha (23° 30' N, 77° 50' E) The District headquarters town, as it stands today, is different from the old town of Vidisha or Besnagar. Till 1956 its name was Bhilsa. After that it was renamed as Vidisha for its close proximity to that …",
+  "v_note": "",
+  "borrowed": true
+ },
+ {
+  "id": "C01-KB-JAGTA-EN-007",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 20 (Hindi original)",
+  "quote": "If one peers into Udaipur or the surrounding villages encircled by fields, forests and quarries, it is hard to understand: if people have no interest in history, then in what subject do they? They are not running even their farming or businesses in any big way either. A kind of carelessness and gloom hangs equally over all. To them nothing in this seems odd.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "kb-new",
+   "≈ (Hindi original)"
+  ],
+  "sub": "S4",
+  "note": "The author explicitly extends his criticism of historical indifference to Udaypur residents and surrounding villages, describing local apathy rather than only visitors' devotional interests.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "14116ccc936b49d44bd00ade1ada6756b24bd777",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 20 (derived)",
+  "language": "en",
+  "kb_step": "B",
+  "kb_section": "1.1",
+  "context": "… in its original form, and this town too. Every day people come to Udaipur from far and wide. Most come only to have darshan of the 11th-century temple — and that too only for the worship of Mahadev. Coming out of the sanctum, they stare up dumbfounded, craning their necks, at the temple's architecture. Everyone has a mobile these days, so taking photos has become a necessary rite like offering flowers — so that they can broadcast it on social media. Only a rare one or two would want to go into the details of this miracle carved on stones — next to none. They have no interest in history. If one peers into Udaipur or the surrounding villages encircled by fields, forests and quarries, it is hard to understand: if people have no interest in history, then in what subject do they? They are not running even their farming or businesses in any big way either. A kind of carelessness and gloom hangs equally over all. To them nothing in this seems odd. It is a world apart — cut off from the past, carefree of the present. Even hazy imaginings of the future there are none. For every small and large task, they are dependent on the governments. When this is so, it is also natural that the local representatives — from the village panchayat to the district panchayat — should be blithely lying in ambush for the government budget. They too …",
+  "v_note": "",
+  "borrowed": true
+ },
+ {
+  "id": "C01-GEOHER-003",
+  "unit": "C01",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 20",
+  "also": [],
+  "flags": [],
+  "quote": "According to the 2011 census, the population of Udaypur is 6,383 people.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "6,383 (2011 census)",
+   "tagged_by": "orchestrator"
+  },
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-BETWA-FLOW-015",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "BETWA-FLOW",
+  "book_title": "Streamflow of the Betwa River under the Combined Effect of LU-LC and Climate Change — Kumar, Amit; Singh, Raghvender Pratap; Dubey, Swatantra Kumar; Gaurav, Kumar",
+  "page": "p. 8",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 12"
+  ],
+  "quote": "Specifically, increase in agricultural land and urban area could be related to the rapid increase of population in the region. As per census data of India, the population in the catchment has increased by 60% from 1991 to 2011 (https://censusindia.gov.in/census.website/; accessed on 8 September 2021). In addition, increase in the area of water bodies can be attributed to the construction of dam in the catchment during 2011–2013.",
+  "tier": 5,
+  "tier_note": "T5 modern scholarship: modern science (streamflow study)",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C02-GEOHER-003",
+  "unit": "C02",
+  "kind": "direct",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 14",
+  "also": [],
+  "flags": [],
+  "quote": "The major part of this report shows that physical rockes are largely sedimentary. Most of the terrain around Udaypur, and the surrounding area are sandstone. This is also seen in the widespread sandstone quarrying carried out all around the project area.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: modern survey (INTACH Geo-Heritage); never adopt its superlatives",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C01-GAZ-008",
+  "unit": "C01",
+  "kind": "direct",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "also": [],
+  "flags": [],
+  "quote": "Udayapur, once a place of considerable importance is a large village in Basoda Tahsil. Its nearest railway station is Bareth, situated at a distance of about 6.5 km. to the west of Udayapur.",
+  "tier": 7,
+  "tier_note": "T7 modern survey / Gazetteer: district Gazetteer, 1979 compilation: the modern setting",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "nearest station Bareth, 6.5 km west",
+   "tagged_by": "orchestrator"
+  },
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C04-PARTEMPLES-006",
+  "unit": "C04",
+  "kind": "direct",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 9",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "quote": "Udayāditya's signal achievement was the construction of the Nilakanthésvara, also known as Udayeśvara, Śiva temple at Udaypura (modern Udaypur), the city named after him.",
+  "tier": 5,
+  "tier_note": "T5 modern scholarship: modern scholarship (Paramāra temples)",
+  "sub": "S4",
+  "strength": "direct",
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "city named after Udayāditya"
+  },
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C10-CII-002",
+  "unit": "C10",
+  "kind": "contextual",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 248",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "quote": "in the same region, which shows that this house retained its hold on that region at least up to 1157 A.C. But some time subsequently, this region passed into the hands of the Chaulukya Kumārapāla, as is evident from a fragmentary inscription of this ruler, which, according to Kielhorn, is dated V.S. 1220 i.e. 1163 A.C., and also from the inscription of Ajayapāla at Udaipur of V.S. 1229 or 1172 A.C. \\( ^{3} \\)  But though the Mahākumāra branch of the Paramāra house lost its hold over this region, it appears to have succeeded in extending its territories farther southwards, as we know from Harischandra's Pipliā-nagar grant and Udayavarman's Bhopāl grant, the first of these donating a village to the south of the Narmadā in the Hoshangābād District, and the second, to its west in the Nēmāwar region, as we shall see below, while identifying the names of places mentioned in the present grant.",
+  "tier": 1,
+  "tier_note": "T1 contemporary inscription: inscriptions as edited in CII VII.2; for dynastic facts the editor's readings outrank Ganguly",
+  "sub": "S1",
+  "strength": "contextual",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C10-MADHYABHARAT-006",
+  "unit": "C10",
+  "kind": "direct",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 117",
+  "also": [
+   "Ch 7",
+   "Ch 11"
+  ],
+  "flags": [
+   "also Ch 7, Ch 11"
+  ],
+  "quote": "The temple was roughly handled and its figure sculptures mutilated by Mohammedan invaders. A popular legend is current that Aurangzeb is responsible for the damage done to this temple but it seems more probable that this had already been done by Mohammad Tughlaq, Sultan of Delhi who built the mosque at the back of the temple with material of demolished shrines, between A. H. 737-39 (A.D. 1336-38) as known from the two Persian inscriptions related to this mosque.",
+  "tier": 5,
+  "tier_note": "T5 modern scholarship: modern scholarship and archaeological observation (Patil)",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": {
+   "key": "temple survival legend",
+   "value": "damage popularly attributed to Aurangzeb; text prefers Muhammad Tughlaq (mosque 1336-38)"
+  },
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C01-JAGTA-EN-015",
+  "unit": "C01",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 163 (Hindi original)",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 12"
+  ],
+  "quote": "Udaipur, about seventy kilometres from Vidisha, cannot even be called a town (*kasba*) today.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S2",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C07-JAGTA-EN-032",
+  "unit": "C07",
+  "kind": "direct",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 18 (Hindi original)",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈",
+   "also Ch 12"
+  ],
+  "quote": "Suresh Mishra, I wrote that in this settlement of eight thousand people, buildings of a thousand, twelve hundred years still survive to a large extent. The whole town exists on its old design in an uneven condition, where there are walls, doorways, temples, palaces, tanks, stepwells, rooms, walls and lanes built according to the architecture of the Paramara dynasty.",
+  "tier": 8,
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate",
+  "sub": "S5",
+  "strength": "direct",
+  "claim": null,
+  "gloss": null,
+  "in_log": true,
+  "borrowed": true
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-001",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 72 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 750,
+  "quote": "Today's loss will be made up tomorrow by those people who will come from all over the world to have darshan of this great heritage.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-002",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 72 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 750,
+  "quote": "Of course, in this work, the role of the people's representatives, the local officers of the administration, and the aware people of society too is positive and inspiring.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-003",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 71 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 741,
+  "quote": "The January of the year 2021 brought a new dawn for Udaipur.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-004",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 161 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 1993,
+  "quote": "*(Shivkumar Vivek is a well-known journalist. He has been editor of several editions of the Naidunia and Dainik Bhaskar newspapers. He is an Adjunct Professor at the Makhanlal Chaturvedi National University of Journalism. He wrote this post on his Facebook page on 20 February 2022, after the Udaipur heritage-walk series.)*",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-005",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 167 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 2092,
+  "quote": "*(The renowned word-savant (*shabdaveta*) Ajit Vadnerkar went to Udaipur twice. His second visit came about after Dr. Suresh Mishra had already come and gone. He wrote this post on his Facebook page at that very time.)*",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-006",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 161 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 1987,
+  "quote": "Our friend Vijay Manohar Tiwari — who is a journalist and the Information Commissioner of [Madhya Pradesh] — is from this very district. So his eye fell upon it. He resolved to bring it out of the dark lanes. Taking with him the history-expert Dr. Suresh Mishra, he went, and — weaving together the threads of the past's course of events — grasped the vicious cycle of time. A band of a few enthusiastic youths got organized. Since then they have been engaged in making people alert toward this heritage.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-007",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 165 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 2042,
+  "quote": "Last year, when I came here, the access-road to the vast temple was extremely narrow on account of encroachment. From there, the grandeur of the temple was not even visible.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-008",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 163 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 2003,
+  "quote": "It seems a sleeping settlement is coming out of its drowsiness… The days of Udaipur (Vidisha) are about to turn [for the better].",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-009",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 163 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 2005,
+  "quote": "People interested in the conservation and promotion of history, archaeology and cultural treasures are coming here continually. There is enthusiasm among the local people that the monuments of Udaipur — victims of centuries of neglect — will now come alive…",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-010",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 163 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 2014,
+  "quote": "A sleeping sort of village, that awaits the moment of waking from its past…",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-011",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 166 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 2069,
+  "quote": "It seems to me that Udaipur is about to receive the importance due to an ancient heritage. This will not happen in the \"here-and-now\"; yet certainly the history that had slept for ten centuries is at least turning over lightly [in its sleep]. The residents of this sweet town — who, even while keeping a faint whiff (*sunagun*) of Udaipur's history, are unaware of its ancient glory — have now themselves begun girding up to become tourism-attendants (*paryatan-parichar*).",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-012",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 165 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 2055,
+  "quote": "As if Udaipur had risen to its feet to bring back the glory and splendour lost over the centuries.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-013",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 150 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 1838,
+  "quote": "Its convener in Bhopal, Dr. Madanmohan Upadhyay, is a sensitive history-lover and a retired IAS officer of Madhya Pradesh itself.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-014",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 150 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 1844,
+  "quote": "Udaipur has the capacity to be brought forth, at the international level, as a magnificent tourist spot. \"So many diverse monuments in one lot, I have seen nowhere in the world.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-015",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 151 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 1855,
+  "quote": "In the past year Upadhyay went to Udaipur several times. He believes that the local people have a separate world, and that their living connection with their priceless heritage has not been such that they would take any effective initiative from their own side. It has been a distance filled with a kind of indifference. Until they feel an attachment to it, the expected results cannot come from external efforts or governmental attempts alone.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ },
+ {
+  "id": "C12-KBN-JAGTA-EN-016",
+  "unit": "C12",
+  "kind": "kb-new",
+  "book_code": "JAGTA-EN",
+  "page": "≈ p. 23 (Hindi original)",
+  "source_file": "Jagta_Hua_Kasba_EN.md",
+  "line": 213,
+  "quote": "It is the Kohinoor of ancient Indian architecture in this region, which has been kept thrown on a dungheap — and I am astonished that the officers who come here have kept going, leaving it just so.",
+  "tier": 8,
+  "flags": [
+   "kb-new",
+   "≈"
+  ],
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "tier_note": "T8 tradition / testimony: testimony and local tradition (Tiwari); memory, not the event; pages approximate"
+ }
+]

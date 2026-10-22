@@ -1,0 +1,25 @@
+{"c":"947cc7b4ff","keep":false,"reject_reason":"folk anecdotes about Bhoj; no bearing on any unit"}
+{"c":"6f48024c19","keep":true,"items":[{"unit":"C08","sub":"S1","type":"excerpt","strength":"contextual","span":[26,29],"note":"Bhoj, though a Shaiva, respected contemporary faiths: hear Buddhist doctrine, follow Jain conduct, behave as Vedics, meditate on Shiva; avoid reviling others' gods."}]}
+{"c":"3b7d5afab8","keep":true,"items":[{"unit":"C08","sub":"S1","type":"quote","strength":"contextual","span":[8,10],"note":"Sense of the verses attributed to Bhoj: hear the Buddha's doctrine, practise Jain compassion, the Kaula view for delight, the Vedic in conduct, the Supreme Shiva in meditation; avoid reviling others' gods."}]}
+{"c":"bd0cf78020","keep":false,"reject_reason":"table of contents of the appended book Ujjayini Rahasyam"}
+{"c":"e78b0f811a","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Ujjayini Rahasyam introduction on Vikramaditya)"}
+{"c":"53422870b7","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Bhartrihari Cave at Ujjain)"}
+{"c":"31248a635b","keep":false,"reject_reason":"Bhartrihari Festival at Ujjain; other town, no bearing on any unit"}
+{"c":"1233785167","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Bhartrihari folk legend)"}
+{"c":"3556ba15bc","keep":false,"reject_reason":"Bhartrihari folk songs and Nath sect legends; no bearing on any unit"}
+{"c":"0dbc8fded6","keep":false,"reject_reason":"Bhartrihari at Alwar; other town, no bearing on any unit"}
+{"c":"8352f450d2","keep":false,"reject_reason":"debate on identity of Bhartrihari the grammarian; no bearing on any unit"}
+{"c":"0442ce4b00","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Kalakacharya narrative, Ujjayini)"}
+{"c":"b03d8bc88c","keep":false,"reject_reason":"Shaka history and Vikramaditya; no bearing on Udaypur"}
+{"c":"10185fc17a","keep":false,"reject_reason":"Vikramaditya chronology; no bearing on Udaypur"}
+{"c":"3962a086ec","keep":false,"reject_reason":"Chandragupta II as Vikramaditya; no bearing on Udaypur"}
+{"c":"80766cd960","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Vikramaditya historicity debate)"}
+{"c":"342caac62c","keep":false,"reject_reason":"Vikram Samvat discussion; no bearing on Udaypur"}
+{"c":"fdab1d2a1b","keep":false,"reject_reason":"Vikramaditya as universal sovereign; no bearing on Udaypur"}
+{"c":"d6bcfe4dc8","keep":false,"reject_reason":"legend of Vikramaditya and Caesar; no bearing on Udaypur"}
+{"c":"839593408c","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (nine gems of Vikramaditya)"}
+{"c":"0e769a230f","keep":false,"reject_reason":"Kalidasa and Varahamihira discussion; no bearing on Udaypur"}
+{"c":"a770fa3967","keep":false,"reject_reason":"Varahamihira biography; no bearing on Udaypur"}
+{"c":"54ed96c248","keep":false,"reject_reason":"Dhanvantari and Vetal legends; no bearing on Udaypur"}
+{"c":"de6c706dd3","keep":false,"reject_reason":"Ghatakharpar, Amarasimha, Kshapanaka, Shanku notes; no bearing on Udaypur"}
+{"c":"69f1c2367f","keep":false,"reject_reason":"Shabara Swami genealogy and Vararuchi; no bearing on Udaypur"}

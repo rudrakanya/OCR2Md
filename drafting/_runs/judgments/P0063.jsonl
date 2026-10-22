@@ -1,0 +1,25 @@
+{"c":"a2733d3bce","keep":false,"reject_reason":"Mount Abu branch politics (Vikramasimha); no bearing on a unit"}
+{"c":"70a29e3cb4","keep":false,"reject_reason":"Mount Abu branch inscriptions and wars (Yaśodhavala); no bearing on a unit"}
+{"c":"a393fcac78","keep":true,"items":[{"unit":"C08","sub":"S3","type":"inscription","strength":"contextual","span":[3,5],"note":"1163 A.D. Kayadra inscription records a remission of taxes on a village belonging to a priest of the Kāsesvara temple, an example of temple-linked fiscal grants in a Paramāra branch region."}]}
+{"c":"c17d31dd17","keep":true,"items":[{"unit":"C08","sub":"S2","type":"inscription","strength":"contextual","span":[1,6],"note":"1217 A.D. inscription in a Śiva temple: persons took a vow to observe two days of festivity from Mahārātri (Śivarātri) on a solar eclipse."}]}
+{"c":"b1be2faf63","keep":false,"reject_reason":"Dhārāvarṣa and the Konkan war narrative; no bearing on a unit"}
+{"c":"db1d64d50d","keep":false,"reject_reason":"Gujarat and Ajmer wars; no bearing on a unit"}
+{"c":"4ddbcec9ea","keep":false,"reject_reason":"Caulukya-Cāhamāna war narrative; no bearing on a unit"}
+{"c":"5039333749","keep":false,"reject_reason":"Guhila invasion of Gujarat and Abu revolt; no bearing on a unit"}
+{"c":"09296f43c8","keep":false,"reject_reason":"Moslem raids at Mount Abu; no bearing on a unit"}
+{"c":"32db599d6d","keep":false,"reject_reason":"Persian chronicle account of a battle at Mount Abu; no bearing on a unit"}
+{"c":"e0b3ebec64","keep":false,"reject_reason":"Mount Abu war narrative against Iyal-Timish; no bearing on a unit"}
+{"c":"886e468f32","keep":true,"items":[{"unit":"C06","sub":"S4","type":"fact","strength":"contextual","span":[14,19],"note":"Mount Abu inscriptions praise Prahlādana's culture; Someśvara's Kīrtikaumudī says he 'again delighted the goddess of learning' afflicted by the passing of Bhoja and Muñja."}]}
+{"c":"97495d6de9","keep":true,"items":[{"unit":"C08","sub":"S2","type":"fact","strength":"contextual","span":[2,2],"note":"Prahlādana's drama was first staged at Dhāravarṣa's court on the occasion of the investiture of the god Acalesvara with the sacred thread."}]}
+{"c":"e775cb89c7","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Prahlādanapura and Jaina temple references)"}
+{"c":"3d65cb54fe","keep":true,"items":[{"unit":"C08","sub":"S3","type":"inscription","strength":"contextual","span":[8,11],"note":"1230 A.D. Mount Abu record: minister Tejahpāla built the Neminātha temple and Somasimha granted a village for its maintenance, with named trustees."}]}
+{"c":"9ee0852626","keep":false,"reject_reason":"Pratāpasimha of Candrāvatī politics; no bearing on a unit"}
+{"c":"7fc7be6371","keep":true,"items":[{"unit":"C08","sub":"S3","type":"inscription","strength":"contextual","span":[1,2],"note":"Pātanārāyaṇa temple donations: ten drammas from villages and the revenue of the Golapikā and Candrāvatī export duty."}]}
+{"c":"f11258c9fd","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Mount Abu geography and village list)"}
+{"c":"7fd3c4cc4f","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Mount Abu village list and Arbuda society; different region)"}
+{"c":"fccc3461be","keep":true,"items":[{"unit":"C07","sub":"S4","type":"fact","strength":"contextual","span":[3,4],"xref":["C08"],"note":"Villagers of Bhundipada jointly funded a step-well for pure drinking water, the donors noting that none can survive a day without water."}]}
+{"c":"7d27458ceb","keep":true,"items":[{"unit":"C08","sub":"S1","type":"fact","strength":"contextual","span":[17,18],"note":"In the Arbuda country Śiva was worshipped under many names (Koteśvara, Atulanātha, Kanakhala Śambhu, Kāseśvara); Nārāyaṇa, Varuna, Ganesa and Sarasvati were also worshipped."}]}
+{"c":"375eb2a1f5","keep":false,"reject_reason":"Jainism at Mount Abu; off-topic for Udaypur"}
+{"c":"0084226bc9","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Dilwara Jaina temple description, Mount Abu)"}
+{"c":"89a301314d","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Candrāvatī temples and Fergusson quote, other region)"}
+{"c":"4b81ca9723","keep":false,"reject_reason":"Vāgada branch genealogy; no bearing on a unit"}

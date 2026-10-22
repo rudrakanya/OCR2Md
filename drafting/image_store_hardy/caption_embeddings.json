@@ -1,0 +1,10 @@
+{
+ "model": "text-embedding-3-large",
+ "dimensions": 1536,
+ "captions": 332,
+ "date": "2026-10-22",
+ "tokens_total": 34567,
+ "tokens_sent_this_run": 805,
+ "cost_usd_this_run": 0.0001,
+ "embedded_text": "<label ref> (<chapter title>; <image type>): <caption>"
+}

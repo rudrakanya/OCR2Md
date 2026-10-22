@@ -1,0 +1,6 @@
+### Folder check (report only; nothing moved)
+
+- **`samarangana-sutradhara.md`** (the Samarāṅgaṇa re-OCR, 3,804,459 bytes, modified 2026-10-12 18:10) is in **both** `Udaipur Books Markdown files/` and `Udaypur Reference Markdown Files/`. An identical copy is kept as `backups/2026-10-13_samarangana_reocr/samarangana-sutradhara_ASSEMBLED.md`.
+  - The legacy orphan is at `backups/2026-10-13_samarangana_reocr/samarangana-sutradhara_legacy_orphan.md` (2026-10-12 17:11).
+  - The old two-volume OCR (`Samrangana Sutradhar Vol 1.md`, `Samarangan Vol 2 (a)_combined.md`, 2026-08-18) was retired to `backups/2026-10-13_samarangana_reocr/`. **The database still indexes these old volumes**; the re-OCR has not been ingested. Every Samarāṅgaṇa item is therefore marked ⚠ "old OCR, pending re-OCR", is verified against the retired copies, and must be re-verified against the re-OCR before use.
+- **Yogasūtra:** the re-OCR is the active `Udaipur Books Markdown files/patanjala-yogasutra-rajamartanda-bhoja.md` (472,922 bytes, 2026-10-12 16:06), identical to `backups/2026-10-12_ocr_pagerefs/yogasutra_reocr_final.md`. The old OCR is `Udaypur Reference Markdown Files/patanjala-yogasutra-rajamartanda-bhoja.md` (468,836 bytes, 2026-10-09 11:24).

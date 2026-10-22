@@ -1,0 +1,22 @@
+{"c":"246f883b2f","keep":true,"items":[{"unit":"C08","sub":"S1","type":"fact","strength":"contextual","span":[10,10],"note":"Bhinmāl inscription shows 'the prevalence of the Pásupata sect of Śaivism in the locality' (Paramāra branch record, not Udaypur)."}]}
+{"c":"bbad01a933","keep":false,"reject_reason":"garbled Devanagari transcript with footnote debris"}
+{"c":"7f35d13037","keep":true,"items":[{"unit":"C06","sub":"S3","type":"fact","strength":"contextual","span":[24,28],"note":"Describes twelfth-century Nāgārī letter forms of a Paramāra-branch prasasti (Kirādū), useful comparison for scripts and lettering."}]}
+{"c":"1327a80d15","keep":false,"reject_reason":"minor transcript-variation notes on a Kirādū (Rajasthan) record; no bearing on Udaypur"}
+{"c":"3172580131","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[8,8],"xref":["C06"],"note":"Inscription relates the myth of Paramāra origin from Vasishtha's fire-altar on Mount Ābū and introduces Sindhurāja."},{"unit":"C06","sub":"S1","type":"fact","strength":"contextual","span":[1,1],"note":"Characterises the record as a prasasti, a laudatory account of the Paramāra house (Kirādū branch)."}]}
+{"c":"8673b96ee4","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"contextual","span":[2,2],"note":"Editor notes that prasastis were generally inscribed in a part of a temple, consonant with the slab found in a Śiva temple."}]}
+{"c":"e5fc53678d","keep":false,"reject_reason":"Kirādū-branch Paramāra genealogy (Udayarāja, Sōmēśvara) in Rajasthan; no link to Udayāditya or Udaypur"}
+{"c":"ccdeea4cd0","keep":true,"items":[{"unit":"C06","sub":"S5","type":"fact","strength":"contextual","span":[12,12],"note":"Last verse names composer, scribe and engraver of the prasasti, an example of how such records credit authorship."}]}
+{"c":"9cdf3f5687","keep":false,"reject_reason":"footnote place-name identifications for Kirādū record; off-topic"}
+{"c":"8c01466e25","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari transcript)"}
+{"c":"2c11d195eb","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari transcript)"}
+{"c":"32f707e1fb","keep":true,"items":[{"unit":"C04","sub":"S1","type":"quote","strength":"contextual","span":[7,7],"note":"Verse compares a king to Varāha supporting the earth 'immersed in Sindhurāja (the ocean)', Sindhurāja being 'the originator of the family'."}]}
+{"c":"a04b7fbc5c","keep":false,"reject_reason":"plate page of dashes and garbled Devanagari; unusable"}
+{"c":"7b12cd1373","keep":false,"reject_reason":"edition preface for a Bhinmāl (Rajasthan) record; physical description only, no bearing on Udaypur"}
+{"c":"4957631e5d","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[1,1],"note":"Sectarian record of cash gifts of one dramma to a deity, with a wife's gift; an example of small temple endowments in a Paramāra branch region."}]}
+{"c":"9f824e9c35","keep":false,"reject_reason":"garbled table and footnotes for a Bhinmāl record"}
+{"c":"67818097ca","keep":false,"reject_reason":"garbled Devanagari text and plate debris"}
+{"c":"bfa50db541","keep":false,"reject_reason":"edition preface for a Jālōr (Rajasthan) record; no bearing on Udaypur"}
+{"c":"63a42ef814","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[3,5],"note":"Record opens with the Vasishtha fire-sacrifice legend of Paramāra origin and lists the Jālōr branch's rulers from Vākpatirāja to Visala."},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[1,2],"note":"Queen Mélaradēvī furnished the Sindhurājēśvara temple with a golden cupola (Saṃvat 1174), a royal temple gift."}]}
+{"c":"7ff8b57b51","keep":false,"reject_reason":"Jālōr branch chronology and footnote debate; nothing specific to Udaypur or Udayāditya"}
+{"c":"b2b9584a93","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari transcript)"}
+{"c":"848743821f","keep":false,"reject_reason":"plate captions and library stamp debris"}

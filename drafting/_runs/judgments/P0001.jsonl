@@ -1,0 +1,25 @@
+{"c":"25ab765baf","keep":false,"reject_reason":"front matter: list of contributors and table of contents; pilot-judged for C01; nothing for C02–C13"}
+{"c":"bd913e6e21","keep":false,"reject_reason":"OCR garbage: numbered table cells only"}
+{"c":"0ea461bfd4","keep":false,"reject_reason":"OCR garbage: numbered table cells only"}
+{"c":"8d3937ad7f","keep":false,"reject_reason":"OCR garbage: numbered table cells only"}
+{"c":"6703a88c89","keep":false,"reject_reason":"OCR garbage: numbered table cells only"}
+{"c":"01d30931e6","keep":false,"reject_reason":"OCR garbage: numbered table cells only"}
+{"c":"ed3717ede1","keep":false,"reject_reason":"OCR garbage: numbered table cells only"}
+{"c":"42d3b7a7aa","keep":false,"reject_reason":"OCR unreliable and fragmentary; pilot-judged for C01; nothing for C02–C13"}
+{"c":"876971e11f","keep":false,"reject_reason":"OCR garbage: repeated numerals and fractions"}
+{"c":"e9115f535b","keep":false,"reject_reason":"OCR garbage: repeated numerals and fractions"}
+{"c":"8dd8b8cf94","keep":false,"reject_reason":"OCR garbage: repeated numerals and fractions"}
+{"c":"99c2a262c0","keep":false,"reject_reason":"OCR garbage: repeated '(1)' lines, no quotable text"}
+{"c":"867471e1c6","keep":false,"reject_reason":"OCR garbage: repeated table cells"}
+{"c":"a3f6d7714c","keep":false,"reject_reason":"garbled endnotes and reference list about Kashmir, no usable text; pilot-judged for C01; nothing for C02–C13"}
+{"c":"2cb5e7e75b","keep":false,"reject_reason":"endnote list of numbers and repeated '1942.', no usable content"}
+{"c":"d80b6af4af","keep":false,"reject_reason":"endnote list of numbers and repeated years, no usable content"}
+{"c":"dca2652531","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[4,8],"note":"General Paramāra temple traits: northern temples influenced by the Māgara style, cruciform plan, curvilinear tower, Mahāpīṭha, clustered aṅga-śikhara. Not specific to Udaypur."},{"unit":"C05","sub":"S2","type":"architectural detail","strength":"contextual","span":[9,11],"note":"Describes the Bhūmija śikhara of later Paramāra temples in the Anūpa region: four spines with chaitya-dormer mesh, miniature shrine-models in rows, prominent sukanāsa.","claim":{"key":"Bhūmija style: origin / affinity","value":"later Paramāra temples of the Anūpa region are of Bhūmija style"}}]}
+{"c":"81668f8123","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[11,12],"note":"Un's Jaina temples are Bhūmija and 'essentially have the same plan and the šikhara design as the Udayeśvara temple but they are simple'. Un is a different site.","claim":{"key":"Bhūmija style: origin / affinity","value":"Un temples of Bhūmija style with same plan and śikhara design as the Udayeśvara temple"}},{"unit":"C06","sub":"S3","type":"inscription","strength":"contextual","span":[9,10],"note":"Un's Jaina temples confirmed as later Paramāra by two inscriptions of Udayāditya and a Sarpabandha inscription of Naravarman. Site is Un, not Udaypur."},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[28,31],"note":"Chālukya (Jayasimha Siddharāja) defeat of Naravarman and Yasovarman, seizure of Paramāra dominions, Mālwā a Chālukya province under Kumārapāla, with architectural influence.","xref":["C10"]}]}
+{"c":"507a2138be","keep":false,"reject_reason":"Jaina sculpture at other sites (Mammon, Bhojapura, Gandhwal etc.), no Udaypur link; pilot-judged for C01; nothing for C02–C13"}
+{"c":"e0827492bc","keep":false,"reject_reason":"footnote citations only, no body text; pilot-judged for C01; nothing for C02–C13"}
+{"c":"94069e141a","keep":true,"items":[{"unit":"C05","sub":"S1","type":"architectural detail","strength":"contextual","span":[13,15],"note":"Plan of Paramāra Bhūmija temples at Un: garbhagṛha, antarāla, raṅgamaṇḍapa on four pillars, porches, no covered pradakṣiṇāpatha, high stone-paved platform. Un is a different site."},{"unit":"C05","sub":"S4","type":"architectural detail","strength":"contextual","span":[16,17],"note":"Wall mouldings and sculptures of Chāmuṇḍā, Naṭarāja and Tripurārī on the bhadras, with graded roof rising to a tall śikhara over the garbhagṛha (Un temples)."}]}
+{"c":"77a9ff5911","keep":false,"reject_reason":"OCR garbage: repeated nonsense sentences; pilot text unusable"}
+{"c":"0a74dfa2f8","keep":false,"reject_reason":"OCR garbage: repeated nonsense sentences"}
+{"c":"ec3dce7779","keep":false,"reject_reason":"OCR garbage: hallucinated repeated text and tables; pilot-judged for C01; nothing for C02–C13"}
+{"c":"f86c1dc130","keep":false,"reject_reason":"OCR garbage: hallucinated text about 'Church of the Holy Trinity'; pilot-judged for C01; nothing for C02–C13"}

@@ -1,0 +1,478 @@
+# Book ledger, Chapters 1–3
+
+*Built from the approved plans (Ch1 v5, Ch2 v3, Ch3 v2); updated from the final texts after drafting. Not evidence: a record of what the reader is told, and where.*
+
+- **Chapter 1 through-line:** By the end, the reader knows that an ordinary village lives inside a Paramāra king's town, whose remains, records and memories all reach back to one eleventh-century act of naming, and that the evidence leaves open whether that act founded the place or took it over.
+- **Chapter 2 through-line:** By the end, the reader knows the land the founder found: a country with no river at its door and no dependable groundwater, one wet season, black soil and a hill of building stone, so that its water had to be made and its town was built of its own rock. The land is the setting, never the cause.
+- **Chapter 3 through-line:** By the end, the reader knows that Udaypur's hill stood in an old, named country whose centre, roads and carved shrines lay elsewhere and reached the hill only through proposals, and that by the tenth century its own range had become a crowded frontier.
+
+## People
+
+- **Tiwari** (Vijay Manohar Tiwari), first 1.1: Eyewitness to the approach to Udaypur
+- **Udayāditya** (Udayāditya), first 1.1: Paramāra king whose naming act anchors the town's history
+- **Berni Mata** (Berni Mata), first 1.1: Figure in stories placing a dancer in Udayāditya's court
+- **Bhoja** (Bhoja), first 1.2: Paramāra ruler whose death precipitated a crisis
+- **Jayasiṃha** (Jayasiṃha), first 1.2: Regained the throne with Chālukya help; died fighting invaders
+- **Ganguly** (Ganguly), first 1.2: Scholar interpreting a feudatory line at Udayapur
+- **Yaśovarman** (Yaśovarman), first 1.3: Ruler under whom Udayāditya's line lost Malwa to Gujarat
+- **Lūṇapasāka** (Lūṇapasāka), first 1.3: Issuer of grants dated 1171–73
+- **Devapāla** (Devapāla), first 1.3: Paramāra king recorded residing at Udaypur
+- **Jayavarman II** (Jayavarman II), first 1.3: Ruler who still held Bhilsa in 1263
+- **Sher Khan** (Sher Khan), first 1.3: Associated with the mosque of 1488
+- **Vasiṣṭha** (Vasiṣṭha), first 1.4: Figure whose fire-altar produces the genealogy's opening hero
+- **Aurangzeb** (Aurangzeb), first 1.4: Figure in legends explaining the temple's survival
+- **Bhringraj** (Bhringraj), first 1.5: Remembered earlier master in traditions favouring renaming
+- **Buddha** (Buddha), first 3.1: Temporal reference for literary Daśārṇa
+- **Kālidāsa** (Kālidāsa), first 3.1: Author whose play recalls Agnimitra governing Vidisha
+- **Nahapāna** (Nahapāna), first 3.1: Ruler from whom a Sātavāhana king claimed lands
+- **Agnimitra** (Agnimitra), first 3.2: Crown prince governing Vidisha in Kālidāsa's play
+- **Ashoka** (Ashoka), first 3.2: Generally credited with raising Sanchi's great stūpa
+- **Vāsudeva** (Vāsudeva), first 3.3: Recipient of Heliodorus's Garuḍa-dhvaja dedication
+- **Heliodorus** (Heliodorus), first 3.3: Greek king's envoy who erected a pillar at Besnagar
+- **Antialcidas** (Antialcidas), first 3.3: Greek king whose envoy was Heliodorus
+- **Garuḍa** (Garuḍa), first 3.3: Named in the pillars and Garuḍa-dhvaja dedications
+- **Durgā** (Durgā), first 3.3: Represented among Besnagar's early Śaiva images
+- **Seven Mothers** (Seven Mothers), first 3.3: Represented at Besnagar and between Badoh and Pathari
+- **Samudragupta** (Samudragupta), first 3.3: King whose Allahabad inscription claims victory over Nāga rulers
+- **Chandragupta II** (Chandragupta II), first 3.3: Sovereign attested by two Udayagiri inscriptions
+- **Varāha** (Varāha), first 3.3: Subject of Udayagiri panel and a Pathari monument
+- **Viṣṇu** (Viṣṇu), first 3.3: Subject of images Tiwari reads as Gupta
+- **Buddharāja** (Buddharāja), first 3.4: Kalachuri king issuing a grant from Vaidiśa in 608
+- **Bhāillasvāmin** (Bhāillasvāmin), first 3.4: Sun image whose name Bhilsa took
+- **Krishna** (Krishna), first 3.4: King whose reign supplies a Sun-temple inscription
+- **Krishna III** (Rāṣṭrakūṭa Krishna III), first 3.4: Probable identification of the inscription's king Krishna
+- **Al-Bīrūnī** (Al-Bīrūnī), first 3.4: Recorded Bhilsa's naming after its idol about 1030
+- **Parabala** (Parabala), first 3.5: Named in the account of Pathari's 861 pillar
+- **Śiva** (Śiva), first 3.5: Deity of a Pathari temple
+- **Dhaṅga** (Dhaṅga), first 3.5: Chandella ruler associated with the claim to Bhilsa
+
+## Terms (gloss once, at first appearance in the book)
+
+- *tahsil*: Administrative designation used for Basoda (first 1.1)
+- *Paramāra*: Kingdom ruled from Dhārā (first 1.1)
+- *yakṣa*: Reading reserved for a note (first 1.1)
+- *Chālukya*: Power that helped Jayasiṃha regain the throne (first 1.2)
+- *praśasti*: Dynasty's praise and self-portrait (first 1.2)
+- *bandhu*: A relative in general (first 1.2)
+- *maṇḍalas*: Divisions within the kingdom (first 1.2)
+- *bhogas*: Divisions within the kingdom (first 1.2)
+- *viṣayas*: Divisions within the kingdom (first 1.2)
+- *pathakas*: Divisions within the kingdom (first 1.2)
+- *Bhāillasvāmi-mahādvādaśaka*: Division containing Udayapura (first 1.2)
+- *Nēmaka*: Local house under the king (first 1.2)
+- *feudatory*: Local line under the king (first 1.2)
+- *Candella*: Dynastic designation of king at Bhilsa (first 1.3)
+- *Mahākumāra*: Branch that held on in the east (first 1.3)
+- *Vedas*: Texts formerly read in the demolished hall (first 1.3)
+- *Sultanate*: Period of building within the named town (first 1.3)
+- *Mughal*: Later building regime within the town (first 1.3)
+- *Scindia*: Patrons maintaining the shrine (first 1.3)
+- *V.S.*: Dating designation on the founding inscriptions (first 1.4)
+- *Gond*: Earlier rule remembered in local traditions (first 1.5)
+- *tributary*: Stream within the Betwa drainage (first 2.1)
+- *groundwater*: Underground water; unreliable around Udaypur (first 2.1)
+- *drainage*: Pattern of water flowing through the landscape (first 2.1)
+- *runoff*: River flow concentrated in the monsoon (first 2.1)
+- *monsoon*: Rains supplying water stored through dry months (first 2.1)
+- *Vindhyan sandstone*: Building stone associated with unreliable summer wells (first 2.1)
+- *sandstone*: Rock supplying building stone and some soil (first 2.1)
+- *evaporation*: Water loss exceeding rainfall (first 2.2)
+- *black cotton soil*: Moisture-holding soil very good for wheat (first 2.2)
+- *red-yellow soil*: Soil from sandstone and shale (first 2.2)
+- *shale*: Rock contributing to red-yellow soil (first 2.2)
+- *kharif*: Crop described as 90 per cent rain-fed (first 2.2)
+- *rabi*: Winter crop, 34 per cent rain-fed (first 2.2)
+- *doab*: Land enclosed by two rivers (first 2.2)
+- *catchment*: Upper river area described as drying (first 2.2)
+- *tableland*: Elevated landscape eroding into remnant hills (first 2.3)
+- *Deccan trap*: Cover stripped away to expose underlying rock (first 2.3)
+- *limestone*: Rock exposed at the surface around Udaypur (first 2.3)
+- *mesa*: Two-storey tableland remnant wearing into a butte (first 2.3)
+- *butte*: Later stage in the tableland's decay (first 2.3)
+- *caprock*: Hard rock breaking back over weaker beds (first 2.3)
+- *jāṅgala*: Dry country (first 2.4)
+- *kunds*: Water structures on the hilltop (first 2.4)
+- *stepwells*: Water structures filled during the rains (first 2.4)
+- *baolis*: Structures filled in rains for year-round use (first 2.4)
+- *dry-masonry*: Construction used for houses built from local stone (first 2.5)
+- *palaeolithic*: Period assigned to the valley stone tools (first 3.1)
+- *choppers*: Type of palaeolithic stone tool (first 3.1)
+- *handaxes*: Type of palaeolithic stone tool (first 3.1)
+- *cleavers*: Type of palaeolithic stone tool (first 3.1)
+- *chalcolithic*: Period assigned to the district mound (first 3.1)
+- *microliths*: Finds also yielded by the district mound (first 3.1)
+- *Sātavāhana*: Dynastic affiliation of the king claiming conquest (first 3.1)
+- *Ākara-janapada*: Country whose capital was Vidisha (first 3.1)
+- *Purāṇic*: Tradition naming the region's first rulers (first 3.1)
+- *Haihaya*: Branch named among the region's traditional first rulers (first 3.1)
+- *Pradyotas*: Rulers following the Haihaya branch in tradition (first 3.1)
+- *Northern Black Polished ware*: Ceramic marker in Besnagar's occupation sequence (first 3.2)
+- *Śuṅga*: Dynasty under which Vidisha was Ākara's capital (first 3.2)
+- *Śuṅgas*: Dynasty under which Vidisha was Ākara's capital (first 3.2)
+- *Gupta*: Period of prosperity and early shrine forms (first 3.2)
+- *post-Gupta*: Latest period in Besnagar's stated occupation sequence (first 3.2)
+- *Pali*: Language of books naming Vessanagar (first 3.2)
+- *Sanskrit*: Language naming Vidisha and used in an inscription (first 3.2)
+- *stūpa*: Sanchi monument supported by Vidisha merchants' donations (first 3.2)
+- *Vaiṣṇava*: Religious affiliation of Besnagar's early temple (first 3.3)
+- *Śaiva*: Religious affiliation of early regional images (first 3.3)
+- *Garuḍa-dhvaja*: Pillar erected at Besnagar and Pathari (first 3.3)
+- *Bhāgavata*: Religious identity declared by Heliodorus (first 3.3)
+- *lime mortar*: Material in the Besnagar shrine's brick foundation (first 3.3)
+- *pre-Mauryan*: Earliest proposed dating for Besnagar's colossal statues (first 3.3)
+- *liṅgas*: One-faced forms among early Śaiva images (first 3.3)
+- *Nāga*: Rulers defeated according to Samudragupta's inscription (first 3.3)
+- *Brahmanical*: Designation of Udayagiri's earliest rock-cut temple (first 3.3)
+- *Jain Tīrthaṅkaras*: Proposed identification of unfinished cave figures (first 3.3)
+- *Paramāras*: Dynasty whose arrival follows this chapter (first 3.3)
+- *Kalachuri*: Dynastic affiliation of Buddharāja (first 3.4)
+- *Rāṣṭrakūṭa*: Dynastic affiliation tentatively assigned to king Krishna (first 3.4)
+- *Pratihāras*: Power preceding Rāṣṭrakūṭa control of Malwa (first 3.5)
+- *Gurjara-Pratihāras*: Power losing Malwa in Ganguly's inference (first 3.5)
+- *Rāṣṭrakūṭas*: Dynasty distributing conquests north of the Narmada (first 3.5)
+- *Pratihāra style*: Architectural style of Gyaraspur's Maladevi temple (first 3.5)
+- *Daśāvatāra*: Badoh temple group dated eighth to tenth centuries (first 3.5)
+- *siddham*: Opening of the hill inscription (first 3.5)
+- *sūtradhāra*: Designation tentatively read in the hill inscription (first 3.5)
+- *Chandellas*: Dynasty claiming Bhilsa and competing for the region (first 3.5)
+- *Kalachuris*: Dāhala dynasty competing for the region (first 3.5)
+
+## Places
+
+- **Udaypur**, first 1.1: Ordinary village occupying a much greater medieval town
+- **Basoda tahsil**, first 1.1: Administrative setting of the village in the historical question
+- **Ganj Basoda**, first 1.1: Starting point for the approach to Udaypur
+- **Rajasthan**, first 1.1: Location of the better-known Udaipur
+- **Udaipur**, first 1.1: Rajasthan namesake overshadowing the village's name
+- **Malwa**, first 1.2: Paramāra kingdom's region; Udaypur lay on its eastern edge
+- **Dhārā**, first 1.2: Paramāra ruling centre seized after Bhoja's death
+- **Bhilsa**, first 1.2: Eastern reach of the kingdom; held by Jayavarman II in 1263
+- **Nagpur**, first 1.2: Inscription calls Udayāditya bandhu and supplies the boar image
+- **Dongargaon**, first 1.2: Inscription makes Udayāditya Bhoja's brother
+- **Jainad**, first 1.2: Inscription makes Udayāditya Bhoja's brother
+- **Udayapura**, first 1.2: Town's royal name; eastern headquarters and Nēmaka capital
+- **Udayeśvara**, first 1.2: Temple sharing the royal naming act
+- **Udayasamudra**, first 1.2: Tank sharing the royal naming act
+- **Bhāillasvāmi-mahādvādaśaka**, first 1.2: Division in which Udayapura lay
+- **Udayapur**, first 1.2: Spelling used for Ganguly's reading of the feudatory seat
+- **Mandu**, first 1.3: Associated with a later layer of building
+- **Gujarat**, first 1.3: Power to which Udayāditya's line lost Malwa
+- **Bhāillasvāmin**, first 1.3: Residence of a Candella king issuing a grant in 1134
+- **Sher Khan's mosque**, first 1.3: Building of 1488 within the old town
+- **Shahi Masjid**, first 1.3: Building of 1632 within the old town
+- **Ramgarh**, first 1.3: Temple follower in an attributed assessment of Udaypur's model
+- **Nemawar**, first 1.3: Temple follower in an attributed assessment of Udaypur's model
+- **Gwalior**, first 1.4: Present location of the praśasti's two halves
+- **Mount Abu**, first 1.4: Site of Vasiṣṭha's fire-altar in the dynastic genealogy
+- **Bhujariya Talab**, first 1.5: Possibly early tank with embankment older than the Udaysagar
+- **Udaysagar**, first 1.5: Tank compared with the older Bhujariya Talab embankment
+- **Bhringrajpur**, first 1.5: Name preserved in traditions of earlier masters
+- **Daśārṇa**, first 1.5: Association reserved for Chapter 3
+- **Udayagiri**, first 1.5: Association reserved for Chapter 3
+- **Udhapuram**, first 1.5: Later echo unable to settle the founding question
+- **Betwa valley**, first 1.5: Water, stone and seasons become Chapter 2's subject
+- **Betwa**, first 2.1: River whose country includes Udaypur but does not directly supply it
+- **Vētravatī**, first 2.1: Name used for the river in inscriptions
+- **Vidisha/Bhilsa**, first 2.1: Ancient city in river fork; eastern Paramāra centre
+- **Paramāra kingdom**, first 2.1: Political setting; Bhilsa marked its eastern limit
+- **Bhilsa division**, first 2.1: Later administrative division that included Udayapura
+- **Raisen**, first 2.1: Starting reference for describing the Betwa's course
+- **Kewtan**, first 2.1: Nearest stream; one kilometre from the village
+- **Shiva Pindi**, first 2.1: Landmark 1.8 km from the Kewtan
+- **Basoda**, first 2.2: Place where low rainfall has occurred in runs
+- **Bah**, first 2.2: River enclosing the district's best land with the Betwa
+- **Vindhyan spurs**, first 2.3: Uneven north-sloping tableland on which Udaypur sits
+- **Garhi–Teonda range**, first 2.3: Udaypur occupies its western foothills
+- **Gyaraspur**, first 2.3: Built with the same Vindhyan sandstone
+- **Bhojpur**, first 2.4: Site of Bhoja's temple and nearby Betwa dam
+- **Bina**, first 3.1: Valley yielding palaeolithic tools
+- **Dhasan**, first 3.1: Tool-bearing valley; preserves Daśārṇa's name and joins Betwa
+- **Keothan**, first 3.1: Tool-bearing valley; not equated with a stream near Udaypur
+- **Vidisha**, first 3.1: Old capital and centre elsewhere than Udaypur
+- **Ākara**, first 3.1: Inscriptional eastern Malwa; capital at Vidisha
+- **Avanti**, first 3.1: Western counterpart of Ākara; destination of caravan road
+- **Nasik**, first 3.1: Praśasti names Ākara and Avanti among claimed conquests
+- **Besnagar**, first 3.2: Old city identified as Vidisha; early shrines and pillar
+- **Vessanagar**, first 3.2: Name of Besnagar in Pali books
+- **Madhya Bharat**, first 3.2: Vidisha's district described as richest in antiquities here
+- **Pratiṣṭhāna**, first 3.2: Starting point of trade route through Ujjayinī and Vidisha
+- **Ujjayinī**, first 3.2: Trade-route station between Pratiṣṭhāna and Vidisha
+- **Kauśāmbī**, first 3.2: Destination and station on routes through Vidisha
+- **Śrāvastī**, first 3.2: Caravan-road starting point towards Avanti
+- **Sanchi**, first 3.2: Great stūpa largely supported by Vidisha merchants' donations
+- **Deccan**, first 3.2: Southern destination of route through Nemawar
+- **Central India**, first 3.3: Regional sacred landscape; later described as crowded with temples
+- **Badoh**, first 3.3: Early Gupta-form shrines; later temple town near Pathari
+- **Pathari**, first 3.3: Near eastern slopes of Udaypur's range; temples and pillar
+- **Muradpur**, first 3.3: One endpoint of area yielding Tiwari's Viṣṇu images
+- **Sonari**, first 3.3: Other endpoint of area yielding Tiwari's Viṣṇu images
+- **Allahabad**, first 3.3: Inscription claims Samudragupta's victory over Nāga rulers
+- **Chhapara**, first 3.3: Site of small early Gupta-form shrines
+- **Vaidiśa**, first 3.4: Place from which Buddharāja issued his 608 grant
+- **Narmada**, first 3.5: Rāṣṭrakūṭa conquests north of it distributed among family members
+- **Sagar**, first 3.5: Destination of old high road through Gyaraspur
+- **Maladevi**, first 3.5: Partly rock-cut Gyaraspur temple in mature Pratihāra style
+- **Gadarmal**, first 3.5: Badoh monument retaining ninth-century basement and porch
+- **Daśāvatāra group**, first 3.5: Badoh monuments dated eighth to tenth centuries
+- **Khajuraho**, first 3.5: Inscription of 954 claims Chandella reach to Bhilsa
+- **Dāhala**, first 3.5: Country of the competing Kalachuris
+
+## Committed figures
+
+- Plan version: **v5** (1.1)
+- Superseded outline version: **v4** (1.1)
+- Structure approval and word-target decision: **14 October 2026** (1.1, 1.5)
+- Royal naming project anchoring the town's memory: **eleventh-century** (1.1, 1.5)
+- Span of the town's changes: **eight centuries** (1.3)
+- Planned length of section 1.1: **850 w** (1.1)
+- Planned length of section 1.2: **850 w** (1.2)
+- Planned length of section 1.3: **850 w** (1.3)
+- Planned length of section 1.4: **750 w** (1.4)
+- Planned length of section 1.5: **700 w** (1.5)
+- Working accession date of Udayāditya: **c. 1070** (1.2)
+- Genealogy rejected by its editor: **sixteenth-century** (1.2)
+- Beginning of work under the royal naming project: **1059** (1.2)
+- Raising of the flag in the founding account: **1080** (1.2, 1.4)
+- Shared name given to town, temple and tank: **one name** (1.2)
+- Kingdom's survival beyond its founder: **two centuries** (1.2)
+- Candella king's presence and grant at Bhāillasvāmin: **1134** (1.3)
+- Paramāra rule in the east: **into the 1260s** (1.3)
+- Lūṇapasāka's grants: **1171–73** (1.3)
+- Jayavarman II's possession of Bhilsa: **1263** (1.3)
+- Conquest ending the Paramāra state in Malwa: **1305** (1.3)
+- Mosque in the temple court: **1330s** (1.3)
+- Remembered versions of the temple-court mosque's builder: **two ways** (1.3)
+- Sher Khan's mosque: **1488** (1.3)
+- Shahi Masjid: **1632** (1.3)
+- Scindia general's brass cover: **1775** (1.3)
+- Dated founding inscriptions: **two** (1.4)
+- Duration represented by pilgrims' writing: **eight centuries** (1.4)
+- Beginning of scholarship: **since the 1870s** (1.4)
+- Parts of the praśasti found apart: **two halves** (1.4)
+- First fixed founding date: **V.S. 1116** (1.4)
+- Second fixed founding date: **V.S. 1137** (1.4)
+- Readings of the second dated inscription: **three ways** (1.4)
+- Founding caption judged stronger than the stones warrant: **1059–1080** (1.4)
+- Modern reading tour: **1871–72** (1.4)
+- Edition in the history of modern reading: **1888** (1.4)
+- Discovery of the abraded second slab: **1925–26** (1.4)
+- Temple construction in a survival legend: **a night** (1.4)
+- Tentative assignment of the hill inscription: **eighth century** (1.5)
+- Possible date of Bhujariya Talab: **eighth or ninth century** (1.5)
+- Provisional dating of reused columns: **seventh–eighth century** (1.5)
+- Survey's reading of the earliest layers: **sixth century** (1.5)
+- Length of the tentatively read hill inscription: **two-line** (1.5)
+- Later praise unable to decide the founding question: **sixteenth-century** (1.5)
+- Later record unable to decide the founding question: **1513** (1.5)
+- Total chapter word target: **4,000** (1.5)
+- Accepted chapter word range: **3,200–4,400** (1.5)
+- Permitted section length relative to targets: **70–120%** (1.5)
+- Date of approved structure and word-target decision: **14 October 2026** ()
+- Distance from the village to its nearest stream: **a kilometre** (2.1)
+- Distance from Shiva Pindi to the Kewtan: **1.8 km** (2.1)
+- Distance from the village to the Kewtan: **1 km** (2.1)
+- Final river stretch excepted from the upper Betwa's intermittency: **last 85 km** (2.1)
+- Present upper Betwa's seasonal rise and decline: **rising in June and falling after September** (2.1)
+- Summer groundwater depth around Udaypur: **more than 15 m down** (2.1)
+- Annual wet season: **once a year** (2.1, 2.2)
+- Duration and timing of the principal rainy season: **four months** (2.2)
+- Rainfall share falling during the principal rainy season: **About 92 per cent** (2.2)
+- Months receiving the principal rainfall share: **June–September** (2.2)
+- Month identified with heat at the dry season's end: **May** (2.2)
+- Gazetteer date to be stated with climate evidence: **1979** (2.2)
+- Famine used to demonstrate seasonal shortfall: **1899–1900** (2.2)
+- Black cotton soil share of Udaypur's ground: **three-quarters** (2.2)
+- Red-yellow soil share of Udaypur's ground: **a quarter** (2.2)
+- Crops distinguished in the farming year: **two crops** (2.2)
+- Rain-fed share of kharif: **90 per cent** (2.2)
+- Rain-fed share of rabi: **34 per cent** (2.2)
+- Historical period not to be inferred from modern climate trends: **eleventh century** (2.2)
+- Elevation range of Udaypur's setting: **340–480 m** (2.3)
+- Mean elevation of Udaypur's setting: **410 m** (2.3)
+- Mesa form in the survey's erosion model: **two-storey** (2.3)
+- Area of the lake held by Bhoja's Betwa dam: **about 250 square miles** (2.4)
+- Word target for section 2.1: **850** (2.1)
+- Word target for section 2.2: **850** (2.2)
+- Word target for section 2.3: **900** (2.3)
+- Word target for section 2.4: **900** (2.4)
+- Word target for section 2.5: **500** (2.5)
+- Total chapter word target: **4,000** (2.1, 2.2, 2.3, 2.4, 2.5)
+- Accepted chapter word range: **3,200–4,400** (2.1, 2.2, 2.3, 2.4, 2.5)
+- Permitted section length relative to target: **70–120%** (2.1, 2.2, 2.3, 2.4, 2.5)
+- Editor-in-chief audit and word-target decision: **14 October 2026** (3.1, 3.2, 3.3, 3.4, 3.5)
+- Prehistory evidence items from the Gazetteer: **three items** (3.1)
+- Gazetteer publication supplying prehistoric evidence: **1979** (3.1)
+- Maximum Gazetteer share of each section's cited items: **40%** (3.1, 3.2, 3.3, 3.4, 3.5)
+- District chalcolithic mound's wares: **1000–700 BC** (3.1)
+- Explorations around Vidisha: **1963–65** (3.1)
+- Vidisha's duration as the country's centre: **more than a thousand years** (3.2)
+- Besnagar occupation sequence: **six periods** (3.2)
+- Besnagar occupation endpoints: **from before Northern Black Polished ware to post-Gupta times** (3.2)
+- Probable beginning of Besnagar's walls: **second century BC** (3.2)
+- Trade routes crossing at Vidisha: **two** (3.2)
+- Continued operation of the roads: **eleventh century** (3.2)
+- Nemawar's place on the north–Deccan route: **early eleventh century** (3.2)
+- Heliodorus pillar dating range: **first or second century BC** (3.3)
+- Heliodorus pillar date from Greek king's chronology: **140 BC** (3.3)
+- Besnagar colossal free-standing statues' dating range: **pre-Mauryan to Śuṅga times** (3.3)
+- Besnagar's early Śaiva images: **fourth century AD, or perhaps a century earlier** (3.3)
+- Mothers represented in the named panels: **Seven** (3.3)
+- Udayagiri inscriptions attesting Chandragupta II's sovereignty: **Two inscriptions** (3.3)
+- Dated Udayagiri inscription: **Gupta year 82 (AD 401)** (3.3)
+- Seven Mothers panel between Badoh and Pathari: **fifth-century** (3.3)
+- Survey's proposed date for Udaypur's cave: **sixth century** (3.3)
+- Undeciphered cave inscription's length: **two lines** (3.3)
+- Tiwari's reading of Viṣṇu images: **Gupta** (3.3)
+- Tiwari's inferred building before Udayāditya: **five centuries** (3.3)
+- Buddharāja's grant from Vaidiśa: **608** (3.4)
+- Broad dating range for Vidisha's desertion: **between the seventh and tenth centuries** (3.4)
+- Competing readings of Vidisha's desertion: **after the seventh century ... through the eighth or ninth, to "by the tenth"** (3.4)
+- One account's date for Bhilsa as a branch-town: **from the ninth** (3.4)
+- First recorded occurrence of Bhāillasvāmin's name: **878** (3.4)
+- Sun temple's continued existence: **tenth century** (3.4)
+- Reign of probable king Krishna III: **939–68** (3.4)
+- Al-Bīrūnī's account of Bhilsa's name: **About 1030** (3.4)
+- Period when Udaypur's province carried the Sun image's name: **twelfth century** (3.4)
+- Record placing Udayapur in Bhāillasvāmi-mahādvādaśaka: **1172** (3.4)
+- Frontier section's chronological scope: **Eighth to tenth centuries** (3.5)
+- Temple-crowded frontier before the Paramāra foundation: **two centuries** (3.5)
+- Ganguly's inferred transfer of Malwa to a Rāṣṭrakūṭa vassal: **808–812** (3.5)
+- Pathari Garuḍa pillar erection: **861** (3.5)
+- Gyaraspur monuments: **eighth to tenth centuries** (3.5)
+- Gadarmal basement and porch: **ninth-century** (3.5)
+- Badoh Daśāvatāra group: **eighth to the tenth century** (3.5)
+- Pathari Varāha and Śiva temple: **ninth to the eleventh** (3.5)
+- Survey's proposed date for separate hill inscription: **eighth century** (3.5)
+- Separate hill inscription's length: **two-line** (3.5)
+- Khajuraho inscription claiming Chandella reach to Bhilsa: **954** (3.5)
+- Dhaṅga's dates: **954–1002** (3.5)
+- Dynasties competing for the region: **three** (3.5)
+- Closing frontier setting: **late tenth century** (3.5)
+- Section 3.1 word target: **550** (3.1)
+- Section 3.2 word target: **600** (3.2)
+- Section 3.3 word target: **900** (3.3)
+- Section 3.4 word target: **650** (3.4)
+- Section 3.5 word target: **850** (3.5)
+- Chapter word target: **3,550** (3.1, 3.2, 3.3, 3.4, 3.5)
+- Accepted chapter word range: **3,200–4,400** (3.1, 3.2, 3.3, 3.4, 3.5)
+- Permitted section word-target proportions: **70–120%** (3.1, 3.2, 3.3, 3.4, 3.5)
+
+## Open questions
+
+- How did an ordinary village come to hold a much greater place's remains, records and memories? (1.1, 1.2, 1.3, 1.4, 1.5; answered)
+- Did Udayāditya found the place or take over and rename an older settlement? (1.2, 1.4, 1.5; left open)
+- What was Udayāditya's exact relationship to Bhoja? (1.2; weighed)
+- Which accession dating should be accepted beyond the working position of c. 1070? (1.2; weighed)
+- Did the work begun in 1059 precede Udayāditya's kingship, making it a rising lord's seat rather than a new king's first work? (1.2; left open)
+- How should Ganguly's reading of a feudatory line at Udayapur be understood? (1.2; weighed)
+- Which date variants for Lūṇapasāka's grants should be accepted? (1.3; left open)
+- Who built the temple-court mosque remembered in two ways? (1.3; left open)
+- Who founded the probable governor's mansion beside the temple? (1.3; left open)
+- Who donated the brass cover of 1775? (1.3; left open)
+- When was the undated praśasti composed? (1.4; left open)
+- How should the praśasti's disputed readings be resolved? (1.4; left open)
+- Can the praśasti's earliest names and building claims be independently corroborated? (1.4; left open)
+- Does the second dated inscription record erection, hoisting or repair of the flag-staff? (1.4; weighed)
+- How much can the two dated inscriptions establish about a founding sequence before 1080? (1.4; weighed)
+- Do the survival legends establish the events they narrate? (1.3, 1.4; answered)
+- Is the tentative reading and eighth-century assignment of the hill inscription sound? (1.5; left open)
+- What does the separate survey inscription that remains undeciphered say? (1.5; left open)
+- Does Bhujariya Talab date to the eighth or ninth century? (1.5; left open)
+- Are the reused columns correctly dated to the seventh–eighth century? (1.5; left open)
+- Do the surveyed layers extend back to the sixth century? (1.5; left open)
+- How strongly do the uncemented wall and other proposals establish an older settlement? (1.5; weighed)
+- Does the absence of earlier Paramāra inscriptions establish a new town, or allow an earlier frontier post under other masters? (1.5; weighed)
+- What evidential weight should traditions of Bhringraj, Bhringrajpur and Gond rule carry for renaming? (1.5; weighed)
+- Can Udhapuram, the sixteenth-century praise or the record of 1513 decide the founding question? (1.5; answered)
+- What did the country offer and withhold, and what did kings and villagers make of it? (2.1, 2.2, 2.3, 2.4, 2.5; answered)
+- Could rivers or groundwater reliably supply Udaypur through the dry months? (2.1; answered)
+- What does the modern rainfall trend and upper catchment's drying imply? (2.2; weighed)
+- What was the history of the disputed breach of Bhoja's dam? (2.4; left open)
+- Did Bhoja author the treatise, or act at most as a general editor? (2.4; weighed)
+- When were the undated water structures built, and when did the storage pattern begin? (2.4; left open)
+- Why was Udaypur chosen as a site? (2.4, 2.5; left open)
+- Who came to found Udaypur, when, and why? (2.5; left open)
+- What preceded the royal naming of Udaypur's hill, and how much reaches the hill itself? (3.1, 3.2, 3.3, 3.4, 3.5; weighed)
+- Where was the unnamed district chalcolithic mound? (3.1; left open)
+- Are the Keothan and Chapter 2's Kewtan the same stream? (3.1; left open)
+- Is prehistoric occupation or early cave use recorded on Udaypur's hill? (3.1; answered)
+- Did Udaypur participate in Vidisha's old urban centre or trade routes? (3.2; left open)
+- Should Sanchi's great stūpa be credited to Ashoka or Vidisha's merchant donations? (3.2; weighed)
+- Was Besnagar's early elliptical shrine made of timber? (3.3; left open)
+- What is the date of Heliodorus's pillar? (3.3; weighed)
+- How early are Besnagar's colossal statues and Śaiva images? (3.3; weighed)
+- Are the unfinished Udaypur cave figures Jain Tīrthaṅkaras? (3.3; left open)
+- Is the survey's sixth-century date for Udaypur's cave secure? (3.3; left open)
+- What do the cave inscription's two undeciphered lines say? (3.3; left open)
+- Do the Viṣṇu images support Tiwari's proposed Gupta-period building near Udaypur? (3.3; weighed)
+- Did anyone live on Udaypur's hill before the Paramāras? (3.3; left open)
+- When was Vidisha deserted and Bhilsa established? (3.4; weighed)
+- Did a deluge or political catastrophe cause Vidisha's desertion? (3.4; left open)
+- Were Bhilsa's outer walls built from the old city's square stones? (3.4; left open)
+- Was the Sun-temple inscription's king Krishna the Rāṣṭrakūṭa Krishna III? (3.4; weighed)
+- How far did Pratihāra control extend over this district? (3.5; left open)
+- Who ruled Badoh and built its monuments? (3.5; left open)
+- Does the separate hill inscription date to the eighth century and name a sūtradhāra? (3.5; left open)
+- Who held Udaypur's hill before the Paramāras? (3.5; left open)
+
+## Forward references
+
+- 1.1 → 1.2: Identify the king's kingdom and why he put his name here.
+- 1.2 → Chapter 4: Full story of the Paramāra polity and Udayāditya's recovery and founding.
+- 1.2 → 1.3: Follow the kingdom and subsequent regimes building inside the founder's precinct.
+- 1.3 → Chapter 10: Full story of the contested east after Udayāditya.
+- 1.3 → 1.4: Examine the broken praise slab and how the place is known.
+- 1.4 → 1.5: Weigh founding against renaming without claiming the records decide.
+- 1.5 → Chapter 3: Daśārṇa and Udayagiri associations.
+- 1.5 → Chapter 2: The Betwa valley's water, stone and seasons; the ground shared by both answers.
+- 2.1 → 2.2: Rains and the need to retain water between monsoons
+- 2.1 → 2.4: Tanks holding water in the landscape's hollows
+- 2.2 → 2.3: Underlying rock determines where rain gathers or runs off
+- 2.3 → Chapter 12: Wildlife is excluded here and treated separately
+- 2.3 → 2.4: The town's water had to be made
+- 2.4 → Chapter 7: Detailed treatment of tanks and water structures
+- 2.4 → 2.5: The town was built from its own hill
+- 2.5 → Chapter 3: People who used the country before Udaypur had a name
+- 3.5 → Chapter 4: Paramāras' arrival in the contested frontier and foundation of Udaypur
+
+## Motifs
+
+- An ordinary village living inside a much greater medieval town (1.1, 1.2, 1.3)
+- The gap between surviving remains and limited historical memory (1.1, 1.4)
+- A royal name shared by town, temple and tank (1.1, 1.2, 1.4, 1.5)
+- The recovered kingdom's contested eastern edge (1.2, 1.3, 1.5)
+- Royal authority laid over a local seat or older place (1.2, 1.5)
+- Successive regimes building within the inherited town and precinct (1.1, 1.3)
+- Continuing worship despite changing rulers and patrons (1.1, 1.3, 1.4)
+- Memory told as memory rather than treated as event evidence (1.1, 1.3, 1.4, 1.5)
+- Partial survival transformed into deliverance by legend (1.3, 1.4)
+- Dynastic praise as self-portrait rather than transparent history (1.2, 1.4)
+- Broken records and qualified readings limit historical certainty (1.2, 1.3, 1.4, 1.5)
+- Founding versus appropriation or political re-inscription (1.2, 1.4, 1.5)
+- Waterworks, tanks and stone linking memory to the ground (1.1, 1.2, 1.5)
+- Shared physical ground without claiming environmental causation (1.5)
+- The land as setting, never the cause of founding (2.1, 2.2, 2.3, 2.4, 2.5)
+- What the land withheld and what it offered (2.1, 2.2, 2.3, 2.5)
+- Belonging to river country without dependable river water (2.1, 2.2, 2.4)
+- Water held from the rains against the dry months (2.1, 2.2, 2.4, 2.5)
+- The same sandstone gives building stone but withholds dependable groundwater (2.1, 2.3)
+- Black soil and stored moisture supporting wheat (2.2, 2.5)
+- Geology turned into history through human choice (2.3, 2.5)
+- Made water as royal practice and village necessity (2.4)
+- Town, temple and tank sharing one name (2.4)
+- A town built from its own hill (2.3, 2.5)
+- Resources used by villagers also becoming pressures on the land (2.3, 2.5)
+- Modern environmental evidence is not evidence of the eleventh-century regime (2.1, 2.2, 2.3)
+- The setting a founder found, already used by earlier people (2.5)
+- An old, named country whose centre lay elsewhere (3.1, 3.2)
+- District evidence must not become evidence for Udaypur's hill (3.1, 3.2, 3.3)
+- Absence of recorded early occupation is an evidential limit, not a mystery (3.1, 3.3, 3.5)
+- Roads and sacred traditions outlast the old city (3.2, 3.3, 3.4)
+- Worship in carved stone gradually approaches Udaypur's range (3.2, 3.3, 3.5)
+- Regional sandstone links pillar and hill without proving shared history (3.3)
+- Royal claims, tradition, memory and proposals require explicit attribution (3.1, 3.2, 3.3, 3.4, 3.5)
+- The hill enters early history only through proposals and readings (3.3, 3.5)
+- The old centre's replacement gives Udaypur's later province its name (3.4)
+- Distinct sites and inscriptions must not be merged (3.1, 3.3, 3.5)
+- A temple-crowded frontier with uncertain local rulers (3.5)
+- Dynastic competition precedes the Paramāra foundation (3.5)

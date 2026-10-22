@@ -300,7 +300,18 @@ def open_aligned(cfg, *, preset: str | None = None, verbose: bool = True):
 
 
 def wipe(cfg, *, verbose: bool = True, clear_results: bool = False) -> list[str]:
-    """§3: delete and recreate everything, and say exactly what was removed.
+    """§3: delete and recreate the TARGET collection only, and say exactly what
+    was removed.
+
+    Scoped to `storage.collection` -- `chroma_path` routinely holds sibling
+    collections (ablation variants, other embedding models under the same
+    chroma_db/) that --rebuild must never touch. This used to
+    `shutil.rmtree(chroma_path)`, which deleted every collection under that
+    path in one call, plus the embedding cache shared by every model -- the
+    exact collection-isolation failure this function's own docstring promises
+    not to have. Deleting by name through Chroma's own API, and removing only
+    this collection's own sidecar file, keeps the blast radius to what
+    `--rebuild` actually means: rebuild THIS collection.
 
     Eval results are PRESERVED by default, which is a deliberate departure from
     §3's "clear previous eval-result caches". That instruction is right for the
@@ -312,14 +323,32 @@ def wipe(cfg, *, verbose: bool = True, clear_results: bool = False) -> list[str]
     """
     removed: list[str] = []
     chroma_path = st.resolve(cfg, "storage.chroma_path")
+    collection_name = cfg.get_path("storage.collection")
     if chroma_path.exists():
-        n_files = sum(1 for _ in chroma_path.rglob("*") if _.is_file())
-        size_mb = sum(f.stat().st_size for f in chroma_path.rglob("*") if f.is_file()) / 1e6
-        shutil.rmtree(chroma_path)
-        removed.append(f"{chroma_path}  ({n_files} files, {size_mb:.1f} MB) "
-                       f"— collection, embedding cache and sidecar index")
+        client = chromadb.PersistentClient(
+            path=str(chroma_path),
+            settings=ChromaSettings(anonymized_telemetry=False, allow_reset=True),
+        )
+        try:
+            existing = client.get_collection(collection_name)
+            n = existing.count()
+        except Exception:
+            removed.append(f"collection {collection_name!r} in {chroma_path} "
+                           "(did not exist — nothing to clear)")
+        else:
+            client.delete_collection(collection_name)
+            removed.append(f"collection {collection_name!r} ({n} chunks) in {chroma_path} "
+                           "— sibling collections left untouched")
     else:
         removed.append(f"{chroma_path}  (did not exist — nothing to clear)")
+
+    sidecar_path = st.resolve(cfg, "storage.sidecar_db")
+    if sidecar_path.exists():
+        size_mb = sidecar_path.stat().st_size / 1e6
+        sidecar_path.unlink()
+        removed.append(f"{sidecar_path}  ({size_mb:.1f} MB) — sidecar index for {collection_name!r}")
+    else:
+        removed.append(f"{sidecar_path}  (did not exist — nothing to clear)")
 
     results_dir = st.resolve(cfg, "evaluation.results_dir")
     n = sum(1 for _ in results_dir.rglob("*") if _.is_file()) if results_dir.exists() else 0

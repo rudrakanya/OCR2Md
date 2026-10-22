@@ -1,0 +1,25 @@
+{"c":"20929f186a","keep":false,"reject_reason":"dynamics of Valabhi/Latina/Shekhari temples elsewhere; no Udaypur-specific content; pilot-judged for C01"}
+{"c":"8ea844f509","keep":false,"reject_reason":"general Nagara/Dravida dynamics at Khajuraho, Tanjavur and Karnataka; nothing specific to Udaypur"}
+{"c":"fb591b676f","keep":false,"reject_reason":"endnotes and captions of other temples"}
+{"c":"394fc7f103","keep":false,"reject_reason":"general chapter introduction on cosmology and emanation; too generic"}
+{"c":"3044a183c8","keep":false,"reject_reason":"generic Vedas and Upanishads summary; pilot-judged for C01; nothing for C02-C13"}
+{"c":"c93ac90010","keep":false,"reject_reason":"generic Indian philosophical schools (Samkhya, Yoga, Vedanta); no specific bearing on a unit"}
+{"c":"dce4b42a7e","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[4,5],"note":"Eight Vedic gods live on as the ashta dikpalas whose images appear on the corner projections of many medieval shrines."}]}
+{"c":"26492954a5","keep":true,"items":[{"unit":"C08","sub":"S1","type":"fact","strength":"contextual","span":[16,18],"note":"Kapalikas, an early Tantric Shaiva strand appeasing Bhairava, and the Kaula cults emerging from around the 9th century."}]}
+{"c":"f0e0632424","keep":false,"reject_reason":"general Goddess cult summary; nothing usable for C02-C13; pilot-judged for C01"}
+{"c":"a4ac5a38ad","keep":true,"items":[{"unit":"C08","sub":"S1","type":"fact","strength":"contextual","span":[8,9],"note":"Oldest known Shaiva sect is the Pashupatas (Lakulisha, 2nd century AD); the Kapalikas as another early Bhairava cult."},{"unit":"C05","sub":"S5","type":"fact","strength":"contextual","span":[13,15],"note":"Shaiva Siddhanta school associated with important medieval temples; its Agamas teach a structured cosmogony of emission and reabsorption."}]}
+{"c":"11bbea741b","keep":true,"items":[{"unit":"C05","sub":"S5","type":"fact","strength":"contextual","span":[11,13],"note":"Agamic ritual places the five Sadashiva deities on the priest's body; Para Shiva, Sadashiva and Mahesha stages, embodied in the pancha-mukha linga."}]}
+{"c":"53222452af","keep":false,"reject_reason":"general Vaishnavism summary; no bearing on the Saiva Udayeshvara units"}
+{"c":"088340f45e","keep":false,"reject_reason":"endnotes (bibliographic references only)"}
+{"c":"dbc5acf710","keep":false,"reject_reason":"general chapter introduction on placing gods; too generic"}
+{"c":"a5a4a9b290","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[5,7],"note":"Bafna questions the textual link between the vastu-purusha-mandala and temple planning; Kramrisch herself recognised it was not generally a planning grid."}]}
+{"c":"f2ff54820a","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[5,8],"note":"Vastushastra consecration rites invoke deities into the temple's mouldings and elements; the 11th-century Vastushastra of Vishvakarman prescribes five Shiva manifestations in the superstructure."}]}
+{"c":"1880b36d6f","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[2,3],"note":"Placement of cardinal deities (Parvati, Ganesha, Karttikeya in the main niches of a Shiva temple) and Kramrisch's reading of them as manifestations of the central deity."}]}
+{"c":"bca6583c16","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[22,25],"note":"Competing explanations of erotic temple sculpture: Tantric symbolism, magical or fertility functions, courtly kama, metaphors for union with the divine."}]}
+{"c":"f341a8a08f","keep":false,"reject_reason":"endnotes (bibliographic references only); pilot-judged for C01"}
+{"c":"aaf80cf832","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[8,9],"note":"The 11th-century Samarangana Sutradhara on the architect's required knowledge of vastushastra and the prince's duty to honour the tetrad of architect and craftsmen."},{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[13,17],"note":"Four architectural roles (sthapati, sutra-grahini, takshaka, vardhak) as hereditary vocations organised in guilds (seni)."}]}
+{"c":"6934bdc3f4","keep":true,"items":[{"unit":"C06","sub":"S5","type":"inscription","strength":"contextual","span":[12,14],"note":"Sudi inscription records that General Nagadeva entrusted his temple to Shamka, praised as a 'mine of splendid learning'; shows inscriptions praising architects."}]}
+{"c":"d2426d027b","keep":false,"reject_reason":"OCR flagged and generic discussion of evolution toward fusion; nothing specific"}
+{"c":"0143cd9d66","keep":false,"reject_reason":"abstract discussion of architectural fusion and analogy to Indian thought; no specific usable evidence"}
+{"c":"ae4d3cd204","keep":false,"reject_reason":"abstract discussion of cumulative unfolding of temple designs; no Udaypur or unit-specific detail"}
+{"c":"75c74a087e","keep":false,"reject_reason":"abstract evolutionary-pattern discussion; no Udaypur or unit-specific detail"}

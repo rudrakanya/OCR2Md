@@ -1,0 +1,25 @@
+{"c": "3828e04770", "keep": false, "reject_reason": "OCR-damaged Sanskrit verse text"}
+{"c": "9931ce60aa", "keep": false, "reject_reason": "OCR-damaged Sanskrit verse text"}
+{"c": "d79a2faca7", "keep": false, "reject_reason": "OCR-damaged Sanskrit verse text"}
+{"c": "e360d98f5c", "keep": false, "reject_reason": "find-spot of Harsaudā stone; no bearing"}
+{"c": "f430ef599b", "keep": false, "reject_reason": "edition history and physical description of Harsaudā stone"}
+{"c": "731e4d7f40", "keep": false, "reject_reason": "palaeography and errors of Harsaudā stone"}
+{"c": "8b309117bf", "keep": true, "items": [{"unit": "C08", "sub": "S1", "type": "fact", "strength": "contextual", "span": [22, 24], "xref": ["C05"], "note": "Dēvapāla's Harsaudā record: temple of Śambhu built by merchant Kēśava, a resident of Undapura, with a tank and images including Nakulīśa and Ambikā."}]}
+{"c": "01606883b5", "keep": true, "items": [{"unit": "C04", "sub": "S6", "type": "fact", "strength": "contextual", "span": [2, 7], "note": "Earliest known record linking Dēvapāla of the Mahākumāra line to the main Paramāra house at Dhāra; he apparently succeeded Arjunavarman before 1218 A.C."}, {"unit": "C06", "sub": "S2", "type": "fact", "strength": "direct", "span": [21, 21], "note": "In the two inscriptions from Udaipur (below), Dēvapāla is called only a Paramāra ruler without mention of his capital."}]}
+{"c": "c82c2854c2", "keep": true, "items": [{"unit": "C06", "sub": "S2", "type": "fact", "strength": "direct", "span": [6, 7], "note": "Undapura unidentified by the editor; Kielhorn states it is probably mentioned also in the Udayapur inscription.", "refs": ["Kielhorn, Ind. Ant. XIX, p. 28"]}, {"unit": "C06", "sub": "S2", "type": "fact", "strength": "direct", "span": [12, 13], "note": "Kielhorn's reading of the Udayapur inscription gives [Uda?]pura (No. 28, unpublished)."}]}
+{"c": "627934c1e7", "keep": false, "reject_reason": "OCR-damaged Sanskrit text and metre notes"}
+{"c": "3aef6c4fff", "keep": false, "reject_reason": "textual footnotes on difficult verse; no bearing"}
+{"c": "7973665726", "keep": false, "reject_reason": "OCR-damaged Sanskrit text"}
+{"c": "7242b02ccb", "keep": false, "reject_reason": "textual footnotes only"}
+{"c": "1b53cf3f53", "keep": false, "reject_reason": "edition history and physical description of Māndhātā plates"}
+{"c": "9ca6757fa9", "keep": false, "reject_reason": "palaeography and find-spot notes of Māndhātā plates"}
+{"c": "bbc4e187cd", "keep": false, "reject_reason": "palaeography notes only"}
+{"c": "d02291922c", "keep": false, "reject_reason": "orthography notes only"}
+{"c": "654611000f", "keep": true, "items": [{"unit": "C04", "sub": "S3", "type": "fact", "strength": "contextual", "span": [3, 6], "note": "Genealogy in Dēvapāla's Māndhātā grant: Bhōja, Udayāditya, Naravarman, Yaśōvarman, Ajayavarman, Vindhyavarman, Subhaṭavarman, Arjunavarman; then Dēvapāla, son of Harischandra."}]}
+{"c": "a82ed7a454", "keep": true, "items": [{"unit": "C04", "sub": "S6", "type": "fact", "strength": "contextual", "span": [8, 9], "note": "Dēvapāla's relationship with Arjunavarman is not stated; Arjunavarman probably died without male heir and Dēvapāla may have united both houses at Dhārā."}]}
+{"c": "45561edce9", "keep": false, "reject_reason": "grant-share discussion and footnotes; no bearing"}
+{"c": "f8509985d0", "keep": true, "items": [{"unit": "C04", "sub": "S6", "type": "fact", "strength": "contextual", "span": [4, 7], "note": "Bilhaṇa was minister of Vindhyavarman; dated via Āśādhara's migration after Mahmūd Ghorī's conquest of 1192 A.C. and Vindhyavarman's contest with Yādava Bhillama (c. 1187)."}]}
+{"c": "5274873ad7", "keep": false, "reject_reason": "footnotes on place identification"}
+{"c": "9017a411a2", "keep": false, "reject_reason": "donee table fragment"}
+{"c": "82d0180e84", "keep": false, "reject_reason": "donee table fragment"}
+{"c": "d1228badd7", "keep": false, "reject_reason": "OCR-damaged Sanskrit text"}

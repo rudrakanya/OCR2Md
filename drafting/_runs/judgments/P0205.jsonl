@@ -1,0 +1,25 @@
+{"c":"a0b0dd7f44","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[11,13],"note":"Iron dowels poured in molten form into holes in stone to hold wall, pillar and roof stones together in medieval temple building."}]}
+{"c":"6bb40c758f","keep":false,"reject_reason":"Tower of Hanoi legend and generic puja description; no bearing on any unit"}
+{"c":"656b5c17b7","keep":true,"items":[{"unit":"C05","sub":"S5","type":"quote","strength":"contextual","span":[19,20],"note":"Kak: an assumed equivalence between outer and inner cosmos is central to the conception of the temple, hence numbers like 108 and 360."}]}
+{"c":"dcef77210d","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[2,5],"note":"Flowers from temples recycled into incense and textiles, giving employment (general temple economics)."}]}
+{"c":"a39de76686","keep":false,"reject_reason":"generic ritual examples and magic squares; nothing usable"}
+{"c":"0c4f68db12","keep":false,"reject_reason":"prasad and food science anecdotes from other temples; off-topic"}
+{"c":"32d898c4e0","keep":false,"reject_reason":"prasad anecdotes from other temples; off-topic"}
+{"c":"0cd8135443","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[5,9],"note":"Chola grants maintained temple orchestras; nadasvaram played at daily worship (general temple economics)."}]}
+{"c":"c788448a0b","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[6,8],"note":"Natyashastra has a section on planning and construction of drama halls, with three types of theatre in danda measures."}]}
+{"c":"09433cbf91","keep":false,"reject_reason":"generic remarks on temple paintings elsewhere"}
+{"c":"ed83d3d948","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"0ad6593a61","keep":false,"reject_reason":"toys and library anecdotes from other places; off-topic"}
+{"c":"7d72bc3f8e","keep":true,"items":[{"unit":"C08","sub":"S3","type":"figure","strength":"contextual","span":[31,35],"note":"Inscription of Rajendra Chola I records land (45 velis) and per-student costs endowing a Vedic college (general temple economics)."}]}
+{"c":"29ea5ad404","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[7,8],"note":"Royal grants to temples were of two kinds, Sarvamanya and Devadana."},{"unit":"C08","sub":"S4","type":"fact","strength":"contextual","span":[27,28],"note":"Endowment of 6,500 panam of which 1,300 funded an irrigation channel in a temple village."}]}
+{"c":"5671a53744","keep":true,"items":[{"unit":"C08","sub":"S4","type":"figure","strength":"contextual","span":[13,17],"note":"Lease system: temple's melvaram share was 75:25 in CE 1535, reduced to two thirds in a severe drought."}]}
+{"c":"d6915a3404","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[12,16],"note":"Temples as consumers needing commodities and services, supplied from nearby localities (general temple economics)."}]}
+{"c":"5f2602442e","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[8,11],"note":"Feeding of the poor sustained by royal grants and private endowments; feeding houses attached to temples."}]}
+{"c":"9a781abcf1","keep":false,"reject_reason":"anecdotes of temples as courts elsewhere; no bearing on Udaypur"}
+{"c":"cbf4ffd23a","keep":false,"reject_reason":"polemic on sea trade and temple destruction; off-topic"}
+{"c":"a801fb8706","keep":false,"reject_reason":"pulses, prasad and colonial food polemic; off-topic"}
+{"c":"6172dbccaa","keep":false,"reject_reason":"smallpox goddess discussion; off-topic"}
+{"c":"e05e2976f6","keep":true,"items":[{"unit":"C06","sub":"S3","type":"inscription","strength":"contextual","span":[3,7],"note":"Gwalior Chaturbhuj temple inscription dated 876 CE with zero engraved, part of '270' for a land grant; built by Alla of Gurjara-Pratihara lineage."}]}
+{"c":"cbc433881b","keep":false,"reject_reason":"mridangam science and polemic; off-topic"}
+{"c":"6477b7e903","keep":true,"items":[{"unit":"C06","sub":"S5","type":"quote","strength":"contextual","span":[5,5],"note":"Detailed inscriptions on temple walls are important historical records of kings, traders, farmers and priests."}]}
+{"c":"80fa9841cd","keep":false,"reject_reason":"generic flower-offering and Vaishno Devi market anecdotes"}

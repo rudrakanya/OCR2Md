@@ -1,0 +1,3 @@
+{"c":"2327639630","packet":"P0025","issue":"subagent rejected a valid C05-S6 item because the checker crashed during the candidates rewrite; re-judge"}
+{"c":"2327639630","resolved":"item restored by the orchestrator, span [8,8], C05-S6 contextual"}
+{"packets":["P0177","P0179"],"fix":"orchestrator added [my translation] glosses to two Samarāṅgaṇa colophon items lacking them"}

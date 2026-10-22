@@ -1,0 +1,400 @@
+{
+ "unit": "11",
+ "direct": 92,
+ "totals": {
+  "assigned": 74,
+  "excluded": 18
+ },
+ "by_sub": {
+  "S1": {
+   "assigned": 12,
+   "excluded": 1
+  },
+  "S2": {
+   "assigned": 9,
+   "excluded": 3
+  },
+  "S3": {
+   "assigned": 9,
+   "excluded": 1
+  },
+  "S4": {
+   "assigned": 12
+  },
+  "S5": {
+   "excluded": 13,
+   "assigned": 32
+  }
+ },
+ "status": {
+  "C11-JAGTA-HI-001": [
+   "assigned",
+   "Note"
+  ],
+  "C11-JAGTA-HI-002": [
+   "excluded",
+   "v1: (Tiwari's praise of Cunningham; Sanchi; the ASI's founding in 1861): rhetoric or district context. The 1861 date is from Tiwari, and Ch 3 covers Sanchi"
+  ],
+  "C11-JAGTA-HI-003": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-HI-004": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-005": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-006": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-007": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-008": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-009": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-010": [
+   "assigned",
+   "Note"
+  ],
+  "C11-JAGTA-HI-011": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-012": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-013": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-014": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-015": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-HI-016": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-017": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-018": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-019": [
+   "assigned",
+   "Note"
+  ],
+  "C11-JAGTA-HI-020": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-021": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-HI-022": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-023": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-024": [
+   "excluded",
+   "Hindi original of C11-JAGTA-EN-017 (the signboard; claimants unnamed, U7)"
+  ],
+  "C11-JAGTA-HI-025": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-026": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-027": [
+   "excluded",
+   "polemic about the farman and an official (U7); the farman is Ch 10's"
+  ],
+  "C11-JAGTA-HI-028": [
+   "excluded",
+   "polemic about the farman and an official (U7); the farman is Ch 10's"
+  ],
+  "C11-JAGTA-HI-029": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-HI-030": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-031": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-032": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-HI-034": [
+   "excluded",
+   "v1: (spending and neglect rhetoric): figures are Tiwari's, and the judgements are covered by attributed notes"
+  ],
+  "C11-JAGTA-HI-036": [
+   "excluded",
+   "Hindi original of C11-JAGTA-EN-037 (used as a note)"
+  ],
+  "C11-JAGTA-HI-037": [
+   "excluded",
+   "Hindi original of C11-JAGTA-EN-037 (used as a note)"
+  ],
+  "C11-JAGTA-HI-038": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-003": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-004": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-005": [
+   "assigned",
+   "Note"
+  ],
+  "C11-JAGTA-EN-006": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-008": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-009": [
+   "assigned",
+   "Note"
+  ],
+  "C11-JAGTA-EN-010": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-011": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-012": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-013": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-014": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-015": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-016": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-017": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-018": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-019": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-020": [
+   "excluded",
+   "a journalist's complaint about a named official (polemic; U7); not used"
+  ],
+  "C11-JAGTA-EN-021": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-022": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-023": [
+   "excluded",
+   "v1: (repeats of the signboard episode);(Interpol and repatriation, national);(duplicates)"
+  ],
+  "C11-JAGTA-EN-024": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-025": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-026": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-027": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-028": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-029": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-030": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-031": [
+   "assigned",
+   "E"
+  ],
+  "C11-JAGTA-EN-033": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-034": [
+   "assigned",
+   "Note"
+  ],
+  "C11-JAGTA-EN-035": [
+   "assigned",
+   "C"
+  ],
+  "C11-JAGTA-EN-036": [
+   "excluded",
+   "v1: (repeats of the signboard episode);(Interpol and repatriation, national);(duplicates)"
+  ],
+  "C11-JAGTA-EN-037": [
+   "assigned",
+   "Note"
+  ],
+  "C11-JAGTA-EN-038": [
+   "excluded",
+   "v1: (repeats of the signboard episode);(Interpol and repatriation, national);(duplicates)"
+  ],
+  "C11-GEOHER-001": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-002": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-003": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-004": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-005": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-006": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-007": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-008": [
+   "assigned",
+   "C"
+  ],
+  "C11-GEOHER-009": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-010": [
+   "assigned",
+   "C"
+  ],
+  "C11-GEOHER-011": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-012": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-013": [
+   "assigned",
+   "E"
+  ],
+  "C11-GEOHER-014": [
+   "assigned",
+   "C"
+  ],
+  "C11-CII-001": [
+   "assigned",
+   "E"
+  ],
+  "C11-CII-002": [
+   "assigned",
+   "C"
+  ],
+  "C11-MADHYABHARAT-001": [
+   "assigned",
+   "E"
+  ],
+  "C11-MADHYABHARAT-003": [
+   "assigned",
+   "E"
+  ],
+  "C11-INTACH-001": [
+   "assigned",
+   "E"
+  ],
+  "C11-KRAM-2-001": [
+   "assigned",
+   "E"
+  ],
+  "C11-PANDE-001": [
+   "assigned",
+   "C"
+  ],
+  "C11-SERPENT-001": [
+   "assigned",
+   "E"
+  ]
+ },
+ "contextual_cited": 6
+}

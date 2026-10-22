@@ -1,0 +1,25 @@
+{"c": "1e7dfeb422", "keep": false, "reject_reason": "pilot-judged for C01; nothing for C02–C13"}
+{"c": "9de224007d", "keep": false, "reject_reason": "list of verse metres and textual footnotes"}
+{"c": "9e0717b72f", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "65d9019211", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "62af91b5f8", "keep": false, "reject_reason": "textual footnotes on readings"}
+{"c": "0e58440652", "keep": false, "reject_reason": "off-topic: Abu-branch Paramāra record from Sirohi/Pali region of Rajasthan, no bearing on Udaypur"}
+{"c": "5f3c40144a", "keep": false, "reject_reason": "off-topic: Abu-branch Paramāra record from Sirohi/Pali region of Rajasthan, no bearing on Udaypur"}
+{"c": "f1e39c331f", "keep": false, "reject_reason": "off-topic: Abu-branch Paramāra record from Sirohi/Pali region of Rajasthan, no bearing on Udaypur"}
+{"c": "aa1c7b497d", "keep": false, "reject_reason": "off-topic: Abu-branch Paramāra record from Sirohi/Pali region of Rajasthan, no bearing on Udaypur"}
+{"c": "b98008ad25", "keep": false, "reject_reason": "table of donors of a Rajasthan stepped well; off-topic"}
+{"c": "fbb769a684", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "aff5325ff7", "keep": false, "reject_reason": "textual footnotes on readings"}
+{"c": "310e54e24e", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "2cf4c0c660", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "48b0931cca", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "22c01abacc", "keep": false, "reject_reason": "off-topic: Abu-branch Paramāra record from Sirohi/Pali region of Rajasthan, no bearing on Udaypur"}
+{"c": "1a8d9c88ac", "keep": false, "reject_reason": "off-topic: Abu-branch Paramāra record from Sirohi/Pali region of Rajasthan, no bearing on Udaypur"}
+{"c": "93dd9ccc5b", "keep": false, "reject_reason": "pilot-judged for C01; nothing for C02–C13"}
+{"c": "acfa46c5bc", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "94df1846e2", "keep": false, "reject_reason": "off-topic: Abu-branch Paramāra record from Sirohi/Pali region of Rajasthan, no bearing on Udaypur"}
+{"c": "59467ca415", "keep": false, "reject_reason": "textual footnotes on readings and the term talāra"}
+{"c": "93065e7927", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit/Tibetan-script OCR of inscription text)"}
+{"c": "7758da5a49", "keep": false, "reject_reason": "off-topic: Bāgh image inscription (Dhār district) physical description and bibliography"}
+{"c": "2ef83d7664", "keep": false, "reject_reason": "off-topic: script and language of Bāgh image inscription"}
+{"c": "7f4ba81f65", "keep": true, "items": [{"unit": "C10", "sub": "S1", "type": "fact", "strength": "contextual", "span": [10, 14], "xref": ["C04"], "note": "Ujjain inscription of Chaulukya Jayasimha (V.S. 1195) claims Avanti-nātha, showing conquest and annexation of the Paramāra kingdom; confusion after his capture of Mālwā, Ballāla usurping parts, killed by Yasōdhavala."}]}

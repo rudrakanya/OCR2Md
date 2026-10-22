@@ -1,0 +1,25 @@
+{"c":"6a97302082","keep":true,"items":[{"unit":"C12","sub":"S1","type":"fact","strength":"direct","span":[5,6],"note":"Primary schools at Shamshabad, Udaipur and Gulabganj converted into middle schools in 1950-51 (source spells the town Udaipur)"}]}
+{"c":"6f106f280c","keep":false,"reject_reason":"school statistics table and high school history of Vidisha and Sironj; no bearing"}
+{"c":"f623718037","keep":true,"items":[{"unit":"C12","sub":"S1","type":"fact","strength":"direct","span":[14,14],"note":"In 1963-64 the middle schools at Udaipur and Gulabganj were converted into higher secondary schools (source spelling Udaipur)"}]}
+{"c":"ac32eb7a65","keep":true,"items":[{"unit":"C06","sub":"S4","type":"fact","strength":"contextual","span":[1,3],"xref":["C03"],"note":"Vidisha described as a centre of Sanskrit learning since time immemorial; late 19th-century Gwalior effort to introduce Sanskrit failed for lack of teachers"}]}
+{"c":"d361230381","keep":false,"reject_reason":"Sindhi and Urdu schools in the district; modern education, no bearing"}
+{"c":"a35b055963","keep":false,"reject_reason":"adult literacy statistics; no bearing"}
+{"c":"271085fb51","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"3283e21a93","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"6bfbf520a0","keep":false,"reject_reason":"modern societies and schools at Basoda and Kurwai; no bearing"}
+{"c":"1132bb0c1b","keep":false,"reject_reason":"public libraries; no bearing"}
+{"c":"7a96e56530","keep":true,"items":[{"unit":"C11","sub":"S1","type":"fact","strength":"contextual","span":[1,5],"xref":["C03"],"note":"1914 excavations by the Gwalior State Archaeology Department at ancient Vidisha; finds stored at the Dak Bungalow or sent to Gujar Mahal Museum, Gwalior; further excavations 1963-65"},{"unit":"C03","sub":"S2","type":"fact","strength":"direct","span":[10,16],"note":"Vidisha Museum displays a 12-foot Kuber Yaksha, sculptures from first century B.C. to twelfth century A.D., and objects from excavations at Vidisha and Besnagar"}]}
+{"c":"d956252577","keep":false,"reject_reason":"history of dispensaries and medical facilities; no bearing"}
+{"c":"d1184ac81f","keep":false,"reject_reason":"cholera epidemic statistics; no bearing"}
+{"c":"359a6f0d52","keep":false,"reject_reason":"malaria control programme; no bearing"}
+{"c":"95915fe765","keep":false,"reject_reason":"eye diseases and plague incidence; no bearing"}
+{"c":"624923de89","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"e5d92b430e","keep":false,"reject_reason":"Red Cross, sanitation and panchayat duties; generic"}
+{"c":"360e737d8a","keep":false,"reject_reason":"drinking water supply schemes in modern towns; no bearing"}
+{"c":"d73c0ae017","keep":false,"reject_reason":"prohibition enforcement and scheduled caste population; no bearing"}
+{"c":"fcdb654231","keep":false,"reject_reason":"Harijan social legislation; no bearing"}
+{"c":"d95cb4dc96","keep":false,"reject_reason":"occupational statistics of Scheduled Castes and Tribes; no bearing"}
+{"c":"977e23ed69","keep":false,"reject_reason":"land allotment table; no bearing"}
+{"c":"ef42ed0774","keep":false,"reject_reason":"agricultural subsidy and leather-goods training centres; no bearing"}
+{"c":"be14d2dc0f","keep":false,"reject_reason":"welfare schemes and wells for Harijans; no bearing"}
+{"c":"ebaab7b7d6","keep":false,"reject_reason":"local-body welfare for sanitary workers; no bearing"}

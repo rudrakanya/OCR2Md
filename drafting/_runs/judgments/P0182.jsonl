@@ -1,0 +1,25 @@
+{"c":"2dd890c16b","keep":false,"reject_reason":"Samarāṅgaṇa vimāna measurement verses; no Bhūmija/Udaypur link, garbled old OCR"}
+{"c":"9efb4d21de","keep":false,"reject_reason":"Samarāṅgaṇa vimāna proportion verses; technical measurements with no Bhūmija link, garbled old OCR"}
+{"c":"6d331af2e8","keep":false,"reject_reason":"Samarāṅgaṇa Śrīvatsa/Padmanābha proportions; no Bhūmija or Udaypur bearing, garbled old OCR"}
+{"c":"0ccf3a5399","keep":false,"reject_reason":"Samarāṅgaṇa Vairāja/Vṛttaka proportion verses; no bearing on Vidisha or Bhūmija, garbled old OCR"}
+{"c":"554c8bf5de","keep":false,"reject_reason":"Samarāṅgaṇa Ghaṇṭanāda/Patākin/Guhādhara measurement verses; no Bhūmija link, garbled old OCR"}
+{"c":"6e83eae2dd","keep":false,"reject_reason":"Samarāṅgaṇa Guhādhāra/Śālāka proportion verses; no Bhūmija link, garbled old OCR"}
+{"c":"313c0d2b79","keep":false,"reject_reason":"Samarāṅgaṇa Harṣa/Vijaya proportion verses; no Bhūmija or Paramāra content, garbled old OCR"}
+{"c":"c956b9c5f7","keep":false,"reject_reason":"Samarāṅgaṇa Harmya/Ujjayanta measurement verses; nothing specific for C02–C13 (pilot-judged for C01)"}
+{"c":"aa6e3fe7c3","keep":false,"reject_reason":"Samarāṅgaṇa Gandhamādana/Śataśṛṅga/Mandara verses; generic measurement, garbled old OCR"}
+{"c":"4ec4957477","keep":false,"reject_reason":"Samarāṅgaṇa Caitya/Kiṅkiṇīka/Layana verses; no Bhūmija or prehistory link, garbled old OCR"}
+{"c":"7d1597399c","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[15,16],"xref":["C02"],"note":"Canonical rule that construction material follows the base: wooden plank with wood, stone with stone-normed work (⚠ old OCR, Samarāṅgaṇa Vibhava prāsāda)."}]}
+{"c":"76444f2a78","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[21,23],"note":"Text states thirty-six prāsāda types are named, then defines them in a square field divided into twelve parts (⚠ old OCR)."},{"unit":"C05","sub":"S6","type":"figure","strength":"contextual","span":[26,28],"note":"Śrīkūṭa prāsāda sizes: largest twenty cubits, middling fifteen (⚠ old OCR)."}]}
+{"c":"97c65f517a","keep":false,"reject_reason":"Samarāṅgaṇa Śrīkūṭa part-measurements; technical, no Bhūmija link, garbled old OCR"}
+{"c":"7d6c483a97","keep":false,"reject_reason":"Samarāṅgaṇa Śrīkūṭa proportion verses; no Bhūmija link, garbled old OCR"}
+{"c":"0964f9be66","keep":false,"reject_reason":"Samarāṅgaṇa Śrīkūṭa pavilion/Śrīmukha verses; technical, garbled old OCR"}
+{"c":"5fe61dfa86","keep":false,"reject_reason":"Samarāṅgaṇa Antarikṣa/Kulananda proportion verses; no Bhūmija link, garbled old OCR"}
+{"c":"b12956baa8","keep":false,"reject_reason":"Samarāṅgaṇa Antarikṣa/Puṣpābhāsa verses; technical, no bearing on mosques or rituals, garbled old OCR"}
+{"c":"e27918ec03","keep":false,"reject_reason":"Samarāṅgaṇa Saṅkīrṇaka/Saubhāgya proportion verses; no Bhūmija link, garbled old OCR"}
+{"c":"4b5a28b555","keep":false,"reject_reason":"Samarāṅgaṇa Saubhāgya/Vibhava proportion verses; no Bhūmija link, garbled old OCR"}
+{"c":"b629839a69","keep":false,"reject_reason":"Samarāṅgaṇa Śrītuṅga/Sarvatobhadra proportions; no Bhūmija link, garbled old OCR"}
+{"c":"3d94763b22","keep":false,"reject_reason":"Samarāṅgaṇa Bhadra/Ujjayanta proportion verses; no Bhūmija link, garbled old OCR"}
+{"c":"141764f2e5","keep":false,"reject_reason":"Samarāṅgaṇa Ujjayanta proportions; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"18d3e74f49","keep":false,"reject_reason":"Overlap of Ujjayanta verses and footnotes; no Vidisha, Bhūmija or monument evidence"}
+{"c":"abf0ad6681","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[6,7],"note":"Text gives the total of prāsādas as a hundred and eight, said to be illustrated by the wise (⚠ old OCR)."}]}
+{"c":"47a8b92c8e","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[3,4],"note":"Introduces Drāviḍa prāsādas, single-storeyed up to twelve storeys, followed by five pedestals (⚠ old OCR)."}]}

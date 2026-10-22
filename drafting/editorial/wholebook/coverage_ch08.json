@@ -1,0 +1,207 @@
+{
+ "unit": "08",
+ "direct": 44,
+ "totals": {
+  "assigned": 35,
+  "cross-reference": 3,
+  "excluded": 6
+ },
+ "by_sub": {
+  "S2": {
+   "assigned": 11,
+   "cross-reference": 3,
+   "excluded": 1
+  },
+  "S3": {
+   "assigned": 16,
+   "excluded": 1
+  },
+  "S4": {
+   "assigned": 2,
+   "excluded": 2
+  },
+  "S5": {
+   "assigned": 6,
+   "excluded": 2
+  }
+ },
+ "status": {
+  "C08-JAGTA-EN-001": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-EN-002": [
+   "assigned",
+   "Note"
+  ],
+  "C08-JAGTA-EN-004": [
+   "assigned",
+   "Note"
+  ],
+  "C08-JAGTA-EN-005": [
+   "cross-reference",
+   "ch09"
+  ],
+  "C08-JAGTA-EN-007": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-EN-008": [
+   "assigned",
+   "E"
+  ],
+  "C08-JAGTA-EN-009": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-EN-010": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-EN-011": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-EN-012": [
+   "assigned",
+   "X"
+  ],
+  "C08-JAGTA-EN-014": [
+   "assigned",
+   "Note"
+  ],
+  "C08-JAGTA-EN-015": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-EN-016": [
+   "excluded",
+   "v1: general essays on temples as institutions and on endowment history (Satavāhanas, Nalanda, Cholas), tier 8 secondhand; nothing for Udaypur.(Udayagiri grant to Sa"
+  ],
+  "C08-JAGTA-EN-017": [
+   "excluded",
+   "rhetoric of prosperity (inference; v1 flag): not adopted"
+  ],
+  "C08-JAGTA-HI-001": [
+   "assigned",
+   "E"
+  ],
+  "C08-JAGTA-HI-002": [
+   "assigned",
+   "Note"
+  ],
+  "C08-JAGTA-HI-003": [
+   "assigned",
+   "Note"
+  ],
+  "C08-JAGTA-HI-004": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C08-JAGTA-EN-002)"
+  ],
+  "C08-JAGTA-HI-005": [
+   "cross-reference",
+   "ch09"
+  ],
+  "C08-JAGTA-HI-007": [
+   "excluded",
+   "Hindi original of C08-JAGTA-EN-017 (rhetoric; not adopted)"
+  ],
+  "C08-JAGTA-HI-012": [
+   "assigned",
+   "E"
+  ],
+  "C08-JAGTA-HI-013": [
+   "assigned",
+   "Note"
+  ],
+  "C08-JAGTA-HI-014": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-HI-015": [
+   "assigned",
+   "C"
+  ],
+  "C08-JAGTA-HI-016": [
+   "assigned",
+   "Note"
+  ],
+  "C08-JAGTA-HI-017": [
+   "assigned",
+   "Note"
+  ],
+  "C08-GAZ-011": [
+   "excluded",
+   "v1: crop tables, ploughing, revenue rates: Ch 2 used the district farming year;(poppy revenue) → Ch 10 if needed"
+  ],
+  "C08-GAZ-012": [
+   "excluded",
+   "v1: crop tables, ploughing, revenue rates: Ch 2 used the district farming year;(poppy revenue) → Ch 10 if needed"
+  ],
+  "C08-GAZ-013": [
+   "assigned",
+   "E"
+  ],
+  "C08-GAZ-014": [
+   "assigned",
+   "E"
+  ],
+  "C08-GAZ-018": [
+   "assigned",
+   "E"
+  ],
+  "C08-GAZ-019": [
+   "assigned",
+   "E"
+  ],
+  "C08-GAZ-020": [
+   "assigned",
+   "E"
+  ],
+  "C08-PANDE-009": [
+   "assigned",
+   "E"
+  ],
+  "C08-PANDE-010": [
+   "assigned",
+   "E"
+  ],
+  "C08-PANDE-011": [
+   "assigned",
+   "E"
+  ],
+  "C08-PANDE-012": [
+   "assigned",
+   "E"
+  ],
+  "C08-GANGULY-013": [
+   "assigned",
+   "E"
+  ],
+  "C08-GANGULY-015": [
+   "assigned",
+   "E"
+  ],
+  "C08-GANGULY-016": [
+   "assigned",
+   "E"
+  ],
+  "C08-CII-020": [
+   "assigned",
+   "E"
+  ],
+  "C08-CII-039": [
+   "assigned",
+   "E"
+  ],
+  "C08-MADHYABHARAT-007": [
+   "assigned",
+   "C"
+  ],
+  "C08-MADHYABHARAT-008": [
+   "cross-reference",
+   "ch10"
+  ]
+ },
+ "contextual_cited": 98
+}

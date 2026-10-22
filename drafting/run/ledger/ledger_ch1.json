@@ -1,0 +1,775 @@
+{
+ "chapter": 1,
+ "sections": {
+  "1.1": "The village today",
+  "1.2": "The living temple",
+  "1.3": "The walled town and its memories",
+  "1.4": "The names of the place",
+  "1.5": "Udayāditya and the Paramāra kingdom",
+  "1.6": "The foundation of town, temple and tank",
+  "1.7": "The date of the foundation",
+  "1.8": "Udaypur in the eastern province",
+  "1.9": "Later rulers and patrons",
+  "1.10": "The Udaypur praśasti",
+  "1.11": "The inscriptions and their first readers",
+  "1.12": "Stories of the temple's survival",
+  "1.13": "Udaypur among Paramāra monuments",
+  "1.14": "An earlier settlement?"
+ },
+ "through_line": "Udaypur today, the names and memories it keeps, and what the records do and do not establish about Udayāditya's foundation.",
+ "people": [
+  {
+   "name": "Udayāditya",
+   "full_name": "Udayāditya, Paramāra king",
+   "first_section": "1.1",
+   "role": "founder of town, temple and tank; Bhoja's brother (D2)"
+  },
+  {
+   "name": "Tiwari",
+   "full_name": "Vijay Manohar Tiwari",
+   "first_section": "1.1",
+   "role": "author of Jagta Hua Kasba; testimony to modern life (named in note)"
+  },
+  {
+   "name": "Beglar",
+   "full_name": "J. D. Beglar",
+   "first_section": "1.2",
+   "role": "toured Bundelkhand and Malwa 1871–72"
+  },
+  {
+   "name": "Berni Mata",
+   "full_name": "Berni Mata",
+   "first_section": "1.3",
+   "role": "dancer of the lake legend"
+  },
+  {
+   "name": "Bhoja",
+   "full_name": "King Bhoja",
+   "first_section": "1.5",
+   "role": "Paramāra king whose death nearly lost the kingdom"
+  },
+  {
+   "name": "Jayasiṃha",
+   "full_name": "Jayasiṃha (I)",
+   "first_section": "1.5",
+   "role": "Bhoja's successor, killed in the second invasion"
+  },
+  {
+   "name": "Karṇa",
+   "full_name": "Karṇa (named by dynasty at every mention, R2)",
+   "first_section": "1.5",
+   "role": "invader; Nagpur Karṇa unspecified, editor inclines Kalacuri (D4)"
+  },
+  {
+   "name": "Bhīma",
+   "full_name": "Bhīma I, Caulukya king of Gujarat (named by dynasty, R2)",
+   "first_section": "1.5",
+   "role": "Gujarat king allied against Bhoja"
+  },
+  {
+   "name": "Someśvara",
+   "full_name": "Cālukya king Someśvara",
+   "first_section": "1.5",
+   "role": "sent Vikramāditya to restore Jayasiṃha"
+  },
+  {
+   "name": "Vikramāditya",
+   "full_name": "Vikramāditya (VI)",
+   "first_section": "1.5",
+   "role": "Cālukya prince who restored Jayasiṃha"
+  },
+  {
+   "name": "Ganguly",
+   "full_name": "D. C. Ganguly",
+   "first_section": "1.4",
+   "role": "historian of the Paramāras (first named in a 1.4 note)"
+  },
+  {
+   "name": "Rājyapāla",
+   "full_name": "mahāsādhanika Rājyapāla",
+   "first_section": "1.8",
+   "role": "Caulukya governor at Udayapura, 1163 (U1)"
+  },
+  {
+   "name": "Lūṇapasāka",
+   "full_name": "Lūṇapasāka",
+   "first_section": "1.8",
+   "role": "Caulukya governor, grant of 1172 (U1)"
+  },
+  {
+   "name": "Kumārapāla",
+   "full_name": "Caulukya king Kumārapāla",
+   "first_section": "1.8",
+   "role": "reigning in 1163"
+  },
+  {
+   "name": "Ajayapāla",
+   "full_name": "Ajayapāla",
+   "first_section": "1.8",
+   "role": "Caulukya king, 1172"
+  },
+  {
+   "name": "Devapāla",
+   "full_name": "Devapāla, Paramāra king of Dhārā",
+   "first_section": "1.8",
+   "role": "named in Udaypur record of V.S. 1289"
+  },
+  {
+   "name": "Yaśovarman",
+   "full_name": "Yaśovarman",
+   "first_section": "1.9",
+   "role": "succeeded 1133; defeated by Jayasiṃha of Gujarat"
+  },
+  {
+   "name": "Muhammad Tughluq",
+   "full_name": "Sultan Muhammad Tughluq",
+   "first_section": "1.9",
+   "role": "named in mosque inscriptions 1336–38"
+  },
+  {
+   "name": "Khande Rao Appaji",
+   "full_name": "Khande Rao Appaji",
+   "first_section": "1.9",
+   "role": "general of Mahadji Scindia; brass cover"
+  },
+  {
+   "name": "Garde",
+   "full_name": "M. B. Garde",
+   "first_section": "1.9",
+   "role": "Director of Archaeology, Gwalior State; found second slab 1925–26"
+  },
+  {
+   "name": "Cunningham",
+   "full_name": "Alexander Cunningham",
+   "first_section": "1.11",
+   "role": "report of tours 1874–77"
+  },
+  {
+   "name": "Bühler",
+   "full_name": "Georg Bühler",
+   "first_section": "1.11",
+   "role": "edited the praśasti, Epigraphia Indica I"
+  },
+  {
+   "name": "Aurangzeb",
+   "full_name": "Aurangzeb",
+   "first_section": "1.12",
+   "role": "emperor of the survival legend"
+  },
+  {
+   "name": "Verma",
+   "full_name": "Santosh Kumar Verma",
+   "first_section": "1.5",
+   "role": "historian of the kinship dispute; dates the 1080 record (note)"
+  },
+  {
+   "name": "Śūdraka",
+   "full_name": "Śūdraka",
+   "first_section": "1.8",
+   "role": "father of the Nēmaka king at Udayapura"
+  },
+  {
+   "name": "Madanavarman",
+   "full_name": "Candella king Madanavarman",
+   "first_section": "1.9",
+   "role": "at Bhāillasvāmi in 1134"
+  },
+  {
+   "name": "Lakṣmīvarman",
+   "full_name": "mahākumāra Lakṣmīvarman",
+   "first_section": "1.9",
+   "role": "first of the junior Paramāra line"
+  },
+  {
+   "name": "Hariścandra",
+   "full_name": "mahākumāra Hariścandra",
+   "first_section": "1.9",
+   "role": "Lakṣmīvarman's son"
+  },
+  {
+   "name": "Udayavarman",
+   "full_name": "mahākumāra Udayavarman",
+   "first_section": "1.9",
+   "role": "Hariścandra's son; grant in Vindhya maṇḍala"
+  },
+  {
+   "name": "Dilawar Khan",
+   "full_name": "Dilawar Khan",
+   "first_section": "1.9",
+   "role": "first sultan of Malwa"
+  },
+  {
+   "name": "Hoshang Shah",
+   "full_name": "Hoshang Shah",
+   "first_section": "1.9",
+   "role": "moved the capital to Mandu, 1405"
+  },
+  {
+   "name": "Jayavarman",
+   "full_name": "Jayavarman (Jayasiṃha), son of Devapāla",
+   "first_section": "1.8",
+   "role": "held the region in the 1260s"
+  },
+  {
+   "name": "Narayan Vyas",
+   "full_name": "Narayan Vyas",
+   "first_section": "1.3",
+   "role": "identified the Berni Mata image as a yakṣa (note); 'land of heroes' (1.12)"
+  },
+  {
+   "name": "Upendra",
+   "full_name": "Upendra",
+   "first_section": "1.10",
+   "role": "first king in the praśasti genealogy"
+  },
+  {
+   "name": "Vairisiṃha",
+   "full_name": "Vairisiṃha",
+   "first_section": "1.10",
+   "role": "named Dhārā, per the praśasti"
+  },
+  {
+   "name": "Padmagupta",
+   "full_name": "Padmagupta",
+   "first_section": "1.10",
+   "role": "court poet; fire-altar legend c. 1005"
+  },
+  {
+   "name": "Singh",
+   "full_name": "Saarthak Singh",
+   "first_section": "1.11",
+   "role": "read the serpentine inscription (note)"
+  },
+  {
+   "name": "Merutuṅga",
+   "full_name": "Merutuṅga",
+   "first_section": "1.5",
+   "role": "Jain chronicler (note)"
+  },
+  {
+   "name": "Kielhorn",
+   "full_name": "Kielhorn",
+   "first_section": "1.5",
+   "role": "reading of the Nagpur verse (note)"
+  },
+  {
+   "name": "Vasantapāla",
+   "full_name": "Vasantapāla",
+   "first_section": "1.8",
+   "role": "donor of 1163"
+  },
+  {
+   "name": "Turasadasa",
+   "full_name": "Turasadasa of Ranathabhore",
+   "first_section": "1.11",
+   "role": "pilgrim, samvat 1696"
+  },
+  {
+   "name": "Hardy",
+   "full_name": "Adam Hardy",
+   "first_section": "1.13",
+   "role": "ranks the Udayeśvara among three imperial monuments"
+  }
+ ],
+ "terms": [
+  {
+   "term": "panchayat",
+   "gloss": "unit of village government",
+   "first_section": "1.1"
+  },
+  {
+   "term": "kasba",
+   "gloss": "town",
+   "first_section": "1.1"
+  },
+  {
+   "term": "haveli",
+   "gloss": "large house",
+   "first_section": "1.1"
+  },
+  {
+   "term": "darśan",
+   "gloss": "viewing of the deity",
+   "first_section": "1.2"
+  },
+  {
+   "term": "pūjā",
+   "gloss": "worship",
+   "first_section": "1.2"
+  },
+  {
+   "term": "samādhi",
+   "gloss": "a memorial",
+   "first_section": "1.3"
+  },
+  {
+   "term": "yakṣa",
+   "gloss": "semi-divine figure",
+   "first_section": "1.3"
+  },
+  {
+   "term": "bandhu",
+   "gloss": "a relative",
+   "first_section": "1.5"
+  },
+  {
+   "term": "pitṛvya",
+   "gloss": "paternal uncle",
+   "first_section": "1.5"
+  },
+  {
+   "term": "maṇḍala",
+   "gloss": "province",
+   "first_section": "1.8"
+  },
+  {
+   "term": "bhoga",
+   "gloss": "division of a province",
+   "first_section": "1.8"
+  },
+  {
+   "term": "viṣaya",
+   "gloss": "unit of the province",
+   "first_section": "1.8"
+  },
+  {
+   "term": "pāṭhaka",
+   "gloss": "sub-district",
+   "first_section": "1.8"
+  },
+  {
+   "term": "sāmanta",
+   "gloss": "officer of a viṣaya",
+   "first_section": "1.8"
+  },
+  {
+   "term": "paṭṭalika",
+   "gloss": "king's man in the village, the patel",
+   "first_section": "1.8"
+  },
+  {
+   "term": "mahāsādhanika",
+   "gloss": "governor's title",
+   "first_section": "1.8"
+  },
+  {
+   "term": "daṇḍanāyaka",
+   "gloss": "district officer",
+   "first_section": "1.8"
+  },
+  {
+   "term": "mahākumāra",
+   "gloss": "junior Paramāra branch",
+   "first_section": "1.8"
+  },
+  {
+   "term": "liṅga",
+   "gloss": "Śiva's emblem in the sanctum",
+   "first_section": "1.9"
+  },
+  {
+   "term": "praśasti",
+   "gloss": "a eulogy set into the temple",
+   "first_section": "1.10"
+  },
+  {
+   "term": "śikhara",
+   "gloss": "temple spire",
+   "first_section": "1.13"
+  },
+  {
+   "term": "bhūmija",
+   "gloss": "Paramāra temple style",
+   "first_section": "1.13"
+  },
+  {
+   "term": "sūtradhāra",
+   "gloss": "master builder",
+   "first_section": "1.14"
+  },
+  {
+   "term": "bhūmi",
+   "gloss": "storey of the spire",
+   "first_section": "1.13"
+  },
+  {
+   "term": "sarkar",
+   "gloss": "Mughal district",
+   "first_section": "1.9"
+  },
+  {
+   "term": "kachahari",
+   "gloss": "the court",
+   "first_section": "1.3"
+  },
+  {
+   "term": "karaṇa",
+   "gloss": "a division of the lunar day",
+   "first_section": "1.7"
+  },
+  {
+   "term": "mihrāb",
+   "gloss": "prayer niche",
+   "first_section": "1.9"
+  },
+  {
+   "term": "varṇanāgakṛpāṇikā",
+   "gloss": "serpentine scimitar of letters",
+   "first_section": "1.11"
+  }
+ ],
+ "places": [
+  {
+   "name": "Ganj Basoda",
+   "first_section": "1.1",
+   "note": "market town on the railway, 13–16 km"
+  },
+  {
+   "name": "Vidisha",
+   "first_section": "1.1",
+   "note": "district headquarters, 55–70 km; old Bhilsa"
+  },
+  {
+   "name": "Bareth",
+   "first_section": "1.1",
+   "note": "railway station 6.5 km west"
+  },
+  {
+   "name": "Ghariyālon Kā Makān",
+   "first_section": "1.3",
+   "note": "house of the time-keepers"
+  },
+  {
+   "name": "Udaipur (Rajasthan)",
+   "first_section": "1.4",
+   "note": "the other Udaipur; not this place"
+  },
+  {
+   "name": "Dhārā",
+   "first_section": "1.5",
+   "note": "Paramāra capital"
+  },
+  {
+   "name": "Bhilsa",
+   "first_section": "1.5",
+   "note": "old name of Vidisha"
+  },
+  {
+   "name": "Udayasamudra",
+   "first_section": "1.6",
+   "note": "Udayāditya's tank, ruins north-east"
+  },
+  {
+   "name": "Bhāillasvāmi-mahādvādaśaka",
+   "first_section": "1.8",
+   "note": "province of the 1170s (R4)"
+  },
+  {
+   "name": "Mandu",
+   "first_section": "1.9",
+   "note": "fort where Paramāra rule ended 1305"
+  },
+  {
+   "name": "Chatua Darwaza",
+   "first_section": "1.10",
+   "note": "where the second slab was found"
+  },
+  {
+   "name": "Bhujariya Talab",
+   "first_section": "1.14",
+   "note": "older tank, 8 acres, south-east"
+  },
+  {
+   "name": "Pathari",
+   "first_section": "1.8",
+   "note": "limit of the Paramāra building country"
+  },
+  {
+   "name": "Bhiraṅgāvalī",
+   "first_section": "1.8",
+   "note": "probably Bhṛṅgārikā, about 6 km north-east"
+  },
+  {
+   "name": "Chanderi",
+   "first_section": "1.9",
+   "note": "Mughal sarkar that held Udaypur"
+  },
+  {
+   "name": "Uday Sagar Talab",
+   "first_section": "1.6",
+   "note": "the village's name for Udayasamudra"
+  },
+  {
+   "name": "Teen Darwaza",
+   "first_section": "1.3",
+   "note": "triple gateway of the walled city"
+  },
+  {
+   "name": "Umaratha",
+   "first_section": "1.8",
+   "note": "village granted by Lūṇapasāka"
+  },
+  {
+   "name": "Mahākāla temple, Ujjain",
+   "first_section": "1.11",
+   "note": "has the twin serpentine diagram"
+  },
+  {
+   "name": "Bija Mandal, Vidisha",
+   "first_section": "1.12",
+   "note": "temple not spared; one of three imperial monuments (1.13)"
+  }
+ ],
+ "figures": [
+  {
+   "what": "distance from Ganj Basoda",
+   "value": "13–16 km",
+   "keyword": "Basoda",
+   "sections": [
+    "1.1"
+   ]
+  },
+  {
+   "what": "distance from Vidisha",
+   "value": "55–70 km",
+   "keyword": "Vidisha",
+   "sections": [
+    "1.1"
+   ]
+  },
+  {
+   "what": "Bareth station",
+   "value": "6–6.5 km west",
+   "keyword": "Bareth",
+   "sections": [
+    "1.1"
+   ]
+  },
+  {
+   "what": "village area",
+   "value": "about 1,966 hectares",
+   "keyword": "hectares",
+   "sections": [
+    "1.1"
+   ]
+  },
+  {
+   "what": "population 2011",
+   "value": "6,383 people; about 1,247 houses; 54.28 per cent literate",
+   "keyword": "census",
+   "sections": [
+    "1.1"
+   ]
+  },
+  {
+   "what": "earliest firm date",
+   "value": "V.S. 1137, A.D. 1080",
+   "keyword": "1080",
+   "sections": [
+    "1.7"
+   ]
+  },
+  {
+   "what": "reported start of building",
+   "value": "V.S. 1116, A.D. 1059 (a reading)",
+   "keyword": "1059",
+   "sections": [
+    "1.7"
+   ]
+  },
+  {
+   "what": "Udayāditya's reign",
+   "value": "c. 1070–c. 1093 (others 1058/59–1086/87)",
+   "keyword": "reign",
+   "sections": [
+    "1.7"
+   ]
+  },
+  {
+   "what": "Caulukya governors",
+   "value": "1163 Rājyapāla; 1171–73 Lūṇapasāka",
+   "keyword": "1163",
+   "sections": [
+    "1.8"
+   ]
+  },
+  {
+   "what": "end of Paramāra rule",
+   "value": "1305",
+   "keyword": "1305",
+   "sections": [
+    "1.9"
+   ]
+  },
+  {
+   "what": "Tughluq mosque",
+   "value": "A.H. 737–39, A.D. 1336–38",
+   "keyword": "mosque",
+   "sections": [
+    "1.9",
+    "1.12"
+   ]
+  },
+  {
+   "what": "brass cover",
+   "value": "V.S. 1841, given as A.D. 1775",
+   "keyword": "brass",
+   "sections": [
+    "1.9"
+   ]
+  },
+  {
+   "what": "second praśasti slab found",
+   "value": "1925–26",
+   "keyword": "1925",
+   "sections": [
+    "1.10"
+   ]
+  },
+  {
+   "what": "Devapāla at Udayapura",
+   "value": "records of c. 1229 and V.S. 1289 (early 1230s)",
+   "keyword": "Devapāla",
+   "sections": [
+    "1.8"
+   ]
+  },
+  {
+   "what": "Śivarātri crowd",
+   "value": "thousands; Tiwari: 400 police deployed (note)",
+   "keyword": "Śivarātri",
+   "sections": [
+    "1.2"
+   ]
+  },
+  {
+   "what": "serpentine slab",
+   "value": "pinkish sandstone, 70 cm high",
+   "keyword": "serpent",
+   "sections": [
+    "1.11"
+   ]
+  },
+  {
+   "what": "first praśasti slab",
+   "value": "22 verses, breaks off in the 23rd",
+   "keyword": "verses",
+   "sections": [
+    "1.10"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Was there a settlement before Udayāditya?",
+   "sections": [
+    "1.14"
+   ],
+   "status": "left open"
+  },
+  {
+   "question": "Is V.S. 1116 (1059) a sound reading, and was Udayāditya then ruling from Udaypur?",
+   "sections": [
+    "1.7"
+   ],
+   "status": "weighed"
+  },
+  {
+   "question": "What did the record of 1080 commemorate: flag, flag-staff erected, or repaired?",
+   "sections": [
+    "1.7"
+   ],
+   "status": "left open"
+  },
+  {
+   "question": "When did the name Nīlakaṇṭheśvara take hold?",
+   "sections": [
+    "1.4"
+   ],
+   "status": "left open"
+  },
+  {
+   "question": "When did the Paramāras regain Udaypur from the Caulukyas?",
+   "sections": [
+    "1.8"
+   ],
+   "status": "left open"
+  },
+  {
+   "question": "How did the temple survive?",
+   "sections": [
+    "1.12"
+   ],
+   "status": "left open"
+  },
+  {
+   "question": "Is the village's Uday Sagar the Udayasamudra of the inscription?",
+   "sections": [
+    "1.6"
+   ],
+   "status": "left open"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "1.3",
+   "to": "Ch 9",
+   "what": "versions of the Berni Mata legend"
+  },
+  {
+   "from": "1.5",
+   "to": "Ch 4",
+   "what": "the crisis after Bhoja told in full"
+  },
+  {
+   "from": "1.9",
+   "to": "Ch 10",
+   "what": "later regimes in full"
+  },
+  {
+   "from": "1.12",
+   "to": "Ch 10",
+   "what": "survival legends tested"
+  },
+  {
+   "from": "1.11",
+   "to": "Ch 6",
+   "what": "the serpentine inscription in full"
+  },
+  {
+   "from": "1.14",
+   "to": "Ch 2",
+   "what": "the land, rock, soils and water both founding answers stand on"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "stone and water",
+   "sections": [
+    "1.3",
+    "1.6",
+    "1.14"
+   ]
+  },
+  {
+   "motif": "the hill always in sight",
+   "sections": [
+    "1.1"
+   ]
+  },
+  {
+   "motif": "names that change with the record",
+   "sections": [
+    "1.4",
+    "1.6"
+   ]
+  },
+  {
+   "motif": "a reading versus a firm date",
+   "sections": [
+    "1.7",
+    "1.14"
+   ]
+  }
+ ]
+}

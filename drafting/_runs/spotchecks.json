@@ -1,0 +1,122 @@
+[
+ {
+  "id": "C03-MADHYABHARAT-002",
+  "chunk_id": "66cf6d88c2ea6ce395b8655d7b65da7a29248ab3",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "Vidiśā under Aśoka; direct for C03-S2"
+ },
+ {
+  "id": "C05-BHOJDEV-HI-002",
+  "chunk_id": "4a01002faaa66590bed02c1af413507e6f172668",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "weak",
+  "note": "door terminology (Samarāṅgaṇa via Hindi); generic C05-S3 context; gloss faithful"
+ },
+ {
+  "id": "C05-SAMAR-2-008",
+  "chunk_id": "ddaa23134fc5f983a596da86deb3954831ba1e59",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "weak",
+  "note": "generic Haṃsa prāsāda prescription; ⚠ old OCR"
+ },
+ {
+  "id": "C05-SAMAR-2-046",
+  "chunk_id": "a96e71915b8f944b61edd6be8d1c6fa63c990df7",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "weak",
+  "note": "layout of entourage abodes around a king's palace; closer to town planning (C04-S5/C07) than C05-S6"
+ },
+ {
+  "id": "C07-GEOHER-006",
+  "chunk_id": "9cd3062af3045d7c8f4d22248111e034e836b4fe",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "1400 m dry-stone fortification wall; direct C07-S1"
+ },
+ {
+  "id": "C11-JAGTA-EN-036",
+  "chunk_id": "5029e6cf79bfe2097e244800d690d0c51d5f0b6e",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "author's view on neglect; page marked approximate as required"
+ },
+ {
+  "id": "C03-GAZ-031",
+  "chunk_id": "6b6e872b3b155280f7361926c94953a6925a9a1b",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "quote was cut at 'A.' by the sentence splitter; slicer fixed to carry 'A. D.', now complete"
+ },
+ {
+  "id": "C12-JAGTA-HI-012",
+  "chunk_id": "718279e9a618d6bdc9f853d422777e47e0c85061",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "gloss faithful (source says महाराणा)"
+ },
+ {
+  "id": "C04-GANGULY-108",
+  "chunk_id": "094cb4b7fadb954db356030b77bae20e2d691f29",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "Udayapura in Ganguly's list of towns of the period; quote includes the source's HTML table"
+ },
+ {
+  "id": "C13-JAGTA-EN-011",
+  "chunk_id": "3da335870272de15c182356153cc73fd36246c7c",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "weak",
+  "note": "rhetorical; serves the Afterword only loosely"
+ },
+ {
+  "id": "C06-JAGTA-EN-004",
+  "chunk_id": "c018abebaa8495438c925a34effa210cf95ed4f4",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "VS 1137 = 30 March 1080 inscription; translator's bracket note is in the source"
+ },
+ {
+  "id": "C06-MADHYABHARAT-006",
+  "chunk_id": "19a3dd6b0bfe64e6b1e760a83f1195e500733912",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "general description of dated sati-stone inscriptions; contextual"
+ },
+ {
+  "id": "C06-BHOJDEV-HI-017",
+  "chunk_id": "cda5f97066ba90ac0afcac79315694a91f8d3f0b",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "yes",
+  "note": "Bhoja's works and their commentaries; gloss faithful"
+ },
+ {
+  "id": "C05-KRAM-2-050",
+  "chunk_id": "67fa3aed31ca62ef4c0d2b9d9249feb361e7e59d",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "weak",
+  "note": "generic stance classification (samabhaṅga etc.)"
+ },
+ {
+  "id": "C08-TEMPLE-ECON-040",
+  "chunk_id": "e82dd09c0107b97896edfd3bab73483c8aea6e24",
+  "quote_ok": "yes",
+  "page_ok": "yes",
+  "relevance_ok": "weak",
+  "note": "generic temple-craft statement; contextual only as required"
+ }
+]

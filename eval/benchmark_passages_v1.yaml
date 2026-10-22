@@ -1,0 +1,267 @@
+# =============================================================================
+# eval/benchmark_passages_v1.yaml — passage-level evidence benchmark, Phase 10.
+#
+# Separate from eval/benchmark_v1.yaml and eval/benchmark_v2.yaml (book-level
+# benchmarks, untouched by this file) and from eval/gold.yaml (untouched).
+# 12 questions, each anchored to one or more EXACT passages read directly
+# from the raw corpus files -- not book titles. Built to test whether
+# retrieval surfaces the actual evidence, not merely a plausible book.
+#
+# STABLE REFERENCE, not a chunk id
+# -----------------------------------------------------------------------------
+# chunk_id = sha1(f"{source_path}:{chunk_index}") (src/chunker.py:make_id) is
+# POSITIONAL -- a chunking-config change shifts it (confirmed in the Phase 6
+# audit). Every supporting passage below is instead anchored by
+# {file, heading, excerpt}: the exact source filename as it appears in
+# source_path metadata, the markdown heading the excerpt falls under, and a
+# short VERBATIM quote (<=200 chars) copied directly from the raw .md file.
+# A retrieved chunk is judged to "contain the evidence" if its stored
+# `text` (not embed_text) contains this excerpt as a substring after
+# whitespace normalization -- see eval/test_passage_eval.py's match
+# function for the exact rule, including how a chunk-boundary split is
+# handled (the excerpt is kept short and single-sentence specifically so it
+# is unlikely to straddle the ~1000-token chunk boundary; if it does, this
+# is recorded as an explicit limitation per query, not silently ignored).
+#
+# INDEPENDENCE
+# -----------------------------------------------------------------------------
+# Every excerpt below was copied from directly reading the raw file via the
+# Read/grep tools, not from a retrieval result. Where this phase's own
+# earlier retrieval runs (Phase 7/8) already pointed at a file, that is
+# disclosed via `source_discovery: system-assisted` and the excerpt was
+# still independently re-copied from the raw file before being recorded --
+# never taken from a query snippet. Single reviewer; not expert-validated.
+#
+# DIRECT EVIDENCE vs. CONTEXT-ONLY vs. TANGENTIAL
+# -----------------------------------------------------------------------------
+#   supporting_passages   excerpts that directly state the answer
+#   context_only          a source that discusses the general topic but was
+#                         checked and found NOT to state the specific answer
+#                         (recorded so a retriever returning it isn't scored
+#                         as wrong, but also isn't credited as "the" evidence)
+# See PL-04 for a worked example of this distinction.
+#
+# DUPLICATE-OCR HANDLING
+# -----------------------------------------------------------------------------
+# Same policy as eval/benchmark_v2_notes.md: where a supporting passage has
+# a confirmed duplicate OCR copy elsewhere in the corpus, that is recorded
+# under `duplicate_ocr_of`, with the OCR-variant spelling noted. Both files
+# may be genuinely relevant hits, but they are NOT independent corroboration
+# -- they are one piece of evidence, OCR'd twice. See PL-10.
+#
+# SCHEMA
+#   id                     PL-<n>
+#   query                  exact question text
+#   answerable             true | false
+#   answerability_status   confirmed_answerable | confirmed_unanswerable | unresolved
+#   supporting_passages    [{file, heading, excerpt, why}]
+#   context_only           [{file, heading, excerpt, why}]  (optional)
+#   duplicate_ocr_of       [{file, heading, excerpt, note}] (optional, on a
+#                          supporting_passages entry's sibling copy)
+#   challenge              which Step-2 category this probes
+#   source_discovery       direct | system-assisted
+#   review_marker          none | uncertain
+# =============================================================================
+
+meta:
+  created_by: assistant
+  created_on: 2026-10-10
+  status: single-reviewer, spot-checked, not expert-validated
+  n_queries: 12
+  independence_note: >
+    All excerpts copied directly from the raw corpus files. PL-10's second
+    excerpt and PL-12's second passage were located with help from this
+    project's own earlier (Phase 7/8) retrieval runs, then independently
+    re-copied from the raw file -- disclosed per-entry via source_discovery.
+  match_rule: "see eval/test_passage_eval.py: normalized-substring match of `excerpt` against a hit's stored text"
+
+queries:
+
+  - id: PL-01
+    query: "When was the flagstaff of the Udayeshvara temple at Udaypur erected?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "exact historical date"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages:
+      - file: "The cultural heritage of madhya bharat.md"
+        heading: "4 Udaypur"
+        excerpt: "the flag staff was erected in V. S. 1137 (A.D. 1080)"
+        why: "States the exact V.S./A.D. date directly, sourced from an inscription on the temple itself."
+
+  - id: PL-02
+    query: "What name does the Udaypur inscription itself give to the serpentine letter-diagram?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "exact term from a primary inscription"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages:
+      - file: A_serpentine_scimitar_of_letters_from_Ud.md
+        heading: "Abstract"
+        excerpt: "refer to the diagram as varṇnanāgakrpānikā, a “serpentine scimitar of letters.”"
+        why: "The paper's abstract directly names the term as used in the inscription's own accompanying verse."
+
+  - id: PL-03
+    query: "Besides the temple, what two other works did King Udayaditya name after himself at Udaypur?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "temple/inscription-derived fact, multi-part answer"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages:
+      - file: "The cultural heritage of madhya bharat.md"
+        heading: "4 Udaypur"
+        excerpt: "designated all the three works after his own name as Udayapura, Udayeshvara and Udayasamudra respectively"
+        why: "Directly names all three works (town, temple, tank) and their names in one sentence."
+
+  - id: PL-04
+    query: "Who succeeded Udayaditya as named in the Udaypur epigraphic record?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "genealogy with a plausible-but-insufficient second source"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages:
+      - file: A_serpentine_scimitar_of_letters_from_Ud.md
+        heading: "body text (dating discussion)"
+        excerpt: "Udayāditya (c. 1070–93) and his son Naravarman (1094–1134)"
+        why: "Directly names Naravarman as Udayaditya's son and gives his regnal dates."
+    context_only:
+      - file: History of Paramara Dynasty DC Ganguly.md
+        heading: "UDAYĀDITYA section"
+        excerpt: "His son was Gondala"
+        why: "WORKED EXAMPLE of context-only vs. direct evidence: this book gives Udayaditya's own ANCESTRY (Sauravira -> Gondala -> Jnata -> Udayaditya) in detail, and is genuinely about Udayaditya, but the specific passages read here do not name Naravarman as his successor. A retriever returning this book for this query is not wrong to consider it topically relevant, but it does not contain the specific answer -- do not credit it as supporting evidence for THIS question."
+
+  - id: PL-05
+    query: "What is the Devanagari section heading for the Udayeshvara temple of Udaypur in Art of the Paramaras of Malwa?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "OCR error / variant spelling"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages:
+      - file: Art of Paramaras.md
+        heading: "(the heading itself)"
+        excerpt: "उदयपुर का उदयेऋवर मंदिर"
+        why: "This IS the heading -- note it is itself OCR-garbled: 'उदयेऋवर' where the correct spelling is 'उदयेश्वर' (Udayeshvara)."
+    benchmark_design_issue_discovered_phase10: >
+      This query, as actually written above, is an ENGLISH meta-question
+      ASKING ABOUT a Devanagari heading -- not a direct Devanagari query
+      against the OCR-garbled text. That is a different, harder, more
+      self-referential challenge than "does retrieval survive OCR noise",
+      which was the intent. Verified directly: querying the DIRECT Devanagari
+      phrase "उदयपुर का उदयेश्वर मंदिर" instead returns Art of Paramaras.md's
+      correctly-matching, OCR-garbled heading at hybrid rank 2 (cos=0.4534,
+      confirmed by running python -m src.query against that direct phrase).
+      PL-05's measured 0.00 score should NOT be read as "OCR-noise
+      resilience failed" -- it reflects this query's actual (meta-question)
+      phrasing, a benchmark design issue, not the intended probe.
+
+  - id: PL-06
+    query: "What are the top attractions at the City Palace and Lake Pichola in Udaipur, Rajasthan?"
+    answerable: false
+    answerability_status: confirmed_unanswerable
+    challenge: "confusing/colliding place name"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages: []
+    why_unanswerable: "This corpus is about Udaypur/Udayapura, a village in Vidisha district, Madhya Pradesh -- not Udaipur, Rajasthan (the 'City of Lakes'). No file in this 26-file corpus discusses Rajasthan, City Palace, or Lake Pichola; confirmed by the corpus's own file list and subject matter sampled across this and prior benchmarks."
+
+  - id: PL-07
+    query: "भोजदेव द्वारा रचित वास्तुशास्त्र ग्रंथ का नाम क्या है?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "Devanagari query, exact proper noun"
+    source_discovery: direct
+    review_marker: uncertain
+    supporting_passages:
+      - file: bhojdev.md
+        heading: "भोजदेवकृत"
+        excerpt: "## समराङ्गणसूत्रधार"
+        why: "The treatise's name appears directly as the heading immediately under the chapter titled 'भोजदेवकृत' (composed by Bhojadeva)."
+    corpus_limitation_discovered_phase10: >
+      Confirmed by reading raw lines 275-284 of bhojdev.md: both
+      'भोजदेवकृत' and 'समराङ्गणसूत्रधार' are immediately followed (within 1-2
+      blank lines) by the NEXT level-2 heading, with no body text of their
+      own. src/chunker.py's split_sections() only keeps a section that has
+      non-whitespace content (`if any(l.strip() for l in current.lines)`);
+      an empty section is silently dropped. Verified directly against the
+      live collection: neither string appears anywhere in any stored chunk's
+      text OR heading_path metadata for bhojdev.md (0/199 chunks). The
+      heading this query's evidence depends on was therefore NEVER INDEXED
+      -- this is a corpus/chunking-pipeline gap, not a retrieval failure.
+      review_marker raised to uncertain for this reason; a true answer to
+      this query does not currently exist anywhere in the vector store.
+
+  - id: PL-08
+    query: "What are the measured dimensions of the Lajja Gauri petroglyph found at Udaypur Pindi hill?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "archaeological/heritage specific numeric fact"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages:
+      - file: Geo-Heritage of Udaypur The Third Eye.md
+        heading: "Annexure 7: Petroglyph - Lajja Gauri"
+        excerpt: "The dimension of this petroglyph is 60x55 cm carved on the red sandstone on the eastern side."
+        why: "States the exact measured dimensions in one sentence, specific to this one petroglyph."
+
+  - id: PL-09
+    query: "By what percentage did the Betwa River's mean monsoon streamflow decline during 2001–2020 compared to 1982–2000?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "exact statistic from a technical paper"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages:
+      - file: Streamflow of the Betwa Rive.md
+        heading: "Abstract"
+        excerpt: "reduction in the mean monsoon stream flow of the Betwa River by 16% during 2001–2020 as compared to 1982–2000"
+        why: "States the exact 16% figure and both date ranges in one sentence of the abstract."
+
+  - id: PL-10
+    query: "According to the Udayesvara temple's philosophical chapter, what is the parallelism between pinda (the body) and brahmanda (the cosmos)?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "duplicate-OCR relationship, worked example"
+    source_discovery: system-assisted
+    review_marker: none
+    supporting_passages:
+      - file: "The Udayesvara Temple - Anupa Pande.md"
+        heading: "The Metaphysics of Śaivism and Śaiva Siddhānta"
+        excerpt: "the parallelism of piṇḍa (body) and brahmāṇḍa (cosmos) – ‘yathā piṇḍe tathā brahmāṇḍe’"
+        why: "States the exact Sanskrit parallelism formula directly."
+        duplicate_ocr_of:
+          - file: "The Udayesvara Temple Art, Architecture and Philosophy of the Saiva Siddhanta.md"
+            heading: "The Metaphysics of Śaivism and Śaiva Siddhānta"
+            excerpt: "the parallelism of pīndā (body) and brahmāndā (cosmos) – ‘yathā pīndē tathā brahmāndē’"
+            note: "Confirmed, by direct read, to be the SAME sentence from a second, separate OCR pass of the same underlying Anupa Pande book -- note the OCR-variant diacritics (pīndā/brahmāndā vs. piṇḍa/brahmāṇḍa). Both files were first identified as a duplicate pair during Phase 7's retrieval-based exploration; the duplicate relationship and this exact sentence match were independently re-verified here by reading both raw files side by side. If a retriever returns both, that is ONE piece of evidence found twice, not two independent confirmations -- see eval/benchmark_v2_notes.md for the same policy applied to book-level judging."
+
+  - id: PL-11
+    query: "What was Madhya Pradesh's GDP growth rate in 2024?"
+    answerable: false
+    answerability_status: confirmed_unanswerable
+    challenge: "corpus lacks adequate supporting evidence"
+    source_discovery: direct
+    review_marker: none
+    supporting_passages: []
+    why_unanswerable: "This is a heritage/history/geology corpus (temples, inscriptions, gazetteers, hydrology, dynastic history) with no macroeconomic or government-statistics source among its 26 files; confirmed by file-list and subject-matter review across every benchmark phase so far."
+
+  - id: PL-12
+    query: "What type of stone is commonly used in Vidisha district temple architecture, and how is it geologically characterized?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    challenge: "requires evidence from two genuinely independent sources (not duplicates)"
+    source_discovery: system-assisted
+    review_marker: none
+    supporting_passages:
+      - file: "The cultural heritage of madhya bharat.md"
+        heading: "4 Udaypur"
+        excerpt: "The pink coloured sandstone employed in the building shows its grandeur to better effect."
+        why: "Direct, descriptive statement that the Udayeshvara temple (a Vidisha-district temple) is built of pink sandstone."
+      - file: Geo-Heritage of Udaypur The Third Eye.md
+        heading: "Sandstone:"
+        excerpt: "Sandstones are all those medium-grained sedimentary rocks that comprise more than 50% sand-size (0.063–2mm) grains."
+        why: "Independent geological definition/characterization of sandstone from a different book and a different angle (geology survey vs. archaeological description) -- genuinely two sources, not a duplicate pair."

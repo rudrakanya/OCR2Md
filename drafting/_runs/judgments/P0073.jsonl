@@ -1,0 +1,25 @@
+{"c":"af50ada7b8","keep":false,"reject_reason":"district-wide public administration employment counts and municipal staff table; nothing specific to Udaypur"}
+{"c":"1fead99475","keep":true,"items":[{"unit":"C08","sub":"S5","type":"figure","strength":"contextual","span":[9,11],"note":"District-wide census 1961 counts of shoe-making/leather workers and blacksmiths (urban/rural split), background on crafts in Vidisha District"}]}
+{"c":"e6a6264aa1","keep":true,"items":[{"unit":"C08","sub":"S5","type":"figure","strength":"contextual","span":[2,4],"note":"District-wide count of carpenters and joiners (1,826), mostly serving agricultural needs and pursued by particular sections of the population"}]}
+{"c":"ded4648a8a","keep":false,"reject_reason":"district occupation statistics for sweepers and domestic servants; no bearing on any unit"}
+{"c":"a70391c8eb","keep":true,"items":[{"unit":"C08","sub":"S5","type":"figure","strength":"contextual","span":[2,4],"xref":["C12"],"note":"Retail trade in Vidisha District: 4,706 of 5,011 working proprietors, urban component serving about 13 per cent of population"}]}
+{"c":"1389aced2e","keep":true,"items":[{"unit":"C08","sub":"S4","type":"figure","strength":"contextual","span":[4,5],"xref":["C02","C12"],"note":"Agriculture the main livelihood of Vidisha District: 72.95 per cent of workers in 1951, 75.22 per cent in 1961"}]}
+{"c":"46338a2dbb","keep":true,"items":[{"unit":"C08","sub":"S4","type":"fact","strength":"contextual","span":[7,10],"xref":["C12"],"note":"District is predominantly rural; cultivation main occupation followed by agricultural labour"}]}
+{"c":"c6f3711233","keep":true,"items":[{"unit":"C02","sub":"S5","type":"fact","strength":"direct","span":[7,8],"xref":["C08"],"note":"Economic activity of Vidisha District revolves round agriculture; the District predominates in production of rabi crops"}]}
+{"c":"858e84212e","keep":false,"reject_reason":"foodgrain price tables 1925-31 and war-time price remarks; not usable for any unit"}
+{"c":"38b2ba5b4b","keep":false,"reject_reason":"post-1948 foodgrain price control and procurement; off-topic for the units"}
+{"c":"bb306388d4","keep":false,"reject_reason":"First Plan foodgrain price index table; no bearing on any unit"}
+{"c":"3566a9af68","keep":false,"reject_reason":"Second Plan foodgrain price table; no bearing on any unit"}
+{"c":"5cf98d59e9","keep":false,"reject_reason":"Third Plan foodgrain price tables; no bearing on any unit"}
+{"c":"8386dd8006","keep":false,"reject_reason":"wage-rate tables for the district; generic economic statistics"}
+{"c":"6f6eeca452","keep":false,"reject_reason":"post-Independence wage-rate tables; generic economic statistics"}
+{"c":"55ab612260","keep":true,"items":[{"unit":"C02","sub":"S5","type":"fact","strength":"direct","span":[1,3],"xref":["C08"],"note":"Vidisha District endowed with rich soils of the Malwa belt, a centre of trade for quality gram and wheat, bearing a look of agricultural prosperity"}]}
+{"c":"9c66c63302","keep":false,"reject_reason":"district employment statistics and factory counts; nothing specific to Udaypur"}
+{"c":"e47953e1e8","keep":false,"reject_reason":"Employment Exchange procedure and registration table; no bearing"}
+{"c":"bbbdbec1c5","keep":false,"reject_reason":"Community Development programme objectives and block table; generic administration"}
+{"c":"14f25213b0","keep":true,"items":[{"unit":"C08","sub":"S4","type":"figure","strength":"contextual","span":[6,11],"xref":["C12"],"note":"Third Plan irrigation work in Vidisha District blocks: 972 new wells constructed, 340 old wells repaired, four tanks repaired, 7,456 hectares reclaimed"}]}
+{"c":"eeecca2f19","keep":false,"reject_reason":"cooperative societies, youth clubs and block expenditure figures; no bearing"}
+{"c":"15073933e8","keep":true,"items":[{"unit":"C10","sub":"S4","type":"fact","strength":"direct","span":[6,10],"note":"Bhilsa zila of Gwalior State administered by a Subah assisted by Kamasdars in each pargana; Subah as zila magistrate and chief revenue officer"}]}
+{"c":"9d4fc97ecd","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"cade3eecf1","keep":false,"reject_reason":"modern district law-and-order and development block staffing; no bearing"}
+{"c":"49fb6918b9","keep":false,"reject_reason":"Collector's excise, treasury and registration powers; no bearing"}

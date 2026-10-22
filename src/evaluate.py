@@ -119,6 +119,87 @@ def evaluate_queries(cfg, retriever: Retriever, gold: dict, *,
     return {"summary": summary, "per_query": per_query}
 
 
+def partition_queries(gold: dict) -> dict:
+    """Classify every query by the Phase 8 answerability policy
+    (eval/benchmark_v2_notes.md), without changing evaluate_queries() or
+    relevance() at all.
+
+    Fields read -- `answerable`, `exclude_from_aggregate` -- are optional and
+    default to the pre-existing behaviour (every query is eligible) when
+    absent, so this is a no-op for eval/gold.yaml, which has neither field.
+
+    An "answerable" query (the default when the field is absent) with no
+    relevance annotation at all (`relevant_books`, `graded`, and
+    `relevant_chunks` all empty) is NOT silently folded into the eligible
+    set as an ordinary zero -- it has no evidence to score against, which is
+    a benchmark-authoring gap, not a retrieval result. It goes to
+    `invalid_unresolved` instead.
+
+    Returns {"eligible": [ids], "excluded_unanswerable": [ids],
+             "invalid_unresolved": [ids]}, every id appearing in exactly one
+    list.
+    """
+    eligible, excluded, invalid = [], [], []
+    for spec in gold["queries"]:
+        qid = spec["id"]
+        answerable = spec.get("answerable", True)
+        exclude = bool(spec.get("exclude_from_aggregate", False))
+        has_labels = bool(spec.get("relevant_books") or spec.get("graded")
+                         or spec.get("relevant_chunks"))
+        if answerable is False or exclude:
+            excluded.append(qid)
+        elif not has_labels:
+            invalid.append(qid)
+        else:
+            eligible.append(qid)
+    return {"eligible": eligible, "excluded_unanswerable": excluded,
+            "invalid_unresolved": invalid}
+
+
+def aggregate(per_query: list[dict], ids, k_values: list[int], ndcg_k: int) -> dict | None:
+    """Recompute the summary means over only `per_query` rows whose id is in
+    `ids`, reusing rows evaluate_queries() already produced -- no retrieval
+    is re-run here.
+
+    Returns None, never a fabricated 0.0, when no row matches -- an empty
+    eligible set must be visibly "no data", not indistinguishable from
+    "every query failed".
+    """
+    ids = set(ids)
+    rows = [r for r in per_query if r["id"] in ids]
+    if not rows:
+        return None
+
+    def mean(key: str):
+        vals = [r[key] for r in rows if key in r]
+        return statistics.fmean(vals) if vals else None
+
+    summary = {f"P@{k}": mean(f"P@{k}") for k in k_values}
+    summary.update({f"R@{k}": mean(f"R@{k}") for k in k_values})
+    summary["MRR"] = mean("RR")
+    summary[f"nDCG@{ndcg_k}"] = mean(f"nDCG@{ndcg_k}")
+    summary["n_queries"] = len(rows)
+    return summary
+
+
+def print_policy_table(summary: dict | None, k_values: list[int], ndcg_k: int, label: str) -> None:
+    print(f"\n  {label}")
+    print("  " + "─" * 60)
+    if summary is None:
+        print("  (no eligible queries -- N/A, not 0.000)")
+        return
+    header = f"  {'metric':24s}" + "".join(f"{f'@{k}':>10s}" for k in k_values)
+    print(header)
+    def fmt(v):
+        return f"{v:>10.3f}" if v is not None else f"{'n/a':>10s}"
+    print(f"  {'Precision':24s}" + "".join(fmt(summary[f'P@{k}']) for k in k_values))
+    print(f"  {'Recall (book-level)':24s}" + "".join(fmt(summary[f'R@{k}']) for k in k_values))
+    print("  " + "─" * 60)
+    print(f"  {'MRR':24s}{fmt(summary['MRR'])}")
+    print(f"  {f'nDCG@{ndcg_k}':24s}{fmt(summary[f'nDCG@{ndcg_k}'])}")
+    print(f"  {'n_queries':24s}{summary['n_queries']:>10d}")
+
+
 def tag_precision(cfg, store: Store, gold: dict, verbose: bool = True) -> dict:
     """§10.2 per-chapter tagging precision, via the gold spot-check lists."""
     spec = gold.get("tag_spotcheck") or {}
@@ -170,6 +251,9 @@ def main(argv=None) -> int:
     ap.add_argument("--no-save", action="store_true")
     ap.add_argument("--embed-preset", default=None,
                     help="force a model; by default the collection's own is used")
+    ap.add_argument("--policy-aware", action="store_true",
+                    help="also report aggregates restricted to answerable, "
+                         "non-excluded queries (Phase 9); default run is unchanged")
     args = ap.parse_args(argv)
 
     cfg = st.load()
@@ -209,6 +293,22 @@ def main(argv=None) -> int:
     for label, result in runs.items():
         print_table(result, k_values, ndcg_k, label)
 
+    # Cheap, retrieval-free check (Phase 10), computed once and reused below
+    # for --policy-aware too: warn when the table just printed silently
+    # folded forced-zero unanswerable/unresolved queries into its mean, so a
+    # legacy-mode run can't be mistaken for the policy-aware corrected view.
+    # For eval/gold.yaml, which has neither `answerable` nor
+    # `exclude_from_aggregate` on any query, this is always empty and the
+    # warning never fires -- verified in eval/test_evaluate_policy.py's test_8.
+    partition = partition_queries(gold)
+    legacy_excluded = partition["excluded_unanswerable"] + partition["invalid_unresolved"]
+    if legacy_excluded and not args.policy_aware:
+        print(f"\n  NOTE: the aggregate(s) above are the LEGACY mean — "
+              f"{len(legacy_excluded)} query(ies) marked answerable:false / "
+              f"exclude_from_aggregate / lacking any relevance label were forced to a "
+              f"zero score and folded in: {legacy_excluded}. "
+              f"Re-run with --policy-aware for the corrected, eligible-only view.")
+
     main_result = list(runs.values())[-1]
 
     if args.worst:
@@ -237,12 +337,49 @@ def main(argv=None) -> int:
         print(f"    {cid:4s} tagged {row['tagged']:5d}  "
               f"precision {'  n/a' if p is None else f'{p:5.1%}'}  {bar}")
 
+    policy: dict | None = None
+    if args.policy_aware:
+        part = partition
+        eligible = set(part["eligible"])
+        uncertain_ids = {q["id"] for q in gold["queries"] if q.get("review_marker") == "uncertain"}
+        sensitivity_ids = eligible - uncertain_ids
+
+        print("\n" + "=" * 68)
+        print("  POLICY-AWARE AGGREGATES (Phase 9 — eligible answerable queries only)")
+        print("=" * 68)
+        print(f"  eligible:            {len(part['eligible'])}  {part['eligible']}")
+        print(f"  excluded (unanswerable / exclude_from_aggregate): "
+              f"{len(part['excluded_unanswerable'])}  {part['excluded_unanswerable']}")
+        print(f"  invalid/unresolved (answerable, no relevance labels): "
+              f"{len(part['invalid_unresolved'])}  {part['invalid_unresolved']}")
+
+        policy = {"partition": part, "eligible_by_run": {}, "sensitivity_by_run": {}}
+        for label, result in runs.items():
+            elig_summary = aggregate(result["per_query"], eligible, k_values, ndcg_k)
+            print_policy_table(elig_summary, k_values, ndcg_k,
+                               f"{label} — eligible only (n={len(eligible)})")
+            policy["eligible_by_run"][label] = elig_summary
+
+            sens_summary = aggregate(result["per_query"], sensitivity_ids, k_values, ndcg_k)
+            print_policy_table(sens_summary, k_values, ndcg_k,
+                               f"{label} — eligible, excluding {len(uncertain_ids)} uncertain-label "
+                               f"quer{'y' if len(uncertain_ids) == 1 else 'ies'} "
+                               f"(n={len(sensitivity_ids)})")
+            policy["sensitivity_by_run"][label] = sens_summary
+
+        if part["invalid_unresolved"]:
+            print(f"\n  WARNING: {len(part['invalid_unresolved'])} query(ies) are answerable but "
+                  f"carry no relevance annotation at all -- excluded from the eligible aggregate "
+                  f"above as unresolved, not scored as zero: {part['invalid_unresolved']}")
+
     payload = {"run_id": run_id, "provenance": prov,
                "gold_meta": gold.get("meta", {}),
                "n_queries": len(gold["queries"]),
                "runs": {k: v["summary"] for k, v in runs.items()},
                "per_query": main_result["per_query"],
                "tag_precision": tp}
+    if policy is not None:
+        payload["policy_aware"] = policy
     if not args.no_save:
         results = st.resolve(cfg, "evaluation.results_dir")
         results.mkdir(parents=True, exist_ok=True)

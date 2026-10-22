@@ -1,0 +1,25 @@
+{"c":"877f00aacd","keep":false,"reject_reason":"list of modern district-level government offices; no bearing"}
+{"c":"d60dd9abf6","keep":true,"items":[{"unit":"C10","sub":"S2","type":"fact","strength":"contextual","span":[1,4],"xref":["C08"],"note":"Medieval land revenue in the areas of Vidisha District evidenced by Ain-i-Akbari; mahal part of sarkar of Raisen in Subah of Malwa; Todarmal's settlement extended under Akbar"},{"unit":"C10","sub":"S3","type":"fact","strength":"contextual","span":[11,14],"note":"Mughal khalsa and jagir land; the system collapsed at the Maratha invasion when Subas and officials became independent in the early eighteenth century"}]}
+{"c":"6b67e208b4","keep":true,"items":[{"unit":"C10","sub":"S3","type":"fact","strength":"contextual","span":[8,14],"xref":["C08"],"note":"Under Gwalior State the ijaredari system went into disuse after Maharaja Jankoji Rao, replaced by zamindari; ijaredari abolished and 12-year leases granted in 1853"}]}
+{"c":"42c41acf20","keep":true,"items":[{"unit":"C08","sub":"S4","type":"figure","strength":"contextual","span":[2,7],"xref":["C10"],"note":"Bhilsa zila settlement: in Vidisha, where poppy was largely grown, land revenue ranged Rs. 14 to 40 per acre; demand fixed at Rs. 3,41,658"}]}
+{"c":"b42d826b41","keep":true,"items":[{"unit":"C10","sub":"S3","type":"fact","strength":"contextual","span":[1,6],"note":"Land tenures under the Sindhia regime: guaranteed estates/jagirs, State jagirs and zamindari; jagirdars administered jagir areas, some with revenue, judicial and police powers"}]}
+{"c":"2114033d15","keep":false,"reject_reason":"zamindari and jagir abolition legislation of 1950s; modern administration"}
+{"c":"6b9857b153","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[21,22],"note":"Rebate gaonti kharch on assessed revenue covered nazars to officials, charitable grants to temples and festival expenses until the start of the present century"}]}
+{"c":"5604071bee","keep":false,"reject_reason":"land revenue demand and collection tables 1951-70; no bearing"}
+{"c":"b50d2023f7","keep":false,"reject_reason":"landlord-tenant law in Gwalior State; generic administration"}
+{"c":"9c01fd3aa7","keep":false,"reject_reason":"post-1950 tenancy legislation; no bearing"}
+{"c":"ea8905513e","keep":false,"reject_reason":"bhumiswami tenure table and rules; no bearing"}
+{"c":"d57b561070","keep":true,"items":[{"unit":"C08","sub":"S4","type":"figure","strength":"contextual","span":[15,18],"note":"Census 1961: 79.3 per cent of workers in Vidisha District were cultivators (62.7) or agricultural labourers (16.6); 1971 provisional 52.1 and 26.3"}]}
+{"c":"122921494e","keep":false,"reject_reason":"agricultural wage table fragment"}
+{"c":"007621e401","keep":false,"reject_reason":"excise and income tax receipts; no bearing"}
+{"c":"c3bba7e7ea","keep":true,"items":[{"unit":"C10","sub":"S4","type":"fact","strength":"contextual","span":[10,12],"note":"In Gwalior State, of which Bhilsa was a district, judicial arrangements were revolutionised in 1853: ijardars' powers abolished, Kamasdars and Subahs appointed with judicial powers"}]}
+{"c":"1155bd0a71","keep":false,"reject_reason":"court jurisdiction hierarchy of Gwalior and small states; too generic"}
+{"c":"c508e7e6cf","keep":false,"reject_reason":"post-1948 judicial administration; no bearing"}
+{"c":"33dff02585","keep":false,"reject_reason":"Nyaya Panchayat cases; no bearing"}
+{"c":"ad98d59e02","keep":false,"reject_reason":"modern crime statistics; no bearing"}
+{"c":"9e5b7137fc","keep":false,"reject_reason":"police organisation history of Gwalior and small states; no bearing"}
+{"c":"620baa0605","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"1c9f459328","keep":false,"reject_reason":"Home Guards organisation; no bearing"}
+{"c":"d82db66aba","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"73978bb3f2","keep":false,"reject_reason":"veterinary department staffing; no bearing"}
+{"c":"7c3a5ec2c7","keep":false,"reject_reason":"fisheries and cooperative department offices; no bearing"}

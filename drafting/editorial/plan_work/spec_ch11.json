@@ -1,0 +1,13 @@
+{
+"scope": "*Chronological:* from Beglar's tour (1871–72) to the INTACH documentation and the conditions recorded c. 2015–2021 (the evidence horizon is early 2021). *Geographical:* Udaypur's monuments and hill; Gwalior (the state department and museum); the ASI's Bhopal circle; the district administration. The chapter tells acts and findings, not remedies.",
+"conflicts": "| Conflict | Where | How held |\n|---|---|---|\n| The second slab's find-place: a Dhimar's house near the Chatua Darwaza (CII) vs the temple courtyard (Tiwari) vs Ganguly | **11.2 P2 (home)** | CII in the text; the variants in a note |\n| Beglar's Aurangzeb attribution of the mosque vs Cunningham's reading | 11.1 | The historiographic layer only; the events are 10.3's |\n| Who protects what: the temple (ASI), the Barah Khambi (ASI, per INTACH), the Naṭarāja (state, per the survey and Tiwari) | 11.3 | Stated as reported; no notification exists in the corpus (gap) |\n| \"Garde Sahib\" = M. B. Garde? | 11.2 | A lead (open issue 20); \"Tiwari's 'Garde Sahib'\" |\n| GEOHER-008's unprotected \"site\" (unnamed) | 11.5 | \"One hill site\" until checked |",
+"changes": "1. **U7 (legal review):** the 2021 signboard is told as administration only, with no claimants named. Tiwari's mining allegation is not used in Ch 11 (it is Ch 12's one attributed sentence). The passages touching the eviction order and illegal mining are flagged for legal review.\n2. **Merge correction:** the drone survey item is C02-GEOHER-018 (p. 140).\n3. **Boundary:** the 2021 lane widening is one forward clause (12.5); remedies are the Afterword's.\n4. **Evidence pass:** coverage complete. No structural change.",
+"flags_extra": "- **LEGAL REVIEW before publication:** 11.4 (the eviction order, the signboard) and 11.5 (illegal mining as a threat).\n- **Page-image checks:** the Gwalior report years (1923–24, 1925–26, 1928–29; \"V.S. 1974\"); the state Land Revenue Code cited in the 2021 order; GEOHER-008's site.\n- **Staged sources (leads, `ocr_verify`):** Beglar, ASR VII; Cunningham, ASR X; Bühler, *EI* I; the Gwalior report of 1925–26. Until ingest, 11.1 quotes the reports only through Pande.\n- **Gap:** no ASI notification, boundary or post-1947 repair record (say so once, 11.3).",
+"add": {},
+"replace": [
+[
+"C11-JAGTA-EN-017 (T8), C11-JAGTA-EN-019 (T8)",
+"C11-JAGTA-EN-017 (T8) (**U7: the signboard's names are never reproduced; say only that a private-ownership notice was hung**), C11-JAGTA-EN-019 (T8)"
+]
+]
+}

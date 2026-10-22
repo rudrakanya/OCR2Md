@@ -1,0 +1,25 @@
+{"c":"d7ca0fc136","keep":false,"reject_reason":"discovery and physical description of Betmā plates; no bearing on Udaypur"}
+{"c":"9774b13fa0","keep":false,"reject_reason":"palaeography and orthography notes on Betmā plates"}
+{"c":"2d51b52fd2","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[6,6],"note":"Bhōjadēva, after daily duties and worshipping Bhavānī-pati, announced the perpetual donation of the village Nālatadāga to Paṇḍita Dēlha."},{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[13,15],"note":"Betmā grant dated fifteenth of bright Bhādrapada V.S. 1076 (about September 1020 A.C.), about nine months after the Bāṃsvaḍā grant of 3 January 1020."}]}
+{"c":"e56f871ccb","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[6,7],"note":"Grant occasion refers to Bhōja's victory over Arikēsarin (c. 1015-1025 A.C.), the Silāhāra prince of Northern Konkana."},{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[17,17],"note":"The conquest of Konkana was probably celebrated at most places in the Paramāra kingdom for the whole year, on different dates at different places."}]}
+{"c":"37ea5686da","keep":false,"reject_reason":"identification of places in the Betmā grant; no bearing on Udaypur"}
+{"c":"b545bc0d5c","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"0c7817ee5f","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"398e587a3d","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"ced32e4276","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"93abb2a7b3","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[26,27],"note":"Flying Garuda with a cobra, a device noticed on most plates issued by the rulers of the Paramāra house of Mālwā."}]}
+{"c":"0eee50db8f","keep":false,"reject_reason":"palaeographic notes on Bānswādā plates"}
+{"c":"58023b46a5","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[23,23],"note":"Bānswādā grant records Bhōjadēva's donation of one hundred nivarttana of land in the village Vatapadraka to a Brāhmaṇa, an example of land endowment."}]}
+{"c":"f3b93a46f0","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[2,6],"note":"Bānswādā grant opens with two stanzas to Śiva (Vyōmakēsa, Smarārāti) and the Paramāra genealogy Siyaka, Vākpatirāja, Sindhurāja, Bhōja."},{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[8,11],"note":"Dated fifth of bright Māgha, year 1076, corresponding to 3 January 1020 A.C. if Kārttikādi."}]}
+{"c":"6509eaf688","keep":true,"items":[{"unit":"C04","sub":"S5","type":"fact","strength":"contextual","span":[1,1],"note":"Arthūnā, identified with the Sthali region, was 'an important centre under the Paramāras'."}]}
+{"c":"f1748e0b36","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"e830ae605e","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text and footnotes"}
+{"c":"8203e67e16","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"d909863130","keep":false,"reject_reason":"discovery and physical description of Ujjain plates; no bearing on Udaypur"}
+{"c":"c54e1a3389","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[34,38],"note":"Ujjain grant opens with two stanzas in praise of Śiva and introduces Bhōjadēva, successor of Sindhurāja, successor of Vākpatirāja, successor of Siyakadēva; grant made from his stay at Dhārā."}]}
+{"c":"b77d32f85b","keep":true,"items":[{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[7,7],"note":"Editor's preferred equivalent for the Ujjain grant of V.S. 1076 date is 24 December 1021 A.C."},{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[12,13],"note":"Dhārā of the inscription is evidently 'the Paramāra capital Dhār'."}]}
+{"c":"b1e038455c","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"954eecceaa","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"6664aeb400","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text and footnotes"}
+{"c":"c9bd5c6c9c","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"23e4edc1d4","keep":false,"reject_reason":"discovery and physical description of Dēpālpur plates; no bearing on Udaypur"}

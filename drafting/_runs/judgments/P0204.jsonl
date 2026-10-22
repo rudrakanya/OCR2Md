@@ -1,0 +1,25 @@
+{"c":"7070cce96e","keep":true,"items":[{"unit":"C08","sub":"S3","type":"excerpt","strength":"contextual","span":[4,9],"note":"General claim that mandirs supported students, artists and community decisions, with the city's arthavyavastha revolving around them."}]}
+{"c":"364abd4478","keep":true,"items":[{"unit":"C08","sub":"S3","type":"figure","strength":"contextual","span":[3,6],"note":"Palani temple revenue figures (Rs 114.49 crores in 2012) as an example of temple economy."}]}
+{"c":"f36c3709e7","keep":true,"items":[{"unit":"C08","sub":"S2","type":"fact","strength":"contextual","span":[2,5],"note":"Palani's Veda Agama School trains students in temple pooja service and festivals."}]}
+{"c":"e312c3e8f8","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[10,13],"note":"Jwalamukhi temple committee lent money to devotees, an example of a temple acting as lender."}]}
+{"c":"02923bf00d","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[5,8],"note":"Temple as money lender and assembly point for resolving disputes and marriages."}]}
+{"c":"a9751b29b7","keep":true,"items":[{"unit":"C04","sub":"S5","type":"fact","strength":"contextual","span":[12,16],"note":"Examples of rulers ruling as deity's representatives (Marthanda Varma, Pandya and Nayak rajas)."}]}
+{"c":"c98e369d93","keep":false,"reject_reason":"general dharm versus religion polemic; no bearing on any unit"}
+{"c":"53de4cd1b4","keep":false,"reject_reason":"generic commentary on dharma and wealth ethics; not specific to any unit"}
+{"c":"fd58b9b1f7","keep":false,"reject_reason":"generic dharma-artha doctrine and law-text lists"}
+{"c":"e5cf06f1bf","keep":false,"reject_reason":"generic Arthashastra and Chanakya sutra commentary"}
+{"c":"123ea0f02c","keep":false,"reject_reason":"generic argument that economy centred on mandir; no specific evidence"}
+{"c":"81070236dd","keep":true,"items":[{"unit":"C03","sub":"S2","type":"fact","strength":"contextual","span":[7,7],"note":"Cites an oval, brick temple plan excavated at Besnagar, Vidisha, dated to the 2nd century BCE (secondary summary in a temple-economics book)."}]}
+{"c":"90db83586f","keep":true,"items":[{"unit":"C08","sub":"S3","type":"excerpt","strength":"contextual","span":[3,6],"note":"Nilakanta Sastri on mandir employment, festivals, schools and large endowments in land and cash making it landlord and banker."},{"unit":"C08","sub":"S3","type":"figure","strength":"contextual","span":[24,24],"note":"Tanjore temple cash endowments loaned to village assemblies at about 12 per cent per annum."}]}
+{"c":"1414af6e19","keep":true,"items":[{"unit":"C04","sub":"S5","type":"fact","strength":"contextual","span":[6,8],"note":"Madurai's streets arranged in squares within squares around the temple, compared to a lotus, as example of temple-centred town plan."}]}
+{"c":"e7e30a46fc","keep":false,"reject_reason":"reading list and table of dated temples; no bearing on Udaypur"}
+{"c":"57ad52dcf1","keep":false,"reject_reason":"table continuation listing famous temples with approximate dates; off-topic"}
+{"c":"8b53598886","keep":true,"items":[{"unit":"C08","sub":"S2","type":"fact","strength":"contextual","span":[2,4],"note":"Each temple has its special form of worship or offering (hundi at Tirumalai, kavadi at Palani, Ganges water at Rameswaram)."}]}
+{"c":"e2de4cdf2c","keep":false,"reject_reason":"polemical argument about temple destruction; no usable evidence for Udaypur"}
+{"c":"7437fc1acd","keep":false,"reject_reason":"polemical argument on temple destruction motives; not specific to Udaypur"}
+{"c":"20a035f17b","keep":false,"reject_reason":"polemic on Islamic iconoclasm; no usable evidence"}
+{"c":"8762008399","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[4,9],"note":"Agama-prescribed temple activities: study of Veda and Agama, schools, languages, dance and music."}]}
+{"c":"4f2926e114","keep":true,"items":[{"unit":"C05","sub":"S1","type":"quote","strength":"contextual","span":[10,12],"note":"Verma on Hindu temple design: location as axis mundi, pillared halls, garbhagriha and shikhara above it."},{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[15,16],"note":"Notes numerous Shilpa shastras on canonical requirements of sculpture."}]}
+{"c":"e9389de77e","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[6,9],"note":"Quotes Samarangansutradhara on the required knowledge of a sthapati (architect)."}]}
+{"c":"f9878198c2","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[24,28],"note":"Tantrasamuccaya's geometrical method with a sanku for determining cardinal direction in temple siting."}]}
+{"c":"241d75aabb","keep":true,"items":[{"unit":"C08","sub":"S4","type":"fact","strength":"contextual","span":[7,7],"note":"One function of the brahmin at the mandir was to advise farmers which crop to grow."}]}

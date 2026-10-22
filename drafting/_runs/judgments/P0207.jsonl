@@ -1,0 +1,25 @@
+{"c":"409eaf69c3","keep":false,"reject_reason":"Pandharpur Wari employment table; off-topic"}
+{"c":"afd261ccba","keep":false,"reject_reason":"Pandharpur Wari employment table; off-topic"}
+{"c":"59a9a87f7b","keep":false,"reject_reason":"Pandharpur Wari economics; other town, no bearing on Udaypur"}
+{"c":"8f690791fb","keep":false,"reject_reason":"Alandi-Pandharpur palkhi route; off-topic"}
+{"c":"4aebb52218","keep":false,"reject_reason":"palkhi procession shops table; off-topic"}
+{"c":"6a487c4176","keep":false,"reject_reason":"palkhi procession cultural activity; generic, off-topic"}
+{"c":"f14b37f632","keep":false,"reject_reason":"Amarnath Yatra livelihoods; off-topic"}
+{"c":"0f91876928","keep":false,"reject_reason":"Hardwar fair trade; other town, off-topic"}
+{"c":"6f13e06bf4","keep":false,"reject_reason":"Kumbh Mela general account; off-topic"}
+{"c":"3ab9dafb37","keep":false,"reject_reason":"Kumbh Mela holy days and corporate table; garbled and off-topic"}
+{"c":"dafd5345de","keep":false,"reject_reason":"Gangasagar mela shops; other place, off-topic"}
+{"c":"557c753dc1","keep":true,"items":[{"unit":"C08","sub":"S3","type":"excerpt","strength":"contextual","span":[17,22],"note":"General description of a matham as a socio-economic entity combining agriculture, industry and trade, with farmlands leased to locals; Temple Economics, not Udaypur."}]}
+{"c":"ae4cf43d21","keep":true,"items":[{"unit":"C08","sub":"S3","type":"excerpt","strength":"contextual","span":[2,4],"note":"General statement that mathams received charity in money and kind and that in the past administrative authorities gave grants to the mandir or mathams."}]}
+{"c":"554d53eef3","keep":false,"reject_reason":"modern Karnataka matha education institutions; off-topic"}
+{"c":"a7c34e5c47","keep":false,"reject_reason":"Hardwar ascetic networks; OCR fragmented and off-topic"}
+{"c":"91ce443081","keep":false,"reject_reason":"Chinmaya Mission rural development statistics; off-topic"}
+{"c":"99bfa1bcda","keep":false,"reject_reason":"Chinmaya Mission CORD programmes; off-topic"}
+{"c":"32d186289e","keep":false,"reject_reason":"Chinmaya Mission institutes; off-topic"}
+{"c":"472384fbd4","keep":false,"reject_reason":"Haridwar Ganga Sabha history; off-topic"}
+{"c":"8e646b21b1","keep":false,"reject_reason":"Ganga Sabha facilities; off-topic"}
+{"c":"d1147859fb","keep":false,"reject_reason":"Ganga Sabha services and polemical conclusion; off-topic"}
+{"c":"5fbb7ec711","keep":false,"reject_reason":"reference list and part divider; no content"}
+{"c":"383ccd6477","keep":false,"reject_reason":"Khilji campaign passage about another temple and polemical framing; no Udaypur link"}
+{"c":"ba76368554","keep":false,"reject_reason":"generic polemical GDP-share argument; not usable evidence"}
+{"c":"3c17b401db","keep":false,"reject_reason":"polemical general claims about temple destruction; no Udaypur link"}

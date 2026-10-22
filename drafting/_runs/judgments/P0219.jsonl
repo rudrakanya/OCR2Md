@@ -1,0 +1,6 @@
+{"c":"c176a3e84b","keep":false,"reject_reason":"index page (temple names and page numbers)"}
+{"c":"1d79550bde","keep":false,"reject_reason":"index entries and publisher blurb; Udaipur entry is only a page reference"}
+{"c":"12e5d3997e","keep":false,"reject_reason":"back matter: series list of publisher"}
+{"c":"00e73bdaea","keep":false,"reject_reason":"back matter: numbers and publisher book list"}
+{"c":"542c5cb27e","keep":false,"reject_reason":"back matter: publisher price list"}
+{"c":"3b632abd8e","keep":false,"reject_reason":"back matter: publisher price list and library card"}
