@@ -1,0 +1,277 @@
+{
+ "unit": "10",
+ "direct": 61,
+ "totals": {
+  "assigned": 37,
+  "excluded": 23,
+  "cross-reference": 1
+ },
+ "by_sub": {
+  "S1": {
+   "assigned": 10,
+   "excluded": 12
+  },
+  "S2": {
+   "assigned": 14,
+   "excluded": 10,
+   "cross-reference": 1
+  },
+  "S3": {
+   "assigned": 6
+  },
+  "S4": {
+   "assigned": 4
+  },
+  "S5": {
+   "excluded": 1,
+   "assigned": 3
+  }
+ },
+ "status": {
+  "C10-JAGTA-HI-001": [
+   "assigned",
+   "C"
+  ],
+  "C10-JAGTA-HI-002": [
+   "excluded",
+   "Tiwari's polemical summary of invasions (R5); the events come from the T1/T5 record"
+  ],
+  "C10-JAGTA-HI-003": [
+   "assigned",
+   "X"
+  ],
+  "C10-JAGTA-HI-004": [
+   "excluded",
+   "ʿAin-ul-Mulk: told in §1.3; testimony restatement"
+  ],
+  "C10-JAGTA-HI-005": [
+   "assigned",
+   "Note"
+  ],
+  "C10-JAGTA-HI-006": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-007": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-019": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-020": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-021": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-022": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-024": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-028": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-029": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-HI-032": [
+   "assigned",
+   "C"
+  ],
+  "C10-JAGTA-HI-033": [
+   "assigned",
+   "E"
+  ],
+  "C10-JAGTA-HI-034": [
+   "excluded",
+   "the palace looted in later centuries: testimony without date or agent (R5)"
+  ],
+  "C10-JAGTA-HI-035": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C10-JAGTA-EN-015)"
+  ],
+  "C10-JAGTA-HI-036": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C10-JAGTA-EN-015)"
+  ],
+  "C10-JAGTA-HI-037": [
+   "assigned",
+   "C"
+  ],
+  "C10-JAGTA-HI-038": [
+   "excluded",
+   "Babur at Chanderi in 1528 via testimony (R5: never a medieval fact); the Gazetteer carries the Mughal sarkar"
+  ],
+  "C10-JAGTA-HI-039": [
+   "excluded",
+   "officials at Vidisha in 2021: home Ch 11 (administration)"
+  ],
+  "C10-JAGTA-HI-040": [
+   "excluded",
+   "the qazi's present claim to a qaziyat of 84 villages: home Ch 11 (the 2021 eviction); polemic; claimants unnamed (U7)"
+  ],
+  "C10-JAGTA-HI-041": [
+   "excluded",
+   "Tiwari's polemical summary of invasions (R5); the events come from the T1/T5 record"
+  ],
+  "C10-JAGTA-HI-042": [
+   "excluded",
+   "testimony on the mosque's later use; the 1632 mosque is described from C07-MADHYABHARAT-011"
+  ],
+  "C10-JAGTA-HI-044": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-GAZ-013": [
+   "assigned",
+   "X"
+  ],
+  "C10-GAZ-014": [
+   "assigned",
+   "E"
+  ],
+  "C10-GAZ-021": [
+   "assigned",
+   "X"
+  ],
+  "C10-GAZ-023": [
+   "assigned",
+   "E"
+  ],
+  "C10-GAZ-037": [
+   "assigned",
+   "X"
+  ],
+  "C10-GAZ-038": [
+   "assigned",
+   "E"
+  ],
+  "C10-GAZ-039": [
+   "assigned",
+   "E"
+  ],
+  "C10-GAZ-040": [
+   "assigned",
+   "X"
+  ],
+  "C10-GAZ-049": [
+   "assigned",
+   "E"
+  ],
+  "C10-GAZ-050": [
+   "assigned",
+   "E"
+  ],
+  "C10-GAZ-056": [
+   "assigned",
+   "E"
+  ],
+  "C10-JAGTA-EN-002": [
+   "excluded",
+   "v1: Tiwari's polemical and imaginative items:; at most one note on \"local defence\" memory, which Ch 9 owns"
+  ],
+  "C10-JAGTA-EN-003": [
+   "assigned",
+   "Note"
+  ],
+  "C10-JAGTA-EN-014": [
+   "assigned",
+   "E"
+  ],
+  "C10-JAGTA-EN-015": [
+   "assigned",
+   "E"
+  ],
+  "C10-JAGTA-EN-016": [
+   "assigned",
+   "X"
+  ],
+  "C10-JAGTA-EN-017": [
+   "assigned",
+   "E"
+  ],
+  "C10-JAGTA-EN-018": [
+   "assigned",
+   "E"
+  ],
+  "C10-JAGTA-EN-019": [
+   "excluded",
+   "Babur at Chanderi in 1528 via testimony (R5: never a medieval fact); the Gazetteer carries the Mughal sarkar"
+  ],
+  "C10-JAGTA-EN-020": [
+   "assigned",
+   "C"
+  ],
+  "C10-JAGTA-EN-021": [
+   "excluded",
+   "the qazi's present claim to a qaziyat of 84 villages: home Ch 11 (the 2021 eviction); polemic; claimants unnamed (U7)"
+  ],
+  "C10-PANDE-001": [
+   "assigned",
+   "Note"
+  ],
+  "C10-PANDE-002": [
+   "assigned",
+   "Note"
+  ],
+  "C10-PANDE-003": [
+   "assigned",
+   "E"
+  ],
+  "C10-PANDE-004": [
+   "assigned",
+   "Note"
+  ],
+  "C10-GANGULY-006": [
+   "assigned",
+   "Note"
+  ],
+  "C10-GANGULY-007": [
+   "assigned",
+   "E"
+  ],
+  "C10-GANGULY-009": [
+   "assigned",
+   "Note"
+  ],
+  "C10-MADHYABHARAT-006": [
+   "assigned",
+   "E"
+  ],
+  "C10-MADHYABHARAT-010": [
+   "assigned",
+   "E"
+  ],
+  "C10-ARTPAR-001": [
+   "assigned",
+   "C"
+  ],
+  "C10-ARTPAR-002": [
+   "assigned",
+   "C"
+  ],
+  "C10-PARTEMPLES-001": [
+   "assigned",
+   "E"
+  ],
+  "C10-GEOHER-001": [
+   "cross-reference",
+   "ch07"
+  ],
+  "C10-INTACH-001": [
+   "assigned",
+   "Note"
+  ]
+ },
+ "contextual_cited": 61
+}

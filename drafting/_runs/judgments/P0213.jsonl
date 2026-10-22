@@ -1,0 +1,25 @@
+{"c":"bbb6315d37","keep":false,"reject_reason":"news items on temple desecration in Kashmir; off-topic"}
+{"c":"375f08a47b","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"b579462a80","keep":false,"reject_reason":"idol vandalism news from Kerala/Meghalaya/Mizoram; off-topic"}
+{"c":"f2ab6e4297","keep":false,"reject_reason":"news items on attacks on temples in Manipur/Maharashtra; off-topic"}
+{"c":"3294fb96b3","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"3ca9e4219d","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"43690d86a3","keep":false,"reject_reason":"polemic on ASI opening hours with table of unrelated monuments; no Udaypur content"}
+{"c":"e27261d02b","keep":false,"reject_reason":"ASI entry fees and illumination lists for other monuments; polemic, no Udaypur content"}
+{"c":"debaba1c3c","keep":false,"reject_reason":"bibliography / reference list"}
+{"c":"51e1fcebc0","keep":false,"reject_reason":"Shani Shingnapur women's entry case; off-topic"}
+{"c":"df7a452dc9","keep":false,"reject_reason":"RTI controversy over Kanchipuram festival; off-topic"}
+{"c":"02e088dbd4","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"708c6c5013","keep":false,"reject_reason":"polemical media-bias essay (Ayodhya); no bearing on any unit"}
+{"c":"a14247284f","keep":false,"reject_reason":"Gujarat 2002 riots polemic; off-topic"}
+{"c":"4285228b9d","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"3c8703db86","keep":false,"reject_reason":"NGO/temple elephant polemic; off-topic"}
+{"c":"8ac4634297","keep":false,"reject_reason":"temple elephants and NGOs in Kerala; off-topic"}
+{"c":"0321e0a23b","keep":false,"reject_reason":"tail of elephants essay plus media reading list; off-topic"}
+{"c":"53f0499706","keep":true,"items":[{"unit":"C08","sub":"S3","type":"figure","strength":"contextual","span":[5,9],"note":"General temple-economics context: Tamil Nadu HR&CE controls over 4.7 lakh acres of agricultural land and large urban sites, yet collects Rs. 36 crore rent against a demand of Rs. 304 crore (Subramanian Swamy; Tamil Nadu, not Udaypur)."}]}
+{"c":"1cbb9ebff7","keep":true,"items":[{"unit":"C11","sub":"S3","type":"excerpt","strength":"contextual","span":[8,10],"note":"Critique of state 'renovation' of temples without archaeologists or heritage experts: inappropriate chemicals on murals, concrete insertions; monuments 300 to 1000+ years old should be 'restored', not 'renovated' (Tamil Nadu context).","xref":["C13"]}]}
+{"c":"e024ddf03e","keep":false,"reject_reason":"polemic on judiciary and temple endowments; no bearing on Udaypur units"}
+{"c":"f08d181eda","keep":false,"reject_reason":"polemic on bureaucrats and an IAS officer in Himachal; off-topic"}
+{"c":"1ca2ac93b3","keep":false,"reject_reason":"Himachal temple-control act and IAS officer controversy; off-topic"}
+{"c":"30137880c0","keep":false,"reject_reason":"general polemic on government takeover of temples; nothing specific usable"}
+{"c":"84301b4ed2","keep":false,"reject_reason":"Sabarimala conspiracy allegations; off-topic"}

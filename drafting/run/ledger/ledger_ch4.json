@@ -1,0 +1,288 @@
+{
+ "chapter": 4,
+ "sections": {
+  "4.1": "The origin of the Paramāras",
+  "4.2": "From feudatories to kings of Malwa",
+  "4.3": "Muñja and Sindhurāja",
+  "4.4": "The branch lines of the dynasty",
+  "4.5": "Bhoja's reign and kingdom",
+  "4.6": "Bhoja's wars",
+  "4.7": "Bhoja as builder",
+  "4.8": "Bhoja's learning, faith and court",
+  "4.9": "Bhoja in Udaypur's praśasti and in memory",
+  "4.10": "Bhoja's last years and the reign of Jayasiṃha",
+  "4.11": "The three-sided war and the recovery of Malwa",
+  "4.12": "Udayāditya's descent",
+  "4.13": "Dating the beginning: 1059 and 1080",
+  "4.14": "Udayāditya's reign and realm",
+  "4.15": "The royal family and the succession",
+  "4.16": "Royal temple building under the Paramāras",
+  "4.17": "Town planning in Bhoja's treatises",
+  "4.18": "The name Udayapura and the founding claims",
+  "4.19": "Udayapura as a seat of government",
+  "4.20": "The frontier town in local testimony"
+ },
+ "through_line": "The Paramāras as a polity, from the fire-born legend first told on Udaypur's stone to Udayāditya's recovery of Malwa, his descent, reign and family; 1080 firm and 1059 a reading; the practice of royal temple-building and the treatise ideal of the town; and Udayapura in its records and in testimony, ending on the Udayeśvara as the one dated royal work.",
+ "people": [
+  {
+   "name": "Upendra",
+   "full_name": "Upēndrarāja (Kṛṣṇarāja)",
+   "first_section": "4.2",
+   "role": "first Paramāra king of Mālwā"
+  },
+  {
+   "name": "Sīyaka II",
+   "full_name": "Sīyaka II (Harṣa)",
+   "first_section": "4.2",
+   "role": "grants of 949; independence; real founder"
+  },
+  {
+   "name": "Vākpati-Muñja",
+   "full_name": "Vākpati II, Muñja, Utpala",
+   "first_section": "4.3",
+   "role": "poet-king; killed by Tailapa II"
+  },
+  {
+   "name": "Tailapa II",
+   "full_name": "Tailapa II, Cālukya",
+   "first_section": "4.3",
+   "role": "captor of Muñja"
+  },
+  {
+   "name": "Padmagupta",
+   "full_name": "Padmagupta",
+   "first_section": "4.1",
+   "role": "court poet; Nava-sāhasāṅka-carita"
+  },
+  {
+   "name": "Araṇyarāja",
+   "full_name": "Araṇyarāja",
+   "first_section": "4.4",
+   "role": "Muñja's son at Ābū"
+  },
+  {
+   "name": "Dūsala",
+   "full_name": "Dūsala",
+   "first_section": "4.4",
+   "role": "governor of Bhinmal"
+  },
+  {
+   "name": "Jayasiṃha I",
+   "full_name": "Jayasiṃha I",
+   "first_section": "4.5",
+   "role": "Bhoja's son and successor; left out of the praśastis"
+  },
+  {
+   "name": "Someśvara I",
+   "full_name": "Someśvara I, Cālukya",
+   "first_section": "4.6",
+   "role": "sacked Dhārā; aided Jayasiṃha"
+  },
+  {
+   "name": "Vikramāditya VI",
+   "full_name": "Vikramāditya VI, Cālukya",
+   "first_section": "4.10",
+   "role": "restored Jayasiṃha; later Udayāditya's enemy"
+  },
+  {
+   "name": "Ereyaṅga",
+   "full_name": "the Hoysala Ereyaṅga",
+   "first_section": "4.11",
+   "role": "one of the three enemies"
+  },
+  {
+   "name": "Lakṣmadēva",
+   "full_name": "Lakṣmadēva",
+   "first_section": "4.15",
+   "role": "eldest son; predeceased father"
+  },
+  {
+   "name": "Lōlārka",
+   "full_name": "Lōlārka of the Dāhima family",
+   "first_section": "4.15",
+   "role": "Udayāditya's minister"
+  },
+  {
+   "name": "Śūdraka",
+   "full_name": "Śūdraka",
+   "first_section": "4.19",
+   "role": "Nēmaka; defeated a king of Gujarat"
+  },
+  {
+   "name": "Hardy",
+   "full_name": "Adam Hardy",
+   "first_section": "4.7",
+   "role": "temple architecture"
+  }
+ ],
+ "terms": [
+  {
+   "term": "agni-kula",
+   "gloss": "fire-born lineage",
+   "first_section": "4.1"
+  },
+  {
+   "term": "Paramāravaṃśa",
+   "gloss": "the Paramāra family",
+   "first_section": "4.1"
+  },
+  {
+   "term": "sāmanta-chūḍā-maṇi",
+   "gloss": "crest-jewel among the feudatories",
+   "first_section": "4.2"
+  },
+  {
+   "term": "padānudhyāta",
+   "gloss": "meditating on the feet",
+   "first_section": "4.12"
+  },
+  {
+   "term": "akṣaya-dīpikā",
+   "gloss": "perpetual lamp",
+   "first_section": "4.15"
+  },
+  {
+   "term": "yajamāna",
+   "gloss": "patron, the sacrificer",
+   "first_section": "4.16"
+  },
+  {
+   "term": "vāstupuruṣa",
+   "gloss": "the diagram of the site's being",
+   "first_section": "4.16"
+  },
+  {
+   "term": "paṭṭakila",
+   "gloss": "village headman",
+   "first_section": "4.14"
+  },
+  {
+   "term": "pada",
+   "gloss": "square of the town grid",
+   "first_section": "4.17"
+  }
+ ],
+ "places": [
+  {
+   "name": "Dhārā",
+   "first_section": "4.2",
+   "note": "Paramāra capital, rebuilt by Bhoja"
+  },
+  {
+   "name": "Mānyakheṭa",
+   "first_section": "4.2",
+   "note": "Rāṣṭrakūṭa capital sacked c. 972"
+  },
+  {
+   "name": "Arthūṇā",
+   "first_section": "4.4",
+   "note": "Vāgaḍa branch centre"
+  },
+  {
+   "name": "Bhojpur",
+   "first_section": "4.7",
+   "note": "Bhoja's unfinished temple and dam"
+  },
+  {
+   "name": "Un",
+   "first_section": "4.14",
+   "note": "temples with Udayāditya's inscription"
+  },
+  {
+   "name": "Dhavalī",
+   "first_section": "4.15",
+   "note": "Udayāditya's camp near Ujjain, 1082"
+  }
+ ],
+ "figures": [
+  {
+   "what": "Bhoja's dated reign",
+   "value": "1011–1047",
+   "keyword": "Bhoja",
+   "sections": [
+    "4.5"
+   ]
+  },
+  {
+   "what": "Udayāditya's death",
+   "value": "1093",
+   "keyword": "died",
+   "sections": [
+    "4.15"
+   ]
+  },
+  {
+   "what": "Sīyaka's grants",
+   "value": "949",
+   "keyword": "Harsola",
+   "sections": [
+    "4.2"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Was Udayapura founded on empty ground or a renamed conquered place?",
+   "sections": [
+    "4.18"
+   ],
+   "status": "left open"
+  },
+  {
+   "question": "Are the pedigree's and the twenty-two-line inscription's V.S. 1116 / Śaka 981 one record?",
+   "sections": [
+    "4.13"
+   ],
+   "status": "kept apart; check against first editions (R3)"
+  },
+  {
+   "question": "Which Karṇa: the Kalacuri of the Dōngargāon/Nagpur reading or the Caulukya of Ganguly's sources?",
+   "sections": [
+    "4.11"
+   ],
+   "status": "both attributed; unspecified ones flagged (R2)"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "4.20",
+   "to": "Ch 5",
+   "what": "the Udayeśvara as a building"
+  },
+  {
+   "from": "4.15",
+   "to": "Ch 10",
+   "what": "Naravarman and the decline"
+  },
+  {
+   "from": "4.19",
+   "to": "Ch 10",
+   "what": "the province in the twelfth century"
+  },
+  {
+   "from": "4.18",
+   "to": "Ch 7",
+   "what": "Udayasamudra"
+  },
+  {
+   "from": "4.9",
+   "to": "Ch 6",
+   "what": "the praśasti as a text"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "the Boar",
+   "sections": [
+    "4.11"
+   ]
+  },
+  {
+   "motif": "the record against the reading",
+   "sections": [
+    "4.13",
+    "4.20"
+   ]
+  }
+ ]
+}

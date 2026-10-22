@@ -1,0 +1,25 @@
+{"c":"dff1820c2b","keep":true,"items":[{"unit":"C05","sub":"S2","type":"architectural detail","strength":"direct","span":[5,8],"note":"Describes the central offset (prolongation of the central buttress) of the Śikhara of the Nilakaṇṭheśvara Temple, Udayapur, firm in contour against deep shadow."},{"unit":"C05","sub":"S3","type":"architectural detail","strength":"direct","span":[11,13],"note":"Latā band carved on three levels with tiers (Bhūmis), lace pattern and Gavākṣa-net over the Śikhara face."},{"unit":"C05","sub":"S4","type":"architectural detail","strength":"direct","span":[20,21],"note":"Śukanāsā images in the round from Kīrttimukha to Kīrttimukha; only the right-hand group is preserved."}]}
+{"c":"0f0d906a72","keep":true,"items":[{"unit":"C05","sub":"S4","type":"architectural detail","strength":"direct","span":[1,4],"note":"Main Śukanāsā at Nilakaṇṭheśvara Temple, Udayapur: a blind with trefoil arch, shrine and images below, dancing Śiva and goddesses in the circle above."},{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[12,14],"note":"Śukanāsā is a blind façade extended upward from the Antarāla (antechamber/porch of the Garbhagṛha)."}]}
+{"c":"0d368be70d","keep":true,"items":[{"unit":"C05","sub":"S1","type":"architectural detail","strength":"contextual","span":[2,5],"note":"Continues the Udayapur Śukanāsā description (Pls. XLVIII-XLIX): Antarāla as the link between Maṇḍapa and Prāsāda, with keel-vaulted superstructure and a five-storeyed mansion showing Śiva in many forms; chunk itself does not name the temple."}]}
+{"c":"1dbfe62dce","keep":true,"items":[{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[1,3],"note":"Side view of the Antarāla superstructure of the Nilakaṇṭheśvara Temple, Udayapur; profiles run round the building; five-storeyed mansion of the gods on pillars only."},{"unit":"C05","sub":"S3","type":"architectural detail","strength":"direct","span":[14,19],"note":"South entrance balcony of the Maṇḍapa: steps over base mouldings, Vedi with dwarf railing and attendant goddesses in high relief; main entrance in East is of the same kind."}]}
+{"c":"b9b3fd32e8","keep":true,"items":[{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[1,4],"note":"Interior of the Nilakaṇṭheśvara Temple, Udayapur: Nandin, pillars, carved doorway; two Antarāla pillars; the Ekamukha sheath of the Liṅga belongs to a later age."},{"unit":"C05","sub":"S3","type":"figure","strength":"direct","span":[7,10],"note":"Maṇḍapa pillar dimensions: square base 2'9\", octagonal part 3'8\" high, circular section 1'3\"; square-octagon-circle transition described as the rule in mediaeval pillars."}]}
+{"c":"d52ad3928d","keep":false,"reject_reason":"Jain image from Chandpur near Jhansi; not Udaypur"}
+{"c":"8417e29a01","keep":false,"reject_reason":"Jain images at Deogarh; no bearing on Udaypur"}
+{"c":"fac06dd4e9","keep":false,"reject_reason":"Chandpur Jain/Nandin image plate commentary; not Udaypur"}
+{"c":"4b2a9a2cf6","keep":false,"reject_reason":"Preta image at Gyaraspur; off-topic iconography"}
+{"c":"0b6035fa0a","keep":false,"reject_reason":"Candrāvatī sculpture style comparison; generic, no specific use"}
+{"c":"0cb8800d67","keep":false,"reject_reason":"Ramgarh (Kotah) sculpture plate; not Udaypur"}
+{"c":"cb1f98e7f7","keep":false,"reject_reason":"Ramgarh Śiva Tripurāntaka plate; not Udaypur"}
+{"c":"9152a6eddd","keep":false,"reject_reason":"Ramgarh Apsarā plate; not Udaypur"}
+{"c":"aa22d3a70a","keep":false,"reject_reason":"Ramgarh bracket figures; not Udaypur"}
+{"c":"cf07088ccb","keep":false,"reject_reason":"Ramgarh/Harasnāth sculpture plates; not Udaypur"}
+{"c":"934f39679f","keep":false,"reject_reason":"Harasnāth frieze and inscription; other site"}
+{"c":"6d1e64ceb0","keep":false,"reject_reason":"Harasnāth and Osia sculpture; not Udaypur"}
+{"c":"9f48e2fe12","keep":false,"reject_reason":"Osia shrine and Rajputana relief; not Udaypur"}
+{"c":"5c4de1b6da","keep":false,"reject_reason":"Kekind temple in Rajasthan; not Udaypur"}
+{"c":"c93a49d7ce","keep":false,"reject_reason":"Kekind temple pillar; not Udaypur"}
+{"c":"d8c83d940c","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[12,13],"note":"Kiradu pillar plate cites Samarāṅgaṇasūtradhāra LVII.958 for Kīrttimukha and Muktā-Varāla; only a textual cross-reference, not Udaypur."}]}
+{"c":"201fba110a","keep":false,"reject_reason":"Kiradu sculpture; not Udaypur"}
+{"c":"1113456f28","keep":false,"reject_reason":"Kiradu Bhīṣma carving; not Udaypur"}
+{"c":"8766006a22","keep":true,"items":[{"unit":"C05","sub":"S6","type":"excerpt","strength":"contextual","span":[14,17],"note":"Viṣṇudharmottara norm: 101 temple shapes; Sāmānya Prāsāda divided in three parts (Jagati, Kāti, Mañjari); a canonical prescription background for temple proportions."}]}
+{"c":"310f6dfa33","keep":false,"reject_reason":"generic Viṣṇudharmottara door/proportion norms; too remote from any unit"}

@@ -1,0 +1,25 @@
+{"c":"6a23507325","keep":false,"reject_reason":"front matter / dedication and copyright page"}
+{"c":"246d58ed96","keep":false,"reject_reason":"polemical preface of Temple Economics; no usable evidence for any unit"}
+{"c":"89a39097c9","keep":false,"reject_reason":"polemical preface (film examples, book plans); no bearing on any unit"}
+{"c":"36ab6c4af4","keep":false,"reject_reason":"table of contents"}
+{"c":"0be5e3c2f7","keep":false,"reject_reason":"table of contents"}
+{"c":"d982d2ea31","keep":false,"reject_reason":"table of contents"}
+{"c":"66a07e5ea5","keep":false,"reject_reason":"table of contents"}
+{"c":"d8c9eee1df","keep":false,"reject_reason":"table of contents"}
+{"c":"91afa6cb4f","keep":false,"reject_reason":"table of contents"}
+{"c":"1c5ca21b12","keep":false,"reject_reason":"J&K pilgrimage tourism table; unrelated region, no bearing on Udaypur"}
+{"c":"684ad2ce7e","keep":false,"reject_reason":"generic discussion of terminology (temple vs mandir); no specific evidence"}
+{"c":"07083edc28","keep":false,"reject_reason":"generic Kanchi Acharya quotation on temple offerings; not specific to any unit"}
+{"c":"0667ff4e21","keep":false,"reject_reason":"generic terminology and mandir naming discussion; not specific enough"}
+{"c":"7cd053fc3b","keep":false,"reject_reason":"generic temple symbolism (Meru, Agnipurana) without link to Udaypur; not specific enough"}
+{"c":"3f4edec2c8","keep":false,"reject_reason":"generic temple classification and Pallava cave temples; no bearing on Udaypur"}
+{"c":"2bd618bb6a","keep":false,"reject_reason":"list of temple type names from texts; generic"}
+{"c":"83492f24a0","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[6,9],"note":"Temple Economics summary of how the Samarāṅgaṇasūtradhāra classifies mandirs (Lalita, sandhāra, nigūḍha prāsādas; types by presiding deity; superior, medium, inferior); secondary summary, not the text itself. Its 'Udaipur' is not Udaypur."}]}
+{"c":"2a99f7a233","keep":false,"reject_reason":"generic GDP vs Arthashastra polemic; off-topic"}
+{"c":"e95bbab083","keep":false,"reject_reason":"generic Arthashastra polemic; off-topic"}
+{"c":"07527c7854","keep":false,"reject_reason":"Detroit / US city comparison; off-topic"}
+{"c":"a599a7f326","keep":false,"reject_reason":"reading list of articles; bibliography"}
+{"c":"b778ef350b","keep":true,"items":[{"unit":"C08","sub":"S3","type":"quote","strength":"contextual","span":[19,22],"note":"Nathdwara example (Rajasthan, not Udaypur): temple provides work to 1000 families and the town's prosperity traced to the shifted idol and pilgrims; general temple-town economics."}]}
+{"c":"3ec305320f","keep":true,"items":[{"unit":"C08","sub":"S3","type":"quote","strength":"contextual","span":[12,13],"note":"Quoting Ramakrishna Aiyer: epigraphical evidence that temple grants were also for sastraic and Vedic education; South Indian temples served as educational institutions. General temple-endowment background."}]}
+{"c":"9b00991eb8","keep":true,"items":[{"unit":"C08","sub":"S3","type":"quote","strength":"contextual","span":[5,8],"note":"South Indian inscriptions recording land grants for a mandapa, teachers and pupils of grammar, and Vedic and philosophical study; general temple-endowment background.","xref":["C06"]},{"unit":"C08","sub":"S1","type":"quote","strength":"contextual","span":[23,27],"note":"Saiva and Vaishnava mathams as teaching institutions, state-encouraged and endowed by rulers and people; South Indian background on maṭhas."}]}
+{"c":"01842eb1cb","keep":true,"items":[{"unit":"C08","sub":"S3","type":"quote","strength":"contextual","span":[6,8],"note":"Great South Indian temples described as public institutions with civic and religious uses (town-hall, college, technical school); general background on temple's social role."}]}

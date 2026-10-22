@@ -1,0 +1,1000 @@
+{
+ "unit": "07",
+ "direct": 239,
+ "totals": {
+  "excluded": 77,
+  "assigned": 147,
+  "cross-reference": 15
+ },
+ "by_sub": {
+  "S1": {
+   "excluded": 11,
+   "assigned": 27,
+   "cross-reference": 3
+  },
+  "S2": {
+   "assigned": 35,
+   "excluded": 14,
+   "cross-reference": 4
+  },
+  "S3": {
+   "assigned": 22,
+   "excluded": 9,
+   "cross-reference": 1
+  },
+  "S4": {
+   "excluded": 9,
+   "assigned": 30,
+   "cross-reference": 1
+  },
+  "S5": {
+   "excluded": 22,
+   "assigned": 22,
+   "cross-reference": 4
+  },
+  "S6": {
+   "excluded": 12,
+   "assigned": 11,
+   "cross-reference": 2
+  }
+ },
+ "status": {
+  "C07-GEOHER-001": [
+   "excluded",
+   "told in §1.1 (the walled town and the twelve-courtyard house)"
+  ],
+  "C07-GEOHER-002": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-003": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-004": [
+   "assigned",
+   "Note"
+  ],
+  "C07-GEOHER-005": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-006": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-007": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-008": [
+   "assigned",
+   "X"
+  ],
+  "C07-GEOHER-009": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-010": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-011": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-012": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-013": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-014": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-015": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-016": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-017": [
+   "excluded",
+   "v1: (rhetoric, superlatives, repetitions of -013);(=;(generic list of monuments);(garbled duplicate table rows, used only through GEOHER's cleaner rows)"
+  ],
+  "C07-GEOHER-018": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C07-GEOHER-019": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-020": [
+   "excluded",
+   "a proposal for a geo-heritage gateway; home Afterword (proposals)"
+  ],
+  "C07-GEOHER-021": [
+   "excluded",
+   "v1: (rhetoric, superlatives, repetitions of -013);(=;(generic list of monuments);(garbled duplicate table rows, used only through GEOHER's cleaner rows)"
+  ],
+  "C07-GEOHER-022": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-023": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-024": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-025": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-026": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-027": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-028": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-029": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-030": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-031": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-032": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-033": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-034": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-035": [
+   "excluded",
+   "survey generality crediting the Paramāras with the water works (a proposal, R7); the tanks are described one by one"
+  ],
+  "C07-GEOHER-036": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-037": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-038": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-039": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-040": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-041": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-042": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-043": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-044": [
+   "assigned",
+   "Note"
+  ],
+  "C07-GEOHER-045": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-046": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-047": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-048": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-049": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-050": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-051": [
+   "excluded",
+   "v1: (rhetoric, superlatives, repetitions of -013);(=;(generic list of monuments);(garbled duplicate table rows, used only through GEOHER's cleaner rows)"
+  ],
+  "C07-GEOHER-052": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-053": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-054": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-055": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-056": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-057": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-058": [
+   "excluded",
+   "v1: (rhetoric, superlatives, repetitions of -013);(=;(generic list of monuments);(garbled duplicate table rows, used only through GEOHER's cleaner rows)"
+  ],
+  "C07-GEOHER-059": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-060": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-061": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-062": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-063": [
+   "assigned",
+   "E"
+  ],
+  "C07-GEOHER-064": [
+   "assigned",
+   "C"
+  ],
+  "C07-GEOHER-065": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-HI-001": [
+   "excluded",
+   "Tiwari's narrative of the walls and the hill as a refuge (R5); measurements and scenes excluded"
+  ],
+  "C07-JAGTA-HI-002": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-HI-003": [
+   "excluded",
+   "Tiwari's narrative of the walls and the hill as a refuge (R5); measurements and scenes excluded"
+  ],
+  "C07-JAGTA-HI-004": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-HI-005": [
+   "excluded",
+   "v1: (reservoir \"being built\" below the west wall: narrative scene), -009 (refugees on the hill: unsourced scene), -047, -048 (imagined traffic), -061 (imagined *dar"
+  ],
+  "C07-JAGTA-HI-006": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-008, C07-JAGTA-EN-009, C07-JAGTA-EN-033)"
+  ],
+  "C07-JAGTA-HI-007": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C07-JAGTA-HI-008": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C07-JAGTA-HI-009": [
+   "excluded",
+   "Tiwari's narrative of the walls and the hill as a refuge (R5); measurements and scenes excluded"
+  ],
+  "C07-JAGTA-HI-010": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-003)"
+  ],
+  "C07-JAGTA-HI-011": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-029)"
+  ],
+  "C07-JAGTA-HI-012": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-029)"
+  ],
+  "C07-JAGTA-HI-013": [
+   "excluded",
+   "testimony generality on many temples, idols or stepwells; no specific evidence (R5)"
+  ],
+  "C07-JAGTA-HI-014": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-001, C07-JAGTA-EN-006)"
+  ],
+  "C07-JAGTA-HI-015": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C07-JAGTA-HI-016": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-HI-017": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C07-JAGTA-HI-018": [
+   "excluded",
+   "Hindi original of C07-JAGTA-EN-009 (used)"
+  ],
+  "C07-JAGTA-HI-019": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-HI-020": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-HI-021": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-HI-022": [
+   "excluded",
+   "Hindi original of C07-JAGTA-EN-011/-012 (used)"
+  ],
+  "C07-JAGTA-HI-023": [
+   "excluded",
+   "Hindi original of C07-JAGTA-EN-011/-012 (used)"
+  ],
+  "C07-JAGTA-HI-024": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-012, C07-JAGTA-EN-013)"
+  ],
+  "C07-JAGTA-HI-025": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-012, C07-JAGTA-EN-013)"
+  ],
+  "C07-JAGTA-HI-026": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-012, C07-JAGTA-EN-013)"
+  ],
+  "C07-JAGTA-HI-027": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C07-JAGTA-HI-028": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-003)"
+  ],
+  "C07-JAGTA-HI-032": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-001, C07-JAGTA-EN-006)"
+  ],
+  "C07-JAGTA-HI-033": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-002)"
+  ],
+  "C07-JAGTA-HI-034": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-022)"
+  ],
+  "C07-JAGTA-HI-035": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-017)"
+  ],
+  "C07-JAGTA-HI-036": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-018)"
+  ],
+  "C07-JAGTA-HI-037": [
+   "excluded",
+   "Tiwari's opinion on the Sultanate and its inscriptions (R5); the events are Ch 10's"
+  ],
+  "C07-JAGTA-HI-038": [
+   "excluded",
+   "Tiwari's opinion on the Sultanate and its inscriptions (R5); the events are Ch 10's"
+  ],
+  "C07-JAGTA-HI-039": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-008, C07-JAGTA-EN-009, C07-JAGTA-EN-033)"
+  ],
+  "C07-JAGTA-HI-040": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-022)"
+  ],
+  "C07-JAGTA-HI-041": [
+   "excluded",
+   "v1: (reservoir \"being built\" below the west wall: narrative scene), -009 (refugees on the hill: unsourced scene), -047, -048 (imagined traffic), -061 (imagined *dar"
+  ],
+  "C07-JAGTA-HI-042": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-024)"
+  ],
+  "C07-JAGTA-HI-043": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-024)"
+  ],
+  "C07-JAGTA-HI-045": [
+   "excluded",
+   "Tiwari's description of the lane today; Ch 12 context"
+  ],
+  "C07-JAGTA-HI-046": [
+   "excluded",
+   "Hindi original of C07-JAGTA-EN-028/-034 (used)"
+  ],
+  "C07-JAGTA-HI-047": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-005)"
+  ],
+  "C07-JAGTA-HI-048": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-005)"
+  ],
+  "C07-JAGTA-HI-049": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-030)"
+  ],
+  "C07-JAGTA-HI-050": [
+   "excluded",
+   "Tiwari's reconstruction of the town plan (R5); not evidence of the plan"
+  ],
+  "C07-JAGTA-HI-051": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C07-JAGTA-HI-052": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C07-JAGTA-HI-053": [
+   "excluded",
+   "Hindi original of C07-JAGTA-EN-028/-034 (used)"
+  ],
+  "C07-JAGTA-HI-054": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-008, C07-JAGTA-EN-009, C07-JAGTA-EN-033)"
+  ],
+  "C07-JAGTA-HI-055": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-035)"
+  ],
+  "C07-JAGTA-HI-056": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-036)"
+  ],
+  "C07-JAGTA-HI-057": [
+   "excluded",
+   "Hindi original of C04-JAGTA-EN-058 (used in Ch 4)"
+  ],
+  "C07-JAGTA-HI-058": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-011, C07-JAGTA-EN-038)"
+  ],
+  "C07-JAGTA-HI-059": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-011, C07-JAGTA-EN-038)"
+  ],
+  "C07-JAGTA-HI-060": [
+   "excluded",
+   "testimony on the age of stones behind a Rāma temple (R5)"
+  ],
+  "C07-JAGTA-HI-061": [
+   "excluded",
+   "Tiwari's imagined darbār (no fiction)"
+  ],
+  "C07-JAGTA-HI-062": [
+   "excluded",
+   "rhetoric about the town or the book; no evidence"
+  ],
+  "C07-JAGTA-HI-063": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C07-JAGTA-EN-039)"
+  ],
+  "C07-JAGTA-HI-064": [
+   "excluded",
+   "INTACH's survey and its count of monuments: home Ch 11; the count is testimony (R5)"
+  ],
+  "C07-JAGTA-HI-065": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-HI-066": [
+   "excluded",
+   "INTACH's survey and its count of monuments: home Ch 11; the count is testimony (R5)"
+  ],
+  "C07-JAGTA-HI-067": [
+   "excluded",
+   "INTACH's survey and its count of monuments: home Ch 11; the count is testimony (R5)"
+  ],
+  "C07-JAGTA-EN-001": [
+   "assigned",
+   "X"
+  ],
+  "C07-JAGTA-EN-002": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-003": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-EN-004": [
+   "excluded",
+   "v1: (Muradpur, Sonari: other places),(the teak-hill \"Garhi\": another place, as ROADMAP 17 ruled for Ch 2)"
+  ],
+  "C07-JAGTA-EN-005": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-EN-006": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-007": [
+   "excluded",
+   "testimony of destroyed Jain images; who and when are unknown (Ch 10's question)"
+  ],
+  "C07-JAGTA-EN-008": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-EN-009": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-010": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-011": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-012": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-013": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-014": [
+   "excluded",
+   "testimony generality on many temples, idols or stepwells; no specific evidence (R5)"
+  ],
+  "C07-JAGTA-EN-015": [
+   "excluded",
+   "present-day signage in the lane; Ch 12 context"
+  ],
+  "C07-JAGTA-EN-016": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-017": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-018": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-019": [
+   "assigned",
+   "Note"
+  ],
+  "C07-JAGTA-EN-020": [
+   "excluded",
+   "rhetoric about the town or the book; no evidence"
+  ],
+  "C07-JAGTA-EN-021": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-022": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-023": [
+   "excluded",
+   "rhetoric about the town or the book; no evidence"
+  ],
+  "C07-JAGTA-EN-024": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-025": [
+   "excluded",
+   "testimony generality on many temples, idols or stepwells; no specific evidence (R5)"
+  ],
+  "C07-JAGTA-EN-026": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C07-JAGTA-EN-027": [
+   "excluded",
+   "Tiwari's reconstruction of the town plan (R5); not evidence of the plan"
+  ],
+  "C07-JAGTA-EN-028": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-029": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-030": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-031": [
+   "excluded",
+   "Tiwari's reconstruction of the town plan (R5); not evidence of the plan"
+  ],
+  "C07-JAGTA-EN-032": [
+   "excluded",
+   "counts from testimony (population, ages of buildings; R5)"
+  ],
+  "C07-JAGTA-EN-033": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-034": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-035": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-EN-036": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-EN-037": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C07-JAGTA-EN-038": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-EN-039": [
+   "assigned",
+   "E"
+  ],
+  "C07-JAGTA-EN-040": [
+   "assigned",
+   "C"
+  ],
+  "C07-JAGTA-EN-041": [
+   "excluded",
+   "INTACH's survey and its count of monuments: home Ch 11; the count is testimony (R5)"
+  ],
+  "C07-INTACH-001": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-002": [
+   "assigned",
+   "C"
+  ],
+  "C07-INTACH-003": [
+   "assigned",
+   "C"
+  ],
+  "C07-INTACH-004": [
+   "assigned",
+   "C"
+  ],
+  "C07-INTACH-005": [
+   "assigned",
+   "C"
+  ],
+  "C07-INTACH-006": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-007": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-008": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-009": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-010": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-011": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-012": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-013": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-014": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-015": [
+   "assigned",
+   "C"
+  ],
+  "C07-INTACH-016": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-017": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-018": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-019": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-020": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-021": [
+   "excluded",
+   "told in §1.1 (the walled town and the twelve-courtyard house)"
+  ],
+  "C07-INTACH-022": [
+   "assigned",
+   "E"
+  ],
+  "C07-INTACH-023": [
+   "excluded",
+   "v1: (rhetoric, superlatives, repetitions of -013);(=;(generic list of monuments);(garbled duplicate table rows, used only through GEOHER's cleaner rows)"
+  ],
+  "C07-INTACH-024": [
+   "excluded",
+   "v1: (rhetoric, superlatives, repetitions of -013);(=;(generic list of monuments);(garbled duplicate table rows, used only through GEOHER's cleaner rows)"
+  ],
+  "C07-INTACH-025": [
+   "excluded",
+   "v1: (rhetoric, superlatives, repetitions of -013);(=;(generic list of monuments);(garbled duplicate table rows, used only through GEOHER's cleaner rows)"
+  ],
+  "C07-INTACH-026": [
+   "assigned",
+   "Note"
+  ],
+  "C07-INTACH-027": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C07-INTACH-028": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C07-MADHYABHARAT-003": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-004": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-005": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-006": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-008": [
+   "assigned",
+   "C"
+  ],
+  "C07-MADHYABHARAT-011": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-012": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-015": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-016": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-018": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-019": [
+   "assigned",
+   "E"
+  ],
+  "C07-MADHYABHARAT-020": [
+   "excluded",
+   "v1: (index entries and regional lists)"
+  ],
+  "C07-MADHYABHARAT-021": [
+   "excluded",
+   "v1: (index entries and regional lists)"
+  ],
+  "C07-MADHYABHARAT-022": [
+   "assigned",
+   "C"
+  ],
+  "C07-GAZ-001": [
+   "assigned",
+   "C"
+  ],
+  "C07-GAZ-002": [
+   "assigned",
+   "E"
+  ],
+  "C07-GAZ-003": [
+   "assigned",
+   "E"
+  ],
+  "C07-GAZ-005": [
+   "assigned",
+   "E"
+  ],
+  "C07-GAZ-006": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C07-GAZ-008": [
+   "assigned",
+   "C"
+  ],
+  "C07-GAZ-009": [
+   "assigned",
+   "E"
+  ],
+  "C07-GAZ-011": [
+   "assigned",
+   "E"
+  ],
+  "C07-GAZ-012": [
+   "assigned",
+   "E"
+  ],
+  "C07-PANDE-001": [
+   "excluded",
+   "list of plates; no content"
+  ],
+  "C07-PANDE-002": [
+   "assigned",
+   "E"
+  ],
+  "C07-PANDE-003": [
+   "excluded",
+   "list of plates; no content"
+  ],
+  "C07-PANDE-004": [
+   "assigned",
+   "E"
+  ],
+  "C07-PANDE-005": [
+   "cross-reference",
+   "ch05"
+  ],
+  "C07-PANDE-006": [
+   "assigned",
+   "C"
+  ],
+  "C07-PANDE-007": [
+   "assigned",
+   "E"
+  ],
+  "C07-PANDE-008": [
+   "assigned",
+   "Note"
+  ],
+  "C07-PANDE-009": [
+   "assigned",
+   "E"
+  ],
+  "C07-GANGULY-003": [
+   "assigned",
+   "C"
+  ],
+  "C07-GANGULY-005": [
+   "assigned",
+   "Note"
+  ],
+  "C07-GANGULY-006": [
+   "assigned",
+   "Note"
+  ],
+  "C07-GANGULY-007": [
+   "assigned",
+   "E"
+  ],
+  "C07-ARTPAR-001": [
+   "assigned",
+   "C"
+  ],
+  "C07-ARTPAR-002": [
+   "excluded",
+   "v1: (index entries and regional lists)"
+  ],
+  "C07-CII-003": [
+   "assigned",
+   "E"
+  ],
+  "C07-HARDY-001": [
+   "assigned",
+   "Note"
+  ],
+  "C07-KRAM-1-001": [
+   "cross-reference",
+   "ch05"
+  ],
+  "C07-KRAM-2-001": [
+   "excluded",
+   "v1: (index entries and regional lists)"
+  ]
+ },
+ "contextual_cited": 13
+}

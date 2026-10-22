@@ -1,0 +1,25 @@
+{"c":"da71a95bf1","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[23,24],"note":"Krishna III's expedition into Mālwā against the Paramāra Siyaka, possibly prompted by Siyaka's title Maharājādhirājapati proclaiming his independence."}]}
+{"c":"927a36068c","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[3,4],"note":"Metrical portion introduces three kings, Bappaiparāja, Vairisinha and Siyaka, each son and successor of the former."},{"unit":"C04","sub":"S1","type":"date","strength":"contextual","span":[10,14],"note":"Siyaka, father of Vākpati-Muñja, held the throne at least from 949 to 969 A.C., from grants of V. 1005, 1026 and Muñja's grants of 1031-1043."}]}
+{"c":"31f7e3dadc","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[14,15],"xref":["C04"],"note":"Footnote: the royal genealogy in the Udaipur praśasti (No. 24) has two more members, Vairisinha (I) and Siyaka (I), before Vakpati (I), for whom no historical fact is given.","claim":{"key":"Udaipur praśasti: location / date / reliability","value":"genealogy in Udaipur prasasti (No. 24) lists two extra predecessors, Vairisinha (I) and Siyaka (I)"}}]}
+{"c":"42f84d6912","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[3,4],"note":"Editor's reconstruction: Bappaiparāja began c. 900 A.C.; Vairisiṃha entered Mālava; Sīyaka established himself there, capturing Ujjain probably from a Pratīhāra governor."}]}
+{"c":"1522a78a33","keep":true,"items":[{"unit":"C03","sub":"S4","type":"fact","strength":"direct","span":[15,15],"note":"The Chandēlla territory is said to have then extended up to Vidishā in the south-west."}]}
+{"c":"d628599037","keep":false,"reject_reason":"Sanskrit text of Harsolā grant B in garbled OCR; not quotable"}
+{"c":"f3c376f099","keep":false,"reject_reason":"garbled OCR of grant text; not quotable"}
+{"c":"bc8377b50b","keep":false,"reject_reason":"garbled OCR of grant text; not quotable"}
+{"c":"6eef34173b","keep":false,"reject_reason":"facsimile line numbers and a few lines of text; nothing usable"}
+{"c":"5bcb9666dc","keep":false,"reject_reason":"garbled OCR of grant text; not quotable"}
+{"c":"4a546164aa","keep":false,"reject_reason":"garbled OCR of grant text; not quotable"}
+{"c":"2f482641a9","keep":false,"reject_reason":"garbled OCR of grant text ending; not quotable"}
+{"c":"2db4ded29c","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[23,23],"note":"Flying Garuḍa holding a hooded snake is found 'in the charters issued by the Paramāra rulers of Mālwā'."},{"unit":"C06","sub":"S3","type":"fact","strength":"contextual","span":[30,30],"note":"Characters are Nāgarī of the tenth century, resembling those of Vākpati-Muñja and Bhōja."}]}
+{"c":"b3cdc7f953","keep":true,"items":[{"unit":"C04","sub":"S1","type":"date","strength":"contextual","span":[21,25],"note":"Date 14 October 969 A.C. shows Siyaka on the Paramāra throne up to V.S. 1026, succeeded by Vākpati-Muñja before V.S. 1031."}]}
+{"c":"5c6354a948","keep":false,"reject_reason":"garbled Sanskrit text of grant and footnotes; not quotable"}
+{"c":"d4e02c94bb","keep":false,"reject_reason":"OCR garbage"}
+{"c":"82283027e3","keep":false,"reject_reason":"orthographic notes on Dharampurī grant; no bearing on Udaypur"}
+{"c":"8f20c886fc","keep":true,"items":[{"unit":"C04","sub":"S1","type":"date","strength":"contextual","span":[11,12],"note":"Vākpatirāja's Dharampurī grant dated 14th of bright Bhādrapada, year 1031, equated with 3 September 974 A.C. or 23 August 975 A.C.","claim":{"key":"Udayāditya: reign dates","value":"n/a (Vākpati-Muñja grant 1031 = 974/975 A.C.)"}},{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[17,21],"note":"Genealogy Vākpatirāja alias Amōghavarsha, Siyaka, Vairisiṃha, Kṛishṇarāja; house identified as Paramāras of Mālwā from the Garuḍa symbol."}]}
+{"c":"bd58c2f645","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[6,8],"note":"Dharampurī grant is the first issued by Vākpatirāja alias Muñja, V.S. 1031 = 975 A.C., and the first royal charter issued from Mālwā, earlier ones being from Gujarāt."}]}
+{"c":"6c0553d0e4","keep":false,"reject_reason":"garbled Tibetan-like OCR and footnotes on a donee's father; no bearing"}
+{"c":"1f99d79eb1","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"46709a7cf1","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"e9eb7c44cf","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text and textual footnotes"}
+{"c":"c8644b9b6a","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"e0180a158e","keep":false,"reject_reason":"publication history of the Ujjain grant plates; no bearing on Udaypur"}

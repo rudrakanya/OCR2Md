@@ -1,0 +1,167 @@
+{
+ "chapter": 9,
+ "sections": {
+  "9.1": "Communities today",
+  "9.2": "Identities remade",
+  "9.3": "Society in Paramāra Malwa",
+  "9.4": "Languages of the district",
+  "9.5": "Festivals, fairs and everyday life",
+  "9.6": "The founder and the temple in local stories",
+  "9.7": "The legend of Berni Mata",
+  "9.8": "Bhoja in proverb and song",
+  "9.9": "The memory of decline"
+ },
+ "through_line": "A town that narrates itself: neighbours in a lane and the district census (no counts for Udaypur); a family's claim of Paramāra descent and the Bagdi tradition as family and community memory (legal review); the ranked society and migrant Brāhmaṇas of the grants, regional; the district's languages, the village's speech undocumented, the languages of the stones; the Śivarātri fair, the Bhujariya rites, the court's festivals known from books, dress, food and the rāī; three foundings in the stories and tales told elsewhere; Berni Mata's versions growing; Bhoja the region's folk king against Udayāditya's town; the gaḍhī's threads, treasure and deserted Daulatpur, into Chapter 10.",
+ "people": [
+  {
+   "name": "Narayan Vyas",
+   "full_name": "Narayan Vyas",
+   "first_section": "9.7",
+   "role": "identified the Berni Mata figure as a yakṣa (first 1.3)"
+  },
+  {
+   "name": "Berni Mata",
+   "full_name": "Berni / Bedni / Benji Mata",
+   "first_section": "9.7",
+   "role": "legendary dancer (first 1.3)"
+  },
+  {
+   "name": "Lāvaṇya Sundarī",
+   "full_name": "Lāvaṇya Sundarī",
+   "first_section": "9.5",
+   "role": "dancer of Bhoja's time in district tradition"
+  }
+ ],
+ "terms": [
+  {
+   "term": "gaḍhī",
+   "gloss": "the place of the 'threads' stories",
+   "first_section": "9.2"
+  },
+  {
+   "term": "rāī",
+   "gloss": "the region's folk dance",
+   "first_section": "9.5"
+  },
+  {
+   "term": "bednī",
+   "gloss": "professional rāī dancer",
+   "first_section": "9.5"
+  },
+  {
+   "term": "bhojavidyā",
+   "gloss": "Bhoja's lore; conjuring",
+   "first_section": "9.8"
+  },
+  {
+   "term": "samādhi",
+   "gloss": "memorial (first 1.3)",
+   "first_section": "9.7"
+  }
+ ],
+ "places": [
+  {
+   "name": "Daulatpur",
+   "first_section": "9.9",
+   "note": "remembered deserted village and market; no location given"
+  },
+  {
+   "name": "the gaḍhī",
+   "first_section": "9.2",
+   "note": "shrine of Gaḍhī-wāle Bābā; threads of dacoits and treasure"
+  }
+ ],
+ "figures": [
+  {
+   "what": "district religions 1961",
+   "value": "Hindu 89.29%, Muslim 9.12%, Jain 1.50%",
+   "keyword": "89.29",
+   "sections": [
+    "9.1"
+   ]
+  },
+  {
+   "what": "district mother tongues 1961",
+   "value": "Hindi 90.95%, Urdu 7.84%",
+   "keyword": "90.95",
+   "sections": [
+    "9.4"
+   ]
+  },
+  {
+   "what": "Śivarātri fair at Udaypur",
+   "value": "7 days, Feb/Mar (Gazetteer)",
+   "keyword": "seven days",
+   "sections": [
+    "9.5"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Adhikari's footnote on identical legends",
+   "sections": [
+    "9.6"
+   ],
+   "status": "open RR-20"
+  },
+  {
+   "question": "Hindi originals of the Bagdi passage",
+   "sections": [
+    "9.2"
+   ],
+   "status": "open RR-21"
+  },
+  {
+   "question": "The village's own speech",
+   "sections": [
+    "9.4"
+   ],
+   "status": "undocumented"
+  },
+  {
+   "question": "Living people in 9.1–9.2",
+   "sections": [
+    "9.1",
+    "9.2"
+   ],
+   "status": "legal review"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "9.9",
+   "to": "Ch 10",
+   "what": "the remembered decline tested against the record"
+  },
+  {
+   "from": "9.6",
+   "to": "Ch 10",
+   "what": "the survival story"
+  },
+  {
+   "from": "9.6",
+   "to": "Afterword",
+   "what": "Tiwari's invitation to writers"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "tradition as memory",
+   "sections": [
+    "9.2",
+    "9.6",
+    "9.7",
+    "9.9"
+   ]
+  },
+  {
+   "motif": "district, not village",
+   "sections": [
+    "9.1",
+    "9.4",
+    "9.5"
+   ]
+  }
+ ]
+}

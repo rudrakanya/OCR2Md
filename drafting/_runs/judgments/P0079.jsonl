@@ -1,0 +1,25 @@
+{"c":"a576a764b3","keep":true,"items":[{"unit":"C02","sub":"S5","type":"figure","strength":"direct","span":[3,6],"xref":["C08"],"note":"Gazetteer table of minor flow-irrigation schemes (tanks/canals by village) with totals 65.85 / 8,804 / 3,551; column headings lost in OCR."}]}
+{"c":"668c166b5b","keep":true,"items":[{"unit":"C02","sub":"S5","type":"figure","strength":"direct","span":[3,6],"xref":["C08"],"note":"Lift-irrigation (stop dams) and submergence-irrigation tank schemes listed by village, with Plan and GRAND TOTAL rows; column headings lost in OCR."}]}
+{"c":"c1f8dc2b1c","keep":true,"items":[{"unit":"C08","sub":"S5","type":"figure","strength":"direct","span":[12,14],"note":"Appendix B-III small-scale industries in Vidisha District as on 31 Dec 1969: bidi (14 units), dari/bedsheet textiles, country footwear."}]}
+{"c":"6a19b8de77","keep":true,"items":[{"unit":"C08","sub":"S5","type":"figure","strength":"direct","span":[4,5],"note":"Small-scale industries in Vidisha District (1969): structural clay products, bricks, 5 units."},{"unit":"C08","sub":"S5","type":"figure","strength":"direct","span":[9,9],"note":"Machinery and parts, 6 units, agricultural implements, ploughs, seed drills, in Vidisha District small industries list."}]}
+{"c":"897b44febf","keep":false,"reject_reason":"bibliography page"}
+{"c":"c6a7f8a5aa","keep":false,"reject_reason":"bibliography page"}
+{"c":"417e39398e","keep":false,"reject_reason":"bibliography page (duplicate titles)"}
+{"c":"20cbd45fc3","keep":false,"reject_reason":"bibliography page"}
+{"c":"cd23d22ee8","keep":false,"reject_reason":"bibliography page"}
+{"c":"ef5d4970fb","keep":false,"reject_reason":"bibliography of reports and gazetteers"}
+{"c":"412e35bde7","keep":false,"reject_reason":"bibliography of reports"}
+{"c":"46c977f321","keep":false,"reject_reason":"index page, page references only"}
+{"c":"1ebdaf8252","keep":false,"reject_reason":"index page, page references only"}
+{"c":"a341442bd5","keep":false,"reject_reason":"index page, page references only"}
+{"c":"f033c8f23a","keep":false,"reject_reason":"index page, page references only"}
+{"c":"ee9d8ea254","keep":false,"reject_reason":"index page, page references only"}
+{"c":"4d34cc16d5","keep":false,"reject_reason":"index page, page references only"}
+{"c":"0824f1767a","keep":false,"reject_reason":"index page, page references only"}
+{"c":"83a3172603","keep":false,"reject_reason":"index page, page references only"}
+{"c":"c1ec98b4ae","keep":false,"reject_reason":"index page, page references only"}
+{"c":"dbd245af3a","keep":false,"reject_reason":"index page, page references only"}
+{"c":"7539dc4363","keep":false,"reject_reason":"index page, page references only"}
+{"c":"865872b07d","keep":false,"reject_reason":"index page, page references only"}
+{"c":"6fc4cfc6b1","keep":false,"reject_reason":"index page, page references only"}
+{"c":"b27c07e83f","keep":false,"reject_reason":"index page and bare plate captions"}

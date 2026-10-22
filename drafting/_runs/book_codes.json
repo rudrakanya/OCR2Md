@@ -1,0 +1,40 @@
+{
+ "codes": {
+  "467921465-Skanda-Purana-13-AITM.md": "SKANDA",
+  "806955603-The-Temple-Architecture-of-India-Adam-Hardy.md": "HARDY",
+  "A_serpentine_scimitar_of_letters_from_Ud.md": "SERPENT",
+  "Art of Paramaras.md": "ARTPAR",
+  "Geo-Heritage of Udaypur The Third Eye.md": "GEOHER",
+  "History of Paramara Dynasty DC Ganguly.md": "GANGULY",
+  "History of the Parmar Rajput Dynasty.md": "PARMAR-RAJPUT",
+  "Inscriptions Corpus.md": "CII",
+  "Intach Udaypur (1).md": "INTACH",
+  "Jagta_Hua_Kasba_EN.md": "JAGTA-EN",
+  "Jagta_Hua_Kasba_OCR_text.md": "JAGTA-HI",
+  "Long-termhistoricchangesinclimaticvariablesofBetwa.md": "BETWA-CLIM",
+  "Raja_Bhoj_Aur_Parmarkaleen_EN.md": "RAJABHOJ-EN",
+  "Samarangan Vol 2 (a)_combined.md": "SAMAR-2",
+  "Samrangana Sutradhar Vol 1.md": "SAMAR-1",
+  "Some Paramara Templess.md": "PARTEMPLES",
+  "Streamflow of the Betwa Rive.md": "BETWA-FLOW",
+  "Temple Economics.md": "TEMPLE-ECON",
+  "Temples of India.md": "TEMPLES-IND",
+  "The Hindu Temple Vol 1 Stella Kramrisch.md": "KRAM-1",
+  "The Hindu Temple Vol 2.md": "KRAM-2",
+  "The Udayesvara Temple - Anupa Pande.md": "PANDE",
+  "The cultural heritage of madhya bharat.md": "MADHYABHARAT",
+  "Vidisha Gazeteer.md": "GAZ",
+  "bhoja-paramara-and-his-times.md": "BHOJA-TIMES",
+  "bhojdev.md": "BHOJDEV-HI",
+  "iconography of hindus, buddhists and jains Gupte.md": "GUPTE",
+  "patanjala-yogasutra-rajamartanda-bhoja.md": "YOGASUTRA",
+  "The Udayesvara Temple Art, Architecture and Philosophy of the Saiva Siddhanta.md": "PANDE-COPY2"
+ },
+ "flags": {
+  "SAMAR-1": "⚠ old OCR, pending re-OCR",
+  "SAMAR-2": "⚠ old OCR, pending re-OCR",
+  "YOGASUTRA": "⚠ OCR quality warning",
+  "TEMPLE-ECON": "CONTEXTUAL ONLY; its 'Udaipur' is Udaipur, Rajasthan — never evidence about Udaypur",
+  "JAGTA-EN": "English translation of JAGTA-HI; pages approximate"
+ }
+}

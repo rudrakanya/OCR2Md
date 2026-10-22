@@ -1,0 +1,1036 @@
+# C05 evidence index summary
+
+982 items: 284 direct, 698 contextual. Full quotations: `ch05.jsonl`.
+
+## By book
+
+| Book | Tier | Direct | Contextual |
+|---|---|---|---|
+| KRAM-1 | 5 | 8 | 198 |
+| PANDE | 5 | 124 | 49 |
+| KRAM-2 | 5 | 22 | 91 |
+| SAMAR-2 | 5 | 0 | 108 |
+| BHOJA-TIMES | 5 | 12 | 53 |
+| HARDY | 5 | 2 | 37 |
+| SAMAR-1 | 4 | 0 | 36 |
+| BHOJDEV-HI | 9 | 0 | 30 |
+| ARTPAR | 5 | 14 | 12 |
+| TEMPLES-IND | 5 | 3 | 23 |
+| RAJABHOJ-EN | 9 | 2 | 20 |
+| JAGTA-EN | 8 | 17 | 0 |
+| GEOHER | 7 | 16 | 1 |
+| MADHYABHARAT | 5 | 10 | 7 |
+| PARTEMPLES | 5 | 8 | 9 |
+| GANGULY | 5 | 15 | 1 |
+| JAGTA-HI | 8 | 12 | 1 |
+| INTACH | 7 | 11 | 0 |
+| TEMPLE-ECON | 5 | 0 | 11 |
+| GUPTE | 5 | 0 | 9 |
+| GAZ | 7 | 6 | 0 |
+| CII | 1 | 1 | 1 |
+| SERPENT | 5 | 1 | 0 |
+| YOGASUTRA | 5 | 0 | 1 |
+
+## By sub-topic (from the evidence log)
+
+- S1: 127
+- S2: 144
+- S3: 74
+- S4: 226
+- S5: 73
+- S6: 338
+
+## Also-Ch-N cross-references
+
+Ch 1: 1, Ch 10: 4, Ch 11: 7, Ch 12: 1, Ch 2: 4, Ch 3: 6, Ch 4: 62, Ch 6: 7, Ch 7: 18, Ch 8: 15, Ch 9: 1, at p. 16   also Ch 4: 1, at p. 35: 1
+
+## Flagged items (⚠, no page)
+
+209 items: C05-BHOJA-TIMES-003, C05-BHOJA-TIMES-006, C05-BHOJA-TIMES-010, C05-BHOJA-TIMES-011, C05-BHOJA-TIMES-012, C05-BHOJA-TIMES-013, C05-BHOJA-TIMES-014, C05-BHOJA-TIMES-015, C05-BHOJA-TIMES-016, C05-BHOJA-TIMES-021, C05-BHOJA-TIMES-028, C05-BHOJA-TIMES-029, C05-BHOJA-TIMES-001, C05-BHOJA-TIMES-002, C05-BHOJA-TIMES-004, C05-BHOJA-TIMES-005, C05-BHOJA-TIMES-007, C05-BHOJA-TIMES-008, C05-BHOJA-TIMES-009, C05-BHOJA-TIMES-017, C05-BHOJA-TIMES-018, C05-BHOJA-TIMES-019, C05-BHOJA-TIMES-020, C05-BHOJA-TIMES-022, C05-BHOJA-TIMES-023, C05-BHOJA-TIMES-024, C05-BHOJA-TIMES-025, C05-BHOJA-TIMES-026, C05-BHOJA-TIMES-027, C05-BHOJA-TIMES-030, C05-BHOJA-TIMES-031, C05-BHOJA-TIMES-032, C05-BHOJA-TIMES-033, C05-BHOJA-TIMES-034, C05-BHOJA-TIMES-035, C05-BHOJA-TIMES-036, C05-BHOJA-TIMES-037, C05-BHOJA-TIMES-038, C05-BHOJA-TIMES-039, C05-BHOJA-TIMES-040, C05-BHOJA-TIMES-041, C05-BHOJA-TIMES-042, C05-BHOJA-TIMES-043, C05-BHOJA-TIMES-044, C05-BHOJA-TIMES-045, C05-BHOJA-TIMES-046, C05-BHOJA-TIMES-047, C05-BHOJA-TIMES-048, C05-BHOJA-TIMES-049, C05-BHOJA-TIMES-050, C05-BHOJA-TIMES-051, C05-BHOJA-TIMES-052, C05-BHOJA-TIMES-053, C05-BHOJA-TIMES-054, C05-BHOJA-TIMES-055, C05-BHOJA-TIMES-056, C05-BHOJA-TIMES-057, C05-BHOJA-TIMES-058, C05-BHOJA-TIMES-059, C05-BHOJA-TIMES-060, C05-BHOJA-TIMES-061, C05-BHOJA-TIMES-062, C05-BHOJA-TIMES-063, C05-BHOJA-TIMES-064, C05-BHOJA-TIMES-065, C05-SAMAR-2-001, C05-SAMAR-2-002, C05-SAMAR-2-003, C05-SAMAR-2-004, C05-SAMAR-2-005, C05-SAMAR-2-006, C05-SAMAR-2-007, C05-SAMAR-2-008, C05-SAMAR-2-009, C05-SAMAR-2-010, C05-SAMAR-2-011, C05-SAMAR-2-012, C05-SAMAR-2-013, C05-SAMAR-2-014, C05-SAMAR-2-015, C05-SAMAR-2-016, C05-SAMAR-2-017, C05-SAMAR-2-018, C05-SAMAR-2-019, C05-SAMAR-2-020, C05-SAMAR-2-021, C05-SAMAR-2-022, C05-SAMAR-2-023, C05-SAMAR-2-024, C05-SAMAR-2-025, C05-SAMAR-2-026, C05-SAMAR-2-027, C05-SAMAR-2-028, C05-SAMAR-2-029, C05-SAMAR-2-030, C05-SAMAR-2-031, C05-SAMAR-2-032, C05-SAMAR-2-033, C05-SAMAR-2-034, C05-SAMAR-2-035, C05-SAMAR-2-036, C05-SAMAR-2-037, C05-SAMAR-2-038, C05-SAMAR-2-039, C05-SAMAR-2-040, C05-SAMAR-2-041, C05-SAMAR-2-042, C05-SAMAR-2-043, C05-SAMAR-2-044, C05-SAMAR-2-045, C05-SAMAR-2-046, C05-SAMAR-2-047, C05-SAMAR-2-048, C05-SAMAR-2-049, C05-SAMAR-2-050, C05-SAMAR-2-051, C05-SAMAR-2-052, C05-SAMAR-2-053, C05-SAMAR-2-054, C05-SAMAR-2-055, C05-SAMAR-2-056, C05-SAMAR-2-057, C05-SAMAR-2-058, C05-SAMAR-2-059, C05-SAMAR-2-060, C05-SAMAR-2-061, C05-SAMAR-2-062, C05-SAMAR-2-063, C05-SAMAR-2-064, C05-SAMAR-2-065, C05-SAMAR-2-066, C05-SAMAR-2-067, C05-SAMAR-2-068, C05-SAMAR-2-069, C05-SAMAR-2-070, C05-SAMAR-2-071, C05-SAMAR-2-072, C05-SAMAR-2-073, C05-SAMAR-2-074, C05-SAMAR-2-075, C05-SAMAR-2-076, C05-SAMAR-2-077, C05-SAMAR-2-078, C05-SAMAR-2-079, C05-SAMAR-2-080, C05-SAMAR-2-081, C05-SAMAR-2-082, C05-SAMAR-2-083, C05-SAMAR-2-084, C05-SAMAR-2-085, C05-SAMAR-2-086, C05-SAMAR-2-087, C05-SAMAR-2-088, C05-SAMAR-2-089, C05-SAMAR-2-090, C05-SAMAR-2-091, C05-SAMAR-2-092, C05-SAMAR-2-093, C05-SAMAR-2-094, C05-SAMAR-2-095, C05-SAMAR-2-096, C05-SAMAR-2-097, C05-SAMAR-2-098, C05-SAMAR-2-099, C05-SAMAR-2-100, C05-SAMAR-2-101, C05-SAMAR-2-102, C05-SAMAR-2-103, C05-SAMAR-2-104, C05-SAMAR-2-105, C05-SAMAR-2-106, C05-SAMAR-2-107, C05-SAMAR-2-108, C05-SAMAR-1-001, C05-SAMAR-1-002, C05-SAMAR-1-003, C05-SAMAR-1-004, C05-SAMAR-1-005, C05-SAMAR-1-006, C05-SAMAR-1-007, C05-SAMAR-1-008, C05-SAMAR-1-009, C05-SAMAR-1-010, C05-SAMAR-1-011, C05-SAMAR-1-012, C05-SAMAR-1-013, C05-SAMAR-1-014, C05-SAMAR-1-015, C05-SAMAR-1-016, C05-SAMAR-1-017, C05-SAMAR-1-018, C05-SAMAR-1-019, C05-SAMAR-1-020, C05-SAMAR-1-021, C05-SAMAR-1-022, C05-SAMAR-1-023, C05-SAMAR-1-024, C05-SAMAR-1-025, C05-SAMAR-1-026, C05-SAMAR-1-027, C05-SAMAR-1-028, C05-SAMAR-1-029, C05-SAMAR-1-030, C05-SAMAR-1-031, C05-SAMAR-1-032, C05-SAMAR-1-033, C05-SAMAR-1-034, C05-SAMAR-1-035, C05-SAMAR-1-036
+
+## Compact index
+
+ID | kind | book (tier) | page | sub | first 120 characters
+
+- C05-PANDE-001 | D | PANDE (T5) | p. 9 | S1 | The temple is built of red sandstone. It faces east and consists of a *garbhagṛha* (sanctum), an *antarāla* (vestibule),
+- C05-PANDE-002 | D | PANDE (T5) | p. 9 | S1 | The original entrance to the temple was by a stairway flanked by over life size figures of *Śaiva pratihāras* or door ke
+- C05-PANDE-003 | D | PANDE (T5) | p. 9 | S1 | At the bottom of the *latās* on the three sides (north, south and west) are three prominent sculpted medallions within a
+- C05-PANDE-004 | D | PANDE (T5) | p. 12 | S1 | The gūḍhamaṇḍapa has a samvarṇā or bell-roof (pl. 9). The gūḍhamaṇḍapa or covered hall for the devotees has three projec
+- C05-PANDE-005 | D | PANDE (T5) | p. 72 | S1 | There are three *mukhamaṇḍapas*, one each on the east, north and south which lead to the *gūḍhamaṇḍapa* (pls. 10, 25, 67
+- C05-PANDE-006 | D | PANDE (T5) | p. 79–80 | S1 | The gūḍhamandapa has three entrance doors, one from the front or the east mukhamandapa, the other two doors from the nor
+- C05-PANDE-007 | D | PANDE (T5) | p. 85–86 | S1 | It is well ventilated as the walls consist entirely ![img-1.jpeg](img-1.jpeg) ![img-2.jpeg](img-2.jpeg) THE UDAYEŚVARA T
+- C05-PANDE-008 | D | PANDE (T5) | p. 86 | S1 | Alexander Cunningham, in his Archaeological Survey of India report (compiled between 1874-77) thinks that the *vedī* was
+- C05-PANDE-009 | D | PANDE (T5) | p. 87 | S1 | "The temple stands in a spacious square courtyard again enclosed with a dwarf compound wall, the outer face of which was
+- C05-PANDE-010 | D | PANDE (T5) | p. 87 | S1 | The other two balconies are closed with massive trellises, and each contains a large flat slab, raised 3 feet above the 
+- C05-PANDE-011 | D | PANDE (T5) | p. 88 | S1 | four entrances, the principal of which was one facing to the east, all having flight of steps guarded on either side by 
+- C05-PANDE-012 | D | PANDE (T5) | p. 8 | S2 | Amongst the various styles of medieval Indian temple architecture, the Bhūmija is distinctive as regards both its origin
+- C05-PANDE-013 | D | PANDE (T5) | p. 8 | S2 | This temple is in the Bhūmija style of architecture. The *Samrāṅgaṇasūtradhāra* of Bhoja Paramāra is one of the earliest
+- C05-PANDE-014 | D | PANDE (T5) | p. 9 | S2 | The Bhūmija temple has a unique plan, where the square of the temple is not subdivided like a grid into a number of part
+- C05-PANDE-015 | D | PANDE (T5) | p. 9 | S2 | The distinctive feature of the Bhūmija style is the *śikhara* with four *latās*$^{3}$ or spines adorned with *caitya*-ar
+- C05-PANDE-016 | D | PANDE (T5) | p. 9 | S2 | Yet another meaning of Bhūmija may be seen as born from *bhūmis* or storeys. Thus, the word Bhūmija may also connote tha
+- C05-PANDE-017 | D | PANDE (T5) | p. 12 | S2 | Thus, an orderly arrangement of pillar-forms and deep recesses form the exterior walls of the temple (pl. 6). These exte
+- C05-PANDE-018 | D | PANDE (T5) | p. 12 | S2 | extend to the śikhara in the same vertical rows but bear the form of kūṭastambhas or miniature śikharas now (pl. 5). The
+- C05-PANDE-019 | D | PANDE (T5) | p. 13 | S2 | The śikhara of the garbhagṛha is distinctive of the Bhūmija (pls. 1, 2, 5). On the four cardinal directions are the four
+- C05-PANDE-020 | D | PANDE (T5) | p. 14 | S2 | In between each latā are seven bhūmis of five kūṭastambhas in each sub-quarter (pl. 1). While the ubiquitous motif of th
+- C05-PANDE-021 | D | PANDE (T5) | p. 15–16 | S2 | Early examples of this design component are seen on the makaras on the toraṇa and the devakoṣṭhas of the 7th century Dra
+- C05-PANDE-022 | D | PANDE (T5) | p. 16 | S2 | It may be mentioned that the earliest representation of male-female figures standing erect on crocodiles can beseen on t
+- C05-PANDE-023 | D | PANDE (T5) | p. 44 | S2 | in a peculiar pose, the hips are twisted in front into a pose which would not be credible even to acrobats (perhaps only
+- C05-PANDE-024 | D | PANDE (T5) | p. 54 | S2 | The Paramāras of Vāgaḍa seem to have depicted Cāmuṇḍā as the deity in the northern quarters. She is depicted in the nort
+- C05-PANDE-025 | D | PANDE (T5) | p. 9 | S3 | The *jādyakumbha* is an inverted cyma-recta moulding, a distinctive, lotus-shaped moulding of the *pīṭha*. This is ornam
+- C05-PANDE-026 | D | PANDE (T5) | p. 9 | S3 | The *pīṭha* or the base has five mouldings, viz. *bhiṭṭa* 1, *bhiṭṭa* 2, *jādyakumbha*, *karṇaka* and *grāsapaṭṭī* (pl. 
+- C05-PANDE-027 | D | PANDE (T5) | p. 12 | S3 | The khura is decorated by a ratnapaṭṭī (band of diamond pattern). Above a karṇikā (knife-edge moulding) rests the kumbha
+- C05-PANDE-028 | D | PANDE (T5) | p. 14 | S3 | The mighty caitya of the śukanāsa comprises of two parts. In the lower part, the inner trefoil arches sum up a rectangul
+- C05-PANDE-029 | D | PANDE (T5) | p. 30 | S3 | This portion of the *garbhagṛha* and the *gūḍhamandapa* (pls. 24, 25) comprises buttresses which have the appearance of 
+- C05-PANDE-030 | D | PANDE (T5) | p. 73 | S3 | This is followed by an ornate fillet decorated with diamonds with double volute pattern, viz. the *rājasemaka*. Thereaft
+- C05-PANDE-031 | D | PANDE (T5) | p. 73 | S3 | The celestial maidens mentioned above are modelled as slim yet with ample curves, tall, graceful and standing on stylize
+- C05-PANDE-032 | D | PANDE (T5) | p. 74 | S3 | The doorways of the mukhamaṇḍapa (pl. 112) which lead to the gūḍhamaṇḍapa inside are elaborately decorated, with their d
+- C05-PANDE-033 | D | PANDE (T5) | p. 75 | S3 | The lintel of the door of the south mukhamandapa (pl. 113) consists of foliage scrolls and garland bearing figures (mālā
+- C05-PANDE-034 | D | PANDE (T5) | p. 80 | S3 | These four main pillars are heavily sculpted (pl. 117). These pillars are square almost upto midway, then polygonal and 
+- C05-PANDE-035 | D | PANDE (T5) | p. 83 | S3 | The ceiling of the *gūḍhamandapa* consists of concentric circles contained within an octagonal frame (pl. 123). The four
+- C05-PANDE-036 | D | PANDE (T5) | p. 14 | S4 | On the northwest face of śikhara of the garbhagṛha is an unusual sculpture of a human figure which seems to ascend the ś
+- C05-PANDE-037 | D | PANDE (T5) | p. 16 | S4 | In the centre of the upper medallion of the śukanāsa (pl. 11) is a multi-armed figure of Naṭeśa Śiva. He is depicted as 
+- C05-PANDE-038 | D | PANDE (T5) | p. 18 | S4 | It imitates long lotus-buds and such a type of a necklace is ubiquitous in the sculptures of North India in the 11th and
+- C05-PANDE-039 | D | PANDE (T5) | p. 18 | S4 | The Sarasvatī of the Udayeśvara śukanāsa (pl. 15), though fragmentary, exhibits precision and command in chiselling and 
+- C05-PANDE-040 | D | PANDE (T5) | p. 19 | S4 | The Nāṭyaśāstra describes Śiva as the progenitor of the tāṇḍava dance. It says that after destroying the yajña of Dakṣa,
+- C05-PANDE-041 | D | PANDE (T5) | p. 20 | S4 | Bhagvatpāda Śankarācārya describes the twilight time of a hot day when Śiva, blue-throated like a peacock, dances in the
+- C05-PANDE-042 | D | PANDE (T5) | p. 21 | S4 | commentator on the Nātyaśāstra, explains that during the tāṇḍava dance of Śiva, Nandikeśvara and the other gaṇas of Śiva
+- C05-PANDE-043 | D | PANDE (T5) | p. 22 | S4 | The shrine houses a syncretic image of Hariharārkapitāmaha, i.e. Viṣṇu, Śiva, Sūrya and Brahmā, though the faces of only
+- C05-PANDE-044 | D | PANDE (T5) | p. 22 | S4 | These composite images of Hariharahiranyagarbha follow closely the injunctions laid in the Śilpasāstra texts. It is inte
+- C05-PANDE-045 | D | PANDE (T5) | p. 23 | S4 | on the north and the south, depict a five-storied celestial mansion (pls. 18, 19). Each storey of this mansion has a min
+- C05-PANDE-046 | D | PANDE (T5) | p. 24 | S4 | and skull-bowl in her right hands. The attributes discernable in her left hands are the snake, shield, bow and a broken 
+- C05-PANDE-047 | D | PANDE (T5) | p. 25 | S4 | Gaurī. This is a very interesting image as the vāhana of Śriyā, the iguana (godhā), is depicted in the place of an attri
+- C05-PANDE-048 | D | PANDE (T5) | p. 25 | S4 | These are similar to the śukanāsa, but have much smaller dimensions. Here, too, the sides of the gavākṣa partly cover th
+- C05-PANDE-049 | D | PANDE (T5) | p. 25 | S4 | The pyramidal roof of a miniature rectangular shrine abuts the open end of the gavākṣa at the bottom. This enshrines a b
+- C05-PANDE-050 | D | PANDE (T5) | p. 28 | S4 | by two miniature standing attendant figures or Śaiva pratihāras. They have one hand in varada and the other holds a khaṭ
+- C05-PANDE-051 | D | PANDE (T5) | p. 28 | S4 | The northern śūrasenaka, too, has Śiva dancing the tāṇḍava in the ūrdhvajānu (pl. 23). The attributes are somewhat diffe
+- C05-PANDE-052 | D | PANDE (T5) | p. 28 | S4 | The south śūrasenaka has a very similar image of Śiva dancing in the ūrdhvajānu with similar weapons (pl. 22). In the py
+- C05-PANDE-053 | D | PANDE (T5) | p. 30 | S4 | There are two sets of framed niches sculpted on the buttresses. On the *kumbha* of the *vedibandha* are the *khattikās*,
+- C05-PANDE-054 | D | PANDE (T5) | p. 31 | S4 | In the south-east side of the gūdhamaṇḍapa, the first image from the east (near the east mukhamaṇḍapa) is that of standi
+- C05-PANDE-055 | D | PANDE (T5) | p. 31 | S4 | On the buttress next to Bhairava, the image in the khattaka on the east side is that of Śūrya who stands straight in sam
+- C05-PANDE-056 | D | PANDE (T5) | p. 31 | S4 | The description of Bhairava in the Vīṇindharmolāya Mahāpurāṇa is as follows: "Thus I will speak of the making of the for
+- C05-PANDE-057 | D | PANDE (T5) | p. 31 | S4 | It may be noted that the position of the dikpālas, in this temple, is always on the khattakas of the central or the seco
+- C05-PANDE-058 | D | PANDE (T5) | p. 32 | S4 | In this image, he stands in an abhaṅga posture. He holds a thunderbolt (vajra) in his upper right hand and possibly an a
+- C05-PANDE-059 | D | PANDE (T5) | p. 34 | S4 | This buttress on the south side, houses a four-armed image of Harihara (pl. 33), a syncretic image of Viṣṇu and Śiva. Th
+- C05-PANDE-060 | D | PANDE (T5) | p. 34 | S4 | On the east face is an image of Ardhanārīśvara, i.e. the right half of the body is constituted by Śiva and the left half
+- C05-PANDE-061 | D | PANDE (T5) | p. 35; | S4 | Near the south *mukhamandapa* (east side) is a multi-armed image of Śiva Nateśa (pl. 34). Though the legs of Śiva are br
+- C05-PANDE-062 | D | PANDE (T5) | p. 36 | S4 | This seems to be a syncretic image of Gāyatrī, Sāvitrī and Sarasvatī. The three devīs are also called Vedamātās. The man
+- C05-PANDE-063 | D | PANDE (T5) | p. 36 | S4 | There are six images on the tilaka of the south-east gūḍhamandapa, two above both facets of each of the three buttresses
+- C05-PANDE-064 | D | PANDE (T5) | p. 37 | S4 | Above the *khattakas* which house the images of Śiva, Indra, Agni and Ardhanariśvara, from the east to the south respect
+- C05-PANDE-065 | D | PANDE (T5) | p. 38 | S4 | With regard to the khattikās on the vedibandha of the south-east gūḍhamandapa (pl. 27), there are two types of Umā-Maheś
+- C05-PANDE-066 | D | PANDE (T5) | p. 39 | S4 | This is Hamsavatī, who is the chief Sakti who presides over the *ājñā cakra*. She is described in the *Lalitāsahasranāma
+- C05-PANDE-067 | D | PANDE (T5) | p. 42 | S4 | The khattikās on the vedībandha house a seated image of Gaṇeśa below Naṭeśa and seated Umā-Maheśvara images of the stand
+- C05-PANDE-068 | D | PANDE (T5) | p. 42 | S4 | Bhairava worship had become more tantric in character. This is attested by the practice of śavasādhanā of Bhairavācārya 
+- C05-PANDE-069 | D | PANDE (T5) | p. 43 | S4 | The Aparājitapṛcchā describes him thus; "With hands as boons-giving, holding the noose, lotus and water vessel, Varuṇa s
+- C05-PANDE-070 | D | PANDE (T5) | p. 43 | S4 | The one facing west is Varuṇa (pl. 59), the regent of the western quarter.⁶² He stands in abhaṅga and wears a karaṇḍa mu
+- C05-PANDE-071 | D | PANDE (T5) | p. 45 | S4 | A seated image of Vāyu with his consort Śivā (pl. 66) is seen in a khattikā below the image of Brahmā. Vāyu is one of th
+- C05-PANDE-072 | D | PANDE (T5) | p. 48 | S4 | She is the most popular manifestation of Śakti. The Mārkaṇḍeya Purāṇa, gives a detailed description of the myth connecte
+- C05-PANDE-073 | D | PANDE (T5) | p. 50 | S4 | In the above mentioned khattaka (pls. 68, 69) near the north mukhamandapa (east side), the goddess is seen with multiple
+- C05-PANDE-074 | D | PANDE (T5) | p. 51 | S4 | Interestingly enough, following the canonical injunctions, from the severed neck arises the demon Mahiṣāsura to continue
+- C05-PANDE-075 | D | PANDE (T5) | p. 52 | S4 | It may be said that this image must have been that of Kubera, as he is the only dikpāla that remains. The positions of K
+- C05-PANDE-076 | D | PANDE (T5) | p. 52 | S4 | The dikpālas with elephant mounts, viz. Indra and Kubera have been placed on south-east and north-east, on the second bu
+- C05-PANDE-077 | D | PANDE (T5) | p. 53 | S4 | Next to the image of Sarasvatī, near the east mukhamaṇḍapa, the large khattaka (facing north) houses a much mutilated im
+- C05-PANDE-079 | D | PANDE (T5) | p. 54 | S4 | There are six images on the *tilaka* of the north-east *gūḍhamandapa*, two above both facets of the three buttresses (pl
+- C05-PANDE-080 | D | PANDE (T5) | p. 55 | S4 | Adjacent to the image of Cāmunḍā on the tilaka (facing north), below the saṃvarṇā roof and above the Mahiṣāsuramardinī i
+- C05-PANDE-081 | D | PANDE (T5) | p. 55 | S4 | The devī image (pl. 77) above the khattaka enshrining the image of Sarasvatī (facing east) is quite intriguing as one of
+- C05-PANDE-082 | D | PANDE (T5) | p. 56 | S4 | The image of Hariharārkapitāmaha has been rendered here to impart a degree of symmetry by matching it with the syncretic
+- C05-PANDE-083 | D | PANDE (T5) | p. 57 | S4 | Ardhanarīśvara and Hara-Gaurī on corresponding *khattakas* on the south-east and north-east side. Apotropaic images of Ś
+- C05-PANDE-084 | D | PANDE (T5) | p. 58 | S4 | The image of Vīrabhadra (pl. 81) on the south latā is mutilated; the head and tusks cannot be seen, as also the attribut
+- C05-PANDE-085 | D | PANDE (T5) | p. 60 | S4 | The third or central buttress houses the images of the dikpālas, Agni (south-east face) and Nirṛti (south-west face). He
+- C05-PANDE-086 | D | PANDE (T5) | p. 61 | S4 | Vīrabhadra is shown strangling a headless figure, probably that of Dakṣa Prajāpati, with his right leg and a fleeing god
+- C05-PANDE-087 | D | PANDE (T5) | p. 62 | S4 | Of the six faces, the three of the front are seen. Following canonical injunctions, the image had twelve hands, all (exc
+- C05-PANDE-088 | D | PANDE (T5) | p. 65 | S4 | The first buttress, adjacent to the Vīrabhadra image (on the west latā), houses the sculptures of Kaumārī and Kumāra on 
+- C05-PANDE-089 | D | PANDE (T5) | p. 65 | S4 | On the khattikās of the first buttress, below the figures of Cāmuṇḍā, are seen images of standing Umā-Maheśvara and seat
+- C05-PANDE-090 | D | PANDE (T5) | p. 66 | S4 | The third or central buttress enshrines two male deities. The hands and legs of both are broken, as also the attributes.
+- C05-PANDE-091 | D | PANDE (T5) | p. 66 | S4 | Kubera is traditionally regarded as the lord of all treasures and wealth, as the *yakṣarāja* (lord of all the demi-gods)
+- C05-PANDE-092 | D | PANDE (T5) | p. 66 | S4 | Since the Kuṣāṇa times, Kubera has also been associated with the wine cup. On his two sides are two female attendants, h
+- C05-PANDE-093 | D | PANDE (T5) | p. 67 | S4 | Housed in the *khattikās* of the fifth buttress (below the *khattakas* enshrining images of a devī and an unidentified h
+- C05-PANDE-094 | D | PANDE (T5) | p. 67 | S4 | Cāmuṇḍā stands on a corpse (now headless), is naked, emaciated and has a sunken belly with a scorpion on it. Cāmuṇḍā is 
+- C05-PANDE-095 | D | PANDE (T5) | p. 68 | S4 | enshrined in the upper and lower khattakas of the northern latā. Similarly, on the north-east side of the gūdhamaṇḍapa, 
+- C05-PANDE-096 | D | PANDE (T5) | p. 69 | S4 | The khattikās on the buttresses between the north latā and north kapilī (pl. 104) house three images of Umā-Maheśvara an
+- C05-PANDE-097 | D | PANDE (T5) | p. 71 | S4 | On the large *khattaka* below the north *kapilī* is a three-faced (the fourth, it is assumed, is at the back) image of B
+- C05-PANDE-098 | D | PANDE (T5) | p. 71 | S4 | Lakṣmī is seated on the lap of Nārāyaṇa to his left. Her right arm encircles Nārāyaṇa’s shoulder. Her left hand holds a 
+- C05-PANDE-099 | D | PANDE (T5) | p. 73 | S4 | The last, is an interesting and unusual image, which is an aberration when compared to the others. It is seen on the *ve
+- C05-PANDE-100 | D | PANDE (T5) | p. 76 | S4 | shows nine goddesses, most of them having the lower right hand in *varada* gesture and the left hand holding a water pot
+- C05-PANDE-101 | D | PANDE (T5) | p. 77 | S4 | Above the figures of the *mātṛkās* are depicted the male gods and the *navagrahas* or nine planets (pl. 113). In the fiv
+- C05-PANDE-102 | D | PANDE (T5) | p. 79 | S4 | In between these five projecting niches, are four recessed niches bearing the images of the nine planets in personified 
+- C05-PANDE-103 | D | PANDE (T5) | p. 82 | S4 | The Aparājitapr̥cchā describes the image of Pārvatī thus: "Pārvatī, born of the (Himālaya) mountain, has a rosary, water
+- C05-PANDE-104 | D | PANDE (T5) | p. 82 | S4 | The square portions of the pillars, as mentioned above, have the sculpted images of Śiva and Tapasvini Pārvatī. In the t
+- C05-PANDE-105 | D | PANDE (T5) | p. 92 | S4 | There is a seated Umā-Maheśvara image inside the temple (pl. 130). The finely chiselled hair-styles, face-cuts, proporti
+- C05-PANDE-109 | D | PANDE (T5) | p. 2–3 | S5 | It has taken me more than a decade to study the Udayeśvara temple in such a holistic manner from primary sources. The re
+- C05-PANDE-110 | D | PANDE (T5) | p. 23 | S5 | Visou and Śiva are indicative of the sun, moon and fire of which elements these gods are the adhiṣṭhātri devatās. Such a
+- C05-PANDE-111 | D | PANDE (T5) | p. 27 | S5 | be the six-armed Mṛtyuñjaya.²⁴ In the lowest pair of hands, he holds the rosary and water-pot; the other four are unfort
+- C05-PANDE-112 | D | PANDE (T5) | p. 32 | S5 | He is both the sacrificial fire as well as an exalted deity.³⁸ He is called a knowledgeable Brahmin.³⁹ As such, it is no
+- C05-PANDE-113 | D | PANDE (T5) | p. 37 | S5 | combination of knowledge and martial aspects. The *Veda*, *vitarka mudrā*, *akṣasūtra* all are referents of knowledge. T
+- C05-PANDE-114 | D | PANDE (T5) | p. 60 | S5 | 86), as otherwise he is relegated only to the lintel panels above the door-frames and on a single khattikā (seated with 
+- C05-PANDE-115 | D | PANDE (T5) | p. 62 | S5 | the bovine-headed Śaivite mother-goddess, Nandikeśvarī, has supplanted the swine-headed mother-goddess Vārāhī, who is ba
+- C05-PANDE-116 | D | PANDE (T5) | p. 67 | S5 | It is interesting to note that the sculptural programme of the Udayeśvara temple reflects the philosophy of the Śaiva Si
+- C05-PANDE-117 | D | PANDE (T5) | p. 74 | S5 | I have narrated to you the form of Virūpākṣa who is the unrivalled lord of the demons”.¹¹⁴ She is probably Ninṛti, the w
+- C05-PANDE-121 | D | PANDE (T5) | p. 103 | S5 | The Udayeśvara temple is based on a Śaiva sect which derives from Śaiva Siddhānta. This temple was built by Udayāditya P
+- C05-PANDE-122 | D | PANDE (T5) | p. 103 | S5 | From being a common mortal, man may aspire to the company of the lord (*śivasāyujya*). This is the primary aim of life t
+- C05-PANDE-129 | D | PANDE (T5) | p. 35 | S6 | to the iconography of the Harihara image also. It says that "Harihara should have Viṣṇu and Śiva in one body, the right 
+- C05-PANDE-132 | D | PANDE (T5) | p. 53 | S6 | So should Brahmā, the creator of the world, be conceived.'⁸⁴ The Samrāṅgaṇasūtradhāra says: "of stout limbs, having whit
+- C05-PANDE-133 | D | PANDE (T5) | p. 57 | S6 | The *Aparājitapṛcchā* describes him thus: “with boons-giving gesture, (bearing) a trident, snake and citron, seated on a
+- C05-PANDE-134 | D | PANDE (T5) | p. 58 | S6 | It may be noted here that the figures of Gaṇeśa and Gaṇeśāṇī are seen mainly on the khattikās of the vedibandha. Their p
+- C05-PANDE-135 | D | PANDE (T5) | p. 62 | S6 | The Samrāṅgaṇasūtradhāra describes him as follows: “Now is being stated the form of Kārttikeya. It should be like the ri
+- C05-PANDE-136 | D | PANDE (T5) | p. 66 | S6 | *mukuṭa*, form a pyramidal structure. The tiara, as described in the *Samrāṅgaṇasūtradhāra*, is embellished with pearls 
+- C05-PANDE-138 | D | PANDE (T5) | p. 80 | S6 | Above this is the circular section of the pillar which is adorned by flying vidyādharā figures. Their bodies, closely pa
+- C05-PANDE-139 | D | PANDE (T5) | p. 82 | S6 | It seems that the artisan here was well-versed with canonical injunctions. "...Inferior to the daityas should be made th
+- C05-PANDE-140 | D | PANDE (T5) | p. 92 | S6 | The author of the work, Samarāṅgaṇasūtradhāra, as mentioned in the text, is Mahārājadhirāja Śrī Bhojadeva. Chapter 65 of
+- C05-KRAM-2-007 | D | KRAM-2 (T5) | p. 102 | S1 | 256), the Prāsāda has in each of the main directions—the west or back of the temple being shown on Pl. XLIII—a widely pr
+- C05-KRAM-2-008 | D | KRAM-2 (T5) | p. 102 | S1 | From the West; Udayapur, Gwalior; built by the Paramāra King Udayāditya (c.
+- C05-KRAM-2-009 | D | KRAM-2 (T5) | p. 106 | S1 | That the Šukanāsā is a blind, is seen in this side view where its marginal convolutions extend, detached from the body o
+- C05-KRAM-2-011 | D | KRAM-2 (T5) | p. 107 | S1 | Side view (from the South) of the superstructure of the Antarāla; Nilakantheśvara Temple, Udayapur. The multiple profile
+- C05-KRAM-2-012 | D | KRAM-2 (T5) | p. 108–109 | S1 | Nilakanthésvara Temple, Udayapur. - The image of Nandin, the pillars, their carvings and corbels, the carved doorway, th
+- C05-KRAM-2-019 | D | KRAM-2 (T5) | p. 102 | S2 | It is therefore said that the projection (nirgama) of these buttresses either lies within the circle or else is measured
+- C05-KRAM-2-020 | D | KRAM-2 (T5) | p. 103 | S2 | A conclave of pillar shapes assembled so as to round off the temple, forming its wall, is extended in the Sīkhara in the
+- C05-KRAM-2-021 | D | KRAM-2 (T5) | p. 104 | S2 | The Śikhara thus ascends, an array of Śrīgas, an array of pillars, progressively diminishing in size, towards the Skandh
+- C05-KRAM-2-022 | D | KRAM-2 (T5) | p. 104 | S2 | The Sīkhara rises thence with a slight ingress, a double zone of mouldings—its motives being those of capital shapes and
+- C05-KRAM-2-023 | D | KRAM-2 (T5) | p. 105 | S2 | Part of the central offset of the Sīkhara, facing west (details of Pls. XLIII and XLIV); Nilakanthesvara Temple, Udayapu
+- C05-KRAM-2-024 | D | KRAM-2 (T5) | p. 170 | S2 | Nilakaṃtchevara T., Udayapur, 200, 218, 246, 255, 256, 260, 389-396
+- C05-KRAM-2-040 | D | KRAM-2 (T5) | p. 102 | S3 | Offering their two slanting surfaces to the light at a right angle, the 'bud'-like buttresses of this kind of Prāsāda ar
+- C05-KRAM-2-041 | D | KRAM-2 (T5) | p. 103 | S3 | Higher up, a broad Vājana, or fillet—having for its enrichment (alamkāra) a Krittimukha in the centre—clasps the pillar-
+- C05-KRAM-2-042 | D | KRAM-2 (T5) | p. 103 | S3 | are the same as for instance on the Adhisthāna and Vedikā of the temples in Khaju- raho (Figs. on pp. 259-60) by the mod
+- C05-KRAM-2-043 | D | KRAM-2 (T5) | p. 105 | S3 | The broad band of the Latā is carved on three levels; the lowermost protrudes its fringe made of tiers or Bhūmis; on the
+- C05-KRAM-2-044 | D | KRAM-2 (T5) | p. 108 | S3 | Nilakantheśvara Temple, Udayapur. The balcony which affords the entrance is the large projection (bhadra; śālā) in the m
+- C05-KRAM-2-045 | D | KRAM-2 (T5) | p. 109 | S3 | Nilakanthésvara Temple, Udayapur. One of the main pillars of the Mandapa, a pillar and wall-pillar of the Antarāla and t
+- C05-KRAM-2-081 | D | KRAM-2 (T5) | p. 103 | S4 | The Pallavikās, the faceted apices of the triangular buttresses, are summed up at the bottom of each of the two sides by
+- C05-KRAM-2-082 | D | KRAM-2 (T5) | p. 103 | S4 | There the recessed planes are filled by one continuous panel having an image of Sakti as Vana-devatā, below a burly cree
+- C05-KRAM-2-083 | D | KRAM-2 (T5) | p. 105 | S4 | Against this background of carved lace are set the images of the Šukanāsā; sculptures in the round along its edge, they 
+- C05-KRAM-2-084 | D | KRAM-2 (T5) | p. 106 | S4 | Nilakan thesvara Temple, Udayapur. The main Šukanāsā (cf. Pl. XLVIII), seen from the front, is a mighty blind, whose inn
+- C05-KRAM-2-108 | D | KRAM-2 (T5) | p. 104 | S6 | The close correspondence of the structure and superstructure of the temple brought about by the theme of the pillar is h
+- C05-JAGTA-EN-001 | D | JAGTA-EN (T8) | ≈ p. 9 (Hindi original) | S1 | At the end of the lane a very old, huge stone doorway appears, on the other side of which is the Neelkantheshwar Mahadev
+- C05-JAGTA-EN-002 | D | JAGTA-EN (T8) | ≈ p. 53 (Hindi original) | S1 | Whatever the case, fortunately, in the deadly storms of the religious ignoramuses, Udaipur's most priceless construction
+- C05-JAGTA-EN-003 | D | JAGTA-EN (T8) | ≈ p. 78 (Hindi original) | S1 | Go up the hill and see, and you will find that, like Ellora's rock-temple, in Udaipur a rock-temple was going to be made
+- C05-JAGTA-EN-004 | D | JAGTA-EN (T8) | ≈ p. 106 (Hindi original) | S1 | Narayan Vyas possibly called Udaipur the land of heroes because Udaipur's ancestors saved the temple, in its full height
+- C05-JAGTA-EN-005 | D | JAGTA-EN (T8) | ≈ p. 108 (Hindi original) | S1 | Closing the temple's western door, a small place of worship was stretched up, and this was work done in six or eight mon
+- C05-JAGTA-EN-006 | D | JAGTA-EN (T8) | ≈ p. 121 (Hindi original) | S1 | Udaipur is a poem written on stones, which the Paramara kings sang in praise of their adored Lord Shiva. In composing th
+- C05-JAGTA-EN-007 | D | JAGTA-EN (T8) | ≈ p. 126 (Hindi original) | S1 | This temple, which took more than twenty years to be built and made ready, must, even while under construction, have bee
+- C05-JAGTA-EN-008 | D | JAGTA-EN (T8) | ≈ p. 160 (Hindi original) | S2 | He raised the Nilkantheshvar temple — one of the most beautiful shrines in the country, a matchless specimen of architec
+- C05-JAGTA-EN-009 | D | JAGTA-EN (T8) | ≈ p. 164 (Hindi original) | S2 | - Udayeshvar Mahadev is considered the finest specimen of Paramara-era construction. In the classical terminology of arc
+- C05-JAGTA-EN-010 | D | JAGTA-EN (T8) | ≈ p. 16 (Hindi original) | S4 | When I came near him, my eye fell on an image of a goddess. About six-and-a-half to seven feet above the ground, on the 
+- C05-JAGTA-EN-011 | D | JAGTA-EN (T8) | ≈ p. 24 (Hindi original) | S4 | So that it could not speak or tell anything, the invaders had severed its head from the trunk. So that it could not even
+- C05-JAGTA-EN-012 | D | JAGTA-EN (T8) | ≈ p. 27 (Hindi original) | S4 | Even today you can see the breasts — adorned with the ornaments of the goddess-images — cut off. The nose and ears will 
+- C05-JAGTA-EN-013 | D | JAGTA-EN (T8) | ≈ p. 106 (Hindi original) | S4 | The images had been disfigured. Their hands and feet had been broken. The marks of the attacks were absolutely clear.
+- C05-JAGTA-EN-014 | D | JAGTA-EN (T8) | ≈ p. 111 (Hindi original) | S4 | But Dr. Narayan Vyas, after looking at that image carefully, on the way back told [us] that it is the image of a yaksha.
+- C05-JAGTA-EN-015 | D | JAGTA-EN (T8) | ≈ p. 153 (Hindi original) | S4 | Govind tells us that most of the idols are of the avatars of Lord Vishnu. Several idols have been placed on a verandah, 
+- C05-JAGTA-EN-016 | D | JAGTA-EN (T8) | ≈ p. 153 (Hindi original) | S4 | About five kilometres from here, on the bank of a river named Sonari Kevtan, is a very old village. When the water dries
+- C05-JAGTA-EN-017 | D | JAGTA-EN (T8) | ≈ p. 160 (Hindi original) | S4 | Look at some of the idols a little carefully, and one has a broken hand, another a missing head. On many, the marks of b
+- C05-GEOHER-001 | D | GEOHER (T7) | p. 11 | S2 | The famous Udayeshwar temple, also called the Neelkantheshwar Mahadev temple, is the largest temple of Bhumija's style o
+- C05-GEOHER-002 | D | GEOHER (T7) | p. 52 | S3 | 1) Pillars: A heavily decorative pillar with two projections made of red sandstone is noticed here. Image 33 Decorative 
+- C05-GEOHER-003 | D | GEOHER (T7) | p. 54–55 | S3 | 5) The Amlaka: A grounded Amlaka has been found to have eleven petals. Its current dimension says that it was large and 
+- C05-GEOHER-004 | D | GEOHER (T7) | p. 19 | S4 | Moving further up, the 1000-year-old Natraj sculpture can be seen, which is the largest such man-made sculpture of danci
+- C05-GEOHER-005 | D | GEOHER (T7) | p. 46 | S4 | The local history, the largest native sculpture, which in local languages is called Ravan Tol, the water bodies of the a
+- C05-GEOHER-006 | D | GEOHER (T7) | p. 61 | S4 | This site has the big stepwell, the Hindu temples remain, the big 4 pillars of a temple structure, and a large number of
+- C05-GEOHER-007 | D | GEOHER (T7) | p. 65 | S4 | The petroglyph of Lajja Gowri- The other most significant finding is the petroglyphs of relatively Lajja Gori, probably 
+- C05-GEOHER-008 | D | GEOHER (T7) | p. 66 | S4 | The left-hand side panel has a group of 4 images beginning with a Ganesh sculpture, which can be distinctly identified b
+- C05-GEOHER-009 | D | GEOHER (T7) | p. 66 | S4 | Saptmatrika Panel- The Saptmatrika is adjacent to the Navagraha panel on the same face of the rock hill, facing east. Th
+- C05-GEOHER-011 | D | GEOHER (T7) | p. 67 | S4 | This site at Udaypur Hillis is not dated, but based on the comparative study of Saptmatrika found in Pathari and Udayagi
+- C05-GEOHER-012 | D | GEOHER (T7) | p. 68 | S4 | The middle hill rock has a Navagraha panel carved out of sandstone on the eastern side. The panel is somewhat eroded, bu
+- C05-GEOHER-013 | D | GEOHER (T7) | p. 121 | S4 | During the course of travel and investigating the open area of the hill fort sculptures were found near the fortificatio
+- C05-GEOHER-014 | D | GEOHER (T7) | p. 122 | S4 | Lakulisa- The third Sculpture appears to be the door panel of a temple, the center of which is the Lakulisa deity. On bo
+- C05-GEOHER-015 | D | GEOHER (T7) | p. 151 | S4 | Next on the pathway is the Natraj sculpture, just close to the hillfort. This Natraj is the largest man-made Natraj stat
+- C05-GEOHER-016 | D | GEOHER (T7) | p. 170 | S4 | A very significant petroglyph found on the Udaypur Pindi hill is the Lajja Gauri petroglyph located on the eastern side 
+- C05-GEOHER-017 | D | GEOHER (T7) | p. 171 | S4 | This figure of Lajja Gauri is one of its kind and the figure having a head hasn't been found anywhere else. This figure 
+- C05-GANGULY-001 | D | GANGULY (T5) | p. 152 | S1 | by him in 1059 A. D., and was considered the most superb of its kind in the whole of India.
+- C05-GANGULY-002 | D | GANGULY (T5) | p. 153 | S1 | achievements were marvellous. The great Nila-kantheśvara temple still stands to testify to his greatness. Thus the work 
+- C05-GANGULY-003 | D | GANGULY (T5) | p. 268 | S1 | The great Nilakanthēsvara temple at Udayapur was built by Udayādiya in Sam 1116=1059 A. D. \( ^{4} \) An
+- C05-GANGULY-004 | D | GANGULY (T5) | p. 269 | S1 | The temple is still perfect and complete, \( ^{3} \) and is one of the best specimens of North-Indian architecture. It i
+- C05-GANGULY-005 | D | GANGULY (T5) | p. 270 | S1 | In the centre of the hall or sabhâmanâpa there is a bull (Nandi), above which is a domed ceiling. Eight pillars and four
+- C05-GANGULY-006 | D | GANGULY (T5) | p. 271 | S1 | In front of the temple is a “vedi”, which is said to have been built by the king for offering a sacrifice just after the
+- C05-GANGULY-007 | D | GANGULY (T5) | p. 272 | S1 | Each hall for reading Vedas is a square building, the roof of which is supported by four massive pillars. The ceiling is
+- C05-GANGULY-008 | D | GANGULY (T5) | p. 272 | S1 | There were four subordinate temples, one in each corner of the courtyard, and four square 'vedis' for reading 'Vedas' in
+- C05-GANGULY-009 | D | GANGULY (T5) | p. 270 | S2 | The tower of the shrine is similar in form to that of Gondesvara at Sinnar, in the Nasik District, and that of Ambaranāt
+- C05-GANGULY-010 | D | GANGULY (T5) | p. 275–276 | S2 | The main tower is surrounded by miniature … 'sikharas' like that of the Pārsvanātha temple at Khajuraha. They are not so
+- C05-GANGULY-011 | D | GANGULY (T5) | p. 307 | S2 | Architecture reached a high pitch of excellence, and the temples of Udayapur and of Un rank high among the best specimen
+- C05-GANGULY-012 | D | GANGULY (T5) | p. 271 | S3 | Mr Beglar, who has made a special study of it, remarks that “It is in excellence of execution of the floral sculptured o
+- C05-GANGULY-013 | D | GANGULY (T5) | p. 271 | S3 | The entrance-door leading to the interior of the shrine, where the deity is, is profusely decorated with sculptures. The
+- C05-GANGULY-014 | D | GANGULY (T5) | p. 270 | S4 | In the north-western corner, immediately below the 'āmalakasilā,' there is a human figure elaborately dressed and orname
+- C05-GANGULY-015 | D | GANGULY (T5) | p. 271 | S4 | sanctum there is a big stone 'linga,' covered with a brass sheet, which was only recently added.
+- C05-ARTPAR-003 | D | ARTPAR (T5) | p. 60 | S1 | पाप्त शिलापेलव से ही मनिर्दर की निर्माण सिमिं संचत् १११६ एचं क्षण निर्माण सिमिं संचत् १११६ एचं क्षण निर्माण सिमिं संचत् 
+- C05-ARTPAR-004 | D | ARTPAR (T5) | p. 60 | S1 | मनिर्दर की प्राकार भिरा के वामा में कालामक उकरण है एवं नवेश द्वारों के दोनों ओर दोव द्वारपानों की मृत्तियां चड़ी हैं। मु
+- C05-ARTPAR-010 | D | ARTPAR (T5) | p. 59 | S2 | स्वायासेय दृष्टि से ये मन्धिर सजातीय परमारहीली से सम्बद्ध हैं घौर इनकी योजना तथा शिवारहित उदयपुट गे नीलकण्डेवर के मन्धिर
+- C05-ARTPAR-011 | D | ARTPAR (T5) | p. 59 | S2 | नीलकण्ठेश्वर मन्धिर के समसामयिक है, इसकी पुष्टि यहों के चौबाराडेरा मन्धिर से से होती है । *Gloss [my translation]:* That
+- C05-ARTPAR-012 | D | ARTPAR (T5) | p. 59 | S2 | निर्माण काल १० वीं शताब्दी के मष्ठा के तथा भूमिज दौली का है, लेकिन परवर्ती प्रमरेह्वर मन्धिर भू-योजना तथा श्राकृति में उ
+- C05-ARTPAR-013 | D | ARTPAR (T5) | p. 59 | S2 | निर्माण काल की दृष्टि से यह्म मन्धिर उदयपुर स्थित उदयवर मान्देर के बाद का है। *Gloss [my translation]:* In terms of cons
+- C05-ARTPAR-014 | D | ARTPAR (T5) | p. 61 | S3 | सभा-मंडप की शोभा उसके विशाल कृलताकार दो कीट नो इंच के वर्गाकार तल- वाले स्तंभों से है । इनमें साकल के श्रौर घटिका उकरी ग
+- C05-ARTPAR-016 | D | ARTPAR (T5) | p. 53 | S4 | हरिहर के प्रतिरिक्त बिणु पु व सूयं की सम्मिलित प्रतिमा उदयपुर के उदयेवहर मंदिर में प्राप्त हुई है । यहि प्रठाट हाथों वाल
+- C05-ARTPAR-018 | D | ARTPAR (T5) | p. 61 | S4 | मंडप की वृत्ताकार छत या वितान को शाल-भंजिक अल्पसा में संभाले हुये हैं । छत के ऋतरिक भाग का उकेरण हाथी दांत की नक्वाशी को
+- C05-ARTPAR-019 | D | ARTPAR (T5) | p. 61 | S4 | इन्हीं में एक मिथुन मूर्ति दर्शनीय है जो बहुत फुळ्छ उड़ीसा के कोणार्क़े सूयें मंदिर के शिखर के समय उकौर गई मिथुन मूर्ति 
+- C05-ARTPAR-020 | D | ARTPAR (T5) | p. 61 | S4 | सभा-मंडह के मध्य में शिवनंदी की स्थापना है । यह नंदी मृति अपने कलात्मक स्वर्ध के कारण व्रवंचीन लगती है । *Gloss [my tran
+- C05-ARTPAR-021 | D | ARTPAR (T5) | p. 61 | S4 | उद्येषबर मंदिर की मूर्तिकला को देखकर प्रतीत होता है कि यहूँताह है कि यहूँतियां पल्पर की नहीं है । उद्येषबर मंदिर की मूर्
+- C05-ARTPAR-023 | D | ARTPAR (T5) | p. 61 | S5 | उदयेझवर मंदिर को हम पाथण पर लिखी एक घार्मिक कविता कह सकते हैं । *Gloss [my translation]:* The Udayeśvara temple can be c
+- C05-ARTPAR-025 | D | ARTPAR (T5) | p. 53 | S6 | "प्रपरा-जितणच्छा" (२१३, ३२-३४) में वर्णित इस सम्मिलित प्रतिमा के सभी लक्षण इस प्रतिमा में है । मुख्य देवता समूं है प्रोर
+- C05-BHOJA-TIMES-003 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | Vdayesvara or NlJakanthesvara Temple The UdayeSvara temple was built by the Paramara king Udaya- ditya at Udayapur templ
+- C05-BHOJA-TIMES-006 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | The mighty gable over the antarala, rising again in successive levels, serves as an effective bond between the super str
+- C05-BHOJA-TIMES-010 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | The ‘^ikhara’ rises with a slight curvature above the unbroken vertical spines, in continuation of the central band belo
+- C05-BHOJA-TIMES-011 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | 139) thinks that the Udayapura temple shows, “by its style an affinity to the Chandella group of temples at Khajuraho.” 
+- C05-BHOJA-TIMES-012 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | ‘Nagara’ temple style of Dekkan.* The sanctum and the ‘marn^apa’ rise on a high ‘adlii^thana’ or socle. The farmer is su
+- C05-BHOJA-TIMES-013 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | In shape and treatment these mouldings have a general likeness to those of the Khajuraho temples. But with these the aff
+- C05-BHOJA-TIMES-014 | D | BHOJA-TIMES (T5) | no page; Foreword | S2 | The last example can be seen in the Udayesvara temple at Udaipur which incorporates all the typical features of a Bhumij
+- C05-BHOJA-TIMES-015 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | The principal scheme of the composition, according to Stella Kramrisch' is, a great correspondence of the structure and 
+- C05-BHOJA-TIMES-016 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | The temples at Arang and Rahilya and that of Savarl- Narayana near Kharod (all in central India) exhibit each certain of
+- C05-BHOJA-TIMES-021 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S3 | arc in the shape of faceted pilasers as in the Ambarnatha. They are angular, because of the star-shaped plan Every chase
+- C05-BHOJA-TIMES-028 | D | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | The image of the Sarasvati’ Mandir (temple) a sort of a university of learning at Dhara, shows Paramara sculp- ture at i
+- C05-BHOJA-TIMES-029 | D | BHOJA-TIMES (T5) | no page; Foreword | S4 | In the Udayesvara temple the two sculptures representing Parvati and Sarasvati are exquisitely carved. They very well ta
+- C05-JAGTA-HI-001 | D | JAGTA-HI (T8) | p. 9 | S1 | गली के आखिर में एक बहुत पुराना पत्थर का विशाल दरवाजा नजर आता है, जिसके दूसरी तरफ पर्मर राजाओं के दौर की इस इलाके की सबसे
+- C05-JAGTA-HI-002 | D | JAGTA-HI (T8) | p. 28 | S1 | सही जगह स्थापित करने के लिए अनगिनत कुशल कारीगर और दक्ष श्रमिक परमारों की कार्यशालाओं से यहां आए। वास्तुविदों के शिविर मे
+- C05-JAGTA-HI-003 | D | JAGTA-HI (T8) | p. 108 | S1 | मंदिर कब्जे में आने के बाद उसे तोड़ने का काम भी शुरू कर दिया गया था और पहली खेप में सामने आने वाली अंदर-बाहर की हर मूर्त
+- C05-JAGTA-HI-004 | D | JAGTA-HI (T8) | p. 122 | S1 | उदयपुर पत्थरों पर लिखी हुई एक कविता है, जो परमार राजाओं ने अपने आराध्य भगवान शिव की स्तुति में गाई थी। इस स्तुति को रचने
+- C05-JAGTA-HI-005 | D | JAGTA-HI (T8) | p. 126 | S1 | बीस साल से ज्यादा समय में बनकर तैयार हुआ यह मंदिर निर्माणाधीन रहते ही दूर-दूर तक चर्चाओं का विषय रहा होगा और ध्वजारोहण क
+- C05-JAGTA-HI-006 | D | JAGTA-HI (T8) | p. 152 | S1 | ख्याति दूर-दूर तक है, उदयपुर के शिलालेखों में वह उदयेश्वर मंदिर के रूप में दर्ज है। समकालीन शिलालेखों में कहीं नीलकंठेश्
+- C05-JAGTA-HI-007 | D | JAGTA-HI (T8) | p. 160 | S2 | तल से शिखर तक मंदिर की ही कई प्रतिकृतियां एक के ऊपर संजोकर रखी गई हैं। मूर्तियों और नक्काशी से कोई जगह रिक्त नहीं। *Glos
+- C05-JAGTA-HI-008 | D | JAGTA-HI (T8) | p. 164 | S2 | - उदयेश्वर महादेव परमारकालीन निर्माण का सर्वोत्कृष्ट नमूना माना जाता है। वास्तु की शास्त्रीय शब्दावली में इसे भूमिज स्था
+- C05-JAGTA-HI-010 | D | JAGTA-HI (T8) | p. 15 | S4 | जब मैं उनके पास आया तो देवी की एक मूर्ति पर नजर पड़ी। जमीन से करीब साढ़े छह-सात फुट ऊपर मंदिर की बाहरी भित्ति पर वह अनगि
+- C05-JAGTA-HI-011 | D | JAGTA-HI (T8) | p. 24 | S4 | मैं हिल गया। जैसे वह बात कर रही थी। वह कुछ बोल या बता न सके इसलिए हमलावरों ने उसका सिर ही धड़ से अलग कर दिया गया था। कुछ
+- C05-JAGTA-HI-012 | D | JAGTA-HI (T8) | p. 111 | S4 | लेकिन डॉ. नारायण व्यास ने उस मूर्ति को ध्यान से देखने के बाद लौटे हुए रास्ते में बताया कि वह यक्ष की प्रतिमा है। *Gloss 
+- C05-JAGTA-HI-013 | D | JAGTA-HI (T8) | p. 160 | S4 | कुछ मूर्तियों को जरा गौर से देखिए तो किसी का हाथ टूटा है, किसी के सिर गायब हैं। कई पर प्रहारों के चिह्न स्पष्ट हैं। वे म
+- C05-INTACH-001 | D | INTACH (T7) | p. 45 | S4 | There are three such sculptures in series and an isolated Ganesha in a rook. The sculptures are standing and sitting pos
+- C05-INTACH-002 | D | INTACH (T7) | p. 79 | S4 | It is located on the outskirts of Udaypur to the east at GPS 23.53.16.8 N and 78.03.14.8 E. The structure is an unestabl
+- C05-INTACH-003 | D | INTACH (T7) | p. 98 | S4 | The Udaypur and its neighbouring village—Sumai Mahali and Muradur are famous for the sculptures of Top-11e century CE.
+- C05-INTACH-004 | D | INTACH (T7) | p. 100 | S4 | The village Smari is located in Basoda Tehsil of Vidisha District. The village is situated at a distance of 3 kilometers
+- C05-INTACH-005 | D | INTACH (T7) | p. 101 | S4 | The sculpture showing the image of Vishnu (Figure 23-2) in a standing posture is known as shtamka. The sculpture is appr
+- C05-INTACH-006 | D | INTACH (T7) | p. 101 | S4 | Vishnu shown in this sculpture is in Bhoja form which expresses enjoyment of wordly pleasures and hence worshipped by ma
+- C05-INTACH-007 | D | INTACH (T7) | p. 105 | S4 | The sculpture shown in (Figure 237) is of Lord Shiva and Goddess Parvati. The figure is carved on the right side of the 
+- C05-INTACH-008 | D | INTACH (T7) | p. 105 | S4 | The back panel of the sculpture is carved as the vehicles for both the deities i.e. Nandi of Lord Shiva and Tiger of Sil
+- C05-INTACH-009 | D | INTACH (T7) | p. 111 | S4 | The above-show sculpture (Figure 248) of Varaha is placed in the precinct of Humana temple in Muradpur Village. The scul
+- C05-INTACH-010 | D | INTACH (T7) | p. 112 | S4 | A female figure, which is depicting another Earth is shown standing on the front of the boar on the left side. The sculp
+- C05-INTACH-011 | D | INTACH (T7) | p. 112 | S4 | carved into a grey stone in the boar form of Varaha placed on a palan pedestal. The sculpture is approximately seven fee
+- C05-MADHYABHARAT-002 | D | MADHYABHARAT (T5) | p. 115 | S1 | The temple stands in a spacious square court-yard with a rectangular projection in the centre of each side. It is enclos
+- C05-MADHYABHARAT-003 | D | MADHYABHARAT (T5) | p. 115 | S1 | Each entrance consisted of a flight of steps guarded on either side by a figure of a dwarapala or door-keepers. All the 
+- C05-MADHYABHARAT-004 | D | MADHYABHARAT (T5) | p. 116 | S1 | Two of these shrines have disappeared altogether, while the rest exist in the various stages of ruin. The shrine in fron
+- C05-MADHYABHARAT-005 | D | MADHYABHARAT (T5) | p. 116 | S1 | This principal temple consists of a garbhagriha or shrine room a sabhamandapa or a hall and three praveshamandapas or en
+- C05-MADHYABHARAT-007 | D | MADHYABHARAT (T5) | p. 48 | S2 | In the long array of these sacred structures the Udayeshwar temple stands supreme representing the best of what the anci
+- C05-MADHYABHARAT-008 | D | MADHYABHARAT (T5) | p. 116–117 | S2 | The hall and porches are surmounted with low pyramidal roofs while the shrine is crowned with a tall and beautifully des
+- C05-MADHYABHARAT-009 | D | MADHYABHARAT (T5) | p. 117 | S2 | The temple is a fine example of the Aryavarta or Indo-Aryan style of temple architecture in its fully developed stage. T
+- C05-MADHYABHARAT-012 | D | MADHYABHARAT (T5) | p. 148 | S2 | Artistically and architecturally the shikhārdā of the temple should be considered to be its most attractive feature. It 
+- C05-MADHYABHARAT-014 | D | MADHYABHARAT (T5) | p. 54 | S4 | In the country-side numerous temples are still standing at Suha-nia, Padhavli, Surwaya, Kadiwaha, Udaipur, Gyaraspur, Ne
+- C05-MADHYABHARAT-015 | D | MADHYABHARAT (T5) | p. 116 | S4 | The exterior of the temple is profusely adorned with sculptures representing various gods and goddesses of the Hindu Pan
+- C05-KRAM-1-031 | D | KRAM-1 (T5) | p. 268 | S1 | the pillars, whereas in the Nilakanthésvara Temple in Udayapur (Fig., p. 256) it is to be measured from the inner corner
+- C05-KRAM-1-032 | D | KRAM-1 (T5) | p. 269 | S1 | These are the most perfect proportions; or else it should be double—it has twice the width of the Prāsāda in the Udayapu
+- C05-KRAM-1-033 | D | KRAM-1 (T5) | p. 269 | S1 | The very substantial walls of this stellate Nirandhāra temple extend from its perimeter to the Garbhagrha and Mahāmānaḍa
+- C05-KRAM-1-034 | D | KRAM-1 (T5) | p. 269 | S1 | PLAN OF NILAKANTHESVARA TEMPLE (1059—1080 A.D.). Udayapur, Gowalior (Pls. LII—III).
+- C05-KRAM-1-049 | D | KRAM-1 (T5) | p. 203 | S2 | The pyramidal superstructure composed of tiers and crowned by an Āmalaka is frequently carved on relief slabs and on lin
+- C05-KRAM-1-052 | D | KRAM-1 (T5) | p. 229 | S2 | Essentially however there is no difference in type between a temple like the Nilakanthēśvara at Udayapur of the 11th cen
+- C05-KRAM-1-078 | D | KRAM-1 (T5) | p. 259 | S3 | VII) of the Lakṣmaṇa Temple in Khajuraho and the Nilakaṇtheśvara Temple in Udayapur (Pl. XLII) are given on p.
+- C05-KRAM-1-081 | D | KRAM-1 (T5) | p. 273 | S3 | Profile of socle and lowermost part of wall*, Nilakanthésvara Temple, Udayapur, Gwalior (cf. Pl. XLIII), 1059-1080 A.D.
+- C05-PARTEMPLES-001 | D | PARTEMPLES (T5) | p. 45 | S1 | The plan of the manḍapa of the Nilakanthésvara temple is elaborate. It has a gudhamandapa which has dvāramaṇḍapas on two
+- C05-PARTEMPLES-002 | D | PARTEMPLES (T5) | p. 3 | S2 | A discussion about the 'bhūmija' temple architecture by Krishnadeva in 'Studies in Indian Temple Architecture' (1975) in
+- C05-PARTEMPLES-003 | D | PARTEMPLES (T5) | p. 3 | S2 | In 'The Hindu Temple' (1946), a regional style was first identified by Stella Kramrisch which is classified as 'Bhumi-ja
+- C05-PARTEMPLES-004 | D | PARTEMPLES (T5) | p. 9 | S2 | Representing the quintessence of the Bhūmija temple style that was nurtured and developed by the Paramāras, the Nilakant
+- C05-PARTEMPLES-008 | D | PARTEMPLES (T5) | p. 15 | S2 | Of a saptaratha stellate plan and navabhūma in elevation, its socle is disproportionately small for its height. It also 
+- C05-PARTEMPLES-009 | D | PARTEMPLES (T5) | p. 38 | S2 | At the same time, the embellishments of other such Mālava temples of the Bhūmija class found at Un, Udaypur, Vidisha and
+- C05-PARTEMPLES-010 | D | PARTEMPLES (T5) | p. 49 | S2 | Temples of Un are noteworthy because artisans of Nilakanthesvara temple (Udayapur), Siddhesvara temple (Nimabar) and Śiv
+- C05-PARTEMPLES-011 | D | PARTEMPLES (T5) | p. 45 | S3 | The number and variety of mouldings of its vedibandha are less than that of the Nilakan theśvara. In the Nilakan theśvar
+- C05-GAZ-001 | D | GAZ (T7) | p. 346 | S1 | The temple stands in a spacious square courtyard again enclosed with a dwarf compound wall, the outer face of which was 
+- C05-GAZ-002 | D | GAZ (T7) | p. 347 | S1 | to the east, all having flight of steps guarded on either side by a figure of a door-keeper. Of the eight attendant shri
+- C05-GAZ-003 | D | GAZ (T7) | p. 338 | S2 | It has an old temple assignable to the 10th century A.D. It is known as Neelakantheshwara temple. It shelters some broke
+- C05-GAZ-004 | D | GAZ (T7) | p. 347 | S2 | The spire is tall and beautifully designed, while the hall and porches have pyramidal roofs. The spire is unrivalled in 
+- C05-GAZ-005 | D | GAZ (T7) | p. 347 | S2 | The temple is a fine example of Indo-Aryan style of temple architecture in its fully developed stage. The style of sculp
+- C05-GAZ-006 | D | GAZ (T7) | p. 347 | S4 | The exterior of the temple is profusely adorned with sculptures representing various deities of the Hindu pantheon, like
+- C05-TEMPLES-IND-005 | D | TEMPLES-IND (T5) | p. 97 | S1 | The finest temples were built at Un (District Nimar) and at Udaipur (District Vidisha). The last, known as the temple of
+- C05-TEMPLES-IND-006 | D | TEMPLES-IND (T5) | p. 98 | S1 | surrounded by 7 subsidiary shrines, stands on an extensive platform-terrace which was originally approached through a st
+- C05-TEMPLES-IND-025 | D | TEMPLES-IND (T5) | p. 98 | S4 | The voluptuous figures of apsarases represented on the balustrade decorating the three entrance-porches are notable for 
+- C05-HARDY-005 | D | HARDY (T5) | p. 194 | S1 | The Udayeshvara, which has no surviving precedents, is already the deluxe model, based on a 32-point star (equivalent to
+- C05-HARDY-006 | D | HARDY (T5) | p. 2 | S2 | • Udayeshvara Temple, Udayapur
+- C05-RAJABHOJ-EN-002 | D | RAJABHOJ-EN (T9) | p. 46 | S2 | Nine ruins of ancient temples lie here. The art here resembles the stone-craft of Udayeshvar.
+- C05-RAJABHOJ-EN-003 | D | RAJABHOJ-EN (T9) | p. 62 | S2 | Like Dhar, Ujjayini, Udaipur and Gyaraspur, at Mandu too excellent examples of Paramara art are found.¹ Like Dhar, at Ma
+- C05-CII-002 | D | CII (T1) | p. 131 | S5 | After the introductory Oni namah Sivaña, the inscription has four mangala-slōkas, the first two of which are devoted to 
+- C05-SERPENT-001 | D | SERPENT (T5) | p. 1 | S2 | The Śiva temple of Udaypur in the Vidisha district of Madhya Pradesh, also known as Nīlakaṇtheśvara or Udayeśvara, is a 
+- C05-PANDE-078 | C | PANDE (T5) | p. 53 | S4 | Thus is the image of Cāmuṇḍā.'⁸⁷ The entire description, thus, paints her to be of terrible, cruel and fearsome form, on
+- C05-PANDE-106 | C | PANDE (T5) | p. 93 | S4 | One may draw attention to the Dwarka temple of Gujarat where there is long tradition, which still continues, of hoisting
+- C05-PANDE-107 | C | PANDE (T5) | p. 93 | S4 | Karaṇa is a sequence of hand and foot movements of dance culminating in a pose or stance. The Nāṭyaśāstra [chapter 4] de
+- C05-PANDE-108 | C | PANDE (T5) | p. 191 | S4 | Listen to the attributes of Cāmunḍā, the goddess who was the slayer of Caṇḍa. She is emaciated, of cruel form, with a fo
+- C05-PANDE-118 | C | PANDE (T5) | p. 99 | S5 | The human body is a microcosmic parallel to the macrocosm. This was traditionally known as the parallelism of piṇḍa (bod
+- C05-PANDE-119 | C | PANDE (T5) | p. 100–101 | S5 | The system believes in thirty-six tattvas of which twenty-five are the same as in Sāṃkhya. Beyond them, eleven more tatt
+- C05-PANDE-120 | C | PANDE (T5) | p. 101 | S5 | The first five *tattvas* constitute the pure order, i.e. the *śuddha* *addhvā*. The rest constitute the impure order.
+- C05-PANDE-123 | C | PANDE (T5) | p. 104 | S5 | The Śaiva Siddhānta system postulates thirty-six *tattvas* or basic constituents of reality. Out of these twenty-five ar
+- C05-PANDE-124 | C | PANDE (T5) | p. 104 | S5 | The three basic constituents of Śaiva Siddhānta are *pati*, *paśu* and *pāśa*. The Śaiva Siddhāntis make an ontological 
+- C05-PANDE-125 | C | PANDE (T5) | p. 104 | S5 | The first five pure principles are Śiva, Śakti, Sadāśiva, Īśvara and Vidyā. They are different moments of infinite consc
+- C05-PANDE-126 | C | PANDE (T5) | p. 118 | S5 | Verse 2: That which is not born, that which is not destroyed, that which does not obtain salvation (itself) but bestows 
+- C05-PANDE-127 | C | PANDE (T5) | p. 16 | S6 | The earliest textual reference to such figures is seen in the Viṣṇudharmottara Mahāpurāṇa in the context of the renditio
+- C05-PANDE-128 | C | PANDE (T5) | p. 22 | S6 | From the 10th to the 12th century, the syncretic images of the trinity, i.e. Brahmā, Viṣṇu and Maheśa along with Sūrya h
+- C05-PANDE-130 | C | PANDE (T5) | p. 49 | S6 | The Aparājitapṛcchā describes the goddess thus: “In the right hands are the spear, sword, thunderbolt, discus and arrow.
+- C05-PANDE-131 | C | PANDE (T5) | p. 50 | S6 | The Kāśyapa Śilpaśāstra also gives an elaborate description of the goddess. She is described as “serene, with a dusky co
+- C05-PANDE-137 | C | PANDE (T5) | p. 71 | S6 | The *Viṣṇudharmottara Mahāpurāṇa* says: “Brahmā should be made seated on a lotus petal and should have four faces. Sāvit
+- C05-PANDE-141 | C | PANDE (T5) | p. 134 | S6 | Śiva has matted locks marked by the moon, is glorious, dark-throated, with a well-balanced picturesque tiara and luminou
+- C05-PANDE-142 | C | PANDE (T5) | p. 134 | S6 | Brahmā should be made like a flame of fire (analārcīḥpratīmaḥ) greatly effulgent. 3. Of stout limbs, having white flower
+- C05-PANDE-143 | C | PANDE (T5) | p. 135 | S6 | His form should be somewhat child like, attractive, auspicious, pleasant looking, with a cheerful countenance, splendid,
+- C05-PANDE-144 | C | PANDE (T5) | p. 135 | S6 | 31. Those who want victory over others should establish the image of Skanda in their towns. In the kheṭaka, he should be
+- C05-PANDE-145 | C | PANDE (T5) | p. 136 | S6 | Thus is Viṣṇu described to whom obeisance is made by gods and demons. The lord of the gods has a thousand eyes, bears th
+- C05-PANDE-146 | C | PANDE (T5) | p. 137 | S6 | Inferior to the yakṣas are the gandharvas and inferior to these are the nāgas. Inferior to the nāgas are the rākṣasas wh
+- C05-PANDE-147 | C | PANDE (T5) | p. 149 | S6 | Now is being described the Ardhanārīśvara deity with his characteristics. The right side of the body is of the form of a
+- C05-PANDE-148 | C | PANDE (T5) | p. 149 | S6 | The deity (Brahma) should be shown with four faces, four arms and beautiful eyes. He should have red earrings, with a lo
+- C05-PANDE-149 | C | PANDE (T5) | p. 150 | S6 | Now is described the form of Umā Maheśvara. 741. It (the form) should have two or four arms adorned with a pile of matte
+- C05-PANDE-150 | C | PANDE (T5) | p. 150 | S6 | Now I will describe the form of Harihara who destroys all sins. 747. On the right side is the half belonging to Śiva. Th
+- C05-PANDE-151 | C | PANDE (T5) | p. 151 | S6 | Now I will describe the image of Vināyaka fit for painting. 761. With the face of an elephant, three eyes, four arms and
+- C05-PANDE-152 | C | PANDE (T5) | p. 151 | S6 | With the stance of tribhaṅgī (thrice flexed) should be shown Mahiṣāsuramardinī. On her right is (shown) a trident, sword
+- C05-PANDE-153 | C | PANDE (T5) | p. 152 | S6 | Now I will describe the characteristics of the Mothers-Brahmānī, Vaiṣṇavī and Māheśvari, Kaumārī, Vāsavī and Nārsimhī as
+- C05-PANDE-154 | C | PANDE (T5) | p. 153 | S6 | Red in hue, of great lusture, two-armed, carrying lotuses is the sun. 820. He stands on a chariot with one wheel, drawn 
+- C05-PANDE-155 | C | PANDE (T5) | p. 154 | S6 | Their names are Daṇḍa and Piṅgala. They carry sword and shield. There is Dhātā with a pen in his hands and recording the
+- C05-PANDE-156 | C | PANDE (T5) | p. 176 | S6 | Sadya, Vāma, Aghora, Tatpuruṣa, Īśāna and Mṛtyuñjaya, Vijaya, Kīraṇākṣa, Aghorāstra, Śrīkaṇṭha, Mahādeva, these are reme
+- C05-PANDE-157 | C | PANDE (T5) | p. 176 | S6 | 23-24. Having a garland of skulls, fair, with the moon as head ornament, wearing the tiger skin, adorned with the lord o
+- C05-PANDE-158 | C | PANDE (T5) | p. 177 | S6 | 33-34. Being seated in lotus seat (padmāsana), both the hands placed in yogāsana, five faced; with protective gesture an
+- C05-PANDE-159 | C | PANDE (T5) | p. 177 | S6 | 40-42. With six faces, twelve arms, three eyes, riding a peacock§, muscular, with a youthful form, with an arrow, lance,
+- C05-PANDE-160 | C | PANDE (T5) | p. 179 | S6 | 13. With hands as boons-giving, holding the noose, lotus and water-pot, Varuna should be made riding a crocodile and in 
+- C05-PANDE-161 | C | PANDE (T5) | p. 179 | S6 | With boons-giving hands, with hands bearing the thunderbolt, goad and water-pot, sitting on an elephant, the thousand-ey
+- C05-PANDE-162 | C | PANDE (T5) | p. 179 | S6 | 16. With boon-giving gesture, (bearing) a trident, snake and citron, seated on a bull should be made Īśāna of white hue.
+- C05-PANDE-163 | C | PANDE (T5) | p. 180 | S6 | 32-33. Four-faced, eight-armed, placed in one *cauki* or pedestal, erect face (non-tilted); the Sun is with lotus in han
+- C05-PANDE-164 | C | PANDE (T5) | p. 180 | S6 | In the right hand, he has the citron and trident. 26. One left hand is embracing (Umā) the other has a serpent. The hand
+- C05-PANDE-165 | C | PANDE (T5) | p. 180 | S6 | Half is the form of a woman adorned with all the ornaments. The left side is a male with a skull and a girdle on the wai
+- C05-PANDE-166 | C | PANDE (T5) | p. 181 | S6 | 1-2. According to the differentiation of the Vedas like Rgveda etc. and ages like Kṛta and four armed Brahmā, Pitāmaha, 
+- C05-PANDE-167 | C | PANDE (T5) | p. 181 | S6 | 8-9. Brahmā has a beautiful face, with an earring in the ear, with a diadem and garland which enhance his beauty. He has
+- C05-PANDE-168 | C | PANDE (T5) | p. 187 | S6 | 6-7. Dandī and Pingala, Ānanda as well as Nandaka, Citra, Vicitra, Kiranākṣa and Sulocana - all these should be made of 
+- C05-PANDE-169 | C | PANDE (T5) | p. 189 | S6 | With four arms, three eyes and adorned by all ornaments, she is to be made seated on an iguana and is the bestower of al
+- C05-PANDE-170 | C | PANDE (T5) | p. 189 | S6 | 9. Pārvatī, born of the (Himālaya) mountain has rosary, waterpot, Śiva (linga) and the chief of the gaṇas (Gaṇeśa) and h
+- C05-PANDE-171 | C | PANDE (T5) | p. 190 | S6 | After this, the nine types of Durgās will be spoken of by me. 26-27. In the beginning is Mahālakṣmī, Nandā as well as Kṣ
+- C05-PANDE-172 | C | PANDE (T5) | p. 190 | S6 | 28. Mahālakṣmī, the bestower of happiness, bears the boons-giving gesture, trident, shield and drinking cup and has a sn
+- C05-PANDE-173 | C | PANDE (T5) | p. 191–192 | S6 | With a string of skulls in her ears and with skull-topped mace and spear, emaciated, of cruel form, with bright teeth, i
+- C05-KRAM-2-001 | C | KRAM-2 (T5) | p. 12 | S1 | The Hindu temple is a monument, whose outer surface consists of sculptures. The Mandapas, the various halls, preceding t
+- C05-KRAM-2-002 | C | KRAM-2 (T5) | p. 13 | S1 | The temple has no façade; it faces the four directions. Its walls however are not four surfaces meeting at right angles.
+- C05-KRAM-2-003 | C | KRAM-2 (T5) | p. 30 | S1 | Facing the entrance, outside the Prāsāda, in the open (Pls. LVIII, XXXVI), or in the Mandapa (Pl. LII), is the image of 
+- C05-KRAM-2-004 | C | KRAM-2 (T5) | p. 78 | S1 | The temple stands on a high platform; four small shrines in the corners (cf. plan of the Laksmāna temple, built in 954 A
+- C05-KRAM-2-005 | C | KRAM-2 (T5) | p. 79 | S1 | It is a Sāndhāra Prāsāda whose Pradakṣiṇa or ambulatory is extended in the Mahāmaṇḍapa; two pillars demarcate the Antarā
+- C05-KRAM-2-006 | C | KRAM-2 (T5) | p. 80 | S1 | I); in dark openings below projecting rooflets (chādya) it stretches along its length, within its body, a band of measur
+- C05-KRAM-2-010 | C | KRAM-2 (T5) | p. 107 | S1 | 256); in the ground plan it is the incision which separates, and at the same time connects, Mandapa and Prāsāda. Here it
+- C05-KRAM-2-013 | C | KRAM-2 (T5) | p. 61 | S2 | The Āmalaka is the crown of a Nāgara temple. Above the truncated body of its Šikhara it clasps the shaft (venu; Pl. I) \
+- C05-KRAM-2-014 | C | KRAM-2 (T5) | p. 61 | S2 | \( ^{161} \) The earliest yet known crowning Āmalaka of a structural temple has been unearthed in fragments at Nāgari, C
+- C05-KRAM-2-015 | C | KRAM-2 (T5) | p. 78 | S2 | The Kandariya temple measures 102' 3" in length, 66' 10" in width and is 101' 9" high (B. L. Dhama, l.c., p. 9).
+- C05-KRAM-2-016 | C | KRAM-2 (T5) | p. 80 | S2 | The Sukanāsā is the last halting point (Pls. I, XLVIII, XLIX); its articulation is similar to that of the superstructure
+- C05-KRAM-2-017 | C | KRAM-2 (T5) | p. 84 | S2 | The rhythmical compactness of the Šikhara and the dwindling of sculptured form into the texture of the monumental shape 
+- C05-KRAM-2-018 | C | KRAM-2 (T5) | p. 84 | S2 | The Mūlamānjari (the 'root' or central, main Sīkhara) is a Latārekha of the Saptaratha variety; its curve is steeper tha
+- C05-KRAM-2-025 | C | KRAM-2 (T5) | p. 26 | S3 | With the wings of the wooden door opened, during Pūjā, the image is seen by the devotee in the middle of the door; the f
+- C05-KRAM-2-026 | C | KRAM-2 (T5) | p. 26 | S3 | The name for the antepagments of the door-jamb is ‘śākhā’, meaning ‘branch’. A number of branches were fixed in the grou
+- C05-KRAM-2-027 | C | KRAM-2 (T5) | p. 27 | S3 | Carved on the centre of the threshold ('udumbara'; 'bhuvangama') is a long stemmed full blown lotus, symbol of this univ
+- C05-KRAM-2-028 | C | KRAM-2 (T5) | p. 27 | S3 | Most conspicuous and significant are the large images of the River-goddesses, often accompanied by their retinues, their
+- C05-KRAM-2-029 | C | KRAM-2 (T5) | p. 28 | S3 | The door-way is an iconostasis of the descent of the Rivers, of Śakti; and of the ascent of life competing for its heave
+- C05-KRAM-2-030 | C | KRAM-2 (T5) | p. 31 | S3 | The closed body of the temple is full of openings not factually but symbolically. As a rule there is only one opening, t
+- C05-KRAM-2-031 | C | KRAM-2 (T5) | p. 32 | S3 | In its largest form as exemplified on the Hindu temple, the Gavakşa is an antefix known as Šukanāsā; it shields the stru
+- C05-KRAM-2-032 | C | KRAM-2 (T5) | p. 35 | S3 | Pre-eminent amongst them is the Face of Glory, the Kirttimukha. Its essential place is at the apex of the Gavakşa. It fi
+- C05-KRAM-2-033 | C | KRAM-2 (T5) | p. 36 | S3 | but features in addition on the front of the threshold of the Garbhagrha" to either side of the lotus stalk in the centr
+- C05-KRAM-2-034 | C | KRAM-2 (T5) | p. 37 | S3 | It has its most explicit form on Indian temples from the tenth century onwards, were it is placed on the apex of the Gav
+- C05-KRAM-2-035 | C | KRAM-2 (T5) | p. 82 | S3 | The same mouldings, but different in their sequence and proportion, are seen here projecting from the Mānasūtra; the soc
+- C05-KRAM-2-036 | C | KRAM-2 (T5) | p. 82 | S3 | The mouldings of the socle, the Piṭha, in the temples of Khajuraho, are relatively more restrained than those of the low
+- C05-KRAM-2-037 | C | KRAM-2 (T5) | p. 85 | S3 | I) their effect is slight; the horizontal theme which remains in power is that of the corrugated Āmalakas punctuated by 
+- C05-KRAM-2-038 | C | KRAM-2 (T5) | p. 85 | S3 | The main parts of the surround of the door are: the high threshold; the lower part of the jambs with the large images; t
+- C05-KRAM-2-039 | C | KRAM-2 (T5) | p. 88 | S3 | The Vedi is here the vertical portion of the wall, below the lotus petal edge; it corresponds in its position to the 'jā
+- C05-KRAM-2-046 | C | KRAM-2 (T5) | p. 14 | S4 | devatās, the main aspects of the divinity whose image or symbol is enshrined in the Garbhagrha. Placed within the body o
+- C05-KRAM-2-047 | C | KRAM-2 (T5) | p. 15 | S4 | In belts around the body of the temple, and in vertical sequences where one image is superimposed on the other, the figu
+- C05-KRAM-2-048 | C | KRAM-2 (T5) | p. 17 | S4 | The main aspects, for example, of the God in the temple such as certain Avatars, in a Visnu temple; or the divinities mo
+- C05-KRAM-2-049 | C | KRAM-2 (T5) | p. 19 | S4 | Ends of garments flutter to enhance their movements and be a foil to their rhythms; whereas folded scarves clasp their f
+- C05-KRAM-2-050 | C | KRAM-2 (T5) | p. 20 | S4 | It carries them, sustains them in the most exacting contortions, bears them aloft when they are represented as flying an
+- C05-KRAM-2-051 | C | KRAM-2 (T5) | p. 28 | S4 | \( ^{40} \) This then is the celestial region whence the rivers have descended, Gāngā, the most sacred of all, celestial
+- C05-KRAM-2-052 | C | KRAM-2 (T5) | p. 29 | S4 | The guardians of the threshold thus are the most enduring images of the door \( ^{44} \) where perils must be warded off
+- C05-KRAM-2-053 | C | KRAM-2 (T5) | p. 36 | S4 | It usually has the mien of a lion; and is therefore also known as Simha-mukha, the Lion's face. It is horned; the frown 
+- C05-KRAM-2-054 | C | KRAM-2 (T5) | p. 39 | S4 | The Face of Glory on the Hindu Temple has its essential position on the apex of the Sukanāśā, at a definite proportionat
+- C05-KRAM-2-055 | C | KRAM-2 (T5) | p. 43 | S4 | One legend, similarly recounted in the 'Padmapurāna' (Uttarakhanda, X. 10 f. XI. 36-44) and the 'Skandapurāna' (Visnukha
+- C05-KRAM-2-056 | C | KRAM-2 (T5) | p. 43 | S4 | Vāstu is laid to rest at the base of the Temple and is its 'plan'; Rāhu's head is fixed above, on the pinnacle of the Śu
+- C05-KRAM-2-057 | C | KRAM-2 (T5) | p. 46 | S4 | Šārdūla is also the name of an animal shape ‘made by art’. (cf. kṛtrima-grāsa; ‘Samarānɡanāsūtradhāra’, LVII. 777). It i
+- C05-KRAM-2-058 | C | KRAM-2 (T5) | p. 46 | S4 | \( ^{108} \) The Lion and the Sārdūla appear at different periods, in the various schools, in different parts of the sac
+- C05-KRAM-2-059 | C | KRAM-2 (T5) | p. 47 | S4 | This protean animal made by art, has always the body of a lion, and in its more important versions, also its face. It is
+- C05-KRAM-2-060 | C | KRAM-2 (T5) | p. 49 | S4 | - The group of the Lion and man is carved in the round and placed in front of the body of the temple. It shows man as he
+- C05-KRAM-2-061 | C | KRAM-2 (T5) | p. 50 | S4 | The most exalted temple-type, the Meru, must be built by a Ksatriya only as its patron, the architect being a Brāhmaṇa o
+- C05-KRAM-2-062 | C | KRAM-2 (T5) | p. 51 | S4 | Surasundari, which means Celestial Beauty, \( ^{125} \) is but one of the names and types in which the image of Sakti is
+- C05-KRAM-2-063 | C | KRAM-2 (T5) | p. 52 | S4 | The Celestial Beauties belong to the Āvaraṇa-devatās, “surrounding divinities”. Their number is large. Their figures are
+- C05-KRAM-2-064 | C | KRAM-2 (T5) | p. 52 | S4 | On the walls of the temples they are figured in all directions as Celestial Beauties. They perform this work by the side
+- C05-KRAM-2-065 | C | KRAM-2 (T5) | p. 53 | S4 | Other names and forms, other image of Sakti are: Apsarā, \( ^{133} \) Nātakā, \( ^{134} \) Yakṣini \( ^{135} \) and Dig 
+- C05-KRAM-2-066 | C | KRAM-2 (T5) | p. 53 | S4 | \( ^{137} \) The group of the ‘Woman and Tree’ is known as Śalabhañjikā ; or Śalabhañji (S. S. LXVI. 30-32). Cf. Coomara
+- C05-KRAM-2-067 | C | KRAM-2 (T5) | p. 53 | S4 | \( ^{136} \) Dig Devis or Dig Nāyūkās are the Women of the Quarters; they are frequently referred to in inscriptions (Ca
+- C05-KRAM-2-068 | C | KRAM-2 (T5) | p. 57 | S4 | Breath, the vital manifestation of the Spirit, is the support and prime mover of all action; it is shown having formed a
+- C05-KRAM-2-069 | C | KRAM-2 (T5) | p. 58 | S4 | the course of thousands of years, \( ^{150} \) in procession, or in couples confronting each other. Where, as in Pl. LXX
+- C05-KRAM-2-070 | C | KRAM-2 (T5) | p. 60 | S4 | Gods and ascetics therefore should be represented in their love sport (kridā, līlā) on the walls of temples \( ^{158} \)
+- C05-KRAM-2-071 | C | KRAM-2 (T5) | p. 81 | S4 | The Lion is a Devourer (grāsa); it is shown here with the whole face (akṣata-mukha; S.S. LVII. 643), including the lower
+- C05-KRAM-2-072 | C | KRAM-2 (T5) | p. 83 | S4 | The host of gods, in scenes of their sports (kridā-arambha; S.S. LVII. 644 f) is established in this narrow and high bel
+- C05-KRAM-2-073 | C | KRAM-2 (T5) | p. 83 | S4 | The triple belt of images as shown in this Plate has its major sculptures in the two central rows of the wall; their pos
+- C05-KRAM-2-074 | C | KRAM-2 (T5) | p. 86 | S4 | The large female figures in the middle of the Sākhās are badly damaged but their extremely bent postures show them at on
+- C05-KRAM-2-075 | C | KRAM-2 (T5) | p. 86 | S4 | The second but lowest pair might have held emblems of Visnu so that this image of Sūrya, the Sun-god, would embrace Brah
+- C05-KRAM-2-076 | C | KRAM-2 (T5) | p. 87 | S4 | The weapons held in the hands of the images of the gods represent portions of the unbearable power of the Sun which Viśv
+- C05-KRAM-2-077 | C | KRAM-2 (T5) | p. 97 | S4 | The flying four-armed Gana raises a conch shell (?) to his lips while he carries Siva in a pillared 'chariot'. The fille
+- C05-KRAM-2-078 | C | KRAM-2 (T5) | p. 97 | S4 | The highest of the three belts of sculptures is here the region of the Vidyādharas. The images of these wizards are carv
+- C05-KRAM-2-079 | C | KRAM-2 (T5) | p. 97–98 | S4 | Cāmūndī, Yakṣinī of the twenty-first Tīrthanīkara, resembles the Hindu goddess Cāmūndā, the seventh Mother (mātrkā). In 
+- C05-KRAM-2-080 | C | KRAM-2 (T5) | p. 99 | S4 | The hands of Śiva, the Lord (Iśvara) hold trident and rosary in Kataka-hasta; Pārvati, his beloved, holds up a mirror an
+- C05-KRAM-2-085 | C | KRAM-2 (T5) | p. 16 | S5 | The static perfection of the small square of the dark Garbhagrha with its plain walls is translated into the body of the
+- C05-KRAM-2-086 | C | KRAM-2 (T5) | p. 33 | S5 | Gavāksa is usually rendered as “round window” or gable window. \( ^{58} \) But Gavah (plural of ‘Gauh’) are the rays of 
+- C05-KRAM-2-087 | C | KRAM-2 (T5) | p. 41 | S5 | The Face of Glory, the Kirttimukha has thus three aspects. (1) It is the Death-head of Time (Kāla), the Devourer (grāsa)
+- C05-KRAM-2-088 | C | KRAM-2 (T5) | p. 44 | S5 | Västu is Existence and its extent. He regulates the proportions of the temple according to cosmic order and cyclical num
+- C05-KRAM-2-089 | C | KRAM-2 (T5) | p. 62 | S5 | The superstructure reduces the extent of the temple from the surface covered by its plan and perpendicular walls, to the
+- C05-KRAM-2-090 | C | KRAM-2 (T5) | p. 63 | S5 | The third naturally perforated stone is placed upon the last, the fifth layer of the Altar; the Āmalaka too, is placed a
+- C05-KRAM-2-091 | C | KRAM-2 (T5) | p. 64 | S5 | Its sheath (venu-kosā), the superstructure of the temple, shines with innumerable Gavāksas (ray-wheels) in all the direc
+- C05-KRAM-2-092 | C | KRAM-2 (T5) | p. 65 | S5 | \( ^{179} \) Inasmuch as the Āmalaka has retained its meaning as ring-stone it is a symbol of passage, of exit from this
+- C05-KRAM-2-093 | C | KRAM-2 (T5) | p. 66 | S5 | In this inverse measuring the Highest Point of the temple is taken as its ‘origin’ and starting point, which it is ontol
+- C05-KRAM-2-094 | C | KRAM-2 (T5) | p. 67 | S5 | Etymologically it is derived from the root ‘mal’, “to hold” or “to gather”; this meaning describes it in its function as
+- C05-KRAM-2-095 | C | KRAM-2 (T5) | p. 68 | S5 | Above the Āmalaka is the Stūpikā, the final, frequently made of gold, or gilded. Its most conspicuous part is the round 
+- C05-KRAM-2-096 | C | KRAM-2 (T5) | p. 69 | S5 | Brahmā, Viṣṇu and Śiva dwell in the Āmalaka tree. The ‘Skanda Purāna’, (‘Vaiṣṇava Khaṇḍa’, XII. 9-23) describes the Āmal
+- C05-KRAM-2-097 | C | KRAM-2 (T5) | p. 70 | S5 | Beneath the apex of the dome and under the Āmalaka, the house of God rests on this earth whose extent, architecturally, 
+- C05-KRAM-2-098 | C | KRAM-2 (T5) | p. 71 | S5 | The temple stands firm; it is a monument of the movement of the cosmos and leads beyond it. It is to be seen and compreh
+- C05-KRAM-2-099 | C | KRAM-2 (T5) | p. 72 | S5 | \( ^{205} \) The several parts of the temple communicate His living presence and are likened to the body of man in the s
+- C05-KRAM-2-100 | C | KRAM-2 (T5) | p. 73 | S5 | When the building is completed and consecrated, its effigy in the shape of a golden man, the Prāsāda-puruṣa, is installe
+- C05-KRAM-2-101 | C | KRAM-2 (T5) | p. 74 | S5 | Within these two movements the Hindu temple has its being; its central pillar is erected from the heart of the Vāstupuru
+- C05-KRAM-2-102 | C | KRAM-2 (T5) | p. 21 | S6 | \( ^{20} \) The ‘Samarānāganasūtradhāra’, LXXXII, 2-3 speaks of 11 Rasas adding ‘Preyas’ and ‘Pratyākṣa’ (?) to the usua
+- C05-KRAM-2-103 | C | KRAM-2 (T5) | p. 22 | S6 | Navatāla or nine face lengths is the generally accepted rule concerning the height of the images of the gods. \( ^{25} \
+- C05-KRAM-2-104 | C | KRAM-2 (T5) | p. 23 | S6 | The rules are: The proportions of the trunk are the same in the 4 types; the distance from the root of the neck to the g
+- C05-KRAM-2-105 | C | KRAM-2 (T5) | p. 24 | S6 | The Indian system of proportionate measurement of the body of the image is based on number, organically correlated to th
+- C05-KRAM-2-106 | C | KRAM-2 (T5) | p. 32 | S6 | ('Samarāṅganasūtradhāra', LVII. 37; 924; 967; 'Kāśyapasīlpa', XXII).
+- C05-KRAM-2-107 | C | KRAM-2 (T5) | p. 101 | S6 | "The sport of the Hamsas should be carved on the walls of the temple"; ('Samarāṅgaṇasūtradhāra', LVII. 360).
+- C05-KRAM-2-109 | C | KRAM-2 (T5) | p. 119 | S6 | In the upper row are Kirttimukha and Muktā-Varāla ('Samarāṅgaṇasūtradhāra', LVII. 958), the latter forming, each time, a
+- C05-KRAM-2-110 | C | KRAM-2 (T5) | p. 124 | S6 | The hundred and one possible shapes which followed the norm, are described vividly and grouped morphologically in eight 
+- C05-KRAM-2-111 | C | KRAM-2 (T5) | p. 126 | S6 | \( ^{3} \) Mekhalā in the ‘Samarāṅganasūtradhāra’ denotes a moulding of the Vedibandha; and also above the Jānghā (LVII.
+- C05-KRAM-2-112 | C | KRAM-2 (T5) | p. 132 | S6 | This laconic account suggests a central projection (bhadra) on each of the four sides, which would have three sections, 
+- C05-KRAM-2-113 | C | KRAM-2 (T5) | p. 133 | S6 | These are given most completely in LVII; the width of the Ksetra being 10, the socle, Pitha, has \(2\frac{1}{2}\) parts;
+- C05-GEOHER-010 | C | GEOHER (T7) | p. 66 | S4 | The seven mother goddesses are: Brahmi, Vaishnavi, Maheshwari, Kaumari, Varahi, Indrani, and Chamunda. Their description
+- C05-GANGULY-016 | C | GANGULY (T5) | p. 289 | S6 | (s) Samarânganasutradhâra (s) Architecture
+- C05-ARTPAR-001 | C | ARTPAR (T5) | p. 27 | S1 | Made of local sandstone, in "dry" masonry, most of the temples consist of a garbhaghra (sanctum), an antarāla (a vestibu
+- C05-ARTPAR-002 | C | ARTPAR (T5) | p. 58 | S1 | स्तम्भ दबे हुए श्रौर भयधिक्र अलंकृत है तथा कृष्ठ में वृत्ताकर वांचन है जैसे की दृष्ठ की श्रौर उलेष बिन्यास में पंचरय फका
+- C05-ARTPAR-005 | C | ARTPAR (T5) | p. 25 | S2 | Like other Brahmanical temples, two Jaina temples of this place are of Bhāmija style. Architecturally, they all belong t
+- C05-ARTPAR-006 | C | ARTPAR (T5) | p. 25 | S2 | In the latter Paramāra Period, generally the temples of the Northern part of the Paramāra empire were influenced by the 
+- C05-ARTPAR-007 | C | ARTPAR (T5) | p. 25 | S2 | Those temples of the later Paramāra Period in Anūpa region are of Bhūmija style of architecture. The distinctive feature
+- C05-ARTPAR-008 | C | ARTPAR (T5) | p. 58 | S2 | मन्दिर वास्तु के क्षेत्र में परमार-शैली की वैशिखटता इनका भूमिम जरीला की शिखर है। उसमें चार मेंईदं उहै जो केन्द्र वैश्वे 
+- C05-ARTPAR-009 | C | ARTPAR (T5) | p. 59 | S2 | एत सदिर का शिखर एक विशिष्ट प्रकार का है, यह ऊर्जेता तथा दीर्घता में उदयेवर की अपेक्षा बड़ा है तथा उसमें मालवा के परमारका
+- C05-ARTPAR-015 | C | ARTPAR (T5) | p. 27 | S4 | The adhisthāna (basement storey) and the jairghā (wall) carry ornamental mouldings and rows of sculptures of gods, godde
+- C05-ARTPAR-017 | C | ARTPAR (T5) | p. 53 | S4 | उपरोक्त अध्ययन से स्पष्ट है कि परमार काल में संयुक्त प्रतिमाओं को काफी महत्वपूर्ण स्थान दिया गया था । *Gloss [my transla
+- C05-ARTPAR-022 | C | ARTPAR (T5) | p. 62 | S4 | पाल कराल्यांतियों में गडरमल मंदिर बडोह, जिला विदिशा से पाल देवकी कृष्ण की पतिमा को प्रतिहार कालीन होते हुए भी इस विषय का
+- C05-ARTPAR-024 | C | ARTPAR (T5) | p. 51 | S6 | तालमान की दृष्टि से अधिकांशा प्रतिमाएं "देवता मृति प्रकरण" के कि अनुरूप है । भोजकत । "मोजकृत "समरांगण सूत्रधार" के अनुरू
+- C05-ARTPAR-026 | C | ARTPAR (T5) | p. 58 | S6 | मालवा के पारमार वंशीय शासकों मान्दिर वास्तु के क्षेत्र में महत्वपूर्ण योगदान है। इस वंश के प्रतिभाविकारण में उसकी कृति '
+- C05-BHOJA-TIMES-001 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | In short, c.ach temple of the period consisted of the following parts (a) The I’inu'ina :~^The Sanctuary as a whole is k
+- C05-BHOJA-TIMES-002 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | (e) Antarala As the centuries rolled on, it became a custom to unite the two buildings, thus forming an intermediate cha
+- C05-BHOJA-TIMES-004 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | ^iva-Ganas—Nandi In north India temples, he is represented as a bull, squatted on the raised pedestal facing the entranc
+- C05-BHOJA-TIMES-005 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S1 | Panchnyatam Temples of early mediaeval period have been found at Osia,^ Khnjunlho Bhuvane.^varn and Kaslimir.* 1 he Vish
+- C05-BHOJA-TIMES-007 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | The edifice normally faces east so that the early morning rays of the sun may penetrate into the holy of the holies.
+- C05-BHOJA-TIMES-008 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S1 | The most fascinating remains of the skill of iron-smiths of this period are the iron-beams, all of un wrought iron in th
+- C05-BHOJA-TIMES-009 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | the prototype of the Nagara temple with the ‘^ikhara'.i On the other hand, the ^ikhara of the northern Indian type of te
+- C05-BHOJA-TIMES-017 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | In plan the temple is always a square with a number of graduated projections in the middle of each side. These projectio
+- C05-BHOJA-TIMES-018 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | The most striking feature of the medieval ’lindu-teraples of the northern or Indo-Ar3'an type is the loftily ibbed curci
+- C05-BHOJA-TIMES-019 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | In the most ancient surviving sources mentioning temple architecture we find that the sanctuaries are classified as Naga
+- C05-BHOJA-TIMES-020 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S2 | According to the unpublished text of the Aparajita-priccha, the Nagara type is the native of the Madhyadesa - the middle
+- C05-BHOJA-TIMES-022 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S3 | The Aparajitaprccha gives the list of sixteen ornaments such as necklace, bracelets, bangles, waist ornaments, car-ring,
+- C05-BHOJA-TIMES-023 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S3 | The architecture of the period under survey had some especiality. The chief architectural characteristics were the empha
+- C05-BHOJA-TIMES-024 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | the fierce (RaudraX The former represents as having clotted hair shining with moon (Candrankitajafah) with blue neck (Ni
+- C05-BHOJA-TIMES-025 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | O.C. Ganguly^ remarks that the image is chef-d- oeuvre of rare beauty, in its exquisite serenity of pose, m its entranci
+- C05-BHOJA-TIMES-026 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | Paramara Paramara art was prolific in its sculptural output, but hardly did it ever reach a high tide of aesthetic achie
+- C05-BHOJA-TIMES-027 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | Largely and vigorously conceived and modelled in ample dimensions, the figures arc informed by classical value of form. 
+- C05-BHOJA-TIMES-030 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Social Condition | S4 | As the contemporary djnasties have much in common, they approximately represent the same pattern of ornamentation. Accor
+- C05-BHOJA-TIMES-031 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | Sri Sivaramamurti” remarks, “it is perhaps one of the most marvellous creations of the sculptor of the Paramara realm pa
+- C05-BHOJA-TIMES-032 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | The Samaranganashtradhara besides the traditional features refers to him as having a pot-belly and clotted hair and long
+- C05-BHOJA-TIMES-033 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | Samarahgapa sutradhara lays down that the image of Visnu should be represented Vaidurya-SaAkasa’ i c. having the colours
+- C05-BHOJA-TIMES-034 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Social Condition | S4 | followed by the sculptors of Paramarns, Gnhadnvalns. Kalachuris and Chandclas as they depict only two bangles in each ha
+- C05-BHOJA-TIMES-035 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Social Condition | S4 | Similarly, we find the figure of dancing Siva in one of the niches of the early Chedi temples from Chandrehi.® The figur
+- C05-BHOJA-TIMES-036 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Social Condition | S4 | Natesvara built by the Pala rulers in the 10th C.A.D. (remains of which are now in Dacca Museum) depicts a scene of Nate
+- C05-BHOJA-TIMES-037 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | artistically too, in the history of medieval sculpture.^ Here products, from the 10th to the 13th centuries turned out u
+- C05-BHOJA-TIMES-038 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | The ParamSra tradition is stored at Dhara and Mandsor in Indore and Gwalior.
+- C05-BHOJA-TIMES-039 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | The anthropo- morphic forms of Siva such as Nandisvara, Candranatha, the eleven Rudras (Ekada^a Rudras), Sadyojata Mahad
+- C05-BHOJA-TIMES-040 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S4 | Nfia-Murtis Nrta or dancing of Siva murtis have a special significance in iconography. In each temple of importance a se
+- C05-BHOJA-TIMES-041 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | The device on the finial of the Sikhara distinguished the temples of Siva and Visnu, the three-pronged trident signifyin
+- C05-BHOJA-TIMES-042 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S5 | Generally two types of ^iva icons are found, vi^, Lihga and the human form. Linga-i-cons This emblem is associated with 
+- C05-BHOJA-TIMES-043 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S5 | Sutradhara of Bhoja also deals in detail with these two forms cf Siva. Srikantha, Ananta, Lakulisa and Goraksa were the 
+- C05-BHOJA-TIMES-044 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The Samarahgana sutradhara* devotes .'everal chapters to the painting, which deal especially with the ‘rasas’ and ‘rasad
+- C05-BHOJA-TIMES-045 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The great work on architecture, the Samararlganasutra- dhara deals with the art of constructing cities, palaces and mans
+- C05-BHOJA-TIMES-046 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | containing 1384 verses.® The Samariihgana-Sutradhara,’ as has .already been pointed out, is a work on Architecture. It c
+- C05-BHOJA-TIMES-047 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | Banerjee also expresses the same view.- The Samara- nganasutradhara has devoted three chapters to Mudralogy accor- ding 
+- C05-BHOJA-TIMES-048 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The Aparajitaprccha® deals with the 26 weapons which were to be taken by different gods and goddesses. The Samarapgapa s
+- C05-BHOJA-TIMES-049 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S6 | The Samarahgana Sulradhura deals elaborately with the canons of Lahshmi icon which will be discussed in detail in a sepa
+- C05-BHOJA-TIMES-050 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The Samarai^gana-Sutradhara^ devotes a full chapter to the substances of which the Lihgas are made such as Mrt (earth), 
+- C05-BHOJA-TIMES-051 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | His works on technical sciences deseive notice. They deal with every extant technique. Among them rank the Samaranganasu
+- C05-BHOJA-TIMES-052 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | extensive literature on ‘Vilstuvidya, dealing with the principles of Indian architecture. Atleast two important works on
+- C05-BHOJA-TIMES-053 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | According to the SamarSngana Sutradhara* Sri, a form of Laksmi, the spouse of Visnu should be represented in the first s
+- C05-BHOJA-TIMES-054 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | Under some Tantric influence, Bhoja at the beginning of the 1 1th C. expanded the simple canon for depicting ‘mithunas’ 
+- C05-BHOJA-TIMES-055 | C | BHOJA-TIMES (T5) | no page; Introduction | S6 | His works, such as the Yuktikalpataru; the Samarangapa Siitradhara; the Rajamartapda and the Tattvapra- kasa throw suffi
+- C05-BHOJA-TIMES-056 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | Kartiikeya : — The Samaraftganasutradhara® elaborates that his figure is to be represented like the morning Sun, clothed
+- C05-BHOJA-TIMES-057 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | describe the Rasas and the Rasa-drstis, because the Bhava-vya- ktih— the manifestation of sentiments in pictorial images
+- C05-BHOJA-TIMES-058 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | According to the Samaranganasutradhara, it is the supreme achievement of the imagemaker or the sculptor to sec to this s
+- C05-BHOJA-TIMES-059 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The temple architecture, as a whole, was guided and controll- ed by certain fundamental principles and some comprehensiv
+- C05-BHOJA-TIMES-060 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The Samarangapa Sutradhara is a great contemporary work on the subject. It is in two volumes and deals with architecture
+- C05-BHOJA-TIMES-061 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | building art. the ‘vaStu-sastra’ or ‘rules of architecture (Vastu) contains detailed directions for the proper construct
+- C05-BHOJA-TIMES-062 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The texts like the Samara- hganasutradhara, the Aparajitaprccha and the Manasollasa deal in detail with the icons of dif
+- C05-BHOJA-TIMES-063 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | The text gives a very scientific way the twenty merits and twenty demerits of the image. Among the merits come sus]i§ta-
+- C05-BHOJA-TIMES-064 | C | BHOJA-TIMES (T5) | no page; Chapter VII, Economic Condition | S6 | Architecture 2. Samarangnnasutradharn.
+- C05-BHOJA-TIMES-065 | C | BHOJA-TIMES (T5) | no page; Chapter VI, Religious Condition | S6 | In his Samarangana Satradhara he has devoted a separate chapter for the treatment of lihgas, the emblematical phallus of
+- C05-JAGTA-HI-009 | C | JAGTA-HI (T8) | p. 164 | S2 | - विद्वानों का कहना है कि वास्तु निर्माण की भूमिज शैली का जन्म, उन्नयन और विकास मालवा में हुआ। विशेषतौर पर नवीं-दसवीं सद
+- C05-MADHYABHARAT-001 | C | MADHYABHARAT (T5) | p. 47 | S1 | The plan of the temple was no longer a simple affair as in earlier periods with a small square shrine and a porch in fro
+- C05-MADHYABHARAT-006 | C | MADHYABHARAT (T5) | p. 46 | S2 | In about the 7th-9th centuries A. D. the temple architecture takes a definite and impressive shape. The simple flat-roof
+- C05-MADHYABHARAT-010 | C | MADHYABHARAT (T5) | p. 145 | S2 | Like most of the temples of the period it is planned with a large pillared hall in centre, the sacred shrine at the back
+- C05-MADHYABHARAT-011 | C | MADHYABHARAT (T5) | p. 146 | S2 | The style of its shikhara, now much shattered, represents the style much more common with the Paramara temples adorned a
+- C05-MADHYABHARAT-013 | C | MADHYABHARAT (T5) | p. 54 | S4 | But the temple architecture of the medieval period had become so elaborate, both in plan and elevation, that new and mor
+- C05-MADHYABHARAT-016 | C | MADHYABHARAT (T5) | p. 146 | S4 | The shikhara over the main shrine is in the common Paramara style. The doorframes bear beautiful carvings and figure scu
+- C05-MADHYABHARAT-017 | C | MADHYABHARAT (T5) | p. 47 | S6 | Temple architecture had now become a finished and well-developed technique or art capable of little further improvement.
+- C05-KRAM-1-001 | C | KRAM-1 (T5) | p. 38 | S1 | This womb of Agni survives its name and retains its function and to some extent its form in the shape of the Phelā, whic
+- C05-KRAM-1-002 | C | KRAM-1 (T5) | p. 90 | S1 | On them, their 'tonic', the building of the temple rests; the disposition of the site-plan of the entire precinct is in 
+- C05-KRAM-1-003 | C | KRAM-1 (T5) | p. 91 | S1 | The ground plan of the temple, whatever may be its variations, is analogous to the Vāstupuruṣamāndala and retains in its
+- C05-KRAM-1-004 | C | KRAM-1 (T5) | p. 96 | S1 | The centre is the place of Brahmā and 44 Devatās are grouped around it. The Brahmashāna, the nucleus of the mandala, inv
+- C05-KRAM-1-005 | C | KRAM-1 (T5) | p. 101 | S1 | Basu, in ‘Canons of Orissan Architecture’). In the latter work it is enjoined that the body of the snake being divided i
+- C05-KRAM-1-006 | C | KRAM-1 (T5) | p. 114 | S1 | In the building of the temple, the bricks—it will be shown that also the building stones are thought of in this connecti
+- C05-KRAM-1-007 | C | KRAM-1 (T5) | p. 120 | S1 | in central India. Their unadorned walls consist of a few courses of relatively large stones dressed to level beds and jo
+- C05-KRAM-1-008 | C | KRAM-1 (T5) | p. 132 | S1 | The stones are frequently kept in position without any cementing material. \( ^{74} \) Iron clamps are used for wooden j
+- C05-KRAM-1-009 | C | KRAM-1 (T5) | p. 144 | S1 | The temple as Vimāna, proportionately measured throughout, is the house and body of God. By temple is understood the mai
+- C05-KRAM-1-010 | C | KRAM-1 (T5) | p. 153 | S1 | In the Hindu temples, such as they are known, and for which the texts lay down rules, the Prāsāda is the shell of the Ga
+- C05-KRAM-1-011 | C | KRAM-1 (T5) | p. 156 | S1 | Its socle or 'base' (adhiṣṭhāna, pītha, etc.), the covered and enclosed chamber (garbha-gṛha) and its superstructure, th
+- C05-KRAM-1-012 | C | KRAM-1 (T5) | p. 161 | S1 | The ground plan of the Garbhagrha is, as a rule, square, in conformity with the plan, the Västumançala and its division 
+- C05-KRAM-1-013 | C | KRAM-1 (T5) | p. 167 | S1 | The dolmen shape raised on a socle or base (adhisthāna) can be recognised in the flat roofed temple. It remains, however
+- C05-KRAM-1-014 | C | KRAM-1 (T5) | p. 173 | S1 | \( ^{80} \) Within it and below the superstructure \( ^{81} \) is the Garbhagrha, the ‘womb of the house’ a small chambe
+- C05-KRAM-1-015 | C | KRAM-1 (T5) | p. 177 | S1 | The solid socle or base (Adhishāna, etc.) functions as the altar on which the offering is made in the shape of the templ
+- C05-KRAM-1-016 | C | KRAM-1 (T5) | p. 210 | S1 | According to Vāstu-śāstra, the temples covering a large floor space are Sāndhāra, which means they have an internal circ
+- C05-KRAM-1-017 | C | KRAM-1 (T5) | p. 217 | S1 | The buttresses have their beginning at the foot of the wall of the temple, including the socle, the Adhisthāna. The broa
+- C05-KRAM-1-018 | C | KRAM-1 (T5) | p. 221–222 | S1 | The extant temples having curvilinear Sikharas are distinguished by the following features: The plan appears cruciform (
+- C05-KRAM-1-019 | C | KRAM-1 (T5) | p. 238 | S1 | The threefold system of proportionate measure expressed by the Pramānasūtra, —originally the two main orthogonals of the
+- C05-KRAM-1-020 | C | KRAM-1 (T5) | p. 239 | S1 | In the first, the plan is divided into sixteen squares; the height of the wall is equal to its outer length; the body of
+- C05-KRAM-1-021 | C | KRAM-1 (T5) | p. 244 | S1 | The theme of the Prāsāda is transferred to the large Mandapa, the hall in front of the temple. Such Mandapas were added 
+- C05-KRAM-1-022 | C | KRAM-1 (T5) | p. 248 | S1 | The cosmic orientation, with reference to the Sun; the metaphysical orientation, with reference to the Centre of the Vās
+- C05-KRAM-1-023 | C | KRAM-1 (T5) | p. 250 | S1 | The module of proportionate measurement is either architectural or it is taken from the main cult object. The architectu
+- C05-KRAM-1-024 | C | KRAM-1 (T5) | p. 251 | S1 | Jagati means 'earth' and covers the raised ground, platform or terrace from which the temple rises. In the later usage i
+- C05-KRAM-1-025 | C | KRAM-1 (T5) | p. 257 | S1 | The different height at which the Šukanāsā may terminate however is not an arbitrary nor an isolated measure on the body
+- C05-KRAM-1-026 | C | KRAM-1 (T5) | p. 259 | S1 | If the Garbhagrha has one wall only, the temple is Nirandhāra and has no internal circumambulatory; if the Jāthara is en
+- C05-KRAM-1-027 | C | KRAM-1 (T5) | p. 260 | S1 | "In a square field, (each side) being divided into 26 parts, six of these parts are assigned to each corner (karna); the
+- C05-KRAM-1-028 | C | KRAM-1 (T5) | p. 265 | S1 | These intervening offsets project to the same height as the Karnas; the outline of the plan of a square Drāvīda-prāsāda,
+- C05-KRAM-1-029 | C | KRAM-1 (T5) | p. 267 | S1 | The Prāsāda at all times is the temple proper. The other structures which are combined with it are subservient to it. Th
+- C05-KRAM-1-030 | C | KRAM-1 (T5) | p. 268 | S1 | The Lakṣmaṇa Temple is a ‘pañcāyatana’ temple: four subsidiary shrines are placed in the corners of its high terrace; th
+- C05-KRAM-1-035 | C | KRAM-1 (T5) | p. 270 | S1 | "As is the Prāsāda, so is the Mandapa in front of it." (ib. 24b). This applies to its walls and their theme.\(^{52}\)
+- C05-KRAM-1-036 | C | KRAM-1 (T5) | p. 298 | S1 | The Garbhagrha is the unchangeable nucleus of the several zones which are made to encompass it; \( ^{85} \) the temple R
+- C05-KRAM-1-037 | C | KRAM-1 (T5) | p. 299 | S1 | The 64 temples had to undergo a process of condensation of their plan, until the internal galleries and their pillars we
+- C05-KRAM-1-038 | C | KRAM-1 (T5) | p. 130 | S2 | Moreover, the entire superstructure of the temple, the Sīkhara, has the curves of bending bamboo, or other light woods, 
+- C05-KRAM-1-039 | C | KRAM-1 (T5) | p. 158 | S2 | Reiterated in name, elevated in position and meaning, on a higher level of the temple, once more, the name Vedi is given
+- C05-KRAM-1-040 | C | KRAM-1 (T5) | p. 159 | S2 | Raised platforms built on a cell foundation similar to those at Sirpur, are also below the sixth century temples at Bhit
+- C05-KRAM-1-041 | C | KRAM-1 (T5) | p. 166 | S2 | The earliest preserved temples which are not one storeyed and flat roofed, are variously given additional height. Two ma
+- C05-KRAM-1-042 | C | KRAM-1 (T5) | p. 170 | S2 | nor that of the 'beehive house' are identical to that of the temple having a curvilinear Sīkhara, for the latter is alwa
+- C05-KRAM-1-043 | C | KRAM-1 (T5) | p. 176 | S2 | A synonym for Sīkhara, the curvilinear superstructure, is the term Mañjari which means a shoot. This refers to the form 
+- C05-KRAM-1-044 | C | KRAM-1 (T5) | p. 178 | S2 | Above the superstructure and no longer part of the body of the temple, is the finial or Stūpikā; it is however proportio
+- C05-KRAM-1-045 | C | KRAM-1 (T5) | p. 187 | S2 | \( ^{121} \) In the South Indian tradition Sīkhara connotes the dome shape crowning the shaft of the Pillar. Sīkhara in 
+- C05-KRAM-1-046 | C | KRAM-1 (T5) | p. 191 | S2 | The term Śikhara was established in Vāstu-śāstra, the texts on architecture, which are known to us from the sixth centur
+- C05-KRAM-1-047 | C | KRAM-1 (T5) | p. 193 | S2 | While the whole temple is generally likened to the Mountain, the term Sīkhara in early Vāstu-śāstra generally applies to
+- C05-KRAM-1-048 | C | KRAM-1 (T5) | p. 199 | S2 | Type IB and type II are the most widely represented forms of the superstructure. The curvilinear Sīkhara (type II) is th
+- C05-KRAM-1-050 | C | KRAM-1 (T5) | p. 216 | S2 | However manifold the varieties of the pyramidal superstructure proved to be, they do not attain in number, wealth and di
+- C05-KRAM-1-051 | C | KRAM-1 (T5) | p. 220 | S2 | The Prāsādas as described in the 'Samarānāgasūtradhāra', Chapters I,VII, etc., with their curvilinear superstructures (S
+- C05-KRAM-1-053 | C | KRAM-1 (T5) | p. 252 | S2 | In Norm II, the Sīkhara is divided into 4 parts of which the two lower are designated as Mañjari; half its height is tha
+- C05-KRAM-1-054 | C | KRAM-1 (T5) | p. 253 | S2 | Sukanāsā means the 'nose' or beak of a parrot, its outlines are curved; Šuka-aghri means 'parrot pillar'; the height and
+- C05-KRAM-1-055 | C | KRAM-1 (T5) | p. 254 | S2 | Sukanāsā or Sukāṅghri is a projection from the main body of the Sīkhara; it has \( \frac{1}{4} \) or \( \frac{1}{2} \) i
+- C05-KRAM-1-056 | C | KRAM-1 (T5) | p. 255 | S2 | The two, the part of the Sīkhara thus designated and the Vedi form its body or trunk and lead from the vertical wall of 
+- C05-KRAM-1-057 | C | KRAM-1 (T5) | p. 255 | S2 | The original place of the Šukanāsā is above the architrave or entablature of the temple, in front, where the entrance is
+- C05-KRAM-1-058 | C | KRAM-1 (T5) | p. 256 | S2 | Mañjari, as part of or equivalent to Śikhara, appears to imply the curve of a young shoot; it is a curvilinear superstru
+- C05-KRAM-1-059 | C | KRAM-1 (T5) | p. 258 | S2 | The trunk of the Sīkhara or Mañjari which is referred to here is curvilinear. \( ^{39} \) Its curvature varies not only 
+- C05-KRAM-1-060 | C | KRAM-1 (T5) | p. 258 | S2 | Above the shoulder-course of the curvilinear Śikhara are the neck (kaṇtha, grivā) and the Āmalasāraka or Āndaka, which y
+- C05-KRAM-1-061 | C | KRAM-1 (T5) | p. 262 | S2 | The corners of the superstructure are fortified by small Sikharas of their own, the Karnaśikharas (cf. Pls. I, III, IV).
+- C05-KRAM-1-062 | C | KRAM-1 (T5) | p. 294 | S2 | The top of Indian temples is invariably surmounted by a finial of which the Kalaśa is the most important part. In this j
+- C05-KRAM-1-063 | C | KRAM-1 (T5) | p. 296 | S2 | Mályavān (ch. 65), described as a Bhūmija Prāsāda ; Trikūṭa (ch. 57) ; Niṣadha (ch. 65), a Bhūmija Prāsāda ; Gandhamādan
+- C05-KRAM-1-064 | C | KRAM-1 (T5) | p. 297 | S2 | Some of the names of the Bhūmija Prāsādas are amongst those of 100 temples of the 'Visṇudhaṃottara' (see Appendix).
+- C05-KRAM-1-065 | C | KRAM-1 (T5) | p. 302 | S2 | In chapter XLIX. 1-2, the 'Kāmikāgama' assigns the Nāgara temples to the country from the Himalaya to the Vindhya; Vesar
+- C05-KRAM-1-066 | C | KRAM-1 (T5) | p. 305 | S2 | It describes (sl. 5f) the Nāgara temples as having eight constituent parts (aṣtavarga) in their elevation. These are: Mū
+- C05-KRAM-1-067 | C | KRAM-1 (T5) | p. 307 | S2 | At all times, however, from the 'Bṛhat Samhitā' onwards, and probably earlier, Nāgara were the most numerous temples; th
+- C05-KRAM-1-068 | C | KRAM-1 (T5) | p. 114 | S3 | A monument stands in space, it does not face it. The Hindu temple too, has strictly speaking no façade; the four orients
+- C05-KRAM-1-069 | C | KRAM-1 (T5) | p. 130 | S3 | The stem of the tree on the other hand, the wooden post,—with the exception of rock-cut pillars,—has remained at all tim
+- C05-KRAM-1-070 | C | KRAM-1 (T5) | p. 132 | S3 | Sudhāśilā, plaster, and Vajralepa, a glue cement and coating, were applied; there is no lack of prescriptions how to pre
+- C05-KRAM-1-071 | C | KRAM-1 (T5) | p. 135 | S3 | \( ^{83} \) To what extent each structural temple was originally plastered, or plastered and painted, is difficult to sa
+- C05-KRAM-1-072 | C | KRAM-1 (T5) | p. 135 | S3 | The natural connection has been severed, the earth has been burnt, the stone has been cut, the tree has been felled and 
+- C05-KRAM-1-073 | C | KRAM-1 (T5) | p. 157 | S3 | In these lower parts of the temple, the pedestal, Adhisthana, the socle, and the Vedika is embodied the memory of the sa
+- C05-KRAM-1-074 | C | KRAM-1 (T5) | p. 160 | S3 | The several mouldings of the socle (adhiṣṭhāna) project each in proportion to its own height beyond the Mānasūtra, (the 
+- C05-KRAM-1-075 | C | KRAM-1 (T5) | p. 245 | S3 | These offsets of the walls of the temple have but the appearance of buttresses without however fulfilling their structur
+- C05-KRAM-1-076 | C | KRAM-1 (T5) | p. 252 | S3 | the doorjambs being equal to the space or width of the threshold, the width and height of the door again form the geomet
+- C05-KRAM-1-077 | C | KRAM-1 (T5) | p. 259 | S3 | The entablature above the Jānghā consists of Mekhalā and Antarapatra, the former a roll cornice or eaves shaped moulding
+- C05-KRAM-1-079 | C | KRAM-1 (T5) | p. 261 | S3 | The lowermost part which extends to about one third of their height is the Vedibandha with its theme of horizontal mould
+- C05-KRAM-1-080 | C | KRAM-1 (T5) | p. 264 | S3 | Sāndhāra-prāsāda; this is the proportionate measure of the wall of the Prāsāda proper; the length of the Bāhyabhitti, th
+- C05-KRAM-1-082 | C | KRAM-1 (T5) | p. 289 | S3 | The Candraśālā, as represented on the Prāsāda, might have indicated only an internal space by its Gavāksa, the round win
+- C05-KRAM-1-083 | C | KRAM-1 (T5) | p. 91 | S4 | The relation of sacred architecture to the Vāstupuruṣamāndala is reflected moreover in the sculptures on its walls; thei
+- C05-KRAM-1-084 | C | KRAM-1 (T5) | p. 102 | S4 | 36)\(^{91}\), are regents of the Nakṣatras and are led by the warders of the four regions of space, the Lokapālas\(^{92}
+- C05-KRAM-1-085 | C | KRAM-1 (T5) | p. 103 | S4 | Therefore Išāna is lord of all the quarters (AV. XV. 1. 5), and is stationed particularly in the north-east, the most au
+- C05-KRAM-1-086 | C | KRAM-1 (T5) | p. 147 | S4 | \( ^{21} \) The image of Siva with 5 faces and 10 hands or as an alternate shape with four hands, is to be meditated upo
+- C05-KRAM-1-087 | C | KRAM-1 (T5) | p. 172 | S4 | Meru, Mandara and Kailāsa are the first three names amongst the twenty types of temples described in the early texts, th
+- C05-KRAM-1-088 | C | KRAM-1 (T5) | p. 6 | S5 | The purpose of the Hindu temple is shown by its form. It is the concrete symbol of Reintegration and coheres with the rh
+- C05-KRAM-1-089 | C | KRAM-1 (T5) | p. 82 | S5 | The symbolism of the Vedic altar, Agni, is continued in the Hindu temple, in its plan. The Vāstupuruṣa of this maṇḍala i
+- C05-KRAM-1-090 | C | KRAM-1 (T5) | p. 88 | S5 | The sacrificial goat born from Agni's heat carries the gods and the sacrificer upwards, to heaven and to light, in the S
+- C05-KRAM-1-091 | C | KRAM-1 (T5) | p. 95 | S5 | Its image is that of the Puruṣa, the place of reference in which man beholds the identity of macrocosm and microcosm. On
+- C05-KRAM-1-092 | C | KRAM-1 (T5) | p. 115 | S5 | invoked and beheld in the bricks, when a temple of Śiva is built \( ^{8} \) : the subtle body of eight components apport
+- C05-KRAM-1-093 | C | KRAM-1 (T5) | p. 122 | S5 | This means a transfer of spiritual levels; no golden disc—the sun's orb—is placed below the vase; it rests on the Adhāra
+- C05-KRAM-1-094 | C | KRAM-1 (T5) | p. 123 | S5 | In the Fire Altar, this central place is the site of the navel (nābhi) of the Uttaravedi. In its own position the Adhāra
+- C05-KRAM-1-095 | C | KRAM-1 (T5) | p. 134 | S5 | \( ^{77} \) The calm radiance of the white temples is extolled in inscriptions. \( ^{78} \) In this whiteness, it appear
+- C05-KRAM-1-096 | C | KRAM-1 (T5) | p. 136 | S5 | The well known transfer of the construction forms of one material into the other is so caused. The curves of the bamboo 
+- C05-KRAM-1-097 | C | KRAM-1 (T5) | p. 139 | S5 | During a night which is in every way auspicious to the inception of the building, the Garbha vessel is lowered to the pr
+- C05-KRAM-1-098 | C | KRAM-1 (T5) | p. 141 | S5 | "The Temple is made up of the presence of Śiva and Śakti and of the Principles and all Forms of manifestation from the e
+- C05-KRAM-1-099 | C | KRAM-1 (T5) | p. 147 | S5 | The meaning of Prasāda is given explicitly in the ‘Iśānaśivagurudevapaddhati’, Part III, chapter XII, verse 16. “The tem
+- C05-KRAM-1-100 | C | KRAM-1 (T5) | p. 148 | S5 | The temple, Prāsāda, is the symbolic substance, which, as a substratum, corresponds to the principal substance and imman
+- C05-KRAM-1-101 | C | KRAM-1 (T5) | p. 148 | S5 | The High Point of the finial above the superstructure of the temple is the visual equivalent of Bindu.
+- C05-KRAM-1-102 | C | KRAM-1 (T5) | p. 168 | S5 | The enclosed space is a Garbhagrha, a house which is the womb; this is the name of the innermost sanctuary of the temple
+- C05-KRAM-1-103 | C | KRAM-1 (T5) | p. 169 | S5 | The going from here into another world, that of the gods, is an ascent—and also a descent and a return to the beginning,
+- C05-KRAM-1-104 | C | KRAM-1 (T5) | p. 174 | S5 | This secluded spot is called Garbhagrha. The name refers also to the human body and to the inception of life. By its nam
+- C05-KRAM-1-105 | C | KRAM-1 (T5) | p. 175 | S5 | This place of Brahman, in the heart of man, has its analogy in the Brahmasthāna, in the centre of the temple maṇḍala or 
+- C05-KRAM-1-106 | C | KRAM-1 (T5) | p. 176 | S5 | The rite for the elevation of the Temple is the Garbhādhāna, the insemination of the site with the 'seed' of the temple.
+- C05-KRAM-1-107 | C | KRAM-1 (T5) | p. 266 | S5 | The architectural rhythms of the Hindu temple impart to each building its consistency and wholeness. They evoke in the d
+- C05-KRAM-1-108 | C | KRAM-1 (T5) | p. 16 | S6 | 'The 'Visṇudharmottara' (Part III, chapter XCIII, 25-31), an early compendium, speaks of the installation of consecrated
+- C05-KRAM-1-109 | C | KRAM-1 (T5) | p. 16 | S6 | The text-books of Vāstu-Śāstra, the science of architecture, are records of oral traditions which go back into an undefi
+- C05-KRAM-1-110 | C | KRAM-1 (T5) | p. 17 | S6 | Wherever a Hindu temple stands, whatever age witnessed its growth, and to whatever size, as house, body and substance fo
+- C05-KRAM-1-111 | C | KRAM-1 (T5) | p. 17 | S6 | The latter definition is also given in the ‘Samarāṅganasūtradhāra’, ch. LIX. 3, where however the plan to the end of the
+- C05-KRAM-1-112 | C | KRAM-1 (T5) | p. 18 | S6 | In principle it is always square and is the record of an architectural rite. The knowledge of its correct execution form
+- C05-KRAM-1-113 | C | KRAM-1 (T5) | p. 20 | S6 | The architect, Shapati, \( ^{18} \) is the foremost of the craftsmen (silpin), of whom there are four classes, Shapathi,
+- C05-KRAM-1-114 | C | KRAM-1 (T5) | p. 21 | S6 | First a Sthapati is to be selected—one well versed in the Śilpa-śāstras; similarly, a Sthāpaka also, knowing the Śilpa-ś
+- C05-KRAM-1-115 | C | KRAM-1 (T5) | p. 22 | S6 | \( ^{19} \) The architect in charge of the building is therefore generally called Sthapati. The name means “master of wh
+- C05-KRAM-1-116 | C | KRAM-1 (T5) | p. 24 | S6 | King Bhoja, in the 'Samārāṅganasūtradhāra' (VI. 5-27; VII. 7-34) recounts the afflictions of men when the wishing-trees 
+- C05-KRAM-1-117 | C | KRAM-1 (T5) | p. 25 | S6 | Before this can be done the fitness of the soil has to be ascertained by several tests. A pit is dug and the earth which
+- C05-KRAM-1-118 | C | KRAM-1 (T5) | p. 26 | S6 | At the beginning of the various phases in the construction and consecration of the temple, the “rite of the seeds and th
+- C05-KRAM-1-119 | C | KRAM-1 (T5) | p. 28 | S6 | After the ground is rendered as level as the surface of water or of a mirror it should be made a perfect square ('Hayasi
+- C05-KRAM-1-120 | C | KRAM-1 (T5) | p. 32 | S6 | Vāstu, is primarily the planned site of the building. Its shape is square as a rule and its full name is Vāstupuruṣamāṇḍ
+- C05-KRAM-1-121 | C | KRAM-1 (T5) | p. 33 | S6 | The Vāstupuruṣamandala is the plan of all architectural form of the Hindus. The site-plan, the ground-plan, the horizont
+- C05-KRAM-1-122 | C | KRAM-1 (T5) | p. 33 | S6 | "The shape of the Vāstu for gods and Brāhmaṇas is prescribed as square" ('Mayamata', III. 1). The square is literally th
+- C05-KRAM-1-123 | C | KRAM-1 (T5) | p. 37 | S6 | The 'Samarāhāṇanasūtradhāra', IX. 45, however, gives 84 angulas as equal to 'vyāma=puruṣa'.
+- C05-KRAM-1-124 | C | KRAM-1 (T5) | p. 38 | S6 | The Vāstumanḍala of 64 squares is, according to Varāhamihira, prescribed for the temple ('Bṛhat Samhitā', LV. 10; cf. Pa
+- C05-KRAM-1-125 | C | KRAM-1 (T5) | p. 44 | S6 | \( ^{30} \) From this it appears that the star gods form the one, and presumably the more ancient, series in the border 
+- C05-KRAM-1-126 | C | KRAM-1 (T5) | p. 48 | S6 | \( ^{39} \) It is for this reason that the Västumançala of the temple, the square diagram of Existence, of time measurab
+- C05-KRAM-1-127 | C | KRAM-1 (T5) | p. 50 | S6 | The drawing of the square plan, of the Vāstupuruṣamandala, is imperative prior to building a temple. The knowledge of it
+- C05-KRAM-1-128 | C | KRAM-1 (T5) | p. 57 | S6 | The 'Brhat Samhitā' speaks of two types of diagrams, one consisting of 64 equal squares (pada) and the other of 81 squar
+- C05-KRAM-1-129 | C | KRAM-1 (T5) | p. 58 | S6 | Varāhamihira, in the sixth century, speaks of either type, specifies the use of the mandala of 64 squares and gives majo
+- C05-KRAM-1-130 | C | KRAM-1 (T5) | p. 61 | S6 | The ‘Samarānganasutradnara’ for example, ch. XIII. 4-5 assigns to all kinds of Prasadas and Manḍapas, the Vāstu of 100 s
+- C05-KRAM-1-131 | C | KRAM-1 (T5) | p. 62 | S6 | \( ^{87} \) The Marma are of special importance in the site-plan. Where the Vāstumaṇḍala is co-extensive with the Prāsād
+- C05-KRAM-1-132 | C | KRAM-1 (T5) | p. 63 | S6 | The ‘Samarāṅganasūtradhāra’ however gives to the conjunction of 8 vaṇṣās (=8 sūtras, at their meeting point) the extent 
+- C05-KRAM-1-133 | C | KRAM-1 (T5) | p. 64 | S6 | They are called: Prāśaya, Sādhāraṇa and Mātrāśaya respectively ('Samarāṅganasūtradhāra', IX. 5, 10, 28-30). In this Śast
+- C05-KRAM-1-134 | C | KRAM-1 (T5) | p. 64 | S6 | \( ^{93} \) With reference on the other hand to the Vāstumaṇḍala, as the plan of the entire site (of a village, or a tow
+- C05-KRAM-1-135 | C | KRAM-1 (T5) | p. 69 | S6 | The ‘Samarāṅganasūtradhāra’, III. 52, considers the maṇḍala of nine squares as the first; or the one of 16 squares (XII.
+- C05-KRAM-1-136 | C | KRAM-1 (T5) | p. 70 | S6 | \( ^{99} \) It appears almost as if the elaboration of the Vāstupuruṣamāṇḍala were due to Śaiva activity. This would be 
+- C05-KRAM-1-137 | C | KRAM-1 (T5) | p. 73 | S6 | The 'Samarāṅganasūtradhāra', similarly speaks of the circular Vāstu of 64, and 100 parts, used in circular shrines (XII.
+- C05-KRAM-1-138 | C | KRAM-1 (T5) | p. 74 | S6 | For all permanent work (sthirakārya) the Sthiravāstu is to be worshipped, and for all impermanent work (carakārya) such 
+- C05-KRAM-1-139 | C | KRAM-1 (T5) | p. 79 | S6 | In the ‘Samarāṅganasūtradhāra’, II. 4, Vísvakarāmā says, “Brahmā created first Vāstubrahmā and then all the worlds.” The
+- C05-KRAM-1-140 | C | KRAM-1 (T5) | p. 85 | S6 | It is prescribed that they have to be strengthened and confirmed in their task by repeated sacrifices and offerings befo
+- C05-KRAM-1-141 | C | KRAM-1 (T5) | p. 85 | S6 | The rite of Vāstuśānti and the ensuing building activity itself are acts of liberation. They are performed by the priest
+- C05-KRAM-1-142 | C | KRAM-1 (T5) | p. 87 | S6 | The gods, Brahmā, and the rest should be worshipped while residing in me." Hearing this, the carrier of the trident (Šiv
+- C05-KRAM-1-143 | C | KRAM-1 (T5) | p. 90 | S6 | The head of the Västupuruşa lies in the East \( ^{45} \) ; such is the ancient tradition conforming with the symbolism o
+- C05-KRAM-1-144 | C | KRAM-1 (T5) | p. 93 | S6 | In the story told in the 'Iśānasivagurudevapaddhati', it has come to earth as goat-headed Asura and lying prostrate at Ś
+- C05-KRAM-1-145 | C | KRAM-1 (T5) | p. 93 | S6 | The Vāstupuruṣa is and remains an Asura and therefore both the roles of Deva and Daitya are his by nature. He is and rem
+- C05-KRAM-1-146 | C | KRAM-1 (T5) | p. 94 | S6 | From the inception to the completion of the building, the indwelling divinity is worshipped by the rites of architecture
+- C05-KRAM-1-147 | C | KRAM-1 (T5) | p. 94 | S6 | While the Asura figuratively remains the larger, all filling, spread everywhere, in his inmost part, in the middle, in h
+- C05-KRAM-1-148 | C | KRAM-1 (T5) | p. 95 | S6 | The temple is dedicated as the residence (vāsāya) of divinity (ib. 245)\( ^{74} \).
+- C05-KRAM-1-149 | C | KRAM-1 (T5) | p. 96 | S6 | It is square, similarly, each power or divinity is laid out in squares (pada); their total is the Vāstupuruşamandala, of
+- C05-KRAM-1-150 | C | KRAM-1 (T5) | p. 97 | S6 | Surrounding the immutable centre, the rule applicable to the triple rows around it is that 12 Devatās form its inner rim
+- C05-KRAM-1-151 | C | KRAM-1 (T5) | p. 97 | S6 | Samarāgānasūtradhāra, XI. 21-25.
+- C05-KRAM-1-152 | C | KRAM-1 (T5) | p. 106 | S6 | Viewed from the centre, where Brahmā is stationed, the twelve inner and thirty two outer gods have their place in due or
+- C05-KRAM-1-153 | C | KRAM-1 (T5) | p. 107 | S6 | \( ^{111} \) The majority of texts place the Vāstupuruṣa with the head in the north-east; ‘Bhratasamhitā’, LII. 51; ‘Mat
+- C05-KRAM-1-154 | C | KRAM-1 (T5) | p. 107 | S6 | Brahmā is always stationed in the middle of the body of the Vāstupuruṣa \( ^{110} \) , whether the latter lies with his 
+- C05-KRAM-1-155 | C | KRAM-1 (T5) | p. 112 | S6 | In the early eleventh century, the 'Samarāṅganasūtradhāra', XLIX. 6-7, speaks of the Prāsādas which should be built in t
+- C05-KRAM-1-156 | C | KRAM-1 (T5) | p. 115 | S6 | It retains its full Vedic meaning in the structure of the Hindu temple for one of the most widely used names for the tem
+- C05-KRAM-1-157 | C | KRAM-1 (T5) | p. 116 | S6 | 'Istakā-nyāsa', the installation of the bricks, is performed as part of the main foundation rite of the temple. It takes
+- C05-KRAM-1-158 | C | KRAM-1 (T5) | p. 117 | S6 | Five or nine 'bricks' are thus laid down, one in the centre of a square, the others \( ^{23} \) in the cardinal and inte
+- C05-KRAM-1-159 | C | KRAM-1 (T5) | p. 119 | S6 | 22), is used as the name not only for the brick but also for the stone or wood of which a temple is built. "For temples 
+- C05-KRAM-1-160 | C | KRAM-1 (T5) | p. 121 | S6 | In the middle of the foundation pit \( ^{45} \) and after threefourth of it has been filled, the Ādhāraśilā is laid down
+- C05-KRAM-1-161 | C | KRAM-1 (T5) | p. 123 | S6 | The all important deposition of the Garbha, the Seed and Germ of the temple, is made above the first bricks on varying l
+- C05-KRAM-1-162 | C | KRAM-1 (T5) | p. 124 | S6 | Stone, declares the 'Mayamata' (XV. 78) should be used for temples and is allowed to Brāhmanas, Kṣatriyas and heretics (
+- C05-KRAM-1-163 | C | KRAM-1 (T5) | p. 125 | S6 | 27-28), Vātsuśāstra designates these secret (guhā) places as Layana, when they are rock-cut temples ('Samarānganasūtradh
+- C05-KRAM-1-164 | C | KRAM-1 (T5) | p. 127 | S6 | comm.)—and with a happy end saying that as the people felt happy in the big buildings, these were called Prasāda. This p
+- C05-KRAM-1-165 | C | KRAM-1 (T5) | p. 129 | S6 | Wooden temples, as represented in the carvings of Barhut, about 100 B.C. and as described in the 'Samarānganasūtradhāra'
+- C05-KRAM-1-166 | C | KRAM-1 (T5) | p. 137 | S6 | Its dimensions are proportionate to those of the temple. In width it measures one twelfth part of the height of the pill
+- C05-KRAM-1-167 | C | KRAM-1 (T5) | p. 137 | S6 | Before the temple in the likeness of the Puruṣa is constructed \( ^{84} \) , the rite of Garbhādhāna is performed and a 
+- C05-KRAM-1-168 | C | KRAM-1 (T5) | p. 138 | S6 | The contents of the casket are those of the ground (bhūmi) of the temple: the divinities of the Vāstumaṇḍala reside in i
+- C05-KRAM-1-169 | C | KRAM-1 (T5) | p. 138 | S6 | There are moreover three grades of receptacles, the best being also the largest, one cubit (hasta) square. The square ca
+- C05-KRAM-1-170 | C | KRAM-1 (T5) | p. 141 | S6 | "If the measurement of the Temple is in every way perfect, there will be perfection in the universe as well". 'Mayamata'
+- C05-KRAM-1-171 | C | KRAM-1 (T5) | p. 143 | S6 | The word used here is 'vimāna', and it has remained one of the most generally accepted names which designate a temple. V
+- C05-KRAM-1-172 | C | KRAM-1 (T5) | p. 144 | S6 | Vimāna is the name of the temple built according to tradition (śāstra) by the application of various proportionate measu
+- C05-KRAM-1-173 | C | KRAM-1 (T5) | p. 145 | S6 | Vimāna, as name of the main temple building, is synonymous with Prāsāda. These two are the most significant words for te
+- C05-KRAM-1-174 | C | KRAM-1 (T5) | p. 145 | S6 | The purely architectural standard of proportionate measure\( ^{11} \) is generally the width of the square of the Prāsād
+- C05-KRAM-1-175 | C | KRAM-1 (T5) | p. 146 | S6 | The Amarakoṣa explains: “Harmyādidhanimam vasāḥ prāsādo devabhūbhujam.” Harmyas, etc. are the residences of the wealthy;
+- C05-KRAM-1-176 | C | KRAM-1 (T5) | p. 146 | S6 | Prāśāda, however, has retained the meaning of building or palace, in the 'Samarāṅgana-sūtradhāra', XVIII. 22; whereas in
+- C05-KRAM-1-177 | C | KRAM-1 (T5) | p. 149 | S6 | \( ^{28} \) The ‘Samarāṅganasūtradhāra’ (XVIII. 57), gives the following names to the place for the gods: (1) Deva-dhiṣn
+- C05-KRAM-1-178 | C | KRAM-1 (T5) | p. 151 | S6 | Ancient extant temples and preserved texts date from about the same age \( ^{35} \) . In the northern half of India it c
+- C05-KRAM-1-179 | C | KRAM-1 (T5) | p. 152 | S6 | The body of architectural knowledge behind the short compilation of the 'Bṛhat Samhitā' is supported by the names of eig
+- C05-KRAM-1-180 | C | KRAM-1 (T5) | p. 154 | S6 | The relation between a definite type of temple, its patron and architect is illustrated by verses 35-43, Ch. LVI, of the
+- C05-KRAM-1-181 | C | KRAM-1 (T5) | p. 162 | S6 | The flat roofed brick or stone temples, described in the 'Samarāṅganasūtradhāra' in ch. XLIX, and partly also in ch. LII
+- C05-KRAM-1-182 | C | KRAM-1 (T5) | p. 165 | S6 | The 'Samarāṅganasūtradhāra' has much to say about temples without Sīkharas \( ^{65} \) which were one-storeyed, flat roo
+- C05-KRAM-1-183 | C | KRAM-1 (T5) | p. 172 | S6 | According to the 'Prabandhacintāminī', King Karna of Gujerat constructed the Karṇameiru-prāsāda in Anhilwad, the name of
+- C05-KRAM-1-184 | C | KRAM-1 (T5) | p. 179 | S6 | Layana, place of rest, is the name for rock cut temples. They have no Sreni, which means no superstructure with its clus
+- C05-KRAM-1-185 | C | KRAM-1 (T5) | p. 180 | S6 | \( ^{33} \) The ‘Samarānganasūtradhāra’, LIX. 193-197, describes the temple called Guhādhāra; its name however is derive
+- C05-KRAM-1-186 | C | KRAM-1 (T5) | p. 182 | S6 | The type of temple called Guharāja, has the shape of a cave (guhā) according to Utpala (Comm., Br. S. LV. 25). Its heigh
+- C05-KRAM-1-187 | C | KRAM-1 (T5) | p. 203 | S6 | Double and triple roofs are frequent in actual buildings; Vāstu-śāstra knows of their employment as Dvichādyā, etc. ('Sa
+- C05-KRAM-1-188 | C | KRAM-1 (T5) | p. 206 | S6 | The piling of one shape of temple upon the other as its superstructure is the subject of chapter LV of the 'Samarāngnasū
+- C05-KRAM-1-189 | C | KRAM-1 (T5) | p. 218 | S6 | The construction of the curvilinear Sikhara, by means of a division in geometrical progression—by four fold division (ca
+- C05-KRAM-1-190 | C | KRAM-1 (T5) | p. 219 | S6 | From these indications, repeated in the description of practically every single variety of the Sīkhara, (in Chapters LVI
+- C05-KRAM-1-191 | C | KRAM-1 (T5) | p. 232 | S6 | The 'Samarānagamāsūtradhāra' enumerates in many passages the several parts of the finial, the Candrikā or Padmasīrṣa, th
+- C05-KRAM-1-192 | C | KRAM-1 (T5) | p. 237 | S6 | प्रमाणे स्थापिता देवा: पूजाहिंश भवन्ति हि । "When the gods are set up with correct proportions then they can be worshipp
+- C05-KRAM-1-193 | C | KRAM-1 (T5) | p. 240 | S6 | Different varieties of temples and their plans are described for example in chapter LVII of the 'Samarāṅgana-sūtradhāra'
+- C05-KRAM-1-194 | C | KRAM-1 (T5) | p. 241 | S6 | (3) It is also said that the width of the pillar (pāda-viskambha)—at the top—has as many Angulas as the Vimāna or Mānasū
+- C05-KRAM-1-195 | C | KRAM-1 (T5) | p. 241 | S6 | In the 'Samarāṅganasūtradhāra' the division is according to one or the other of the even numbers in the series of 10 to 
+- C05-KRAM-1-196 | C | KRAM-1 (T5) | p. 245 | S6 | When the Vāstupuruşamandala is drawn on the square floor of the Prāsāda to be built the number of its squares is also th
+- C05-KRAM-1-197 | C | KRAM-1 (T5) | p. 250 | S6 | By the sixth century, twenty shapes of temples are recorded (Chart II), each has a name and specific features. \( ^{19} 
+- C05-KRAM-1-198 | C | KRAM-1 (T5) | p. 251 | S6 | The 'Bṛhat Samhītā' gives only one Norm of proportionate measurement (V) and this not in detail,\(^{21}\) whereas the 'V
+- C05-KRAM-1-199 | C | KRAM-1 (T5) | p. 253 | S6 | The 'Brhāt Samhītā' gives the purest type in which the parts are related with each other and with the whole in a geometr
+- C05-KRAM-1-200 | C | KRAM-1 (T5) | p. 257 | S6 | In the ‘Samaränganasūtradhāra’, a standard compendium on Indian architecture of the early eleventh century, can be seen 
+- C05-KRAM-1-201 | C | KRAM-1 (T5) | p. 286 | S6 | But there is a difference; for the Twenty Temples are described not only once in the 'Samarāṅganasūtradhāra' and somewha
+- C05-KRAM-1-202 | C | KRAM-1 (T5) | p. 290 | S6 | “Kailāsa is the abode of Maheśvara, Garuḍa of Viṣṇu, Padma of Prajāpati, Gaja (Dvipa) of Gānanātha. These are not to be 
+- C05-KRAM-1-203 | C | KRAM-1 (T5) | p. 290 | S6 | 'Prāsāda-stavanam', verses 4-17; "Of these (64) Prāsādas 8 belong to god Sambhu (Śiva), 8 to Hari (Viṣṇu), 8 to Viriñca 
+- C05-KRAM-1-204 | C | KRAM-1 (T5) | p. 291 | S6 | The Twenty Temples however are not forgotten. They are the Nāgara Prāsādas of ch. LXIII of the 'Samarāṅganasūtradhāra'; 
+- C05-KRAM-1-205 | C | KRAM-1 (T5) | p. 301 | S6 | The name Nāgara occurs frequently in the 'Iśānasivagurudevapaddhati' and the 'Samarānganasūtradhāra'. Both these texts b
+- C05-KRAM-1-206 | C | KRAM-1 (T5) | p. 303 | S6 | The self same Twenty Temples however are also the subject of one chapter (LxIII) at least of the ‘Samarāngana-sūtradhāra
+- C05-PARTEMPLES-005 | C | PARTEMPLES (T5) | p. 13 | S2 | They show certain common characteristics, the most prominent among those being the śikhara on which the central offset o
+- C05-PARTEMPLES-006 | C | PARTEMPLES (T5) | p. 13 | S2 | It is significant that the distribution of the majority of the temples of the Bhūmija class is confined to the territory
+- C05-PARTEMPLES-007 | C | PARTEMPLES (T5) | p. 14 | S2 | It may be assumed that the Bhūmija temples had a pañcaratha plan before the development of their saptaratha āsana. In th
+- C05-PARTEMPLES-012 | C | PARTEMPLES (T5) | p. 9 | S6 | That Bhōja had active interest in building all kinds of art is attested by the Samarāngana Sutradhāra, a canonical treat
+- C05-PARTEMPLES-013 | C | PARTEMPLES (T5) | p. 13 | S6 | About the circular class (vrtta) the Samarānganāsutradhāra lays down that the intermediate rathas between the bhadra and
+- C05-PARTEMPLES-014 | C | PARTEMPLES (T5) | p. 13 | S6 | In the Aparajitaprchā and the Kśirārṇava, two north Indian śilpa texts, the word Bhūmija occurs as one of the temple sty
+- C05-PARTEMPLES-015 | C | PARTEMPLES (T5) | p. 40 | S6 | In Samarāngana Sutradhāra, the writer Bhoja explained how the canons to nature, platform for chitra or painting and scul
+- C05-PARTEMPLES-016 | C | PARTEMPLES (T5) | p. 41 | S6 | That the art of dance and sculpting were complementary and supplementary to each other can be realized from the canonica
+- C05-PARTEMPLES-017 | C | PARTEMPLES (T5) | p. 45 | S6 | As can be quoted from the writings of Pratipal Bhatia, \( ^{4} \) Putting into practice the principals of architecture t
+- C05-TEMPLES-IND-001 | C | TEMPLES-IND (T5) | p. 13 | S1 | The base is derived from the Vedic sacrificial altar, the plain cubical cell of the sanctum from the prehistoric dolmen,
+- C05-TEMPLES-IND-002 | C | TEMPLES-IND (T5) | p. 16 | S1 | On the stone temples, well-dressed and finely-jointed ashlars were used for the face-stones and rough-dressed or coarse 
+- C05-TEMPLES-IND-003 | C | TEMPLES-IND (T5) | p. 19 | S1 | Thus a firm foundation of Indian temple architecture was laid in the Gupta period when the basic, characteristic element
+- C05-TEMPLES-IND-004 | C | TEMPLES-IND (T5) | p. 25 | S1 | The next group of Gupta temples, distinguished by the presence of a spire over the square sanctum, is represented, among
+- C05-TEMPLES-IND-007 | C | TEMPLES-IND (T5) | p. 15 | S2 | From about the beginning of the 7th century, the sanctum was roofed by a tall, curvilinear spire (shikhara) which consti
+- C05-TEMPLES-IND-008 | C | TEMPLES-IND (T5) | p. 42 | S2 | The Kutakeshvara Temple at Pathari (District Vidisha) consisting of a Kadamba type of tri-ratha pyramidal shikhara of ho
+- C05-TEMPLES-IND-009 | C | TEMPLES-IND (T5) | p. 42 | S2 | The Maladevi Temple at Gyaraspur (District Vidisha) is partly rock-cut and partly structural. It is a mature example of 
+- C05-TEMPLES-IND-010 | C | TEMPLES-IND (T5) | p. 43 | S2 | pair of non-functional balconied windows, while the longer sides show three such windows, two projecting from the mandap
+- C05-TEMPLES-IND-011 | C | TEMPLES-IND (T5) | p. 43 | S2 | The Pratihara temples of Central India are thus seen to have a simple plan and design, displaying some characteristic or
+- C05-TEMPLES-IND-012 | C | TEMPLES-IND (T5) | p. 70 | S2 | Another notable contemporary temple is the Lakulisha Temple at Pavagarh (District Baroda), which is strongly influenced 
+- C05-TEMPLES-IND-013 | C | TEMPLES-IND (T5) | p. 74–75 | S2 | The common constituents of the plan are the sanctum, vestibule and mandapa. On the developed temples the mandapa has lat
+- C05-TEMPLES-IND-014 | C | TEMPLES-IND (T5) | p. 75 | S2 | The temples built by the Paramaras of Malwa are seen to have pronouncedly individual features, derived from external inf
+- C05-TEMPLES-IND-015 | C | TEMPLES-IND (T5) | p. 96 | S2 | Its most distinctive feature is its shikhara, of Bhumija class, which shows four spines decorated with the usual mesh of
+- C05-TEMPLES-IND-016 | C | TEMPLES-IND (T5) | p. 97 | S2 | This style found particular favour with the Paramaras of Malwa who built in Malwa in Central India numerous temples in t
+- C05-TEMPLES-IND-017 | C | TEMPLES-IND (T5) | p. 98 | S2 | Architecturally they all belong to a cognate style and have essentially the same plan and shikhara-design as the Udayesh
+- C05-TEMPLES-IND-018 | C | TEMPLES-IND (T5) | p. 99 | S2 | parable to the Udayeshwara temple is securely dated 1063 by inscriptional evidence. The Mahadeva Temple at Jamli (Distri
+- C05-TEMPLES-IND-019 | C | TEMPLES-IND (T5) | p. 99 | S2 | The next temple of this style is the Mahanaleshwara Temple at Menal (District Chittor) which appears to be contemporary 
+- C05-TEMPLES-IND-020 | C | TEMPLES-IND (T5) | p. 100–101 | S2 | It will thus be seen that the Bhumija style of Northern architecture originated in Malwa where it was patronised by the 
+- C05-TEMPLES-IND-021 | C | TEMPLES-IND (T5) | p. 14 | S3 | Thus, the sanctum has usually one door in front and false doors in the form of niches on the central projections of the 
+- C05-TEMPLES-IND-022 | C | TEMPLES-IND (T5) | p. 14 | S3 | Thus attuned and prepared, the devotee approaches the sanctum and stops at the door which is the last member to show the
+- C05-TEMPLES-IND-023 | C | TEMPLES-IND (T5) | p. 15 | S3 | In the elevation of a temple, the platform is an optional member, but every temple customarily has a socle consisting of
+- C05-TEMPLES-IND-024 | C | TEMPLES-IND (T5) | p. 19 | S3 | The gradual evolution of the style is traceable through development of the plan and the ornamentation on the pillars and
+- C05-TEMPLES-IND-026 | C | TEMPLES-IND (T5) | p. 13 | S5 | Just as the sanctum is a microcosm, so is the whole temple symbolic of the universe inhabited by gods, demi-gods, human 
+- C05-HARDY-001 | C | HARDY (T5) | p. 94 | S1 | The shrine proper is termed vimana ('measured out') in the southern context, the northern equivalent being prasada ('pal
+- C05-HARDY-002 | C | HARDY (T5) | p. 101 | S1 | First, the temple may be built on a moulded platform (jagati), defining an ambulatory path as well as raising the temple
+- C05-HARDY-003 | C | HARDY (T5) | p. 105 | S1 | Around established temples, pious donations raised a plethora of subsidiary shrines. These could be planned from the out
+- C05-HARDY-004 | C | HARDY (T5) | p. 107 | S1 | another common free-standing appendage, a small open pavilion or mandapa placed on axis in front of the temple. This is 
+- C05-HARDY-007 | C | HARDY (T5) | p. 14 | S2 | As one who remembers having a house (a palace, actually) under the table, it was some time after my first trip to India 
+- C05-HARDY-008 | C | HARDY (T5) | p. 18 | S2 | The two great classical languages of Indian temple architecture, the northern Nagara and southern Dravida (1.2), draw on
+- C05-HARDY-009 | C | HARDY (T5) | p. 110 | S2 | Any important new temples that an 11th-century voyager encountered would have belonged to the clustered Shekhari mode or
+- C05-HARDY-010 | C | HARDY (T5) | p. 110 | S2 | This is a more complicated process, and lies at the core of an understanding of the Nagara language in general, not leas
+- C05-HARDY-011 | C | HARDY (T5) | p. 119 | S2 | In the 10th century the multi-spired Shekhari mode became the standard one for western and central India. 'Shekhari' is 
+- C05-HARDY-012 | C | HARDY (T5) | p. 122 | S2 | ‘Bhumija’ means ‘earth born’ or ‘country born’, most likely referring to its bhumis (levels, literally ‘grounds’). \( ^{
+- C05-HARDY-013 | C | HARDY (T5) | p. 123 | S2 | No period of gestation can be traced for the Bhumija, which seems to spring up ready-made: significantly, this is one ki
+- C05-HARDY-014 | C | HARDY (T5) | p. 124 | S2 | So, while for the Shekhari the inherent possibilities of the form held latent the paths of possible development, for the
+- C05-HARDY-015 | C | HARDY (T5) | p. 167 | S2 | During the 11th to 13th centuries architects of Bhumija temples, as if for deliberate distinctiveness, chose this as the
+- C05-HARDY-016 | C | HARDY (T5) | p. 168 | S2 | The Bhumija workshops wove their own kind of jala (16.13), and in Orissa, where they never learnt the secret of the stan
+- C05-HARDY-017 | C | HARDY (T5) | p. 192 | S2 | The Paramaras, ambitious rulers of Malava (Malwa, western MP) from the 11th century to the end of the 13th, and no doubt
+- C05-HARDY-018 | C | HARDY (T5) | p. 192 | S2 | Malava has been seen as the homeland of the Bhumija,\(^{1}\) but the mode was equally prevalent in Seunadesha (north-wes
+- C05-HARDY-019 | C | HARDY (T5) | p. 193 | S2 | In Chapter 10 it was suggested that the sudden appearance of Bhumija temples, with no trace of formative stages, is not 
+- C05-HARDY-020 | C | HARDY (T5) | p. 194 | S2 | It is striking that the stylistic details of Bhumija temples are not purely the result of craft habits and norms. Some, 
+- C05-HARDY-021 | C | HARDY (T5) | p. 194 | S2 | Doubtless the one referred to in texts as 'Dravida-karma', it must have been thought of as southern: the early ones, of 
+- C05-HARDY-022 | C | HARDY (T5) | p. 248 | S2 | Bhumija (Bhūmija): Nagara shrine with continuous vertical chains of khuta-stambhas
+- C05-HARDY-023 | C | HARDY (T5) | p. 19 | S3 | Bound up with this representational character are the horizontal mouldings projecting from the piled up courses. These a
+- C05-HARDY-024 | C | HARDY (T5) | p. 148 | S3 | To the left, over a plain base course (bhitta), rise the three mouldings which would remain the standard ones for a Naga
+- C05-HARDY-025 | C | HARDY (T5) | p. 149 | S3 | 13.3 Nagara mouldings: the main, Bhumija shrine of the Gondeshvara temple, Sinnar (Maharashtra), 12th century; corner pr
+- C05-HARDY-026 | C | HARDY (T5) | p. 158 | S3 | This is the norm for Bhumija temples (14.4d), for which the cushion type is the standard one, and for the various temple
+- C05-HARDY-027 | C | HARDY (T5) | p. 193 | S3 | There is a Deccani flavour to these Bhumija styles, naturally more pronounced towards the south, but present throughout,
+- C05-HARDY-028 | C | HARDY (T5) | p. 194 | S3 | 20.5 'Pipal leaf' or 'moonstone' motif, which became a hallmark of Bhumija temples and of temples in other modes built b
+- C05-HARDY-029 | C | HARDY (T5) | p. 52 | S4 | Of these, with the emergence of temple building, only Surya, the sun, had a substantial number of temples dedicated to h
+- C05-HARDY-030 | C | HARDY (T5) | p. 62 | S4 | \( ^{8} \) In a temple exterior, pride of place is naturally in the middle of the shrine walls, so the relationship of t
+- C05-HARDY-031 | C | HARDY (T5) | p. 65 | S4 | Some readers of Chapter 4 will have been quick to conclude that the erotic sculpture is all Tantric. Some may well have 
+- C05-HARDY-032 | C | HARDY (T5) | p. 21 | S5 | \( ^{5} \) In relation to Hindu temples, the 'unfolding cosmos' idea owes much to Stella Kramrisch and her interpretatio
+- C05-HARDY-033 | C | HARDY (T5) | p. 40 | S5 | Dozens of Sanskrit architectural terms relate architectural elements to parts of the body in a loose metaphorical way (g
+- C05-HARDY-034 | C | HARDY (T5) | p. 42 | S5 | Stella Kramrisch brought together dynamism and temple architecture in her book published in the same year (1946), writin
+- C05-HARDY-035 | C | HARDY (T5) | p. 56 | S5 | The Shaiva Siddhanta ('fully completed') school spread far and wide; it is associated with important medieval temples, a
+- C05-HARDY-036 | C | HARDY (T5) | p. 57 | S5 | In Agamic ritual the priest ‘places’ the five constituent deities of Sadashiva on his body in the pattern of a five-face
+- C05-HARDY-037 | C | HARDY (T5) | p. 61 | S6 | study by Sonit Bafna shows that, at an early date, the textual evidence for a connection between the site-demon and grid
+- C05-HARDY-038 | C | HARDY (T5) | p. 62 | S6 | More interesting are the consecration rites which, according to vastushastra texts from different regional traditions, c
+- C05-HARDY-039 | C | HARDY (T5) | p. 66 | S6 | The 11th-century Samarangana Sutradhara, stressing that neither the theory nor the practice of architecture is useful on
+- C05-RAJABHOJ-EN-001 | C | RAJABHOJ-EN (T9) | p. 16–17; | S2 | King Bhoj had temples in the Bhumija (भूमिज) style built in his kingdom. 16 / King Bhoj and Paramara-period Town Archite
+- C05-RAJABHOJ-EN-004 | C | RAJABHOJ-EN (T9) | p. 69 | S2 | The Chalukyas of Gujarat, and Mewar and other neighbouring kings, too, had probably made such a layout of their towns. B
+- C05-RAJABHOJ-EN-005 | C | RAJABHOJ-EN (T9) | p. 13 | S5 | Although many works of King Bhoj on philosophy are mentioned, among them the *Tattva-prakasha* is the most famous. Comme
+- C05-RAJABHOJ-EN-006 | C | RAJABHOJ-EN (T9) | p. 1–2 | S6 | King Bhoj wrote the vast theoretical treatise on town-architecture, the *Samarangana-sutradhara* (समरांगणसूत्रधार), and 
+- C05-RAJABHOJ-EN-007 | C | RAJABHOJ-EN (T9) | p. 12 | S6 | King Bhoj's *Samarangana-sutradhara*, though an incomplete work of seven thousand verses, is complete with distinctive d
+- C05-RAJABHOJ-EN-008 | C | RAJABHOJ-EN (T9) | p. 19 | S6 | And Bhoj's *Samarangana-sutradhara*, in the tradition of the *Mayamata* and *Manasara*, is entirely devoted to the scien
+- C05-RAJABHOJ-EN-009 | C | RAJABHOJ-EN (T9) | p. 20 | S6 | Again, only that building whose roof is firm and capable of keeping out water can itself be complete and long-lived; oth
+- C05-RAJABHOJ-EN-010 | C | RAJABHOJ-EN (T9) | p. 23 | S6 | In the Paramara Bhoj's source-work on the science of architecture, the *Samarangana-sutradhara*, the facts relating to i
+- C05-RAJABHOJ-EN-011 | C | RAJABHOJ-EN (T9) | p. 27 | S6 | Outside the town, a Shiva temple should be set up in the east and a cremation-ground in the south.
+- C05-RAJABHOJ-EN-012 | C | RAJABHOJ-EN (T9) | p. 29 | S6 | The installation of the host of spirits (*bhuta-sangha*) relating to the Mothers, Yaksha, Ganesha and Shiva can be made 
+- C05-RAJABHOJ-EN-013 | C | RAJABHOJ-EN (T9) | p. 78 | S6 | Thus, having made an ornate description of the town of Dhara in his *Shringara-manjari-katha*, the author presented a gr
+- C05-RAJABHOJ-EN-014 | C | RAJABHOJ-EN (T9) | p. 83 | S6 | Outside the town, in the east there should be a shrine (*lingastha*) and in the south a cremation-ground.
+- C05-RAJABHOJ-EN-015 | C | RAJABHOJ-EN (T9) | p. 93 | S6 | There are two kinds of building-diagram (*vastu-mandala*) — of 81 squares and of 64 squares. Drawing ten lines each towa
+- C05-RAJABHOJ-EN-016 | C | RAJABHOJ-EN (T9) | p. 95 | S6 | A temple should not face south. Temples of Indra, Vishnu and others should be built for the protection of the town.
+- C05-RAJABHOJ-EN-017 | C | RAJABHOJ-EN (T9) | p. 96 | S6 | The height of the door should be kept double the fourth-to-fifth part of the sanctum (*garbha*). Making four doors, from
+- C05-RAJABHOJ-EN-018 | C | RAJABHOJ-EN (T9) | p. 96 | S6 | The finial (*chula*, thick [top]) should be as high as half the neck (*griva*) of the spire. The thickness should be 1/3
+- C05-RAJABHOJ-EN-019 | C | RAJABHOJ-EN (T9) | p. 97 | S6 | **Manasara** — the *Manasara*, composed in the sixth-seventh century, is an important architectural work. In it, some ch
+- C05-RAJABHOJ-EN-020 | C | RAJABHOJ-EN (T9) | p. 97 | S6 | In a four-hall there are chambers on all four sides; if all their doors face one another, it is a *sarvatomukha* house, 
+- C05-RAJABHOJ-EN-021 | C | RAJABHOJ-EN (T9) | p. 104 | S6 | **Aparajita-priccha** — In the *Aparajita-priccha*, the work of Bhuvanadeva of the 12th–13th century, too, ample light h
+- C05-RAJABHOJ-EN-022 | C | RAJABHOJ-EN (T9) | p. 106 | S6 | The deities should be neither north-facing nor south-facing. If the deities are outside the rampart, they should face to
+- C05-CII-001 | C | CII (T1) | p. 322 | S2 | The image is enshrined in a structure with a plain rectangular pillar divided into three parts, on either side, and supp
+- C05-SAMAR-2-001 | C | SAMAR-2 (T5) | Vol. 2, p. 293 ⚠ old OCR | S1 | Therefore on the basis of the basement of that one, the land is known as the surfaced one; the shape, breadth and length
+- C05-SAMAR-2-002 | C | SAMAR-2 (T5) | Vol. 2, p. 294 ⚠ old OCR | S1 | Having examined the abode of gods i.e. temples, by spot, measurement and pre-requisites of the same shape as that one, o
+- C05-SAMAR-2-003 | C | SAMAR-2 (T5) | Vol. 2, p. 297 ⚠ old OCR | S1 | Now we talk of the Jagatī pītha (the pedestal on the ground) that one may create at one cubit.
+- C05-SAMAR-2-004 | C | SAMAR-2 (T5) | Vol. 2, p. 302 ⚠ old OCR | S1 | In the centre temple deserves to be created endowed with the padas of four fold grouping on the exterior, the breadth of
+- C05-SAMAR-2-005 | C | SAMAR-2 (T5) | Vol. 2, p. 303 ⚠ old OCR | S1 | All around the temple, the Paribhrama may be of 3 padas.
+- C05-SAMAR-2-006 | C | SAMAR-2 (T5) | Vol. 2, p. 317 ⚠ old OCR | S1 | The Jagati Valaya may be rich in the grandeur of Gopura and Dvāra and in the rear of Valaya the Kanda oblong like the Mū
+- C05-SAMAR-2-007 | C | SAMAR-2 (T5) | Vol. 2, p. 267 ⚠ old OCR | S2 | The square shaped quartet this way has been spoken of as such. These seven are the Bhunjia Prāsādas.
+- C05-SAMAR-2-008 | C | SAMAR-2 (T5) | Vol. 2, p. 552 ⚠ old OCR | S2 | Triple storeyed or five storeyed the expert one may create this, Nāgara or Dravida one may incorporate on each Kārna or 
+- C05-SAMAR-2-009 | C | SAMAR-2 (T5) | Vol. 2, p. 288 ⚠ old OCR | S3 | By a half of Kantha Kacchedikā deserves to be crated by the skilled ones, by the combination of Chedikā in the centre, a
+- C05-SAMAR-2-010 | C | SAMAR-2 (T5) | Vol. 2, p. 290 ⚠ old OCR | S3 | At the door deserve to be carved out two gate keepers or porters and also Bhallikā toraṇas on the two Stambhas or column
+- C05-SAMAR-2-011 | C | SAMAR-2 (T5) | Vol. 2, p. 291 ⚠ old OCR | S3 | The make up in the Bhadras and Koṇas, one may create as per amenability by vithi's Candraśālās and Simha koṇas of lovely
+- C05-SAMAR-2-012 | C | SAMAR-2 (T5) | Vol. 2, p. 298 ⚠ old OCR | S3 | On the pithas of the Prāsādas for fascination the skilled one may create the way the lion seat of the kings gleam forth 
+- C05-SAMAR-2-013 | C | SAMAR-2 (T5) | Vol. 2, p. 299 ⚠ old OCR | S3 | Torana is known as of three types, smaller, medium sized and larger one.
+- C05-SAMAR-2-014 | C | SAMAR-2 (T5) | Vol. 2, p. 43 ⚠ old OCR | S4 | Having been designed in such a way the palace of the people, Aditya may be established in the East and Kumāra on the Eas
+- C05-SAMAR-2-015 | C | SAMAR-2 (T5) | Vol. 2, p. 43 ⚠ old OCR | S4 | विष्णु कुबेरदिषभोगे तथैशान्यां महेश्रमू। अन्येपामपि देवानां कन्यते तु क्रमोडधुना।।१२०।। To Viṣṇu one may place in the qu
+- C05-SAMAR-2-016 | C | SAMAR-2 (T5) | Vol. 2, p. 44 ⚠ old OCR | S4 | Therein the north eastern quarter one may adjust Iśāna \( ^{1} \) (i.e. Śiva) the leader of the people. And to the kille
+- C05-SAMAR-2-017 | C | SAMAR-2 (T5) | Vol. 2, p. 75 ⚠ old OCR | S4 | Kailāśa this one is known deserves to be created for the trident wielding one i.e. Śiva.
+- C05-SAMAR-2-018 | C | SAMAR-2 (T5) | Vol. 2, p. 80 ⚠ old OCR | S4 | Vajraka this one proclaimed deserves to be created this one of the enemy of Tripura i.e. Śiva.
+- C05-SAMAR-2-019 | C | SAMAR-2 (T5) | Vol. 2, p. 81 ⚠ old OCR | S4 | Then may be the Prāsāda named Vṛṣabha dear to the bull-bannered god i.e. Śiva.
+- C05-SAMAR-2-020 | C | SAMAR-2 (T5) | Vol. 2, p. 88 ⚠ old OCR | S4 | विन्यसेद् दि(दी)शर्मैशान्यामानेत्यां पुरुषोत्तमम्। ब्रहाणं वायुदिभागे नैर्हिते च दिवाकरम्।२९०।। One may adjust Iśa in th
+- C05-SAMAR-2-021 | C | SAMAR-2 (T5) | Vol. 2, p. 88 ⚠ old OCR | S4 | मध्यार्थे शिव: स्थाप्य: प्राच्यामपि पुरन्दर:। धर्मैवर्मां(याच्यां) प्रतीच्यां च वरण: सोम उत्तरे।।२ ९ १।। Within the cent
+- C05-SAMAR-2-022 | C | SAMAR-2 (T5) | Vol. 2, p. 89 ⚠ old OCR | S4 | हरो हिरण्यगर्भेश हिरिंदनकरस्था। एते देवा: समाख्याता: परस्परविरोधिन:।।२९६।। Hara, Hiranya garbha (Brahma), Hari and Sun l
+- C05-SAMAR-2-023 | C | SAMAR-2 (T5) | Vol. 2, p. 90 ⚠ old OCR | S4 | हरो हिरण्यगभश्र हरिद्नकारो3पि च। एते देवा: समाज्याता देवनामपि पूजिता:।।३०७।। Hara (Siva), Hiranyagarbha (Brahmā), Hari (
+- C05-SAMAR-2-024 | C | SAMAR-2 (T5) | Vol. 2, p. 91 ⚠ old OCR | S4 | The god wielding conch and quoit in the left side, Madhusūdana i.e. Kṛṣṇa equipped with neck ornaments being shining wit
+- C05-SAMAR-2-025 | C | SAMAR-2 (T5) | Vol. 2, p. 98 ⚠ old OCR | S4 | Now we talk of Hemakūṭa equipped with all the auspicious marks, an abode of all the Vidyādharas and a resort of the trid
+- C05-SAMAR-2-026 | C | SAMAR-2 (T5) | Vol. 2, p. 103 ⚠ old OCR | S4 | Such as one fascinating Hemakūṭa who owns as such, that man plays in the heaven the way a sport of Pinākin i.e. Śiva (co
+- C05-SAMAR-2-027 | C | SAMAR-2 (T5) | Vol. 2, p. 107 ⚠ old OCR | S4 | For thousands of crores of aeons, their well being gets ensured before Śiva. An obviator of all sins well reputed in the
+- C05-SAMAR-2-028 | C | SAMAR-2 (T5) | Vol. 2, p. 110 ⚠ old OCR | S4 | Now one named Puspaka a Prāsāda we shall talk of the one that stood built for the benefit of Dhanada (i.e. Kubera) earli
+- C05-SAMAR-2-029 | C | SAMAR-2 (T5) | Vol. 2, p. 112 ⚠ old OCR | S4 | By Puṣpavidyādharas, alligators, crocodiles and swans the Jānghā of this one is provided equal in norm to the Karnas as 
+- C05-SAMAR-2-030 | C | SAMAR-2 (T5) | Vol. 2, p. 113 ⚠ old OCR | S4 | One may create Sūrasena having an arched portal existing within the central rows having Rhinoceroses, elephants, boars, 
+- C05-SAMAR-2-031 | C | SAMAR-2 (T5) | Vol. 2, p. 119 ⚠ old OCR | S4 | Godo health or freedom from disease and acquisition of a son, for those taking to victory or victory endowing one. Unto 
+- C05-SAMAR-2-032 | C | SAMAR-2 (T5) | Vol. 2, p. 121 ⚠ old OCR | S4 | Eight each are allocated then the deities quite distinctly. शम्भो(हैर)विंरिजस्य महाणाम(धिपस्य च)। चण्डिकाया गणेशस्य श्रि
+- C05-SAMAR-2-033 | C | SAMAR-2 (T5) | Vol. 2, p. 121 ⚠ old OCR | S4 | This eight have been allocated this way the palaces of Śiva (Tripura druha) [the enemy of Tripura] Garuḍa and Vardhamāna
+- C05-SAMAR-2-034 | C | SAMAR-2 (T5) | Vol. 2, p. 121 ⚠ old OCR | S4 | The palace king Svastika, Rucaka and Pundra Vardhana deserve to be created of Janārdana (Viṣṇu) the eight palaces, the o
+- C05-SAMAR-2-035 | C | SAMAR-2 (T5) | Vol. 2, p. 122 ⚠ old OCR | S4 | Suvibhranta and Manohārī these eight deserve to be created for Lakṣmī well known as such. Vṛttāyata Vṛtta and oblong and
+- C05-SAMAR-2-036 | C | SAMAR-2 (T5) | Vol. 2, p. 122 ⚠ old OCR | S4 | And likewise Hara and Vijaya Udakumbha and Modaka, these eight of Vinayaka (Ganesa) the Prāsādas one may create auspicio
+- C05-SAMAR-2-037 | C | SAMAR-2 (T5) | Vol. 2, p. 122 ⚠ old OCR | S4 | Eight these deserve to be created as the temples of Caṇdikā, Guhādhara, Śalāka Venubhadra and Kuñjara.
+- C05-SAMAR-2-038 | C | SAMAR-2 (T5) | Vol. 2, p. 123 ⚠ old OCR | S4 | The Vimāna now we shall talk of the Prāsāda dear to Sambhu, the very ornament of Heaven Hades and the mortal people.
+- C05-SAMAR-2-039 | C | SAMAR-2 (T5) | Vol. 2, p. 137 ⚠ old OCR | S4 | The Prāsāda is normally allocated to the divinities.
+- C05-SAMAR-2-040 | C | SAMAR-2 (T5) | Vol. 2, p. 275 ⚠ old OCR | S4 | The structure of grharāja this way endowed with all glamour, and good marks, the temple even of divine mothers.
+- C05-SAMAR-2-041 | C | SAMAR-2 (T5) | Vol. 2, p. 345 ⚠ old OCR | S4 | One may instal men triad and may incorporate Śiva in the centre and Brahmā to the right and to the left Viṣṇu (Puruṣotta
+- C05-SAMAR-2-042 | C | SAMAR-2 (T5) | Vol. 2, p. 380 ⚠ old OCR | S4 | Auspicious framed, however, deserves to be created Mahesvára erected in a cemetery or burial ground, two armed one withi
+- C05-SAMAR-2-043 | C | SAMAR-2 (T5) | Vol. 2, p. 255 ⚠ old OCR | S5 | Now is being illustrated Satsrnga the Prāsāda, of auspicious marks the dear one of al the gods and specifically of Śiva.
+- C05-SAMAR-2-044 | C | SAMAR-2 (T5) | Vol. 2, p. 336 ⚠ old OCR | S5 | Sthūlāgra \( ^{1} \) Pratima lakṣma is to be created in this linga of Íśvara (Śiva). This may be a source of acquisition
+- C05-SAMAR-2-045 | C | SAMAR-2 (T5) | Vol. 2, p. 521 ⚠ old OCR | S5 | In the smaller ones the smaller linga and likewise in other temples. Of Meru of three moded norm the linga in excellent 
+- C05-SAMAR-2-046 | C | SAMAR-2 (T5) | Vol. 2, p. 4 ⚠ old OCR | S6 | This way the palace of the king having been built or well laid on the ground, if his entourage may create abodes on the 
+- C05-SAMAR-2-047 | C | SAMAR-2 (T5) | Vol. 2, p. 5 ⚠ old OCR | S6 | Of sisters and maternal uncles and likewise of the princes in descending order and in the south east quarter of the exce
+- C05-SAMAR-2-048 | C | SAMAR-2 (T5) | Vol. 2, p. 5 ⚠ old OCR | S6 | The temples of gods one may get built by tantras (Regnal authorities or by right ways of doing) \( ^{1} \) as per organi
+- C05-SAMAR-2-049 | C | SAMAR-2 (T5) | Vol. 2, p. 7 ⚠ old OCR | S6 | Of Ganas and Devatas and of Skanda as per descending order, the Prāsādas these are twelve the different ones created as 
+- C05-SAMAR-2-050 | C | SAMAR-2 (T5) | Vol. 2, p. 11 ⚠ old OCR | S6 | इति महाराजाधिराजश्रीभोजदेवविरचिते समराङ्गणसूत्रश्रारापरनानि वासुशारखे जधन्यवासुव्रारं नाम विपश्राशोउध्यय:।।५ ३।। *Gloss 
+- C05-SAMAR-2-051 | C | SAMAR-2 (T5) | Vol. 2, p. 26 ⚠ old OCR | S6 | Of the mansions this way has been declared the measurement of the doors and the establishment of the pillars or columns 
+- C05-SAMAR-2-052 | C | SAMAR-2 (T5) | Vol. 2, p. 27 ⚠ old OCR | S6 | Of sixteen Prāsādas (mansions) a definition in particular larger, middling, smaller, we shall dilate upon. विभज्यते यथा 
+- C05-SAMAR-2-053 | C | SAMAR-2 (T5) | Vol. 2, p. 28 ⚠ old OCR | S6 | शूज्ञोच्छृतिज्ञभिभांगैनैवभिः शिखरोच्छृति:।।१०।। By half a square each, with the pentad of the space of the girdle zone, 
+- C05-SAMAR-2-054 | C | SAMAR-2 (T5) | Vol. 2, p. 28 ⚠ old OCR | S6 | This way this one having four roofs and equipped with four doors, Meru (mansion) having parity of Meru (mountain) deserv
+- C05-SAMAR-2-055 | C | SAMAR-2 (T5) | Vol. 2, p. 31 ⚠ old OCR | S6 | मिश्रको3यो विमानानामिति संख्या विशेदिता। ज्येषो मिश्रकनिर्माण: स च कोलाशमद्रकृत(?)।।३५।। Miśraka one the other among the
+- C05-SAMAR-2-056 | C | SAMAR-2 (T5) | Vol. 2, p. 42 ⚠ old OCR | S6 | That which may be Trivisṭapa normed (i.e. the world of Indra normed) or Heaven shaped, that may be the temple of all the
+- C05-SAMAR-2-057 | C | SAMAR-2 (T5) | Vol. 2, p. 42 ⚠ old OCR | S6 | जगत्यां विस्तार: कार्य: प्रासादोच्छ्यसंमित:।।१०८।। They all are created in light of the non-differentiation of all gods.
+- C05-SAMAR-2-058 | C | SAMAR-2 (T5) | Vol. 2, p. 50 ⚠ old OCR | S6 | Now I shall talk of the Prāsādas equipped with roofs headed by Rucaka and the like, as sixty four as per said order of t
+- C05-SAMAR-2-059 | C | SAMAR-2 (T5) | Vol. 2, p. 50 ⚠ old OCR | S6 | Having started from Meru, this way sixteen Prasadas have been illustrated as such as per classification. Briefly in defi
+- C05-SAMAR-2-060 | C | SAMAR-2 (T5) | Vol. 2, p. 51 ⚠ old OCR | S6 | इच्टकाकाशपाषाणैमैर्वलोकें3पि नन्दका:। सुखदछ्छ भवन्त्येते कर्षु: कारयितुस्तथा।।।। Those made of bricks, wood, stones in t
+- C05-SAMAR-2-061 | C | SAMAR-2 (T5) | Vol. 2, p. 51 ⚠ old OCR | S6 | लक्षणेनान्वितानेतान् कथयामो यथाविधि। पुराणां भूषणार्थीय भुक्तिमुक्तिप्रदा नृणाणू।।।। Equipped with auspicious marks thes
+- C05-SAMAR-2-062 | C | SAMAR-2 (T5) | Vol. 2, p. 53 ⚠ old OCR | S6 | Of Hari and Hiranyagarbha Hara \( ^{1} \) and of Bhāskara Meru this one as such deserves to be created and not of any ot
+- C05-SAMAR-2-063 | C | SAMAR-2 (T5) | Vol. 2, p. 53 ⚠ old OCR | S6 | तदास्य सत्वें शौचे च विकम्प्रथ विनश्यति। ईशोरोपि यदा विज्ञो मेक्षासाद्कूद् भवेत्।३८।। Then the existence, purity and pro
+- C05-SAMAR-2-064 | C | SAMAR-2 (T5) | Vol. 2, p. 54 ⚠ old OCR | S6 | A king even a creator being Kṣatriya of Meru when, may there be, the demolition of the country of that one and may even 
+- C05-SAMAR-2-065 | C | SAMAR-2 (T5) | Vol. 2, p. 90 ⚠ old OCR | S6 | य एतैलक्षणेयुक्त कारयेद् देवतालयम्। धनधान्यमवाप्नोति मोदते सुखमेव च।।३०६।। Who may create such a temple endowed with suc
+- C05-SAMAR-2-066 | C | SAMAR-2 (T5) | Vol. 2, p. 91 ⚠ old OCR | S6 | इति महाराजाधिराजश्रीभोजदेवविरचिते समराजूगसूधारापरनानि वासुशास्ते रचकादिचतुष्टिग्सादक: धर्दपझाशोडध्याय:।।५६॥ *Gloss [my t
+- C05-SAMAR-2-067 | C | SAMAR-2 (T5) | Vol. 2, p. 98 ⚠ old OCR | S6 | The mānava who may create a Śridhara, for the sake of reputation, here he attains bliss while living and Indradom in the
+- C05-SAMAR-2-068 | C | SAMAR-2 (T5) | Vol. 2, p. 120 ⚠ old OCR | S6 | Stationed on the obstruction of the vulnerable points the Vāstu devatas or Architectural gods deserve to be adored as pe
+- C05-SAMAR-2-069 | C | SAMAR-2 (T5) | Vol. 2, p. 120 ⚠ old OCR | S6 | Now of palaces or mansions (Prāsādas) the sixty four (calculation) is being talked of The Prāsādas that were earlier giv
+- C05-SAMAR-2-070 | C | SAMAR-2 (T5) | Vol. 2, p. 121 ⚠ old OCR | S6 | This way the eight illustrated by Brahmā are the Prāsadas as created in the centre of the town or capital.
+- C05-SAMAR-2-071 | C | SAMAR-2 (T5) | Vol. 2, p. 123 ⚠ old OCR | S6 | In the mansion of five storeys the architectural norm is of eighty one squares. The hundred norm is in the two ends of t
+- C05-SAMAR-2-072 | C | SAMAR-2 (T5) | Vol. 2, p. 138 ⚠ old OCR | S6 | To Meru well known as Merugiri, (Meru mountain) who may create this way. शिलाभिरिच्छाभिर्वी स महत् पुण्यमापुयात्। मेरः:1
+- C05-SAMAR-2-073 | C | SAMAR-2 (T5) | Vol. 2, p. 154 ⚠ old OCR | S6 | Vibhava is being illustrated having architraves as sun-proof. On the wooden plank is to be combined and on a stony one, 
+- C05-SAMAR-2-074 | C | SAMAR-2 (T5) | Vol. 2, p. 156 ⚠ old OCR | S6 | The expert may devise a Prāsāda named Sīrkūṭa, the gorgeous one. The largest one may be of twenty cubits and the middlin
+- C05-SAMAR-2-075 | C | SAMAR-2 (T5) | Vol. 2, p. 156 ⚠ old OCR | S6 | Of these thirty six have been named. Now their definition is being dilated upto. In a square shaped field, divided into 
+- C05-SAMAR-2-076 | C | SAMAR-2 (T5) | Vol. 2, p. 167 ⚠ old OCR | S6 | Gharāja this way illustrated as such the Prāsādas these are of auspicious marks and eight added to a hundred of Prāsādas
+- C05-SAMAR-2-077 | C | SAMAR-2 (T5) | Vol. 2, p. 168 ⚠ old OCR | S6 | Now we shall talk of Drāviḍa Prāsādas of auspicious marks. Those may be single storeyed ones upto the extent of twelve s
+- C05-SAMAR-2-078 | C | SAMAR-2 (T5) | Vol. 2, p. 206 ⚠ old OCR | S6 | This way have been illustrated the Drāviḍa Prāsādas 12 as such quite suitably.
+- C05-SAMAR-2-079 | C | SAMAR-2 (T5) | Vol. 2, p. 207 ⚠ old OCR | S6 | Now we talk of the Nāgara Prāsādas (the towns buildings) with names and definitions. Meru, Mandara, Kailāsa, Kumbha, Mrg
+- C05-SAMAR-2-080 | C | SAMAR-2 (T5) | Vol. 2, p. 210 ⚠ old OCR | S6 | All equipped with entrance halls, deserve to be created endowed with arched portals, brick lain or wooden ones, stone-ca
+- C05-SAMAR-2-081 | C | SAMAR-2 (T5) | Vol. 2, p. 223 ⚠ old OCR | S6 | Meru and the like 20 that have been illustrated the main Prāsādas equipped with good marks ending with eighth storey who
+- C05-SAMAR-2-082 | C | SAMAR-2 (T5) | Vol. 2, p. 248 ⚠ old OCR | S6 | Dear to all the gods those erected on the ground or underground ones the ornament of the town, the sole single abode or 
+- C05-SAMAR-2-083 | C | SAMAR-2 (T5) | Vol. 2, p. 266 ⚠ old OCR | S6 | Of the Latinas may be the door structure, and of Nāgaras the Kūṭaka, and of the Bhūmijas deserves to be created in front
+- C05-SAMAR-2-084 | C | SAMAR-2 (T5) | Vol. 2, p. 280 ⚠ old OCR | S6 | The fifty normed mandapa spot and for dining a half of the Nīla, the sacrificial altar, having the provision of a chief 
+- C05-SAMAR-2-085 | C | SAMAR-2 (T5) | Vol. 2, p. 281 ⚠ old OCR | S6 | With similar Kṣaṇas and Stambhas and equipped with similar balconies of similar Karmaes amenable to similar materials de
+- C05-SAMAR-2-086 | C | SAMAR-2 (T5) | Vol. 2, p. 282 ⚠ old OCR | S6 | Rucaka may be square shaped and octagonal normed is called the Vajra. Dvivajra and sixteen angled is recognised as the r
+- C05-SAMAR-2-087 | C | SAMAR-2 (T5) | Vol. 2, p. 283 ⚠ old OCR | S6 | And that which is the column of the Šukanāsa (The integrated projection from the main spire over the vestibule (antarāla
+- C05-SAMAR-2-088 | C | SAMAR-2 (T5) | Vol. 2, p. 284 ⚠ old OCR | S6 | For the celebration of the festival of a temple Vimānas are quite distinct headed by mandapas stand illustrated. They ma
+- C05-SAMAR-2-089 | C | SAMAR-2 (T5) | Vol. 2, p. 291 ⚠ old OCR | S6 | Above the roof of the Śukanāsa the roof of the maṇḍapa deserves not to be created. And below that which has been spoken 
+- C05-SAMAR-2-090 | C | SAMAR-2 (T5) | Vol. 2, p. 292 ⚠ old OCR | S6 | In the lesser and greater Pramāṇas may crop up calamities at every step. The progress of the town may not be there and t
+- C05-SAMAR-2-091 | C | SAMAR-2 (T5) | Vol. 2, p. 300 ⚠ old OCR | S6 | Vasudhā and Vasudhāra (the bearer of riches or beneficence) and likewise one being a bearer or supporter or propper, Śrī
+- C05-SAMAR-2-092 | C | SAMAR-2 (T5) | Vol. 2, p. 301 ⚠ old OCR | S6 | Equipped with railing or aisle, (Mattavārāanaka) and decorated by Pratoll the first one is declared as such the Jagati n
+- C05-SAMAR-2-093 | C | SAMAR-2 (T5) | Vol. 2, p. 305 ⚠ old OCR | S6 | The wise one may create a temple in the centre of 64 padas. The Bhrama is to be created as of four padas of the temple o
+- C05-SAMAR-2-094 | C | SAMAR-2 (T5) | Vol. 2, p. 310 ⚠ old OCR | S6 | There may be a devakula (a temple) in the centre having breadth and length of 3 parts. प्रासाद्यायामवित्तीणं तस्याये मुख
+- C05-SAMAR-2-095 | C | SAMAR-2 (T5) | Vol. 2, p. 323 ⚠ old OCR | S6 | In the half of that may be the abode of god (i.e. temple). अष्टाधिष्यधभागस्थ: + ईपं घ्रमणं भवेत्। प्रासाद्ध (च)तुद्रार्ध
+- C05-SAMAR-2-096 | C | SAMAR-2 (T5) | Vol. 2, p. 330 ⚠ old OCR | S6 | And in the Puspasamstha, provided in four directions, the four faced may be the linga adored as such an accomplisher of 
+- C05-SAMAR-2-097 | C | SAMAR-2 (T5) | Vol. 2, p. 334 ⚠ old OCR | S6 | This is the linga adored by Agni. Having created one may install in the Ágneyī (southeastern quarter) desirous of creati
+- C05-SAMAR-2-098 | C | SAMAR-2 (T5) | Vol. 2, p. 335 ⚠ old OCR | S6 | This linga is named Khadga having established or installed in Nirrtih (south western quarter). *Gloss [my translation]:*
+- C05-SAMAR-2-099 | C | SAMAR-2 (T5) | Vol. 2, p. 337 ⚠ old OCR | S6 | In the Brāhya may be all like Raudra having crest like that of the lotus sprout. The Lakṣma in it is of the shape of Kam
+- C05-SAMAR-2-100 | C | SAMAR-2 (T5) | Vol. 2, p. 348 ⚠ old OCR | S6 | इति महाराजाधिराजश्रीभोजदेवविरचिते समराजूणसूत्रधारापरनानि वासुशास्त्रे लिज्ञपीठप्रतिमालक्षणं नाम सपतितमोउध्य:।।७०।। *Glos
+- C05-SAMAR-2-101 | C | SAMAR-2 (T5) | Vol. 2, p. 370 ⚠ old OCR | S6 | Now we talk of the description as well as the material (used) in (preparation) of Idols having the moulding of wood, sto
+- C05-SAMAR-2-102 | C | SAMAR-2 (T5) | Vol. 2, p. 467 ⚠ old OCR | S6 | 56 may be in it the centum twain of Anḍakas \( ^{2} \) . This way this is known as excellent one the Prāsāda by the meas
+- C05-SAMAR-2-103 | C | SAMAR-2 (T5) | Vol. 2, p. 470 ⚠ old OCR | S6 | May be by 21 Anḍakas Nandyāvartta of excellent pre-requisites. By devotion who get it created the extraordinary normed N
+- C05-SAMAR-2-104 | C | SAMAR-2 (T5) | Vol. 2, p. 491 ⚠ old OCR | S6 | By pada triad may be the Śrīnga over that equipped with Kalaśāṇḍaka. The Śikharas twenty deserve to created combined wit
+- C05-SAMAR-2-105 | C | SAMAR-2 (T5) | Vol. 2, p. 515 ⚠ old OCR | S6 | One may create Sringas at the Karna. This way this becomes the first storey. The second one there deserves to be created
+- C05-SAMAR-2-106 | C | SAMAR-2 (T5) | Vol. 2, p. 528 ⚠ old OCR | S6 | Of 64 padas deserves to be created in the centre the Prāsādanāyaka and by 16 padas in the centre of that one may create 
+- C05-SAMAR-2-107 | C | SAMAR-2 (T5) | Vol. 2, p. 537 ⚠ old OCR | S6 | Drāvidā or Nāgara, vārāṭa the house is good one. He who tales up the building of one of these, he may create form of the
+- C05-SAMAR-2-108 | C | SAMAR-2 (T5) | Vol. 2, p. 562 ⚠ old OCR | S6 | This twenty of Prāsādas has been illustrated Meru and the likes all favourite of gods. He who understands the (20) in re
+- C05-SAMAR-1-001 | C | SAMAR-1 (T4) | Vol. 1, p. 29 ⚠ old OCR | S1 | What proof stands understood of the plinth \( ^{1} \) and what is the way to lay a foundation in stone? How is a mansion
+- C05-SAMAR-1-002 | C | SAMAR-1 (T4) | Vol. 1, p. 161 ⚠ old OCR | S1 | These plasters were applied hot to the temples mansions windows, línga images, walls and wells and are said to adhere fo
+- C05-SAMAR-1-003 | C | SAMAR-1 (T4) | Vol. 1, p. 209 ⚠ old OCR | S1 | In the midst of the Śalās \( ^{3} \) or halls an oblong tank that exists, as also a lotus lake (synonymously) and that t
+- C05-SAMAR-1-004 | C | SAMAR-1 (T4) | Vol. 1, p. 550 ⚠ old OCR | S1 | Entrance hall, a raised pavilion or a lattice, and flanked staircases, of auspicious norm, within a breadth of five part
+- C05-SAMAR-1-005 | C | SAMAR-1 (T4) | Vol. 1, p. 552 ⚠ old OCR | S1 | In an area of six parted breadth, and having length created by ten parts, from the centre, in the opposite side, of this
+- C05-SAMAR-1-006 | C | SAMAR-1 (T4) | Vol. 1, p. 555 ⚠ old OCR | S1 | And proportional religious shrines should be there at the end or corner of the balcony surrounded by an outer wall facin
+- C05-SAMAR-1-007 | C | SAMAR-1 (T4) | Vol. 1, p. 213 ⚠ old OCR | S3 | That verily is called Torana and that which is polished one by that is called Suvarna Torana and Manipitorana.
+- C05-SAMAR-1-008 | C | SAMAR-1 (T4) | Vol. 1, p. 2 ⚠ old OCR | S6 | Of the various works ascribed to him, Samarārāgana Sūtradhāra is a voluminous treatise, an architectural masterpiece, de
+- C05-SAMAR-1-009 | C | SAMAR-1 (T4) | Vol. 1, p. 5 ⚠ old OCR | S6 | Samarāṅgaṇa Sūtradhāra is a voluminous treatise dealing with technical subjects such as town planning, house architectur
+- C05-SAMAR-1-010 | C | SAMAR-1 (T4) | Vol. 1, p. 16 ⚠ old OCR | S6 | समराङ्गणसूत्रधारम् - There is apparent paradox in the affinity of the title with the subject matter. The entire work dea
+- C05-SAMAR-1-011 | C | SAMAR-1 (T4) | Vol. 1, p. 20 ⚠ old OCR | S6 | इति महाराजाधिराजश्रीभोजदेवविरचिते समराङ्गपसूत्रधारापरनादिन वासुशास्त्रे विश्वकमण: पुत्रसेवादो नाम द्वितीयोल्याय: 11 *Glo
+- C05-SAMAR-1-012 | C | SAMAR-1 (T4) | Vol. 1, p. 24 ⚠ old OCR | S6 | In what proper houses and in which proper directions and by what regions or areas external as well as internal ones, wha
+- C05-SAMAR-1-013 | C | SAMAR-1 (T4) | Vol. 1, p. 114 ⚠ old OCR | S6 | Of Visnu, Dinādhināthā i.e. the overlord of the day i.e. the Sun, the thousand eyed one i.e. Indra, Dharma (i.e. Yama) a
+- C05-SAMAR-1-014 | C | SAMAR-1 (T4) | Vol. 1, p. 115 ⚠ old OCR | S6 | Of Maheśa (i.e. Śiva) the preceptor of the Universe, of Śrī (i.e. Lakṣmī) as also of Agni (the deity) the temple deserve
+- C05-SAMAR-1-015 | C | SAMAR-1 (T4) | Vol. 1, p. 120 ⚠ old OCR | S6 | The area having been demarcated quadrangular or squared up and having been divided into nine segments, in the centre hig
+- C05-SAMAR-1-016 | C | SAMAR-1 (T4) | Vol. 1, p. 125 ⚠ old OCR | S6 | Institute of Indology, Ahmedabad), says - The site plans of eighty one and sixty four squares were believed to be presid
+- C05-SAMAR-1-017 | C | SAMAR-1 (T4) | Vol. 1, p. 130 ⚠ old OCR | S6 | The building site was believed to constitute the body of the House god (Vāstunara). He is a male figure and his image sh
+- C05-SAMAR-1-018 | C | SAMAR-1 (T4) | Vol. 1, p. 134 ⚠ old OCR | S6 | Sastri commenting upon Brhat Samhītā refers to the prevalence of only two plans of 81 and 64 squares in the times of Var
+- C05-SAMAR-1-019 | C | SAMAR-1 (T4) | Vol. 1, p. 134 ⚠ old OCR | S6 | (Now) here Vāstu (place of residence, or a house site and a house proper or a residential building) \( ^{2} \) or a buil
+- C05-SAMAR-1-020 | C | SAMAR-1 (T4) | Vol. 1, p. 135 ⚠ old OCR | S6 | The wise one may get measured by the categorisation of a hundred squared site plan the Prāsādas (the Large Palatial Buil
+- C05-SAMAR-1-021 | C | SAMAR-1 (T4) | Vol. 1, p. 135 ⚠ old OCR | S6 | The residences of the orders of society or castes and the establishments of the royal palaces, Indrasthāna \( ^{1} \) (t
+- C05-SAMAR-1-022 | C | SAMAR-1 (T4) | Vol. 1, p. 232 ⚠ old OCR | S6 | a house with unbroken (unrestricted) verandah all round is called Sarvatobhadra (all auspicious). This type of house wit
+- C05-SAMAR-1-023 | C | SAMAR-1 (T4) | Vol. 1, p. 449 ⚠ old OCR | S6 | In the establishments of the army camp and in founding down of town, village (and the city), and in foundations of the t
+- C05-SAMAR-1-024 | C | SAMAR-1 (T4) | Vol. 1, p. 476 ⚠ old OCR | S6 | On a spot wherein Brahmā is to be installed, that very way should be done in case of Viṣṇu. Iśvara or Śiva deserves to b
+- C05-SAMAR-1-025 | C | SAMAR-1 (T4) | Vol. 1, p. 476 ⚠ old OCR | S6 | The one having two portions is the excellent one. This is the height of the Pitha or basement or pedestal. Of Mahesvara 
+- C05-SAMAR-1-026 | C | SAMAR-1 (T4) | Vol. 1, p. 543 ⚠ old OCR | S6 | Of Gods and Kings, as also of Varnis (the four orders of society or painters or scribes, writers, religious students or 
+- C05-SAMAR-1-027 | C | SAMAR-1 (T4) | Vol. 1, p. 545 ⚠ old OCR | S6 | The Prāsādas (the palaces) of these very shapes by (materials) such as stones and baked bricks and the like for the purp
+- C05-SAMAR-1-028 | C | SAMAR-1 (T4) | Vol. 1, p. 546 ⚠ old OCR | S6 | The octagonals these have been illustrated the Prāsadas in counting ten as such. All these now come to sixty four.
+- C05-SAMAR-1-029 | C | SAMAR-1 (T4) | Vol. 1, p. 573 ⚠ old OCR | S6 | This way of the temples of gods a seventy (number) made of wood as such, here has been illustrated equipped with Sadana-
+- C05-SAMAR-1-030 | C | SAMAR-1 (T4) | Vol. 1, p. 573 ⚠ old OCR | S6 | Then Candrodaya by name the Prāsāda stands created as an auspicious one. This way herein a sixty four (number) of Prāsād
+- C05-SAMAR-1-031 | C | SAMAR-1 (T4) | Vol. 1, p. 574 ⚠ old OCR | S6 | Now we talk of the qualities of Prāsādas that become ostensible laudable or unlaudable on the circle of the Earth. ये सम
+- C05-SAMAR-1-032 | C | SAMAR-1 (T4) | Vol. 1, p. 574 ⚠ old OCR | S6 | Unfragile in divisions in extent well laid, in upper and lower flanked pedestals equipped with water channels or outlets
+- C05-SAMAR-1-033 | C | SAMAR-1 (T4) | Vol. 1, p. 575 ⚠ old OCR | S6 | Uneven and flank divested ones are the foreboders of fright, bondage and chagrin owing to uneven columns and central pol
+- C05-SAMAR-1-034 | C | SAMAR-1 (T4) | Vol. 1, p. 575 ⚠ old OCR | S6 | By the roots and feet very stout, or having strong foundations, and very strong in roots and crests, neither equipped wi
+- C05-SAMAR-1-035 | C | SAMAR-1 (T4) | Vol. 1, p. 576 ⚠ old OCR | S6 | For the builder as well as the building organiser, they are no glee giving as also for the self, weaker ones by foundati
+- C05-SAMAR-1-036 | C | SAMAR-1 (T4) | Vol. 1, p. 576 ⚠ old OCR | S6 | Those equipped with ornaments, prohibited or illegal ones the palaces are not bliss endowning ones. Those who cherish fa
+- C05-BHOJDEV-HI-001 | C | BHOJDEV-HI (T9) | p. 8 | S2 | इसमें उत्तर और दक्षिण भारतीय भूतिंकला के विशिष्ट लक्षणों का समाहार है । इसके उक्तमले (जघन अलंकरण) और कार्नेट द्विषड़ शैल
+- C05-BHOJDEV-HI-002 | C | BHOJDEV-HI (T9) | p. 64 | S3 | विज्ञ जन देहली उसे कहते हैं जो कपाटाश्रय (किंवाङ्क का आश्रय) हो। यह तो भितियों के मध्य उत्तरोदृष्वर (ऊपर की चौखट/देहली) 
+- C05-BHOJDEV-HI-003 | C | BHOJDEV-HI (T9) | p. 115 | S4 | घर में इतिहास-पुराण के निन्दित युतान्तों के प्रतिस्प (चित्र-मूर्ति) वाङ्ग्छत नहीं हैं, मन्दिरों में वे उचित हैं 171 *Glo
+- C05-BHOJDEV-HI-004 | C | BHOJDEV-HI (T9) | p. 19 | S5 | राजा भोज का तत्त्वप्रकाश शैवदर्शन का प्रमाणप्रन्थ माना जाता है। यह सटीक *Gloss [my translation]:* Raja Bhoja's Tattvapra
+- C05-BHOJDEV-HI-005 | C | BHOJDEV-HI (T9) | p. 5 | S6 | भोज ने अपने समरांगणसून्धधार में जो नगररचना की पद्धति प्रस्तुत की है उसका ललित रूप इस धारावर्णन में पाया जा सकता है। भोजक
+- C05-BHOJDEV-HI-006 | C | BHOJDEV-HI (T9) | p. 8 | S6 | भोजयुगीन वहुधा प्रतिमाएँ शैव हैं परन्तु अन्य देवी-देवताओं की मूर्तियाँ भी प्रचुर मात्रा में मिलती हैं । राजा भोज ने अपने
+- C05-BHOJDEV-HI-007 | C | BHOJDEV-HI (T9) | p. 17 | S6 | 12. स्थापत्य - (1) समरांगणसूत्रधार या वासुशास्त्र (2) युक्तिकल्पतर । *Gloss [my translation]:* 12. Architecture: (1) Sam
+- C05-BHOJDEV-HI-008 | C | BHOJDEV-HI (T9) | p. 17 | S6 | इसी प्रकार उन कथाओं में धारावर्णन के अवसर पर यंत्रों और कलाफ्पों की जो अनोखी छटा विकीर्ण है उसकी शास्त्रीविवृत्ति समरांग
+- C05-BHOJDEV-HI-009 | C | BHOJDEV-HI (T9) | p. 21 | S6 | इसी प्रकार वास्तुशास्त्र या समरांगणमुत्रधार नामक विशालकाय प्रथ्न नगरयोजना की दृष्टि से अनोखा और विस्तृत प्रथ्न है । 83 अ
+- C05-BHOJDEV-HI-010 | C | BHOJDEV-HI (T9) | p. 22 | S6 | , द्राविड प्रासाद, मेवांदिविंशिका नागर प्रासाद, दिग्भत्रादि प्रासाद, भूमिज प्रासाद, मण्डप, 27 मण्डप, जगती-अंग-समुदाय, जग
+- C05-BHOJDEV-HI-011 | C | BHOJDEV-HI (T9) | p. 22 | S6 | मालवा में छत वनाने को रणथल वनाना कहते हैं । पारम्परिक छत ईट-घूने से वनाकर उसे पतली लकड़ी से कूट-कूटकर रणथल वनाया जाता है
+- C05-BHOJDEV-HI-012 | C | BHOJDEV-HI (T9) | p. 22 | S6 | यथा - ब्रह्मा तथा विश्वकर्मा की उपस्थिति, प्रलय के वाद सृष्टि, भुवनकोश, युगों भ मानवरिध्यति, वर्णाश्रम, भूपरीक्षा, हस्तल
+- C05-BHOJDEV-HI-013 | C | BHOJDEV-HI (T9) | p. 25 | S6 | वास्तुशास्त्र के अतिरिक्त और कोई लक्षण-निश्चय नहीं है । अतः लोक की कृपा से यह शास्त्र कहा जाता है ।।/5 *Gloss [my transl
+- C05-BHOJDEV-HI-014 | C | BHOJDEV-HI (T9) | p. 37 | S6 | असत्ववादिनः स्वल्पायुषः पवनपीङिता:। जना: स्वुश्चलचित्ताशच नगरे व्यजनाकृती । *Gloss [my translation]:* People in a city o
+- C05-BHOJDEV-HI-015 | C | BHOJDEV-HI (T9) | p. 50 | S6 | इसलिए प्रयत्नरत मेधा से शास्त्रज स्थपति वताये अनुसार यथावत् मनोहर नाग वसाये 169 (यज) वेदी, भवन, यात्रा, देवालय, अभिवार (
+- C05-BHOJDEV-HI-016 | C | BHOJDEV-HI (T9) | p. 53 | S6 | चारों दिशाओं में प्राकार-परिखा से आरम्भ करके बाहर डेढ़-डेढ़ सी और दो सौ धनुप पर या सौ धुनप तक की शुख्र, अनिन्दित भूतल वा
+- C05-BHOJDEV-HI-017 | C | BHOJDEV-HI (T9) | p. 53 | S6 | विष्णु, सूर्थ, इन्द्र और धर्म का मन्दिर पूर्व दिशा में वनाना चाहिए ।।१५ सन्तकुमार, सावित्री, महत्तों, माठत के निकेतन दक्
+- C05-BHOJDEV-HI-018 | C | BHOJDEV-HI (T9) | p. 54 | S6 | नागो, शनैश्चर और कात्यवनी का मंचिर परिश्रमोत्तर दिशा में कनावे 11 19 विशाख (शिव/कार्तिकय), रक्त्व, सोम, कुवेर के अलग-अलग
+- C05-BHOJDEV-HI-019 | C | BHOJDEV-HI (T9) | p. 54 | S6 | नगर से बाहर देवालयों का जो जैसा विधान बताया गया है वह वैसा ही (नगर के) भीतर भी अपनी-अपनी दिशा में करना चाहिए। 1129 नगर क
+- C05-BHOJDEV-HI-020 | C | BHOJDEV-HI (T9) | p. 55 | S6 | न्यून या अधिक प्रमाण के कुनिभिंत मह्निरों के बनाने और बनवाने वाले को पीड़ा होती है और न इनकी पूजा होती है 1143 *Gloss [m
+- C05-BHOJDEV-HI-021 | C | BHOJDEV-HI (T9) | p. 55 | S6 | प्रत्येक सदन, प्रत्येक ग्राम, प्रत्येक देवकुल तथा प्रत्येक नगर पूर्व मान तथा गुण से अधिक का न करें 1134 *Gloss [my trans
+- C05-BHOJDEV-HI-022 | C | BHOJDEV-HI (T9) | p. 56 | S6 | ज्येछ, मध्य, कनिष्ठ महिर कमशः नौ, छः, तीन पद के अन्तर पर कों, उन्मध्य दोष होता है 1145 *Gloss [my translation]:* Build t
+- C05-BHOJDEV-HI-023 | C | BHOJDEV-HI (T9) | p. 80 | S6 | महाराजाधिराज भोजदेव-विद्यार्थित समरांगणसूत्रधार नामक वास्तुशास्त्र में द्वार, पीठ, भ्रितिमान, काएठकला हीनवास्तु लक्षण ना
+- C05-BHOJDEV-HI-024 | C | BHOJDEV-HI (T9) | p. 95 | S6 | जो शास्र को जाने बिना प्रयोक्ता स्थपति (कारीगर) बन जाता है उसे राजा स्वयं ही मार डाले । क्योंकि वह राजहिंसक (साक्षात्) म
+- C05-BHOJDEV-HI-025 | C | BHOJDEV-HI (T9) | p. 96 | S6 | ज्ञानी, वाक्पटु, कर्म में निष्ठवान् तथा तल्लीन होने पर भी शीलरहित कारीगर अच्छा नहीं होता ।।6 रोष, ड्रेष, लोभ, मोह, राग औ
+- C05-BHOJDEV-HI-026 | C | BHOJDEV-HI (T9) | p. 109 | S6 | पुर में वास्तु से पहले प्रासाद-मन्दिर वनावें । *Gloss [my translation]:* In the town, build the prāsāda-temple before th
+- C05-BHOJDEV-HI-027 | C | BHOJDEV-HI (T9) | p. 110 | S6 | सामने, पीछे अथवा पास में यदि अलिन्दरहित हो तो ऐसी शाला घर में अच्छी नहीं रहती, देवालय में प्रशंसनीय होती है 118 *Gloss [
+- C05-BHOJDEV-HI-028 | C | BHOJDEV-HI (T9) | p. 115 | S6 | सूयोंदय समय की वृक्ष-छाया और ध्वज-छाया निन्दनीय होती है । दार को पार करती ये (छायाएँ) भूख, बीमारी, लड़ाई कराती हैं 165 प
+- C05-BHOJDEV-HI-029 | C | BHOJDEV-HI (T9) | p. 115 | S6 | अन्य वास्तु से हटा द्व्य अन्य वास्तु में न लगायें; ऐसे प्रासाद (मंदिर) में पूजा नहीं हो और न घर में गृहस्थ वसे 163 *Glos
+- C05-BHOJDEV-HI-030 | C | BHOJDEV-HI (T9) | p. 120 | S6 | महाराजाधिराज श्रीभोजदेविवरिचित समरांगणपूत्रधार नामक वास्तुशास्त्र में गृहदोषनिलपण नामक अड़तालीसवाँ अध्याय सम्पूर्ण । *Gl
+- C05-TEMPLE-ECON-001 | C | TEMPLE-ECON (T5) | p. 34 | S1 | Pavan K Verma notes: “The designing of the Hindu mandir followed a certain pattern. Its location was carefully chosen, f
+- C05-TEMPLE-ECON-002 | C | TEMPLE-ECON (T5) | p. 37 | S1 | In order to keep the stones used in the construction of walls, pillars, rooftops of the mandirs intact iron dowels were 
+- C05-TEMPLE-ECON-003 | C | TEMPLE-ECON (T5) | p. 158 | S4 | Plaque at a three-meter-tall - 2 tonne Nataraja idol which stands at the nuclear research organisation CERN at Geneva Sw
+- C05-TEMPLE-ECON-004 | C | TEMPLE-ECON (T5) | p. 38 | S5 | An assumed equivalence between the outer and the inner cosmos is central to the conception of the temple. An assumed equ
+- C05-TEMPLE-ECON-005 | C | TEMPLE-ECON (T5) | p. 14 | S6 | (g) Samaranganasutradhara: Samaranganasutradhara classifies mandirs as: (1) Lalitaprasadas (25 types), sandhara prasadas
+- C05-TEMPLE-ECON-006 | C | TEMPLE-ECON (T5) | p. 34 | S6 | There were innumerable Shilpa shastras on the canonical requirements of good sculpture. Thus, ‘the sculpture had to mast
+- C05-TEMPLE-ECON-007 | C | TEMPLE-ECON (T5) | p. 35 | S6 | A sthapati (architect) should know eightfold workmanship, the draftsmanship and sketches of various kinds, and variety o
+- C05-TEMPLE-ECON-008 | C | TEMPLE-ECON (T5) | p. 36 | S6 | For example, for the determination of the cardinal direction a simple geometrical method is given in Tantrasamuccaya. Ta
+- C05-TEMPLE-ECON-009 | C | TEMPLE-ECON (T5) | p. 41 | S6 | “Bharata’s Natyashastra has a section on planning and construction of drama halls. Site selection, marking on ground usi
+- C05-TEMPLE-ECON-010 | C | TEMPLE-ECON (T5) | p. 54 | S6 | Shilpa refers to art and craft while Shastra means science. Together, Shilpa Shastra means the science of art and crafts
+- C05-TEMPLE-ECON-011 | C | TEMPLE-ECON (T5) | p. 58 | S6 | The design of a theatre in ancient Bharat "was considered a branch of mandir architecture. After all, the Natyashasstra 
+- C05-GUPTE-001 | C | GUPTE (T5) | p. 75 | S1 | Apart from separate temples dedicated to the Sun-god, he is also included in the Hindu Pañ-chāyatana system. Pañchāyatan
+- C05-GUPTE-002 | C | GUPTE (T5) | p. 80 | S3 | During the reign of the Imperial Guptas (4th-6th centuries A.D), architects began to carve anthropomorphic figures of Ga
+- C05-GUPTE-003 | C | GUPTE (T5) | p. 61 | S4 | The symbolic meaning of some of the chief symbols of Siva are as follows: Staff—represents death. Citron—is seed of the 
+- C05-GUPTE-004 | C | GUPTE (T5) | p. 63 | S4 | Siva should be carved on the front of the Liña. His legs below the knees should not be carved. Of his four hands, one sh
+- C05-GUPTE-005 | C | GUPTE (T5) | p. 72 | S4 | INDRA, Agni, Yama, Nirruti, Varuna, Vāyu, Kubera and Iāāna are the eight guardians of the Quarters.
+- C05-GUPTE-006 | C | GUPTE (T5) | p. 78 | S4 | It is not customary to erect separate temples for Pārvati. Usually she appears in the company of Śiva.
+- C05-GUPTE-007 | C | GUPTE (T5) | p. 80 | S4 | Brahmā, Vishnu and the other gods followed suit and created Brahmājī, Mâhe'vari, Kaumāri, Vaishnavaī, Vārāhi, Indrāvi, a
+- C05-GUPTE-008 | C | GUPTE (T5) | p. 61 | S5 | Siva is the formless or the 'all-formed.' Being possessed of all forms, there is nothing in the world not pervaded by hi
+- C05-GUPTE-009 | C | GUPTE (T5) | p. 24 | S6 | INDIAN religious and Shilpa texts make frequent mention of the hand poses (Mudrās or Hastas), pedestals, weapons, and ot
+- C05-YOGASUTRA-001 | C | YOGASUTRA (T5) | p. 32 | S6 | भोज के निम्तोक्त ग्रन्थ भी अत्यन्त प्रसिद्ध हैं---सरस्वतीकण्ठाः { अलंकारशास्त्र ) श्वङ्गारप्रकाश ( अलंकारशास्त्र )) समरा

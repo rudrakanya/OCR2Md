@@ -1,0 +1,156 @@
+{
+ "unit": "09",
+ "direct": 32,
+ "totals": {
+  "assigned": 29,
+  "cross-reference": 2,
+  "excluded": 1
+ },
+ "by_sub": {
+  "S1": {
+   "assigned": 8
+  },
+  "S3": {
+   "assigned": 3
+  },
+  "S4": {
+   "assigned": 18,
+   "excluded": 1,
+   "cross-reference": 1
+  },
+  "S5": {
+   "cross-reference": 1
+  }
+ },
+ "status": {
+  "C09-JAGTA-EN-001": [
+   "assigned",
+   "Note"
+  ],
+  "C09-JAGTA-EN-002": [
+   "assigned",
+   "C"
+  ],
+  "C09-JAGTA-EN-003": [
+   "assigned",
+   "E"
+  ],
+  "C09-JAGTA-EN-004": [
+   "assigned",
+   "E"
+  ],
+  "C09-JAGTA-EN-005": [
+   "assigned",
+   "E"
+  ],
+  "C09-JAGTA-EN-006": [
+   "assigned",
+   "E"
+  ],
+  "C09-JAGTA-EN-007": [
+   "assigned",
+   "E"
+  ],
+  "C09-JAGTA-EN-008": [
+   "assigned",
+   "C"
+  ],
+  "C09-GEOHER-001": [
+   "assigned",
+   "E"
+  ],
+  "C09-GEOHER-002": [
+   "assigned",
+   "E"
+  ],
+  "C09-GEOHER-003": [
+   "assigned",
+   "C"
+  ],
+  "C09-GEOHER-004": [
+   "assigned",
+   "C"
+  ],
+  "C09-GEOHER-005": [
+   "assigned",
+   "E"
+  ],
+  "C09-GEOHER-006": [
+   "assigned",
+   "E"
+  ],
+  "C09-GEOHER-007": [
+   "assigned",
+   "E"
+  ],
+  "C09-JAGTA-HI-001": [
+   "assigned",
+   "Note"
+  ],
+  "C09-JAGTA-HI-002": [
+   "assigned",
+   "C"
+  ],
+  "C09-JAGTA-HI-004": [
+   "assigned",
+   "Note"
+  ],
+  "C09-JAGTA-HI-005": [
+   "assigned",
+   "E"
+  ],
+  "C09-JAGTA-HI-008": [
+   "assigned",
+   "Note"
+  ],
+  "C09-JAGTA-HI-014": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C09-GAZ-008": [
+   "assigned",
+   "E"
+  ],
+  "C09-GAZ-009": [
+   "assigned",
+   "E"
+  ],
+  "C09-GAZ-011": [
+   "excluded",
+   "Kham Baba is the Garuḍa-dhvaja at Bes (Besnagar), not Udaypur (checked against the Gazetteer Markdown, v1 flag); excluded"
+  ],
+  "C09-GAZ-012": [
+   "assigned",
+   "E"
+  ],
+  "C09-GANGULY-002": [
+   "assigned",
+   "E"
+  ],
+  "C09-GANGULY-003": [
+   "assigned",
+   "Note"
+  ],
+  "C09-GANGULY-004": [
+   "assigned",
+   "C"
+  ],
+  "C09-GANGULY-005": [
+   "assigned",
+   "Note"
+  ],
+  "C09-MADHYABHARAT-002": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C09-INTACH-001": [
+   "assigned",
+   "C"
+  ],
+  "C09-PARTEMPLES-001": [
+   "assigned",
+   "E"
+  ]
+ },
+ "contextual_cited": 35
+}

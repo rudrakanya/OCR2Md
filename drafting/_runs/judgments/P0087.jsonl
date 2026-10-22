@@ -1,0 +1,25 @@
+{"c":"a89aa028b9","keep":false,"reject_reason":"Siva forms list; generic iconography/myth of deities; no Udaypur link"}
+{"c":"a980f57760","keep":false,"reject_reason":"Siva-Sakti forms; generic iconography/myth of deities; no Udaypur link"}
+{"c":"f6d063ed5e","keep":false,"reject_reason":"Skanda legends; generic iconography/myth of deities; no Udaypur link"}
+{"c":"b7b53dd499","keep":false,"reject_reason":"Virabhadra myth; generic iconography/myth of deities; no Udaypur link"}
+{"c":"e896bbd800","keep":false,"reject_reason":"Ganesa textual references; generic iconography/myth of deities; no Udaypur link"}
+{"c":"55b13afb58","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[2,2],"note":"Names the eight guardians of the Quarters (dikpalas): Indra, Agni, Yama, Nirruti, Varuna, Vayu, Kubera, Isana; general background for dikpala iconography."}]}
+{"c":"6750e11dee","keep":false,"reject_reason":"Agni/Varuna/Nirruti general deity description; generic iconography/myth of deities; no Udaypur link"}
+{"c":"c66ac1016f","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[28,30],"note":"Describes the Panchayatana system of one main and four subsidiary temples, here for the Surya-Panchayatana; general background on subsidiary shrines."}]}
+{"c":"0e7ca426cc","keep":false,"reject_reason":"Surya image iconography; generic iconography/myth of deities; no Udaypur link"}
+{"c":"7f3657e8f8","keep":false,"reject_reason":"general Sakti/goddess theory; generic iconography/myth of deities; no Udaypur link"}
+{"c":"781dab170a","keep":false,"reject_reason":"Sarasvati iconography; generic iconography/myth of deities; no Udaypur link"}
+{"c":"e401acf0a3","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[5,6],"note":"Notes that separate temples for Parvati are not customary and that she usually appears with Siva; general iconographic background."}]}
+{"c":"c5b9d16444","keep":false,"reject_reason":"Chamunda myth; generic iconography/myth of deities; no Udaypur link"}
+{"c":"8ea499d0c2","keep":false,"reject_reason":"Mahishamardini description; generic iconography/myth of deities; no Udaypur link"}
+{"c":"8a46d11e3c","keep":false,"reject_reason":"Bhu/Mahalakshmi iconography; generic iconography/myth of deities; no Udaypur link"}
+{"c":"9b40a40035","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[18,19],"note":"Names the seven Divine Mothers (Matrikas) created as female counterparts of the gods, carrying the same weapons and mounts; general background on matrika iconography."}]}
+{"c":"15d8e2b49c","keep":true,"items":[{"unit":"C05","sub":"S3","type":"fact","strength":"contextual","span":[16,23],"note":"Says Ganga and Yamuna figures were carved on either side of the shrine door from the Gupta period and became common practice, with symbolic meaning for entering the sanctum; general doorway background."}]}
+{"c":"22e4aaa07b","keep":false,"reject_reason":"OCR garbled table; unusable"}
+{"c":"77f9024483","keep":false,"reject_reason":"OCR garbled table; unusable"}
+{"c":"095f3a5461","keep":false,"reject_reason":"OCR garbled table; unusable"}
+{"c":"ee2bda60df","keep":false,"reject_reason":"OCR garbled table; unusable"}
+{"c":"828d862305","keep":false,"reject_reason":"OCR garbled table; unusable"}
+{"c":"04a3a82294","keep":false,"reject_reason":"OCR garbled table; unusable"}
+{"c":"50391851e2","keep":false,"reject_reason":"OCR garbled table; unusable; numeral table"}
+{"c":"1fc214863e","keep":false,"reject_reason":"OCR garbled table; unusable; numeral table"}

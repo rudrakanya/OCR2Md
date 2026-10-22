@@ -1,0 +1,25 @@
+{"c": "5beff5c26a", "keep": false, "reject_reason": "Arthūnā inscription of Vāgaḍa branch: discovery and physical description; off-topic"}
+{"c": "122dd6af8e", "keep": false, "reject_reason": "palaeography and orthography of an Arthūnā Vishnu-temple inscription; off-topic"}
+{"c": "ce5fd104a2", "keep": false, "reject_reason": "summary of an Arthūnā Vishnu-temple record of the Vāgaḍa branch; no bearing on Udaypur"}
+{"c": "75cd21fe1c", "keep": false, "reject_reason": "garbled Sanskrit verse text; metre list"}
+{"c": "2a9bba24df", "keep": false, "reject_reason": "garbled Sanskrit verse text and footnotes"}
+{"c": "cc305dc045", "keep": false, "reject_reason": "textual footnotes only"}
+{"c": "2a21a2b035", "keep": false, "reject_reason": "OCR garbage and plate caption"}
+{"c": "ba2fcd7d42", "keep": false, "reject_reason": "Arthūnā Jaina temple inscription: physical description and palaeography; off-topic"}
+{"c": "39c7c47ef4", "keep": false, "reject_reason": "Arthūnā Jaina temple record of Sahaja; Vāgaḍa branch, off-topic"}
+{"c": "af79282abd", "keep": false, "reject_reason": "OCR garbage, nothing quotable"}
+{"c": "a1a2f8d423", "keep": false, "reject_reason": "OCR garbage, nothing quotable"}
+{"c": "6779998f79", "keep": false, "reject_reason": "OCR garbage, nothing quotable"}
+{"c": "df76db4858", "keep": false, "reject_reason": "Arthūnā Jaina temple inscription description; off-topic"}
+{"c": "eccebcccc3", "keep": false, "reject_reason": "garbled text with metre list"}
+{"c": "518ae31d83", "keep": false, "reject_reason": "garbled Sanskrit verse text"}
+{"c": "95d3cb719e", "keep": false, "reject_reason": "garbled Sanskrit verse text"}
+{"c": "34943f8d18", "keep": false, "reject_reason": "Arthūnā Śiva-temple inscription: description and palaeography; off-topic"}
+{"c": "2cb12573e9", "keep": true, "items": [{"unit": "C07", "sub": "S4", "type": "fact", "strength": "contextual", "span": [13, 15], "note": "At Arthūnā (Rājasthān) a temple builder planted a flower garden, made a water-place, excavated a tank and a stepped well, and the king donated a plot of land for worship; a regional parallel for temple water structures."}]}
+{"c": "49c9a817fc", "keep": true, "items": [{"unit": "C08", "sub": "S5", "type": "fact", "strength": "contextual", "span": [1, 1], "note": "Arthūnā is said to have possessed a flourishing mart inviting traders from neighbouring places; a regional parallel for temple-town trade."}]}
+{"c": "7f780055c1", "keep": false, "reject_reason": "garbled Sanskrit/Tibetan-like OCR text"}
+{"c": "fe96f13617", "keep": false, "reject_reason": "garbled Sanskrit verse text"}
+{"c": "7237326241", "keep": false, "reject_reason": "garbled Sanskrit verse text"}
+{"c": "9d60a132d9", "keep": false, "reject_reason": "garbled Sanskrit verse text"}
+{"c": "6bbafad2ba", "keep": false, "reject_reason": "textual footnotes only"}
+{"c": "853fd6df58", "keep": false, "reject_reason": "Arthūnā image inscription of Vijayarāja: discovery and description; off-topic"}

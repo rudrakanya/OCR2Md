@@ -1,0 +1,25 @@
+{"c":"20c43784f8","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant; not quotable"}
+{"c":"4efacff738","keep":false,"reject_reason":"OCR-damaged Sanskrit text of grant; not quotable"}
+{"c":"8c7367540d","keep":false,"reject_reason":"find-spot and palaeography of Bhopāl pillar; no Udaypur link"}
+{"c":"6e2d865975","keep":false,"reject_reason":"minor feudatory battle record at Bhopāl; no bearing on any unit"}
+{"c":"5e93457c42","keep":false,"reject_reason":"speculative identification of an enemy in Bhopāl pillar record; nothing usable"}
+{"c":"ab555e64fe","keep":false,"reject_reason":"place-name identification and garbled Sanskrit text"}
+{"c":"c7948e4f75","keep":false,"reject_reason":"garbled text and textual footnotes"}
+{"c":"4220e834a6","keep":true,"items":[{"unit":"C03","sub":"S5","type":"fact","strength":"direct","span":[2,2],"xref":["C07"],"note":"Trailōkyavarman's inscription slab is set above a house door in front of the Jaina temple at Vidishā; discovered in 1969."},{"unit":"C03","sub":"S5","type":"date","strength":"direct","span":[36,37],"xref":["C04"],"note":"Records construction of a temple of Murāri, probably by king Trailōkyavarman, with donations; date Chaitra vadi 12, Vikrama 1216."}]}
+{"c":"bbcda0808e","keep":true,"items":[{"unit":"C03","sub":"S5","type":"fact","strength":"direct","span":[21,22],"xref":["C07"],"note":"Stanzas 4-6 describe a lofty temple of Murārī in boar-incarnation; place evidently Vidishā itself, from mention of river Vētravatī."},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[24,25],"note":"Trailōkyavarman imposed a tax of a vimśōpaka on every load on a bull, evidently in favour of the temple."}]}
+{"c":"ca3529e61f","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[1,2],"xref":["C03"],"note":"Vidishā inscription: Trailōkyavarman laid a tax of one viṇśōpaka on every load on a bull; genealogy not given."}]}
+{"c":"f53d1c4da6","keep":true,"items":[{"unit":"C02","sub":"S1","type":"fact","strength":"direct","span":[6,7],"xref":["C03"],"note":"Vētravatī of v. 7 is the well known river Betwā flowing by Vidishā."},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[1,3],"note":"Trailōkyavarman belonged to the Mahākumāra branch of Paramāras, apparently regent during nephew Harischandra's minority; Harischandra had issued a grant from Vidishā in V.S. 1214."}]}
+{"c":"8f9f0449b9","keep":false,"reject_reason":"OCR-damaged Sanskrit verse text"}
+{"c":"4928346cc7","keep":false,"reject_reason":"footnotes on poetic figures in a Vidishā verse; no usable detail"}
+{"c":"c2f1d6b6af","keep":false,"reject_reason":"OCR garbage"}
+{"c":"4a6bc3e612","keep":false,"reject_reason":"OCR garbage"}
+{"c":"505b2d9934","keep":false,"reject_reason":"OCR garbage"}
+{"c":"33ad01c3af","keep":false,"reject_reason":"plate captions and page-number noise"}
+{"c":"acbaec9f30","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[3,4],"note":"Gyāraspur grant by Mahākumāra Trailōkyavarmadēva, evidently of the subordinate Paramāra branch around Bhopāl; pedigree not specified."},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[13,14],"note":"Following Chakravarti, Trailōkyavarman acted as regent during Harischandra's minority."}]}
+{"c":"ffdae9f757","keep":true,"items":[{"unit":"C10","sub":"S1","type":"fact","strength":"contextual","span":[1,1],"xref":["C04"],"note":"Chandēlas had annexed region near Gyāraspur from the Paramāras, per Madanavarman's Augasī grant issued from Bhilsā (Vidishā)."}]}
+{"c":"77c850120f","keep":false,"reject_reason":"find-spot and edition history of Bhopāl plates; no bearing"}
+{"c":"ae778d992f","keep":false,"reject_reason":"physical description of copper plates"}
+{"c":"5035735c22","keep":false,"reject_reason":"palaeography and orthography notes only"}
+{"c":"d80483f0ae","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[9,12],"xref":["C04"],"note":"Mahākumāra Harischandra donated village Dādarapadra in the Mahādvādaśaka-maṇḍala, divided into 16 shares among 19 Brāhmaṇas."}]}
+{"c":"a6d6691b1c","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[6,10],"note":"Harischandra's grant names Naravarmadēva, Yasōvarmadēva, Trailōkyavarmadēva and Harischandra; Harischandra obtained his principality through Trailōkyavarman's favour."}]}
+{"c":"8894940ab2","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[2,6],"note":"Two Harischandra grants credit different sovereigns (Trailōkyavarman, Jayavarman); victory may allude to the Chandēlas, their northern neighbours."}]}

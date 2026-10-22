@@ -1,0 +1,23 @@
+{"c":"4a837c3dd5","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[8,9],"note":"Samarāṅgaṇasūtradhāra LV: Kailāsa is the abode of Maheśvara; certain Prāsāda forms are not to be built for any other god."}]}
+{"c":"5099bf3b58","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[14,16],"note":"The Twenty Temples are the Nāgara Prāsādas of Samarāṅgaṇasūtradhāra ch. LXIII, and their names are incorporated in chapters LVII and LIX."}]}
+{"c":"8dd2e5fa63","keep":false,"reject_reason":"generic typology of the five Vimānas and 45 temples (Agni Purāṇa); no specific link to a unit"}
+{"c":"44ad77b8fe","keep":false,"reject_reason":"garbled table of temple names"}
+{"c":"059c4ff5b7","keep":false,"reject_reason":"Buddhist stūpa harmikā symbolism; off-topic"}
+{"c":"8643a236ff","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[15,17],"note":"Indian temples are topped by a finial of which the kalaśa is the most important part; the Golden Prāsāda-Puruṣa is installed in this jar."}]}
+{"c":"4789347011","keep":false,"reject_reason":"Meru and High Temple symbolism, zikkurat comparison; no specific bearing"}
+{"c":"c2e4572aaa","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[17,20],"note":"Mountain-named temples in the Samarāṅgaṇasūtradhāra include Mālyavān (ch. 65) and Niṣadha (ch. 65), each described as a Bhūmija Prāsāda.","claim":{"key":"Bhūmija style: origin / affinity","value":"Samarāṅgaṇasūtradhāra ch. 65 names Mālyavān and Niṣadha as Bhūmija Prāsādas"}}]}
+{"c":"ebf6deeeea","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[16,16],"note":"Some names of the Bhūmija Prāsādas are among those of the 100 temples of the Viṣṇudharmottara."}]}
+{"c":"fa3996b684","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[13,13],"note":"The garbhagṛha is the unchangeable nucleus of the zones around it; temple Rucaka is its shell."}]}
+{"c":"7d39e8ce53","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[11,13],"note":"Condensation of the hall-temple plan into an internal circumambulatory between thick walls so the high superstructure could rest securely on the walls."}]}
+{"c":"9846f3f1e4","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Aihole/Alampur hall temples, no Udaypur link)"}
+{"c":"5b1917d1bb","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[7,9],"note":"The Samarāṅgaṇasūtradhāra belongs to Dhāra in Malwa and is a compendium dealing with the main temple types then known, contemporary with temple architecture at its climax."}]}
+{"c":"f8be725027","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[7,8],"note":"Kāmikāgama assigns Nāgara temples to the country from the Himalaya to the Vindhya."}]}
+{"c":"b72fc14f63","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[14,16],"note":"The Twenty Temples are the subject of ch. LXIII of the Samarāṅgaṇasūtradhāra on Nāgara-Prāsādas; in the eleventh century they are called Nāgara."}]}
+{"c":"bd5428ed1a","keep":false,"reject_reason":"South Indian lineage of Vāstu-śāstra authorities; off-topic (pilot-judged for C01)"}
+{"c":"427704356d","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[21,24],"note":"Kāmikāgama: Nāgara temples have eight parts in elevation (mūla, masūraka, jaṅghā, kapota, śikhara, gala, āmalasāraka, kumbha with śūla)."}]}
+{"c":"cea7758240","keep":false,"reject_reason":"pilot-judged for C01; Nāgara, Drāviḍa, Vesara terminology only, nothing specific for C02–C13"}
+{"c":"fa59b8ecdc","keep":false,"reject_reason":"footnotes on Vārāta and Vairāṭa; off-topic (pilot-judged for C01)"}
+{"c":"cd417e1ba3","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[7,10],"note":"Nāgara were the most numerous temples from the Bṛhat Saṃhitā onward, with centre in Madhyadeśa; local variations developed East (Kaliṅga) and West (Lāṭa) under ruling dynasties."}]}
+{"c":"0e08836de3","keep":false,"reject_reason":"South Indian Jāti Vimāna classification; off-topic"}
+{"c":"9b2cfd88e4","keep":false,"reject_reason":"South Indian Nāgara/Drāviḍa/Vesara classification and examples; no Udaypur link (pilot-judged for C01)"}
+{"c":"68494ec4bc","keep":false,"reject_reason":"garbled OCR on directions of Nāgara, Drāviḍa and Vesara temples in South Indian towns"}

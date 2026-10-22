@@ -1,0 +1,25 @@
+{"c":"1b20f3292b","keep":false,"reject_reason":"Samarāṅgaṇa Padma talacchanda layout verses; technical, no Bhūmija or Udaypur link, garbled old OCR"}
+{"c":"934b5d5de6","keep":true,"items":[{"unit":"C04","sub":"S2","type":"quote","strength":"contextual","span":[21,22],"xref":["C05","C06"],"note":"Colophon attributes the Samarāṅgaṇasūtradhāra (vāstu śāstra, chapter 61 on pīṭha-patra) to Mahārājādhirāja Śrī Bhojadeva (⚠ old OCR).","gloss":"Thus ends the sixty-first chapter, called the definition of pīṭha and patra, in the Vāstu-śāstra also named Samarāṅgaṇasūtradhāra, composed by Mahārājādhirāja Śrī Bhojadeva."}]}
+{"c":"71cc5d383c","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa one-storey measurement verses; technical, garbled old OCR"}
+{"c":"7f83420b5f","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa mouldings measurement verses; no Vidisha or Bhūmija link, garbled old OCR"}
+{"c":"2b343e81d9","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa Kūṭa/Jaṅghā verses; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"0cc6be28f8","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa two/three-storey measurements; technical, garbled old OCR"}
+{"c":"bf0dc40807","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa moulding layer counts; technical, garbled old OCR"}
+{"c":"37a12e9df3","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa moulding layer counts; technical, garbled old OCR"}
+{"c":"c72c7de2f8","keep":false,"reject_reason":"Duplicate verse fragment plus bare footnote numerals; no usable evidence"}
+{"c":"859b8fe0f2","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa three/four-storey measurements; technical, garbled old OCR"}
+{"c":"151a108903","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa Jaṅghā/Kūṭa measurements; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"8a5a0f0456","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa Ghaṇṭā/Kumbha layer verses; technical, garbled old OCR"}
+{"c":"205e30fb38","keep":false,"reject_reason":"Samarāṅgaṇa five-storey Drāviḍa measurements; technical, garbled old OCR"}
+{"c":"d9e00bb28f","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa Kumbha/Jaṅghā layer verses; technical, garbled old OCR"}
+{"c":"c527c71a76","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa Cheda/entrance measurements; technical, garbled old OCR"}
+{"c":"4ac5e6ac4a","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa moulding proportions; technical, garbled old OCR"}
+{"c":"f0c5637ee6","keep":false,"reject_reason":"Samarāṅgaṇa Drāviḍa Padma/Kumbha verses; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"27d4ff3ced","keep":false,"reject_reason":"Samarāṅgaṇa six-storey measurements; technical, garbled old OCR"}
+{"c":"db5853cb70","keep":false,"reject_reason":"Samarāṅgaṇa six/seven-storey measurements; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"352649484b","keep":false,"reject_reason":"Samarāṅgaṇa seven/eight-storey measurements; technical, garbled old OCR"}
+{"c":"454868c92c","keep":false,"reject_reason":"Samarāṅgaṇa nine/ten-storey measurements; technical, garbled old OCR"}
+{"c":"743d4d0bb7","keep":false,"reject_reason":"Samarāṅgaṇa ten-storey storey heights; technical, garbled old OCR"}
+{"c":"265d9763ad","keep":false,"reject_reason":"Samarāṅgaṇa ten/eleven-storey storey heights; technical, garbled old OCR"}
+{"c":"ba430cb606","keep":false,"reject_reason":"Samarāṅgaṇa eleven/twelve-storey storey heights; technical, garbled old OCR"}
+{"c":"7a550728bc","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[9,9],"note":"Closes the Drāviḍa section: twelve Drāviḍa prāsādas have been illustrated (⚠ old OCR)."}]}

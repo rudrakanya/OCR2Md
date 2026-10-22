@@ -1,0 +1,25 @@
+{"c":"5d9ab43f40","keep":false,"reject_reason":"garbled OCR of a fragmentary inscription text and plate caption"}
+{"c":"96cfde6e60","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[18,19],"note":"Record of a perpetual land donation to a Pārśvanātha temple under a Chandrāvatī ruler (Abū branch, Rājasthān); parallel for temple endowments, not Udaypur itself."}]}
+{"c":"c20c0150af","keep":false,"reject_reason":"Abū-branch chronology of Ālhaṇasimha at Chandrāvatī; no bearing on Udaypur"}
+{"c":"b25c5f297c","keep":false,"reject_reason":"Devanāgarī table text of an Abū-branch inscription; OCR garbled and off-topic"}
+{"c":"7f3047826d","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02-C13 (textual footnotes to an Abū-branch inscription)"}
+{"c":"9667b8a361","keep":false,"reject_reason":"Bhūlā inscription of the Abū branch in Sirōhī, Rājasthān; off-topic"}
+{"c":"f8c9c49da6","keep":false,"reject_reason":"Abū-branch chronology and Rājasthān village identifications; off-topic"}
+{"c":"36b6390700","keep":false,"reject_reason":"palaeography of the Girvaḍ inscription in Sirōhī; no bearing on Udaypur"}
+{"c":"4e429fddc8","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02-C13 (orthography and dating of the Girvaḍ inscription)"}
+{"c":"2997adc829","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[5,8],"note":"Girvaḍ inscription narrates the myth of the Paramāra originator created by Vasishtha; editor calls it a later creation originating in this region and notes the hero is named Dhūmarāja here, Paramāra elsewhere."}]}
+{"c":"119fbf1efa","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02-C13 (Abū-branch genealogy)"}
+{"c":"b9314e6dae","keep":false,"reject_reason":"Abū-branch temple repairs and Girvaḍ donations; off-topic"}
+{"c":"605cae2d6a","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[3,7],"note":"Grants of field, well, corn per arahatta and well, grain per plough, and custom-duty revenue for the deity's naivēdya at Girvaḍ: example of temple endowments in Paramāra-ruled territory."}]}
+{"c":"a188249b33","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02-C13 (identification of Sirōhī villages)"}
+{"c":"7024fa948a","keep":false,"reject_reason":"garbled Sanskrit verse text; metre list only"}
+{"c":"b9bae5a9e6","keep":false,"reject_reason":"garbled Sanskrit verse text of Girvaḍ inscription"}
+{"c":"c4379dfb1e","keep":false,"reject_reason":"textual footnotes and unreadable plate caption"}
+{"c":"30aab319fa","keep":false,"reject_reason":"garbled Sanskrit verse text of Girvaḍ inscription"}
+{"c":"c86687c197","keep":false,"reject_reason":"garbled Sanskrit verse text and footnotes on Dhārāvarsha statue at Abū"}
+{"c":"7e4991d23e","keep":true,"items":[{"unit":"C08","sub":"S4","type":"fact","strength":"contextual","span":[5,6],"note":"Arahata (araghatta) explained as pots attached to the spokes of a wheel to lift water, used in Rajasthan for irrigation; relevant to wells and irrigation."},{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[19,19],"note":"A term explained as spreading out articles for sale before a market pavilion where they were taxed."}]}
+{"c":"4a9eda7ed9","keep":false,"reject_reason":"Pānāhedā inscription of Bānswādā: physical description and editing history; off-topic"}
+{"c":"26feb2ef22","keep":false,"reject_reason":"palaeography of Pānāhedā inscription; off-topic"}
+{"c":"ecbfcf4ed3","keep":false,"reject_reason":"palaeography and orthography of Pānāhedā inscription; off-topic"}
+{"c":"72ab580fcb","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[12,13],"xref":["C04"],"note":"Editor says the Pānāhedā prasasti in its description of kings resembles the Udaipur and Nagpur prasastis (Nos. 24 and 33)."},{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[9,9],"note":"Pānāhedā prasasti lists the main line of Paramāra rulers of Mālava down to Jayasiṃha I, then the subordinate branch ending with Maṇḍalīka."}]}
+{"c":"35982205a3","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[1,1],"xref":["C04"],"note":"Legend of the Paramāra hero created by Vasishtha who recovered Viśvāmitra's cow is found in the Udaipur prasasti for the first time in epigraphic records."},{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[2,5],"note":"Pānāhedā prasasti verses on Siyaka II, Muñja, Sindhurāja, Bhoja and Jayasiṃha; editor judges the Jayasiṃha world-conquest statement conventional and historically worthless."},{"unit":"C04","sub":"S1","type":"date","strength":"contextual","span":[13,14],"note":"Reference to Siyaka's expedition sacking the Rāshṭrakūṭa capital in 972-73 A.C., as seen in the editor's treatment of the Udaipur prāśastī."}]}

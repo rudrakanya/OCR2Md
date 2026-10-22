@@ -1,0 +1,25 @@
+{"c":"268250e6a9","keep":false,"reject_reason":"Narasimha/Vamana iconography and myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"04fd467f5a","keep":false,"reject_reason":"Vamana/Trivikrama iconography; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"4caf996993","keep":false,"reject_reason":"Parasurama myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"c48f4bb8cf","keep":false,"reject_reason":"Parasurama/Rama iconography; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"d2553cc159","keep":false,"reject_reason":"Vishnu minor forms; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"21e20760b8","keep":false,"reject_reason":"Vishnu image types and Garuda myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"64e025ed55","keep":false,"reject_reason":"Garuda iconography; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"a57f442974","keep":true,"items":[{"unit":"C08","sub":"S1","type":"fact","strength":"contextual","span":[35,37],"note":"General statement that Siva has a very large following and many temples, divided into sects named as Saiva, Pasupata, Kapalika, Kalamukha, Lakulisa, Virasaiva; general background on Saiva sects."}]}
+{"c":"fa48756606","keep":false,"reject_reason":"Upanishadic/Puranic Rudra-Siva doctrine; too general (Nataraja mention is one line)"}
+{"c":"40ff947fec","keep":true,"items":[{"unit":"C05","sub":"S5","type":"fact","strength":"contextual","span":[13,15],"note":"Explains the Siva-linga as the 'formless' and 'all-formed' form (Aiyyar's view); general Saiva symbolism background for interpreting a linga sanctum."}]}
+{"c":"6a3fa439c6","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[1,11],"note":"List of symbolic meanings of Siva's chief attributes (staff, trident, matted hair, moon digit, bull etc.); general Saiva iconography background."}]}
+{"c":"728b17abbb","keep":false,"reject_reason":"Nandi myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"02c5291a96","keep":false,"reject_reason":"Ganapati myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"073aea1a5b","keep":false,"reject_reason":"Kiratarjuna myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"661e5d3709","keep":false,"reject_reason":"Ravananugraha myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"cda3047a9c","keep":true,"items":[{"unit":"C05","sub":"S4","type":"fact","strength":"contextual","span":[21,29],"note":"Prescribed iconography of Lingodbhava-murti carved on the front of the linga (Siva, Brahma as swan, Vishnu as boar); general canonical prescription."}]}
+{"c":"de33ad881a","keep":false,"reject_reason":"Bhairava/Gajasura myths; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"3877577362","keep":false,"reject_reason":"Tripurantaka and Sarabha myths; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"a0b99b3439","keep":false,"reject_reason":"Kalari-murti myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"21bb978408","keep":false,"reject_reason":"Brahma head myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"08609e916f","keep":false,"reject_reason":"Andhaka myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"05abe32563","keep":false,"reject_reason":"Gangadhara and Ardhanarisvara myths; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"04660fca85","keep":false,"reject_reason":"Kalyanasundara and Harihara myth; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"b74c5ac48f","keep":false,"reject_reason":"Siva-Parvati marriage sculpture composition; generic iconography of other deities/myth; no Udaypur link"}
+{"c":"852eb5ac92","keep":false,"reject_reason":"Dakshinamurti iconography; generic iconography of other deities/myth; no Udaypur link"}

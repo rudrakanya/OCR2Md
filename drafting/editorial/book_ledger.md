@@ -1,0 +1,627 @@
+# Book ledger
+
+*Rebuilt 17 October 2026 from the book contents and the final texts of Chapter 1 (v6), Chapter 2 (v4), Chapter 3 (v4), Chapter 4 (v3), Chapter 5 (v1), Chapter 6 (v1), Chapter 7 (v1), Chapter 8 (v1), Chapter 9 (v1), Chapter 10 (v1), Chapter 11 (v1), Chapter 12 (v1) and the Afterword (v1); later chapters are added as they are drafted. Not evidence: a record of what the reader is told, and where.*
+
+- **Chapter 1 through-line:** Udaypur today, the names and memories it keeps, and what the records do and do not establish about Udayāditya's foundation.
+- **Chapter 10 through-line:** Udaypur across its masters: the V.S. 1220 stone naming the Caulukya Kumārapāla and his mahāsādhanika at Udaypur (U1); Naravarman's frayed east, the mahākumāras at Vidisha, Caulukya governors, Vindhyavarman's return; Devapāla residing at Udayapura (1232), Iltutmish at Bhilsa, three-sided pressure, 1305; the Sam. 1366 title, the mosque of 1336–38 and the temple left in worship, the survival legends tested; temples turned to mosques at Vidisha, Ujjain and Dhār, Udayeśvara the exception; the Malwa sultans' Bhilsa and the 1488 mosque; Sarkar Chanderi, the translated farman, the Shahi Masjid of A.H. 1041 and the qāzī's claim (U7); Aurangzeb at Bhilsa in 1682, at Udaypur only in legend; Afghans and Marathas to Scindia by 1775; the brass cover (HELD, RR-2); Gwalior's district to Madhya Pradesh; the famine of 1899–1900 and the feeder road of 1905; political demotion dated step by step, economic decline undatable, the Gazetteer's 'once a place of considerable importance' into Chapter 11.
+- **Chapter 11 through-line:** Made known and protected in pieces: Beglar's report (1871–72) carrying the Aurangzeb legend, corrected from the inscriptions in Cunningham's (1874–77); the bedi and the eight-shrine plan as fixtures; the records in the Survey's files; Kramrisch's 1946 model resting on the reports; Gwalior State's department under Garde finding the second slab and removing it to Gwalior, restoring (1923–29) and resetting the serpent slab; a new state's list, two central and four state monuments, the palace protected by no one; spending reported at second hand; one remembered clearance; INTACH's survey of the whole town (2020–21), a list without legal force; the palace notice and the revenue order of 15 January 2021 (U7); a stolen Umā-Maheśvara and defaced sculpture; quarries, blasts, herds and a cracking repair on the hill, leading to the people of Chapter 12.
+- **Chapter 12 through-line:** Udaypur at the last record (early 2020s): the census's slow village (1901 928 or 1,619; 1971 2,025; 2011 6,383); the state's village of panchayat, two 'nearest' stations and schools (record of services stops 1979); households in the ruins; wheat for the Ganj Basoda mandi, district crafts, quarry wages, fields against the reserved forest; the living hill of bats, vultures, herds, pilgrims and trekkers, and the 1968 Udaipura block (not shown to be this hill); visitors who take darśan and leave, officials' VIP darśan; the town becoming visible in 2021 (walkers, Saxena's film, Bhopal); residents setting back their own shopfronts in 2021; outsiders' verdicts, each attributed, the record speaking about residents more than for them; expectations of a tourist town, where the arc from a king's town to a visited village reaches the present, into the Afterword.
+- **Chapter 13 through-line:** Afterword: the record's horizon (the 2019 letter; 2021 in a clause each; Vivek's post of 20 February 2022 the latest dated item; the survey 2021 or later, RR-31); protection building by building and no one answering for the town; the proposals on record from translations on site, guides and walks, clearing and monitoring, schools, residents and merchants, readers of inscriptions and the book's open questions, to circuits, partnership and Mishra's heritage town, each attributed; the proposals tested 'on the evidence of this book' (who pays, where the risk is, pace, people); the one argument, 'this book argues', conservation by use; the close on the temple seen from the Ganj Basoda road and the lane its residents widened.
+- **Chapter 2 through-line:** The land the founder found: a river country whose river does not reach the town, a sandstone hill, one wet season, black soil, thin forest, water that had to be made and a seam of stone; the setting, never the cause.
+- **Chapter 3 through-line:** What stood in Udaypur's country before Udaypur, told for what it means to Udaypur: old names, Vidisha in literature and excavation (the Gazetteer capped at 40% a unit), its dynasties, roads and shrines, Gupta caves near the town, the move to Bhilsa and its Sun god, and the eighth-to-tenth-century frontier on Udaypur's range; who held the hill stays open.
+- **Chapter 4 through-line:** The Paramāras as a polity, from the fire-born legend first told on Udaypur's stone to Udayāditya's recovery of Malwa, his descent, reign and family; 1080 firm and 1059 a reading; the practice of royal temple-building and the treatise ideal of the town; and Udayapura in its records and in testimony, ending on the Udayeśvara as the one dated royal work.
+- **Chapter 5 through-line:** The Udayeśvara read as historical evidence: the type and the building as it stands, with its vedī and court; the Bhūmija tower, its disputed origin, its place among Paramāra temples and between Khajuraho and the Deccan; the craft of its surfaces and the guilds behind them; the image programme set by rule and adjusted for symmetry; its damage; the texts as norms; Śaiva Siddhānta and the readings laid on the temple, ending on the temple's own inscribed words (Ch 6).
+- **Chapter 6 through-line:** Udaypur's inscriptions as evidence of literate royal culture: the signed six lines of 1080; the faulty V.S. 1116 inscription kept apart (held, RR-1); Amērā's dated verse; the praśasti as object, self-portrait, genealogy and claimed conquests, and its lost maker; the serpent of letters and its fellows, Dhārā's halls, Bhoja's books and the courts' poets; the dating of letters; the porch archive under Caulukya then Paramāra masters; the last Paramāra traces; Persian from 1336; the hill's pilgrims and unread lines; the limits of the record, into Chapter 7.
+- **Chapter 7 through-line:** Udaypur's wider built heritage as evidence for its history, not an inventory: the counted monuments and blanket survey dates; the nameless hill wall (Beglar's account held, RR-15), its interior, its dating proposals and the untried lichen method; Bhoja's treatise on forts against the bastions; the hill's Jain cave, rock panels and unfinished colossus; the walled town, its gates, palace and Mughal governor's mansion kept apart; lanes, reused houses, the Bijamandal (not Vidisha's), the Barakhambi and the Pisanhārī legend; later Hindu shrines and Jain and memorial stones; the mosques of 1336–38, 1488 and 1632 as dated marks of Delhi, Mandu and the Mughals; undated dargahs and graves; water on the hill and in the town; the Udaysagar not shown to be the Udayasamudra; the older Bhujariya; Vikrama's tank at Amērā as water given for merit, leading into Chapter 8's gifts.
+- **Chapter 8 through-line:** Gifts, not a budget: three dated gifts at Udaypur (1163 to Udaleśvara, Ganguly only, RR-17; early 1170s, Lūṇapasāka's village to Vaidyanātha; 1229, Dhāmadeva's four biswa to the Udayeśvara), under Caulukya then Paramāra masters (U1), and no founding endowment; the kingdom's pattern of endowment, labelled; merit and the temple as institution (Temple Economics comparative only); the hala and the water-wheel in the grants; the kundies (RR-18), the treatises' four builders, Malwa's cloth; markets, imposts and the dramma, Udayāditya's gold; the modern district's farming and trades; what worship required, the Śaiva schools and monasteries, gods beside Śiva; the drum-stone and the time-keepers' claim; the living temple, into Chapter 9.
+- **Chapter 9 through-line:** A town that narrates itself: neighbours in a lane and the district census (no counts for Udaypur); a family's claim of Paramāra descent and the Bagdi tradition as family and community memory (legal review); the ranked society and migrant Brāhmaṇas of the grants, regional; the district's languages, the village's speech undocumented, the languages of the stones; the Śivarātri fair, the Bhujariya rites, the court's festivals known from books, dress, food and the rāī; three foundings in the stories and tales told elsewhere; Berni Mata's versions growing; Bhoja the region's folk king against Udayāditya's town; the gaḍhī's threads, treasure and deserted Daulatpur, into Chapter 10.
+
+## People
+
+- **Udayāditya** (Udayāditya, Paramāra king), first 1.1: founder of town, temple and tank; Bhoja's brother (D2)
+- **Tiwari** (Vijay Manohar Tiwari), first 1.1: author of Jagta Hua Kasba; testimony to modern life (named in note)
+- **Beglar** (J. D. Beglar), first 1.2: toured Bundelkhand and Malwa 1871–72
+- **Berni Mata** (Berni Mata), first 1.3: dancer of the lake legend
+- **Narayan Vyas** (Narayan Vyas), first 1.3: identified the Berni Mata image as a yakṣa (note); 'land of heroes' (1.12)
+- **Ganguly** (D. C. Ganguly), first 1.4: historian of the Paramāras (first named in a 1.4 note)
+- **Bhoja** (King Bhoja), first 1.5: Paramāra king whose death nearly lost the kingdom
+- **Jayasiṃha** (Jayasiṃha (I)), first 1.5: Bhoja's successor, killed in the second invasion
+- **Karṇa** (Karṇa (named by dynasty at every mention, R2)), first 1.5: invader; Nagpur Karṇa unspecified, editor inclines Kalacuri (D4)
+- **Bhīma** (Bhīma I, Caulukya king of Gujarat (named by dynasty, R2)), first 1.5: Gujarat king allied against Bhoja
+- **Someśvara** (Cālukya king Someśvara), first 1.5: sent Vikramāditya to restore Jayasiṃha
+- **Vikramāditya** (Vikramāditya (VI)), first 1.5: Cālukya prince who restored Jayasiṃha
+- **Verma** (Santosh Kumar Verma), first 1.5: historian of the kinship dispute; dates the 1080 record (note)
+- **Merutuṅga** (Merutuṅga), first 1.5: Jain chronicler (note)
+- **Kielhorn** (Kielhorn), first 1.5: reading of the Nagpur verse (note)
+- **Rājyapāla** (mahāsādhanika Rājyapāla), first 1.8: Caulukya governor at Udayapura, 1163 (U1)
+- **Lūṇapasāka** (Lūṇapasāka), first 1.8: Caulukya governor, grant of 1172 (U1)
+- **Kumārapāla** (Caulukya king Kumārapāla), first 1.8: reigning in 1163
+- **Ajayapāla** (Ajayapāla), first 1.8: Caulukya king, 1172
+- **Devapāla** (Devapāla, Paramāra king of Dhārā), first 1.8: named in Udaypur record of V.S. 1289
+- **Śūdraka** (Śūdraka), first 1.8: father of the Nēmaka king at Udayapura
+- **Jayavarman** (Jayavarman (Jayasiṃha), son of Devapāla), first 1.8: held the region in the 1260s
+- **Vasantapāla** (Vasantapāla), first 1.8: donor of 1163
+- **Yaśovarman** (Yaśovarman), first 1.9: succeeded 1133; defeated by Jayasiṃha of Gujarat
+- **Muhammad Tughluq** (Sultan Muhammad Tughluq), first 1.9: named in mosque inscriptions 1336–38
+- **Khande Rao Appaji** (Khande Rao Appaji), first 1.9: general of Mahadji Scindia; brass cover
+- **Garde** (M. B. Garde), first 1.9: Director of Archaeology, Gwalior State; found second slab 1925–26
+- **Madanavarman** (Candella king Madanavarman), first 1.9: at Bhāillasvāmi in 1134
+- **Lakṣmīvarman** (mahākumāra Lakṣmīvarman), first 1.9: first of the junior Paramāra line
+- **Hariścandra** (mahākumāra Hariścandra), first 1.9: Lakṣmīvarman's son
+- **Udayavarman** (mahākumāra Udayavarman), first 1.9: Hariścandra's son; grant in Vindhya maṇḍala
+- **Dilawar Khan** (Dilawar Khan), first 1.9: first sultan of Malwa
+- **Hoshang Shah** (Hoshang Shah), first 1.9: moved the capital to Mandu, 1405
+- **Upendra** (Upendra), first 1.10: first king in the praśasti genealogy
+- **Vairisiṃha** (Vairisiṃha), first 1.10: named Dhārā, per the praśasti
+- **Padmagupta** (Padmagupta), first 1.10: court poet; fire-altar legend c. 1005
+- **Cunningham** (Alexander Cunningham), first 1.11: report of tours 1874–77
+- **Bühler** (Georg Bühler), first 1.11: edited the praśasti, Epigraphia Indica I
+- **Singh** (Saarthak Singh), first 1.11: read the serpentine inscription (note)
+- **Turasadasa** (Turasadasa of Ranathabhore), first 1.11: pilgrim, samvat 1696
+- **Aurangzeb** (Aurangzeb), first 1.12: emperor of the survival legend
+- **Hardy** (Adam Hardy), first 1.13: ranks the Udayeśvara among three imperial monuments
+- **Al Beruni** (Al Beruni), first 2.1: described Bhilsa about 1030 and its place as Malwa's eastern limit
+- **Patil** (D. R. Patil), first 2.1: The Cultural Heritage of Madhya Bharat
+- **Luard** (Captain Luard), first 2.5: author of the Gwalior State Gazetteer (1907)
+- **Rajpurohit** (Bhagwatilal Rajpurohit), first 2.7: credits Bhoja with the treatise and the lake's irrigation
+- **Munshi** (K. M. Munshi), first 2.7: doubts Bhoja's authorship of the treatise
+- **Kincaid** (W. Kincaid), first 2.8: visitor who described the Bhojpur dams (quoted by Ganguly)
+- **Smith** (V. A. Smith), first 2.8: called the Bhojpur lake Bhoja's 'noblest monument'
+- **Shah Hussain** (Shah Hussain), first 2.8: Mandu sultan named by Ganguly and Singh as breaker of the Bhojpur dam
+- **Kramrisch** (Stella Kramrisch), first 2.9: The Hindu Temple: stone tested and transformed
+- **Govind Saxena** (Govind Saxena), first 2.10: reporter of the illegal-quarrying ground report, cited by Tiwari (U7)
+- **Kālidāsa** (Kālidāsa), first 3.1: poet of Meghadūta and Mālavikāgnimitra
+- **Gautamīputra Sātakarṇi** (Gautamīputra Sātakarṇi), first 3.1: Sātavāhana king; Nasik praśasti
+- **Agnimitra** (Agnimitra Śuṅga), first 3.2: viceroy at Vidisha; hero of Mālavikāgnimitra
+- **Candragupta II** (Candragupta II), first 3.2: Udayagiri inscriptions, Gupta year 82
+- **Aśoka** (Aśoka, Maurya emperor), first 3.4: married Devī of Vidisha
+- **Devī** (Devī, banker's daughter of Vidisha), first 3.4: Aśoka's wife; mother of Mahendra and Saṅghamitrā
+- **Puṣyamitra** (Puṣyamitra Śuṅga), first 3.4: Śuṅga founder; Aśvamedha probably at Vidisha
+- **Bhāgabhadra** (King Bhāgabhadra), first 3.4: Śuṅga king of the Heliodoros pillar
+- **Heliodoros** (Heliodoros, son of Dion, of Taxila), first 3.6: Indo-Greek envoy; Garuḍa pillar
+- **Samudragupta** (Samudragupta), first 3.8: Allahabad pillar; ended Nāga rule
+- **Vīrasena** (Vīrasena), first 3.8: Candragupta II's minister; Udayagiri cave
+- **Nahapāna** (Nahapāna, Kṣatrapa), first 3.8: held Malwa after Kaniṣka; lost Ākara and Avanti to Gautamīputra
+- **Caṣṭana** (Caṣṭana, Śaka Kṣatrapa), first 3.8: recovered Malwa; Ptolemy's Ozene
+- **Rudradāman** (Rudradāman, Śaka Kṣatrapa), first 3.8: lord of Ākara, Avanti and Anupa (Junagarh)
+- **Sircar** (D. C. Sircar), first 3.10: recognised the Sun-god slab
+- **Trailōkyavarman** (Trailōkyavarman), first 3.10: Murāri temple record, V.S. 1226
+- **Parabala** (Parabala, Rāṣṭrakūṭa king), first 3.11: Pathari pillar, 861
+- **Dhaṅga** (Dhaṅga, Candella king), first 3.11: kingdom to Bhilsa
+- **Sīyaka II** (Sīyaka II (Harṣa)), first 4.2: grants of 949; independence; real founder
+- **Vākpati-Muñja** (Vākpati II, Muñja, Utpala), first 4.3: poet-king; killed by Tailapa II
+- **Tailapa II** (Tailapa II, Cālukya), first 4.3: captor of Muñja
+- **Araṇyarāja** (Araṇyarāja), first 4.4: Muñja's son at Ābū
+- **Dūsala** (Dūsala), first 4.4: governor of Bhinmal
+- **Jayasiṃha I** (Jayasiṃha I), first 4.5: Bhoja's son and successor; left out of the praśastis
+- **Someśvara I** (Someśvara I, Cālukya), first 4.6: sacked Dhārā; aided Jayasiṃha
+- **Vikramāditya VI** (Vikramāditya VI, Cālukya), first 4.10: restored Jayasiṃha; later Udayāditya's enemy
+- **Ereyaṅga** (the Hoysala Ereyaṅga), first 4.11: one of the three enemies
+- **Lakṣmadēva** (Lakṣmadēva), first 4.15: eldest son; predeceased father
+- **Lōlārka** (Lōlārka of the Dāhima family), first 4.15: Udayāditya's minister
+- **Pande** (Anupa Pande), first 5.1: monograph on the Udayeśvara; Śaiva Siddhānta reading
+- **Deva** (Krishna Deva), first 5.1: Temples of India; Bhūmija from Malwa, tenth century
+- **Sharma** (R. K. Sharma), first 5.1: Art of the Paramāras of Malwa
+- **Adhikari** (Swati Mondal Adhikari), first 5.8: study of Un; model/follower
+- **Fergusson** (James Fergusson), first 5.10: architectural historian; 'quite perfect'
+- **Bafna** (Sonit Bafna), first 5.24: questions the grid reading
+- **Bhatia** (Pratipal Bhatia), first 5.25: Bhoja built on his own precepts
+- **Granoff** (Phyllis Granoff), first 5.28: questions the cosmic reading
+- **Mahipāla** (Paṇḍita Mahipāla, son of Paṇḍita Śṛṅgavāsa), first 6.1: poet of the 1080 record
+- **Vikrama** (Vikrama, a Brāhmaṇa), first 6.3: builder of the Amērā tank
+- **Saumatika** (Saumatika), first 6.3: engraver of the Amērā record
+- **Vaidya** (C. V. Vaidya), first 6.6: critic of the praśasti's genealogy
+- **Chittapa** (Paṇḍita Chittapa, mahākavi-cakravartin), first 6.13: Bhoja's court poet; sun eulogy at Vidisha
+- **Śrīchandra** (Śrīchandra, daṇḍanāyaka), first 6.13: commissioned Chittapa's eulogy
+- **Dhanapāla** (Dhanapāla), first 6.13: court poet of Bhoja
+- **Madana** (Madana, Bālasarasvatī), first 6.14: royal preceptor of Arjunavarman; Pārijātamañjarī
+- **Āśādhara** (Āśādhara), first 6.14: Jain teacher at Nalakacchapura
+- **Dhāmadeva** (Dhāmadeva), first 6.18: treasury officer of Devapāla; 1229 gift
+- **Ustonatha** (Ustonatha of Ranathabore), first 6.21: pilgrim, samvat 1696
+- **Malukdas Jain** (Malukdas Jain), first 7.15: owner of an old residence
+- **Sher Khan** (Sher Khan), first 7.17: whose agent built the mosque of 1488
+- **Ghiyās Shāh Khaljī** (Ghiyās Shāh Khaljī, Sultan of Mandu), first 7.17: ruler at the 1488 mosque
+- **Auliya Ibn Abdul Samad** (Auliya Ibn Abdul Samad), first 7.18: founder of the Shahi Masjid and Mahal Qubba under Jahāngīr (farman)
+- **Jannaka** (Jannaka), first 7.24: excavator of a stepped well at Chirihilla (comparandum)
+- **Rayakuka** (Rayakuka (reading doubtful)), first 8.1: named in the 1229 gift
+- **Memmaka** (Memmaka, a Kṣatriya), first 8.4: cultivator near Gwalior under Bhoja
+- **Pālhaṇadeva** (Pālhaṇadeva, brother of Dhārāvarṣa), first 8.4: donor of a water-wheel
+- **Cāmuṇḍarāja** (Cāmuṇḍarāja), first 8.6: set imposts for the temple of Maṇḍaleśa
+- **Vyomaśiva** (Vyomaśiva), first 8.11: extended the Khokhai monastery, Ranod
+- **Lāvaṇya Sundarī** (Lāvaṇya Sundarī), first 9.5: dancer of Bhoja's time in district tradition
+- **Iltutmish** (Iltutmish, Sultan of Delhi), first 10.2: took Bhilsa 1233–34
+- **Mahlakadeva** (Mahlakadeva (Mahlak Deo)), first 10.2: last Paramāra king, killed at Mandu 1305
+- **Dost Mohammad Khan** (Dost Mohammad Khan), first 10.8: Afghan founder of Bhopal; took Vidisha by a ruse
+- **Bhandarkar** (D. R. Bhandarkar), first 11.1: described the 1080 record in a Western Circle progress report (Tiwari's citation)
+- **Madanmohan Upadhyay** (Madanmohan Upadhyay), first 11.5: INTACH Bhopal convener; deployed the survey team (living; legal review list)
+- **Suresh Mishra** (Suresh Mishra), first 11.6: historian on the 2021 heritage walk; asked for the FIR (living; legal review list)
+- **Shivkumar Vivek** (Shivkumar Vivek), first 12.1: journalist; guest post of 20 Feb 2022 (pp. 161–162)
+- **Ajit Vadnerkar** (Ajit Vadnerkar), first 12.3: word-scholar; guest post reprinted by Tiwari (pp. 163–166)
+
+## Terms (gloss once, at first appearance in the book)
+
+- *panchayat*: unit of village government (first 1.1)
+- *kasba*: town (first 1.1)
+- *haveli*: large house (first 1.1)
+- *darśan*: viewing of the deity (first 1.2)
+- *pūjā*: worship (first 1.2)
+- *samādhi*: a memorial (first 1.3)
+- *yakṣa*: semi-divine figure (first 1.3)
+- *kachahari*: the court (first 1.3)
+- *bandhu*: a relative (first 1.5)
+- *pitṛvya*: paternal uncle (first 1.5)
+- *karaṇa*: a division of the lunar day (first 1.7)
+- *maṇḍala*: province (first 1.8)
+- *bhoga*: division of a province (first 1.8)
+- *viṣaya*: unit of the province (first 1.8)
+- *pāṭhaka*: sub-district (first 1.8)
+- *sāmanta*: officer of a viṣaya (first 1.8)
+- *paṭṭalika*: king's man in the village, the patel (first 1.8)
+- *mahāsādhanika*: governor's title (first 1.8)
+- *daṇḍanāyaka*: district officer (first 1.8)
+- *mahākumāra*: junior Paramāra branch (first 1.8)
+- *liṅga*: Śiva's emblem in the sanctum (first 1.9)
+- *sarkar*: Mughal district (first 1.9)
+- *mihrāb*: prayer niche (first 1.9)
+- *praśasti*: a eulogy set into the temple (first 1.10)
+- *varṇanāgakṛpāṇikā*: serpentine scimitar of letters (first 1.11)
+- *śikhara*: temple spire (first 1.13)
+- *bhūmija*: Paramāra temple style (first 1.13)
+- *bhūmi*: storey of the spire (first 1.13)
+- *sūtradhāra*: master builder (first 1.14)
+- *padmāsana*: lotus seat posture (first 2.3)
+- *kali-matti*: black cotton soil; mar locally (first 2.5)
+- *kharif*: autumn crop (shialu) (first 2.5)
+- *rabi*: spring crop (unhalu) (first 2.5)
+- *bakhar*: a kind of harrow (first 2.5)
+- *charas*: leather bucket lift for wells (first 2.5)
+- *talav*: lake or tank; talavadi, pond (first 2.7)
+- *tekro*: inhabited mound (first 2.7)
+- *kund*: stepwell or water tank for drinking (first 2.7)
+- *jāṅgala*: dry country (treatise) (first 2.7)
+- *anūpa*: well-watered low country (treatise) (first 2.7)
+- *sādhāraṇa*: intermediate country (treatise) (first 2.7)
+- *āmalaka*: ribbed crowning stone of a spire (first 2.9)
+- *tīrtha*: place of pilgrimage (first 3.2)
+- *apsaras*: celestial nymph (first 3.2)
+- *janapada*: early territorial state (first 3.5)
+- *sārtha-patha*: caravan road (first 3.5)
+- *Garuḍa-dhvaja*: Garuḍa standard (pillar) (first 3.6)
+- *Bhāgavata*: worshipper of Vāsudeva (first 3.6)
+- *uttama prāsāda*: foremost temple (first 3.6)
+- *ekamukha liṅga*: one-faced liṅga (first 3.7)
+- *kuṇḍa*: sacrificial pit (first 3.7)
+- *agni-kula*: fire-born lineage (first 4.1)
+- *Paramāravaṃśa*: the Paramāra family (first 4.1)
+- *sāmanta-chūḍā-maṇi*: crest-jewel among the feudatories (first 4.2)
+- *padānudhyāta*: meditating on the feet (first 4.12)
+- *paṭṭakila*: village headman (first 4.14)
+- *akṣaya-dīpikā*: perpetual lamp (first 4.15)
+- *yajamāna*: patron, the sacrificer (first 4.16)
+- *vāstupuruṣa*: the diagram of the site's being (first 4.16)
+- *pada*: square of the town grid (first 4.17)
+- *garbhagṛha*: womb chamber, the sanctum (first 5.1)
+- *prāsāda*: palace or seat of the deity; the shrine proper (first 5.1)
+- *maṇḍapa*: hall (first 5.1)
+- *antarāla*: vestibule (first 5.1)
+- *jagatī*: moulded platform (first 5.1)
+- *sāndhāra / nirandhāra*: with / without an inner ambulatory (first 5.1)
+- *vedī*: separate low hall on the axis (first 5.2)
+- *kakṣāsana*: porch seat (first 5.2)
+- *pañcāyatana*: five-shrine plan (first 5.4)
+- *mañjarī*: shoot; the spire (first 5.5)
+- *kalaśa*: jar of the finial (first 5.5)
+- *śukanāsā*: antefix ('parrot's nose') (first 5.5)
+- *parivartanā*: rotation of the square (first 5.6)
+- *kūṭastambha*: miniature spire on a pilaster (first 5.6)
+- *latā*: flat band of the spire (first 5.6)
+- *pīṭha*: base (first 5.10)
+- *jāḍyakumbha*: lotus-shaped base moulding (first 5.10)
+- *grāsapaṭṭī*: band of monster faces (first 5.10)
+- *vedībandha*: wall-base mouldings (first 5.10)
+- *salilāntara*: recess between buttresses (first 5.10)
+- *miśraka*: mixed pillar type (first 5.11)
+- *nābhichanda*: ceiling of concentric coffered rings (first 5.11)
+- *kīrttimukha*: Face of Glory (first 5.12)
+- *sthapati / sthāpaka*: architect / architect-priest (first 5.13)
+- *tāṇḍava*: Śiva's vigorous dance (first 5.14)
+- *ūrdhvajānu*: dance pose with raised knee (first 5.14)
+- *aṣṭa dikpālas*: eight guardians of the directions (first 5.15)
+- *mātṛkā / aṣṭamātṛkā*: Mother goddess / the eight Mothers (first 5.16)
+- *tilaka*: upper tier of the hall (first 5.17)
+- *khattikā*: small niche on the wall base (first 5.19)
+- *navatāla*: nine face-lengths (first 5.23)
+- *vāstupuruṣamaṇḍala*: square diagram of the site (first 5.24)
+- *śuddha adhvā*: pure order of five principles (first 5.26)
+- *pati / paśu / pāśa*: lord / soul / fetters (first 5.26)
+- *śivasāyujya*: company of Śiva (first 5.27)
+- *svasti*: hail (first 6.1)
+- *anuṣṭubh*: common verse metre (first 6.1)
+- *ravi-saṃkrānti*: the Sun's transit (first 6.1)
+- *gotra*: lineage (exogamous clan) (first 6.3)
+- *śārdūlavikrīḍita*: metre (first 6.3)
+- *sragdharā*: metre (first 6.3)
+- *khaḍga*: sword (first 6.4)
+- *vasantatilakā*: metre (first 6.4)
+- *śālinī*: metre (first 6.4)
+- *mandākrāntā*: metre (first 6.4)
+- *ālavāla*: basin (word split in v. 1) (first 6.4)
+- *kalpavalli*: wish-fulfilling creeper (first 6.5)
+- *kavirāja*: king of poets (first 6.5)
+- *Bhargabhakta*: worshipper of Śiva (first 6.5)
+- *gauḍī*: style suited to the heroic mood (first 6.8)
+- *kāyastha*: scribal family name, as in the source (first 6.8)
+- *nāgabandha / sarpabandha*: serpent-knot diagram (first 6.9)
+- *prākāra*: outer parapet wall of the temple court (first 6.9)
+- *vedikā*: ornamental railing (balustrade) (first 6.9)
+- *siddhāsiputrikā*: unique magical sword (Ujjain verse, via Saarthak Singh) (first 6.9)
+- *Māheśvara-sūtras*: opening aphorisms of Pāṇini's grammar (first 6.10)
+- *lakāra*: tenses and moods (first 6.10)
+- *āryā*: metre (first 6.11)
+- *goṣṭhī*: assembly (first 6.11)
+- *mahākavi-cakravartin*: emperor of great poets (first 6.13)
+- *pratīhāra*: door-keeper (officer) (first 6.17)
+- *pañcakula*: council (of elders) (first 6.17)
+- *vaṇṭaka*: share (first 6.17)
+- *maṅgalaṃ mahāśrīḥ*: closing blessing (first 6.17)
+- *siddham*: sign: let there be success (first 6.18)
+- *mahāmudrā*: seal office (in the 1229 record) (first 6.18)
+- *viśva*: a twentieth of a bighā (if the reading holds) (first 6.18)
+- *udakapūrvakam*: with water poured (first 6.18)
+- *silavata*: mason (first 6.21)
+- *bigha*: land measure (first 7.9)
+- *sabhāmaṇḍapa*: hall for gathering (first 7.13)
+- *mazār*: grave shrine (first 7.19)
+- *sara / mahāsara / bhadraka*: half-moon, round, square tank in the treatise (first 7.25)
+- *biswa*: twentieth of a bighā (first 8.1)
+- *nivartana*: land measure (first 8.2)
+- *viṃśopaka*: small coin or toll unit (first 8.2)
+- *hala*: land one plough works in a season (first 8.4)
+- *araghaṭṭa*: well with a pot-wheel (first 8.4)
+- *sthapati / sūtragrāhin / takṣaka / vardhakin*: the four builders' roles (first 8.5)
+- *kundies*: red sandstone objects of Udaypura (undescribed) (first 8.5)
+- *dramma*: silver coin (first 8.6)
+- *maṇḍapikā*: market pavilion where goods were taxed (first 8.6)
+- *gaonti kharch*: village revenue rebate (first 8.7)
+- *gaḍhī*: the place of the 'threads' stories (first 9.2)
+- *rāī*: the region's folk dance (first 9.5)
+- *bednī*: professional rāī dancer (first 9.5)
+- *bhojavidyā*: Bhoja's lore; conjuring (first 9.8)
+- *maḥal*: Mughal revenue unit (first 10.6)
+- *sarkār*: Mughal revenue division (first 10.6)
+- *qasba*: country town; not attested for Udaypur in any period record (first 10.6)
+- *qaziyat*: the office of qāzī (first 10.6)
+- *mukhaliṅga*: liṅga with a face (first 10.9)
+- *bedi*: Cunningham's name for the square halls of the court (first 11.1)
+- *halka patwari*: village revenue record-keeper (first 11.6)
+- *mori*: drain of the hill fortification (first 11.8)
+- *mandi*: the grain market (first 12.4)
+- *jagirdars*: estate-holders (first 12.5)
+- *abhiṣeka*: ablution (first 12.6)
+- *gumati*: kiosk (in quotation only) (first 13.10)
+
+## Places
+
+- **Ganj Basoda**, first 1.1: market town on the railway, 13–16 km
+- **Vidisha**, first 1.1: district headquarters, 55–70 km; old Bhilsa
+- **Bareth**, first 1.1: railway station 6.5 km west
+- **Ghariyālon Kā Makān**, first 1.3: house of the time-keepers
+- **Teen Darwaza**, first 1.3: triple gateway of the walled city
+- **Udaipur (Rajasthan)**, first 1.4: the other Udaipur; not this place
+- **Dhārā**, first 1.5: Paramāra capital
+- **Bhilsa**, first 1.5: old name of Vidisha
+- **Udayasamudra**, first 1.6: Udayāditya's tank, ruins north-east
+- **Uday Sagar Talab**, first 1.6: the village's name for Udayasamudra
+- **Bhāillasvāmi-mahādvādaśaka**, first 1.8: province of the 1170s (R4)
+- **Pathari**, first 1.8: limit of the Paramāra building country
+- **Bhiraṅgāvalī**, first 1.8: probably Bhṛṅgārikā, about 6 km north-east
+- **Umaratha**, first 1.8: village granted by Lūṇapasāka
+- **Mandu**, first 1.9: fort where Paramāra rule ended 1305
+- **Chanderi**, first 1.9: Mughal sarkar that held Udaypur
+- **Chatua Darwaza**, first 1.10: where the second slab was found
+- **Mahākāla temple, Ujjain**, first 1.11: has the twin serpentine diagram
+- **Bija Mandal, Vidisha**, first 1.12: temple not spared; one of three imperial monuments (1.13)
+- **Bhujariya Talab**, first 1.14: older tank, 8 acres, south-east
+- **Kewtan**, first 2.1: tributary 1 km from the village, 1.8 km from Shiva Pindi; kept apart from the Gazetteer's Keotan
+- **Betwa (Vētravatī)**, first 2.1: river of Vidisha/Bhilsa; 590 km to the Yamuna
+- **Besnagar**, first 2.1: ancient city in the fork of the Betwa and the Bes (Vessanagar)
+- **Garhi–Teonda range**, first 2.2: Udaypur in its western foothills; Lakholi 665.7 m
+- **Shiva Pindi**, first 2.3: the large hill (mesa); caves natural and cut
+- **Bhojpur**, first 2.8: Bhoja's lake and dams, comparison only
+- **Patari**, first 2.10: quarry tract with Udaypur
+- **Daśārṇa**, first 3.1: old name of east Malwa
+- **Ākara**, first 3.1: east Malwa; Avanti = west Malwa
+- **Kham Baba**, first 3.3: Heliodoros pillar
+- **Sanchi**, first 3.4: stupas built largely by Vidisha merchants
+- **Vaishya Tekri**, first 3.4: Ujjain site of a stupa ascribed to Devī (tradition)
+- **Udayagiri**, first 3.8: Gupta caves near Vidisha; never connected with Udaypur by name
+- **Badoh**, first 3.9: Gadarmal; flat-roofed shrines
+- **Gyaraspur**, first 3.11: Māladevī, 8th–10th c.
+- **Mānyakheṭa**, first 4.2: Rāṣṭrakūṭa capital sacked c. 972
+- **Arthūṇā**, first 4.4: Vāgaḍa branch centre
+- **Un**, first 4.14: temples with Udayāditya's inscription
+- **Dhavalī**, first 4.15: Udayāditya's camp near Ujjain, 1082
+- **Onkar Mandhata**, first 5.7: Amareśvara nucleus tenth century; later temple dated 1063
+- **Nemawar**, first 5.8: Siddheśvara, nine storeys, later
+- **Ambarnath / Sinnar / Jhodga**, first 5.9: Deccan comparisons
+- **Khajuraho**, first 5.9: Candella temples; Lakṣmaṇa temple of 954
+- **Amērā**, first 6.3: village about 3 km south of Udaypur; tank inscription V.S. 1151
+- **Bhojaśālā (Kamal Maula mosque), Dhār**, first 6.10: serpent charts; stone library
+- **Shiv Pindi**, first 6.21: pilgrims' records, Jain cave inscription
+- **Raja Mahal**, first 7.9: walled palace, undated; 3.5 bighas
+- **Governor's mahal by the Shahi Masjid**, first 7.9: early Mughal; kept apart from the Raja Mahal
+- **Bijamandal (Udaypur)**, first 7.12: clockman's house; not Vidisha's Bijamandal mosque
+- **Barakhambi**, first 7.13: twelve-pillared hall of a lost 11th-c. temple
+- **Sher Khan's mosque**, first 7.17: outside Moti Darwaza; A.H. 894 / A.D. 1488; Persian and Sanskrit
+- **Shahi Masjid**, first 7.18: begun under Jahāngīr, completed 1632
+- **Ghoḍ-dauḍ-kī-bāvaḍī**, first 7.21: horse stepwell east of Shahi Masjid; listed 17th c.
+- **Udaysagar**, first 7.22: north of village, 71 acres; not shown to be the Udayasamudra
+- **Arthuna**, first 8.6: mart drawing traders from Chittor
+- **Ranod (Khokhai Math)**, first 8.11: Mattamayūra monastery, Guna district
+- **the gaḍhī**, first 9.2: shrine of Gaḍhī-wāle Bābā; threads of dacoits and treasure
+- **Daulatpur**, first 9.9: remembered deserted village and market; no location given
+- **Sarkar Chanderi**, first 10.6: Udaypur's Mughal division per the translated farman; Bhilsa was in Raisen Sarkar
+- **Archaeological Museum, Gwalior**, first 11.2: holds the second slab of the praśasti
+- **the palace (Raja Mahal)**, first 11.3: unprotected; 'State Administration' in the 2021 inventory; 2021 order (11.6)
+- **Mahuli**, first 12.1: small village near Udaypur (INTACH)
+- **Mandi Bamora**, first 12.2: second station and market town; road via Kurwai
+- **Kurwai**, first 12.2: assembly constituency of Udaypur
+- **Udaipura shooting block**, first 12.5: Gyaraspur Range, 1968 table; not shown to be Udaypur's hill (RR-27)
+- **Tribal Museum, Bhopal**, first 12.7: hall of the Udaypur presentation
+- **Kashi Vishwanath corridor**, first 13.1: named only as Tiwari's model in the 2019 letter
+- **Bhimbetka**, first 13.9: UNESCO site in this part of Madhya Pradesh (survey's framing)
+
+## Committed figures
+
+- distance from Ganj Basoda: **13–16 km** (1.1)
+- distance from Vidisha: **55–70 km** (1.1)
+- Bareth station: **6–6.5 km west** (1.1)
+- village area: **about 1,966 hectares** (1.1)
+- population 2011: **6,383 people; about 1,247 houses; 54.28 per cent literate** (1.1)
+- earliest firm date: **V.S. 1137, A.D. 1080** (1.7)
+- reported start of building: **V.S. 1116, A.D. 1059 (a reading)** (1.7)
+- Udayāditya's reign: **c. 1070–c. 1093 (others 1058/59–1086/87)** (1.7)
+- Caulukya governors: **1163 Rājyapāla; 1171–73 Lūṇapasāka** (1.8)
+- end of Paramāra rule: **1305** (1.9)
+- Tughluq mosque: **A.H. 737–39, A.D. 1336–38** (1.9, 1.12)
+- brass cover: **V.S. 1841, given as A.D. 1775** (1.9)
+- second praśasti slab found: **1925–26** (1.10)
+- Devapāla at Udayapura: **records of c. 1229 and V.S. 1289 (early 1230s)** (1.8)
+- Śivarātri crowd: **thousands; Tiwari: 400 police deployed (note)** (1.2)
+- serpentine slab: **pinkish sandstone, 70 cm high** (1.11)
+- first praśasti slab: **22 verses, breaks off in the 23rd** (1.10)
+- Caulukya conquest of Malwa: **1138–45** (10.1)
+- Lūṇapasāka's grant: **1171/1172/1173 (V.S. 1229)** (10.1)
+- Iltutmish at Bhilsa: **1233–34** (10.2)
+- Khalji capture of Bhilsa: **early 1290s** (10.2)
+- Brass cover: **V.S. 1841 as reported / 1775 as converted — HELD (RR-2)** (10.9)
+- Shahi Masjid: **A.H. 1041, A.D. 1632** (10.6)
+- Madhya Bharat state list: **1,783 monuments listed; 145 declared national** (11.3)
+- protected monuments at Udaypur: **2 central (temple, Barakhambi), 4 state (two mosques, Pisanhārī, Naṭarāja)** (11.3)
+- INTACH documentation: **about fifty heritage sites; published 2021** (11.5)
+- palace eviction order: **15 January 2021, naib tehsildar (order text via Tiwari)** (11.6)
+- Gwalior restoration campaigns: **1923–24, 1925–26, 1928–29; samvat 1985 restoration inscription** (11.2)
+- population 1901: **928 or 1,619 (both printed; RR-26)** (12.1)
+- population 1971: **2,025** (12.1)
+- 2011 by sex: **3,405 men, 2,978 women** (12.1)
+- bird species: **over fifty-eight; thirty-three of fifty-nine biome species** (12.5)
+- earliest dated proposal: **Tiwari's letter to a Collector, 2019 (writer's own account)** (13.1)
+- latest dated item in the evidence: **Vivek's post, 20 February 2022** (13.1)
+- Geo-Heritage survey date: **undated; 2021 or later (references consulted April 2021)** (13.1)
+- hill fortification for notification: **continuous stretch of about 1,400 m (survey)** (13.2)
+- Udaypur elevation: **340–480 m, mean 410 m** (2.2)
+- Kewtan distance: **1.8 km from Shiva Pindi; 1 km from village** (2.1)
+- district annual rainfall: **1,229.9 mm; 92 per cent June–September** (2.4)
+- black cotton soil share: **75 per cent** (2.5)
+- Bhojpur lake area: **about 250 square miles** (2.8)
+- Heliodoros pillar date: **c. 140 B.C.** (3.6)
+- Pathari pillar: **A.D. 861** (3.11)
+- first mention of Bhailasvāmin: **A.D. 878** (3.10)
+- Udaypur from Bhilsa (Ganguly): **thirty miles north (note only; ledger distance 55–70 km stands)** (3.3)
+- Bhoja's dated reign: **1011–1047** (4.5)
+- Udayāditya's death: **1093** (4.15)
+- Sīyaka's grants: **949** (4.2)
+- vedī interior: **23 feet square (Cunningham)** (5.3)
+- attendant shrines: **eight (six standing in ruin); counts 7, 8–9, 4+4 by source** (5.4)
+- spire: **seven tiers of five kūṭastambhas per sub-quarter (35)** (5.6)
+- star plan: **32 points (Hardy)** (5.6)
+- hall pillars: **square 2 ft 9 in; 5 ft 6 + 3 ft 8 + 1 ft 3 = 10 ft 5 in** (5.11)
+- Amareśvara date: **1063** (5.8)
+- 1080 record: **six lines; V.S. 1137 Vaiśākha śukla 7** (6.1)
+- V.S. 1116 temple inscription: **22 lines (Verma); held RR-1** (6.2)
+- Amērā record: **V.S. 1151; about 15 verses** (6.3)
+- praśasti slab 2: **27 lines, 62.5 × 53 cm** (6.4)
+- serpent endings: **21 nominal, 18 verbal** (6.9)
+- porch records: **1163 (V.S. 1220), 1172 (V.S. 1229), 1229 (V.S. 1286), 1232 (V.S. 1289)** (6.18)
+- last Paramāra record: **V.S. 1366 (Ganguly's table 1309; text misprints 1909)** (6.19)
+- Persian mosque records: **A.H. 737–39 (1336–38); 1488; 1632** (6.20)
+- serpent slab at Udaypur: **pinkish sandstone, 70 cm high; outer parapet, south projection of the court; reset face-inward** (6.9)
+- writing beside the Udaypur serpent: **5 lines: 3 near the middle (unread) + 2 near the top (a verse)** (6.9)
+- Udaypur serpent base: **3 aspirates, no anusvāra (Ujjain base: 4, with anusvāra, per CII)** (6.9)
+- Amērā slab: **95.5 × 78 cm; panel c. 60 × 53 cm; 24 lines; 23 June 1094 (V.S. 1151 expired)** (6.3)
+- Udaypur praśasti: **22 verses in nine metres + 10 syllables of v. 23** (6.4)
+- Nagpur praśasti slab: **139.5 × 84 cm; 40 lines + 1; 58 verses** (6.8)
+- Dhār charts: **A 70 × 30.5 cm; B 91.55 × 45 cm, 180 verb endings** (6.10)
+- Un chart: **field 138 × 90 cm; chart 80 × 61 cm** (6.10)
+- Vāgdevī image: **V.S. 1091 (1033–34)** (6.11)
+- Rājamṛgāṅka: **Śaka 964 (1042–43)** (6.12)
+- Māndhātā plates of Devapāla: **3 plates, 12.10 kg, 80 lines, 32 donees, August 1225** (6.17)
+- 1229 pillar: **26 Oct or 2 Nov 1229, or 11 or 18 Oct 1230** (6.18)
+- Tughluq doorway inscriptions: **A.H. 737 and 739** (6.20)
+- hill pilgrim records: **Samvat 1696 Chaitra vadi 11 = 27 April 1639** (6.21)
+- Tughluq mosque: **A.H. 737 and 739 = 1336–38** (7.16)
+- Sher Khan's mosque: **A.H. 894 = A.D. 1488** (7.17)
+- Shahi Masjid completed: **A.H. 1041 = A.D. 1632** (7.18)
+- hill stepwell: **24.5 × 44.5 m, about 20 steps** (7.20)
+- summit reservoir: **11 × 15.5 m** (7.20)
+- Amērā tank cost: **2,500 coins** (7.24)
+- Udaysagar area: **71 acres** (7.22)
+- 1229 gift: **4 biswa** (8.1)
+- one hala: **42 rods each way; c. 63,504 sq ft; c. 20 bighās** (8.4)
+- dramma: **67.5 grains** (8.6)
+- district workers in agriculture, 1961: **three in four (79.3% in another table)** (8.7)
+- Bhilsa tobacco: **1,326 acres 1906–07; 192 acres 1951–52** (8.8)
+- Madhya Bharat temples: **c. 750; 240 Śaiva, 87 Vaiṣṇava, 89 Jain** (8.12)
+- district religions 1961: **Hindu 89.29%, Muslim 9.12%, Jain 1.50%** (9.1)
+- district mother tongues 1961: **Hindi 90.95%, Urdu 7.84%** (9.4)
+- Śivarātri fair at Udaypur: **7 days, Feb/Mar (Gazetteer)** (9.5)
+
+## Open questions
+
+- Was there a settlement before Udayāditya? (1.14; left open)
+- Is V.S. 1116 (1059) a sound reading, and was Udayāditya then ruling from Udaypur? (1.7; weighed)
+- What did the record of 1080 commemorate: flag, flag-staff erected, or repaired? (1.7; left open)
+- When did the name Nīlakaṇṭheśvara take hold? (1.4; left open)
+- When did the Paramāras regain Udaypur from the Caulukyas? (1.8; left open)
+- How did the temple survive? (1.12; left open)
+- Is the village's Uday Sagar the Udayasamudra of the inscription? (1.6; left open)
+- Brass cover date V.S. 1841 vs 1775 (10.9; HELD, RR-2)
+- Date of the Paramāra return at Udaypur after Caulukya rule (10.1; not recorded)
+- Whether Udaypur lay in Gwalior's or the Nawab's Basoda before 1948 (10.8, 10.10; not stated in corpus)
+- The farman's Persian original (10.6; RR-22)
+- The date of Udaypur's economic decline (10.12; undatable on present evidence)
+- Beglar/Cunningham/Bühler/Gwalior 1925–26 staged editions uncorrected (HELD) (11.1, 11.2; open RR-1, RR-8, RR-12, RR-15, RR-32)
+- 'Garde Sahib' = M. B. Garde? (11.2; open RR-33)
+- Land Revenue Code cited in the 2021 order (11.6; open RR-24)
+- the site beside the private quarry (11.8; open RR-25)
+- legal review: palace notice and order; mining sentence; spending, houses, theft (11.3, 11.4, 11.6, 11.7, 11.8; open LR-1, LR-2, LR-3)
+- 1901 census figure (12.1; open RR-26)
+- 1968 shooting-block table columns (12.5; open RR-27)
+- date of the lane widening (12.8; open RR-28)
+- Raja Miyan / Raja Mishra (12.8; open RR-29 (not named))
+- guest speakers pp. 161–170 (12.3, 12.7, 12.10; partly resolved: pp. 161–162 Vivek, 163–166 Vadnerkar; 1.1 misattributes C01-JAGTA-EN-015)
+- The Geo-Heritage survey's own date (13.1; open RR-31 (inferred 2021 or later))
+- Guest voices at Tiwari pp. 161–167 (13.1, 13.7, 13.9, 13.10; resolved by the Ch 12 plan (Vivek; Vadnerkar))
+- The 2021 revenue order and the palace's status (13.1, 13.2, 13.11; legal review LR-1)
+- The illegal-quarrying finding (13.5; legal review LR-2)
+- Criticism of panchayats, the district association and departments (13.7, 13.8; legal review (attributed opinion))
+- Which of the survey's two hills is its 'Udaypur Hill', and how high do the hills rise? (2.3; left open; survey figures disagree)
+- Who breached the Bhojpur dam, Shah Hussain or Hoshang Shah? (2.8; both given, attributed)
+- Who held Udaypur's hill before the Paramāras? (3.11; left open)
+- When and why was Besnagar deserted? (3.3, 3.10; range: after the 7th to before the 10th century)
+- Was Udayapura founded on empty ground or a renamed conquered place? (4.18; left open)
+- Are the pedigree's and the twenty-two-line inscription's V.S. 1116 / Śaka 981 one record? (4.13; kept apart; check against first editions (R3))
+- Which Karṇa: the Kalacuri of the Dōngargāon/Nagpur reading or the Caulukya of Ganguly's sources? (4.11; both attributed; unspecified ones flagged (R2))
+- What was the vedī for? (5.3; three readings, undecided)
+- How many attendant shrines, and in what plan? (5.4; counts side by side)
+- Where did the Bhūmija begin? (5.7; Malwa tenth century (Deva) vs eleventh-century emergence (Hardy))
+- Who is the figure near the summit? (5.27; flag-bearer, king or architect)
+- Was the temple built from the Samarāṅgaṇasūtradhāra? (5.25; compatibility, not identity)
+- Is the 22-line V.S. 1116 inscription the INTACH six-block record, and what do the first editions read? (6.2; HELD RR-1)
+- Who composed the Udaypur praśasti? (6.8; unknown; name lost)
+- Teaching aids or royal emblems? (6.10; both views; emblem at Udaypur)
+- The V.S. 1311 and 1366 records (6.19; HELD RR-11, RR-23)
+- Udaypur serpent verse: what does –pālaḥ protect; the 3-line middle inscription is unread (6.9; open; needs a fresh reading of the slab)
+- The word siddhāsiputrikā and Ujjain ll. 24–26 rest on Sastri, EI XXXI (1960), known only through Saarthak Singh (6.9; needs Sastri's edition in the corpus)
+- Ujjain called identical, yet CII's Ujjain base has the anusvāra that the Udaypur base lacks (6.9; noted; not resolved)
+- Does the 22-line V.S. 1116 record share its text with the V.S. 1562 pedigree (same names, same paired years, same JAOS page)? (6.2; HELD RR-1)
+- Who found the first praśasti slab, and its size (CII p. 130 missing from OCR) (6.4; needs re-OCR of CII p. 130)
+- Verse numbering: Mahesh Singh v. 18/20 vs CII and Tiwari v. 19/21; CII prose v. 8 vs text v. 7 for Upendra (6.6–6.7; noted)
+- Hūṇa victory: v. 16 gives Sindhurāja; CII p. 45 says Sīyaka (6.7; noted)
+- Dhār verb chart: Kātantra or Chāndra (6.10; disputed)
+- Mandu hostel documents (Govinda Bhatta) (6.11; Tiwari only)
+- Devapāla Mahākumāra (Tiwari) vs Mahārāja (CII) in the 1229 record (6.18; CII followed)
+- Jayasiṃha II or III for the V.S. 1366 record (6.19; HELD RR-11)
+- INTACH inscription appendix (1522, 1632, 1730) garbled by OCR (6.20; needs re-OCR)
+- Are INTACH's two cave lines the survey's cave inscription? (6.21; kept apart)
+- Beglar's account of the hill wall in his own report (7.2, 7.19; HELD RR-15)
+- Which mosque is the inventory's 18th-century Moti Masjid? (7.17; open RR-13)
+- Where is the V.S. 1625 pillar inscription? (7.13; open RR-14)
+- Is the Udaysagar the Udayasamudra of the inscription? (7.22; not shown)
+- Date of the hill wall (lichen study proposed, not made) (7.4; proposals only)
+- Unread stepwell and memorial inscriptions (7.15, 7.21; unread)
+- The 1163 gift in the edited records (8.1; open RR-17 (Ganguly only))
+- Source of the Gazetteer's kundies sentence (8.5; open RR-18)
+- The Bhilsa bazaar rent of 878 against its edition (8.2; open RR-19)
+- The temple's founding endowment (8.1, 8.3; unrecorded)
+- Census share 1961: 75% or 79.3% (8.7; conflict, both given)
+- Adhikari's footnote on identical legends (9.6; open RR-20)
+- Hindi originals of the Bagdi passage (9.2; open RR-21)
+- The village's own speech (9.4; undocumented)
+- Living people in 9.1–9.2 (9.1, 9.2; legal review)
+
+## Forward references
+
+- 1.3 → Ch 9: versions of the Berni Mata legend
+- 1.5 → Ch 4: the crisis after Bhoja told in full
+- 1.9 → Ch 10: later regimes in full
+- 1.12 → Ch 10: survival legends tested
+- 1.11 → Ch 6: the serpentine inscription in full
+- 1.14 → Ch 2: the land, rock, soils and water both founding answers stand on
+- 10.6 → 11.6: the palace question and the order of 2021
+- 10.10 → 11.2: Garde and Gwalior State archaeology
+- 10.12 → 11.1: the officials who described the town
+- 11.8 → Ch 12: the people at the record's edges: households, fields, quarries
+- 11.5 → 12.7: the Bhopal presentation
+- 11.3 → Afterword: translations of the inscriptions at the temple
+- 12.10 → Afterword: residents' expectations and outsiders' predictions; the plans
+- 12.7 → Afterword: INTACH's offer and the booking of the hall
+- 2.6 → Ch 12: wildlife of the hill and district
+- 2.7 → Ch 7: Udaypur's tanks, wells and stepwells in detail
+- 2.10 → Ch 11–12: present-day quarrying (legal review)
+- 2.10 → Ch 3: users of the valley before Udaypur
+- 3.11 → Ch 4: the Paramāras' rise in this frontier
+- 3.9 → Ch 5: the hill cave and its sculpture
+- 3.11 → Ch 6: the two inscriptions on the hill
+- 4.20 → Ch 5: the Udayeśvara as a building
+- 4.15 → Ch 10: Naravarman and the decline
+- 4.19 → Ch 10: the province in the twelfth century
+- 4.18 → Ch 7: Udayasamudra
+- 4.9 → Ch 6: the praśasti as a text
+- 5.28 → Ch 6: the flag record and the praśasti as texts
+- 5.2 → Ch 10: why the east door was shut
+- 5.21 → Ch 10: who damaged the images
+- 5.20 → Ch 11: the brass sheath and the temple's later care
+- 5.4 → Ch 10: the mosque's date and builder
+- 6.22 → Ch 7: the dated mosques and the hill as buildings
+- 6.18 → Ch 10: the political reading of the porch records
+- 6.17 → Ch 8: the grants' land and economy
+- 6.20 → Ch 10: damage and the Tughluq mosque
+- 7.25 → Ch 8: water given for merit; gifts
+- 7.18 → Ch 10: the Jahāngīr farman and Mughal administration
+- 7.9 → Ch 11: the palace ownership dispute
+- 8.14 → Ch 9: the people who visit and keep the temple; the fair
+- 8.8 → Ch 12: the district's craft counts
+- 8.8 → Ch 11: quarrying near the hill
+- 8.1 → Ch 10: who governed 1163–1229
+- 9.9 → Ch 10: the remembered decline tested against the record
+- 9.6 → Ch 10: the survival story
+- 9.6 → Afterword: Tiwari's invitation to writers
+
+## Motifs
+
+- stone and water (1.3, 1.6, 1.14)
+- the hill always in sight (1.1)
+- names that change with the record (1.4, 1.6)
+- a reading versus a firm date (1.7, 1.14)
+- the record against the legend (10.3, 10.7)
+- rank lost in steps; each master still gave or built (10.1, 10.2, 10.5, 10.6, 10.9, 10.12)
+- protection in pieces (11.3, 11.5, 11.6)
+- the record in files, not on site (11.1, 11.3)
+- the record speaks about residents more than for them (12.9, 12.10)
+- district, not village (12.1, 12.4, 12.5)
+- from king's town to visited village (12.10)
+- proposal, not plan (13.2, 13.3, 13.4, 13.5, 13.6, 13.9, 13.10)
+- who pays (13.10, 13.11)
+- conservation by use (13.12)
+- stone and water (2.3, 2.7, 2.9, 2.10)
+- setting, not cause (2.10)
+- worship in stone (3.6, 3.7, 3.9)
+- stone and water (3.3)
+- each unit's stake in Udaypur (3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11)
+- the Boar (4.11)
+- the record against the reading (4.13, 4.20)
+- rule adjusted for symmetry (5.15, 5.18, 5.23, 5.28)
+- the builder's name (5.2, 5.13, 5.27, 5.28)
+- norm, not record (5.2, 5.23, 5.24, 5.25)
+- the signed text (6.1, 6.3, 6.8)
+- the king's name on learning (6.5, 6.9, 6.10, 6.12)
+- known through others' readings (6.2, 6.19, 6.22)
+- the survey date as proposal (7.1, 7.4, 7.8, 7.14, 7.21)
+- reuse of older stone (7.2, 7.11, 7.16, 7.20)
+- water given for merit (7.24, 7.25)
+- gifts, not a budget (8.1, 8.2, 8.14)
+- the pattern labelled, not shown for Udaypur (8.2, 8.4, 8.5, 8.6, 8.9, 8.11)
+- what the record cannot say (8.3, 8.9, 8.13)
+- tradition as memory (9.2, 9.6, 9.7, 9.9)
+- district, not village (9.1, 9.4, 9.5)

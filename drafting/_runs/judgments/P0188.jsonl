@@ -1,0 +1,25 @@
+{"c":"2657090288","keep":false,"reject_reason":"old OCR; jagati śālā measurements too garbled and technical to quote"}
+{"c":"40323c4d42","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[9,10],"note":"⚠ old OCR. Samarāṅgaṇa prescription: temple placed in the centre of 64 padas with a four-pada bhrama around it","gloss":"The wise one may create a temple in the centre of 64 padas; the bhrama of the temple of the gods is to be of four padas on all sides."}]}
+{"c":"f0e8ffaa78","keep":false,"reject_reason":"old OCR; garbled jagati kanda/śālā measurements, no usable claim"}
+{"c":"f194979f8a","keep":false,"reject_reason":"old OCR; garbled śālā directional prescriptions, nothing quotable"}
+{"c":"4e599fc653","keep":false,"reject_reason":"old OCR; garbled bhrama/kanda measurements, no usable claim"}
+{"c":"09a68be694","keep":false,"reject_reason":"old OCR; garbled jagati names and measurements; devakula line repeated in next chunk"}
+{"c":"3b1e4f0346","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[3,8],"xref":["C07"],"note":"⚠ old OCR. Prescription of a devakula in the centre, with a maṇḍapa in front of the prāsāda and flanking bhadra projections","gloss":"There may be a devakula (temple) in the centre, three parts in breadth and length; in front of the prāsāda's breadth and length there may be the maṇḍapa; on the two flanks of the bhadra, on the outside, a projection of one bhadra."}]}
+{"c":"3172e3712e","keep":false,"reject_reason":"old OCR; garbled jagati measurements, no usable claim"}
+{"c":"5f53010fb3","keep":false,"reject_reason":"old OCR; garbled śālā/jagati fragments, nothing quotable"}
+{"c":"bfe151bc2a","keep":false,"reject_reason":"old OCR; garbled jagati naming and measurements"}
+{"c":"0b5d7dfd50","keep":true,"items":[{"unit":"C05","sub":"S1","type":"quote","strength":"contextual","span":[4,4],"note":"⚠ old OCR. Jagati Valaya described as 'rich in the grandeur of Gopura and Dvāra' (platform/enclosure prescription)","gloss":"The Jagati Valaya may be rich in the grandeur of gopura and dvāra, with the kanda at the rear of the valaya oblong like the mūla śālā."}]}
+{"c":"f21e4ae4fc","keep":false,"reject_reason":"old OCR; garbled kanda/karṇikā measurements"}
+{"c":"680915f87b","keep":false,"reject_reason":"old OCR; garbled bhadra/bhramaṇa measurements"}
+{"c":"80392c4186","keep":false,"reject_reason":"old OCR; garbled jagati types and measurements"}
+{"c":"0d8458c64a","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[24,28],"note":"⚠ old OCR. Octagonal jagati: the temple in the central part, a prāsāda of four gates with four maṇḍapas","gloss":"In the half of that may be the abode of god (temple); stationed in the central part of the octagonal one, the prāsāda of four gates equipped with four pavilions (maṇḍapas)."}]}
+{"c":"bd9f843a01","keep":false,"reject_reason":"old OCR; garbled bhadra/parikrama measurements"}
+{"c":"b57e89ffb4","keep":false,"reject_reason":"old OCR; garbled jagati names and measurements"}
+{"c":"9dd827d4e0","keep":false,"reject_reason":"old OCR; garbled nirgama/bhrama measurements"}
+{"c":"d607531979","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[10,10],"note":"⚠ old OCR. Four-faced liṅga described as adored and an accomplisher of all desires (canonical liṅga prescription)","gloss":"In the four directions the four-faced liṅga may be, adored as the accomplisher of all desires."}]}
+{"c":"53f990f406","keep":false,"reject_reason":"old OCR; garbled liṅga proportion verses"}
+{"c":"8eea078796","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[12,14],"note":"⚠ old OCR. Liṅga 'adored by Agni' to be installed in the south-east quarter; canonical liṅga prescription","gloss":"This is the liṅga adored by Agni; having made it one may install it in the south-eastern quarter. This is to be installed always."}]}
+{"c":"d3884906a9","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[11,11],"note":"⚠ old OCR. Khadga liṅga installed in the south-western quarter (Nirṛti); canonical liṅga prescription","gloss":"This liṅga is named Khadga, having been installed in Nirṛti (south-western quarter)."}]}
+{"c":"2738a50a9a","keep":true,"items":[{"unit":"C05","sub":"S5","type":"quote","strength":"contextual","span":[25,28],"note":"⚠ old OCR. Liṅga of Īśvara with the mark of a pointed trident; said to be 'a source of acquisition of knowledge of the sovereignty of Yoga'"}]}
+{"c":"7f1e424195","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[3,5],"note":"⚠ old OCR. Brāhma liṅga with lotus-shaped lakṣma, a canonical variety of liṅga","gloss":"In the Brāhya may be all like Raudra, with a crest like a lotus sprout; the mark in it is of the shape of a lotus, in this liṅga of the lotus-born one (Brahmā)."}]}
+{"c":"406d5e3a39","keep":false,"reject_reason":"old OCR; garbled liṅga material verses, overlaps previous chunk"}

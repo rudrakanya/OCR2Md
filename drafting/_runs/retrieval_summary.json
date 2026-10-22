@@ -1,0 +1,130 @@
+{
+ "T": 0.36,
+ "T_deepen": 0.5,
+ "RESCUE": 10,
+ "queries": 394,
+ "units": {
+  "C01": {
+   "queries": 31,
+   "retrieved_unique": 2078,
+   "prefiltered_out": 485,
+   "duplicate_twins_dropped": 29,
+   "to_read": 1564,
+   "global_deepenings": 17,
+   "book_deepenings": 46
+  },
+  "C02": {
+   "queries": 30,
+   "retrieved_unique": 1900,
+   "prefiltered_out": 1050,
+   "duplicate_twins_dropped": 8,
+   "to_read": 842,
+   "global_deepenings": 7,
+   "book_deepenings": 37
+  },
+  "C03": {
+   "queries": 30,
+   "retrieved_unique": 1894,
+   "prefiltered_out": 429,
+   "duplicate_twins_dropped": 35,
+   "to_read": 1430,
+   "global_deepenings": 10,
+   "book_deepenings": 39
+  },
+  "C04": {
+   "queries": 31,
+   "retrieved_unique": 2642,
+   "prefiltered_out": 472,
+   "duplicate_twins_dropped": 31,
+   "to_read": 2139,
+   "global_deepenings": 27,
+   "book_deepenings": 81
+  },
+  "C05": {
+   "queries": 31,
+   "retrieved_unique": 2807,
+   "prefiltered_out": 161,
+   "duplicate_twins_dropped": 79,
+   "to_read": 2567,
+   "global_deepenings": 24,
+   "book_deepenings": 116
+  },
+  "C06": {
+   "queries": 30,
+   "retrieved_unique": 2544,
+   "prefiltered_out": 361,
+   "duplicate_twins_dropped": 46,
+   "to_read": 2137,
+   "global_deepenings": 19,
+   "book_deepenings": 55
+  },
+  "C07": {
+   "queries": 31,
+   "retrieved_unique": 1790,
+   "prefiltered_out": 437,
+   "duplicate_twins_dropped": 38,
+   "to_read": 1315,
+   "global_deepenings": 15,
+   "book_deepenings": 40
+  },
+  "C08": {
+   "queries": 30,
+   "retrieved_unique": 2155,
+   "prefiltered_out": 501,
+   "duplicate_twins_dropped": 47,
+   "to_read": 1607,
+   "global_deepenings": 8,
+   "book_deepenings": 32
+  },
+  "C09": {
+   "queries": 30,
+   "retrieved_unique": 2058,
+   "prefiltered_out": 1332,
+   "duplicate_twins_dropped": 11,
+   "to_read": 715,
+   "global_deepenings": 1,
+   "book_deepenings": 22
+  },
+  "C10": {
+   "queries": 30,
+   "retrieved_unique": 2048,
+   "prefiltered_out": 654,
+   "duplicate_twins_dropped": 27,
+   "to_read": 1367,
+   "global_deepenings": 10,
+   "book_deepenings": 37
+  },
+  "C11": {
+   "queries": 30,
+   "retrieved_unique": 1811,
+   "prefiltered_out": 587,
+   "duplicate_twins_dropped": 27,
+   "to_read": 1197,
+   "global_deepenings": 11,
+   "book_deepenings": 31
+  },
+  "C12": {
+   "queries": 30,
+   "retrieved_unique": 2133,
+   "prefiltered_out": 1475,
+   "duplicate_twins_dropped": 15,
+   "to_read": 643,
+   "global_deepenings": 1,
+   "book_deepenings": 34
+  },
+  "C13": {
+   "queries": 30,
+   "retrieved_unique": 1899,
+   "prefiltered_out": 1359,
+   "duplicate_twins_dropped": 3,
+   "to_read": 537,
+   "global_deepenings": 3,
+   "book_deepenings": 35
+  }
+ },
+ "union_retrieved": 6062,
+ "union_to_read": 5096,
+ "embed_seconds": 0.77,
+ "score_seconds": 5.99,
+ "total_seconds": 7.64
+}

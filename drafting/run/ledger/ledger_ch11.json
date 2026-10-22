@@ -1,0 +1,205 @@
+{
+ "chapter": 11,
+ "sections": {
+  "11.1": "The First Archaeological Reports, 1871–1914",
+  "11.2": "Gwalior State Archaeology",
+  "11.3": "Protection after Independence",
+  "11.4": "The Temple's Clearance under the ASI",
+  "11.5": "The INTACH Documentation, 2020–21",
+  "11.6": "The Palace and the 2021 Revenue Order",
+  "11.7": "Stolen and Defaced Sculpture",
+  "11.8": "Quarrying, Blasting and Grazing on the Hill"
+ },
+ "through_line": "Made known and protected in pieces: Beglar's report (1871–72) carrying the Aurangzeb legend, corrected from the inscriptions in Cunningham's (1874–77); the bedi and the eight-shrine plan as fixtures; the records in the Survey's files; Kramrisch's 1946 model resting on the reports; Gwalior State's department under Garde finding the second slab and removing it to Gwalior, restoring (1923–29) and resetting the serpent slab; a new state's list, two central and four state monuments, the palace protected by no one; spending reported at second hand; one remembered clearance; INTACH's survey of the whole town (2020–21), a list without legal force; the palace notice and the revenue order of 15 January 2021 (U7); a stolen Umā-Maheśvara and defaced sculpture; quarries, blasts, herds and a cracking repair on the hill, leading to the people of Chapter 12.",
+ "people": [
+  {
+   "name": "Beglar",
+   "full_name": "J. D. Beglar",
+   "first_section": "11.1",
+   "role": "surveyor; tour of 1871–72, report 1878 (first 1.2)"
+  },
+  {
+   "name": "Cunningham",
+   "full_name": "Alexander Cunningham",
+   "first_section": "11.1",
+   "role": "first head of the Survey; tours 1874–77; corrected the mosque's builder (first 1.6/1.11)"
+  },
+  {
+   "name": "Bhandarkar",
+   "full_name": "D. R. Bhandarkar",
+   "first_section": "11.1",
+   "role": "described the 1080 record in a Western Circle progress report (Tiwari's citation)"
+  },
+  {
+   "name": "Garde",
+   "full_name": "M. B. Garde",
+   "first_section": "11.2",
+   "role": "Director of Archaeology, Gwalior State; found and removed the second slab 1925–26 (first 1.9/1.10); 'Garde sahib' RR-33"
+  },
+  {
+   "name": "Narayan Vyas",
+   "full_name": "Narayan Vyas",
+   "first_section": "11.4",
+   "role": "ASI archaeologist; recollection of the temple clearance (first 1.3)"
+  },
+  {
+   "name": "Madanmohan Upadhyay",
+   "full_name": "Madanmohan Upadhyay",
+   "first_section": "11.5",
+   "role": "INTACH Bhopal convener; deployed the survey team (living; legal review list)"
+  },
+  {
+   "name": "Suresh Mishra",
+   "full_name": "Suresh Mishra",
+   "first_section": "11.6",
+   "role": "historian on the 2021 heritage walk; asked for the FIR (living; legal review list)"
+  }
+ ],
+ "terms": [
+  {
+   "term": "bedi",
+   "gloss": "Cunningham's name for the square halls of the court",
+   "first_section": "11.1"
+  },
+  {
+   "term": "halka patwari",
+   "gloss": "village revenue record-keeper",
+   "first_section": "11.6"
+  },
+  {
+   "term": "mori",
+   "gloss": "drain of the hill fortification",
+   "first_section": "11.8"
+  }
+ ],
+ "places": [
+  {
+   "name": "Archaeological Museum, Gwalior",
+   "first_section": "11.2",
+   "note": "holds the second slab of the praśasti"
+  },
+  {
+   "name": "the palace (Raja Mahal)",
+   "first_section": "11.3",
+   "note": "unprotected; 'State Administration' in the 2021 inventory; 2021 order (11.6)"
+  }
+ ],
+ "figures": [
+  {
+   "what": "Madhya Bharat state list",
+   "value": "1,783 monuments listed; 145 declared national",
+   "keyword": "1,783",
+   "sections": [
+    "11.3"
+   ]
+  },
+  {
+   "what": "protected monuments at Udaypur",
+   "value": "2 central (temple, Barakhambi), 4 state (two mosques, Pisanhārī, Naṭarāja)",
+   "keyword": "four",
+   "sections": [
+    "11.3"
+   ]
+  },
+  {
+   "what": "INTACH documentation",
+   "value": "about fifty heritage sites; published 2021",
+   "keyword": "fifty",
+   "sections": [
+    "11.5"
+   ]
+  },
+  {
+   "what": "palace eviction order",
+   "value": "15 January 2021, naib tehsildar (order text via Tiwari)",
+   "keyword": "15 January 2021",
+   "sections": [
+    "11.6"
+   ]
+  },
+  {
+   "what": "Gwalior restoration campaigns",
+   "value": "1923–24, 1925–26, 1928–29; samvat 1985 restoration inscription",
+   "keyword": "1928–29",
+   "sections": [
+    "11.2"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Beglar/Cunningham/Bühler/Gwalior 1925–26 staged editions uncorrected (HELD)",
+   "sections": [
+    "11.1",
+    "11.2"
+   ],
+   "status": "open RR-1, RR-8, RR-12, RR-15, RR-32"
+  },
+  {
+   "question": "'Garde Sahib' = M. B. Garde?",
+   "sections": [
+    "11.2"
+   ],
+   "status": "open RR-33"
+  },
+  {
+   "question": "Land Revenue Code cited in the 2021 order",
+   "sections": [
+    "11.6"
+   ],
+   "status": "open RR-24"
+  },
+  {
+   "question": "the site beside the private quarry",
+   "sections": [
+    "11.8"
+   ],
+   "status": "open RR-25"
+  },
+  {
+   "question": "legal review: palace notice and order; mining sentence; spending, houses, theft",
+   "sections": [
+    "11.3",
+    "11.4",
+    "11.6",
+    "11.7",
+    "11.8"
+   ],
+   "status": "open LR-1, LR-2, LR-3"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "11.8",
+   "to": "Ch 12",
+   "what": "the people at the record's edges: households, fields, quarries"
+  },
+  {
+   "from": "11.5",
+   "to": "12.7",
+   "what": "the Bhopal presentation"
+  },
+  {
+   "from": "11.3",
+   "to": "Afterword",
+   "what": "translations of the inscriptions at the temple"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "protection in pieces",
+   "sections": [
+    "11.3",
+    "11.5",
+    "11.6"
+   ]
+  },
+  {
+   "motif": "the record in files, not on site",
+   "sections": [
+    "11.1",
+    "11.3"
+   ]
+  }
+ ]
+}

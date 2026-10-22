@@ -1,0 +1,5303 @@
+[
+ {
+  "id": "C01-JAGTA-EN-001",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 2 (Hindi original)",
+  "quote": "What's in a name? One Udaipur is in Rajasthan — behold its fortune. Another Udaipur is in Madhya Pradesh — come and behold its misfortune too.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Name ambiguity framed by the author.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "11fa5c7ca7cdbb1c1fda1e44cd38e588990f364a",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 2 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-002",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 18 (Hindi original)",
+  "quote": "This place's fame is from the Neelkantheshwar temple, which was built by Maharaj Udayaditya, who came in the generation after King Bhoj. The name of this town, Udaipur, too is connected with him.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "",
+  "gloss": null,
+  "claim": {
+   "key": "temple builder",
+   "value": "Maharaj Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "14116ccc936b49d44bd00ade1ada6756b24bd777",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 18 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-003",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 22 (Hindi original)",
+  "quote": "On 6 January 2021, the title of my second post was — \"Say Not Udaipur but Astpur [Sunset-town].\"",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Modern wordplay on 'Uday' (rise) vs 'Ast' (set) — memory/identity, not a historical name.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "20c995473c314f8ff8c6363292703c1783a26da7",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 22 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-004",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 96 (Hindi original)",
+  "quote": "The king Udayaditya, after whose name this city was named, is the 12th king of the Paramara dynasty.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Regnal ordinal as given by the author.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "2664eb81ba756be46000deb21f2aa655ea54fce2",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 96 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-005",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 129 (Hindi original)",
+  "quote": "The present temple's name has been written as \"the temple of Udayeshvar Dev.\"",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Name usage in the 1080 inscription, per Santosh Kumar Verma as reported.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "c37741f5ef36364870fc480ee1049847a213ad76",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 129 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-006",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 150 (Hindi original)",
+  "quote": "The Nilkantheshvar temple, whose fame extends far and wide, is recorded in Udaipur's inscriptions in the form of the Udayeshvar temple. In the contemporary inscriptions the name Nilkantheshvar appears nowhere. In which century it became famous, no one knows.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Key naming point (Udayeśvara vs Nīlakaṇṭheśvara) — open question.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "78ce20a0dad50efbb4e0853b2f6c41f92bedd5cc",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 150 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-007",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 163 (Hindi original)",
+  "quote": "its splendour would have been that of the temple-city of the ancient Dasharna kingdom.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "From the contributed section 'Udayeshvar Mahadev ka Path Prashast' (Ajit Vadnerkar, per the Hindi original p.163). Places Udaypur in the old Daśārṇa region (eastern Malwa).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "ea6001f70a25b03563be90f503168c75087cd84e",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 163 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-008",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 167 (Hindi original)",
+  "quote": "the famous Udayagiri caves near Vidisha; Udaipur, seventy km from Vidisha; and, in this same town, the Udaysamudra situated about five hundred metres away, in front of the Udayeshvar Mahadev temple — these names are all named after Udyadity, who is mentioned in Paramara-era history as the grandson (*pautra*) of Bhoj.",
+  "strength": "direct",
+  "also": [
+   "Ch 3",
+   "Ch 4"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 3, Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Ajit Vadnerkar's post as reproduced. The Udayagiri naming claim is his; no source cited.",
+  "gloss": null,
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "seventy km from Vidisha",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "9e0969102cfbe21d93178194c92ad640076e8ccf",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 167 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-009",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 2 (Hindi original)",
+  "quote": "A ruined little town of eight thousand people, existing on the margins, which for several past decades had wanted to say something.",
+  "strength": "direct",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 12"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Population as given by the author (c. 2021).",
+  "gloss": null,
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "about eight thousand",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "11fa5c7ca7cdbb1c1fda1e44cd38e588990f364a",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 2 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-010",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 2 (Hindi original)",
+  "quote": "This Udaipur is at a distance of a hundred and fifty kilometres from Bhopal, the capital of Madhya Pradesh.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "11fa5c7ca7cdbb1c1fda1e44cd38e588990f364a",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 2 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-011",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 7 (Hindi original)",
+  "quote": "the tar road runs 16 kilometres away to join Ganj Basoda. Ganj Basoda is the nearest railway station and a small commercial town. Udaipur falls in this same tehsil of Vidisha district.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Same book (p. 153) names Baretha as the nearest station — see Conflicts.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6f7b4c085b4bd6eb309faba7075b4a0da71e42bf",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 7 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-012",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 17 (Hindi original)",
+  "quote": "It was a small place situated five hundred kilometres from Dhar, the capital of the Paramaras, on their border — which certainly had strategic importance in the sense that it touched the territory of the Kalachuri dynasty. Udaipur became an important centre situated on the frontier of the two dynasties because there were sandstone quarries here.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Frontier location (Paramāra–Kalacuri) and sandstone; author's characterisation.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "37c749c96ef4c35f6ee3194c622a669d1b4b362d",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 17 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-013",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 23 (Hindi original)",
+  "quote": "the temple built by Maharaja Udayaditya begins to be visible from five kilometres away.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "20c995473c314f8ff8c6363292703c1783a26da7",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 23 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-014",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 153 (Hindi original)",
+  "quote": "The small railway station nearest to Udaipur is Baretha.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3300a51143679865c4bfc371d53625bbfcdfa130",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 153 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-015",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 163 (Hindi original)",
+  "quote": "Udaipur, about seventy kilometres from Vidisha, cannot even be called a town (*kasba*) today.",
+  "strength": "direct",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 12"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Vadnerkar; contrast the book's own title 'kasba'.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "ea6001f70a25b03563be90f503168c75087cd84e",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 163 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-016",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 8 (Hindi original)",
+  "quote": "Its story is on countless inscriptions.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "88247ded6a65c48a8bddeea893617437922d4deb",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 8 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-017",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 48 (Hindi original)",
+  "quote": "In the time of Emperor Jahangir, Auliya Ibn Abdul Samad had laid the foundation of this mosque and the Mahal Qubba of Udaipur — Sarkar Chanderi, Suba Malwa, the border of Gondwana.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "From a 2008 notarised Hindi translation of a Persian farman (dated 1041 AH per the book), re-translated into English. Original not in corpus.",
+  "gloss": null,
+  "claim": {
+   "key": "palace founder",
+   "value": "Auliya Ibn Abdul Samad under Jahangir (per a farman translation)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4a50ec1ec8bcdfa8f9ef6bc4b7f397fc6dabcc92",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 48 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-018",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 51 (Hindi original)",
+  "quote": "The oldest inscription about the Paramara kings obtained from Udaipur is of the year 1080, and the second is of the year 1229, which is of Devpaldev.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Same book later cites a V.S. 1116 (1059) inscription in the temple — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "oldest Paramāra inscription at Udaipur is of 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "141f6c1021a6705857dd9a73dfdbf529b4a1c46b",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 51 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-019",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 138 (Hindi original)",
+  "quote": "This stone, found in the courtyard of the Nilkantheshvar temple of Udaipur, is the most important testimony of Udaipur's history. This most precious stone of Udaipur is kept in the museum of Gwalior.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "The Udaipur Praśasti.",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "found in the temple courtyard; kept in the Gwalior museum",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 138 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-020",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 139 (Hindi original)",
+  "quote": "This too was printed in the seventh and tenth reports of the survey (1874–75 and 1876–77) by Major General Alexander Cunningham, the first head of the Archaeological Survey of India. J. Bühler mentioned it in the first volume of *Epigraphia Indica*, 1888.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "'This' = the Udaipur Praśasti (heading that follows). Neither publication is in the corpus — GAP.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "49f0dd10e6d58bfd7aa956a4cd179a6e9d89a4a4",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 139 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-021",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 143 (Hindi original)",
+  "quote": "in this same series a total of 11 inscriptions are found from Udaipur, which tell of the political, economic and social conditions of this period.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "See Conflicts (inscription counts).",
+  "gloss": null,
+  "claim": {
+   "key": "inscription count at Udaypur",
+   "value": "11 (in this series)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "c569452e301fee42e199169d7d40c56249ab37cf",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 143 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-022",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 151 (Hindi original)",
+  "quote": "These are, besides Sanskrit and Persian, in Devanagari. There are even inscriptions in which the writings of both Sanskrit and Persian stand together. But the INTACH team, in its ground work, has identified 42 new monuments whose care is very necessary",
+  "strength": "direct",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 11"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Languages of the inscriptions; INTACH's '42 monuments, 100 inscriptions' (heading on the same page).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "78ce20a0dad50efbb4e0853b2f6c41f92bedd5cc",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 151 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-023",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 151 (Hindi original)",
+  "quote": "Most important of all is that around a hundred inscriptions are available, which have survived despite the buffeting blows across centuries of history.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Count differs from '11' and 'a dozen' elsewhere in the same book — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "inscription count at Udaypur",
+   "value": "around a hundred",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "78ce20a0dad50efbb4e0853b2f6c41f92bedd5cc",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 151 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-024",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 12 (Hindi original)",
+  "quote": "His family is famous by the name of the Ghadiyali family. They relate that in some age, at the fixed times of the temple's worship, ablution and rites, bells and gongs (*ghante-ghadiyal*) were sounded from this very building.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Family memory; cf. Pande's 'Ghariyālon kā Makān' and Patil's 'Bijamandal or Ghadiyalan-ka-makan'.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "5f7582299e51c1c5e2677da17238503e6ff11642",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 12 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-025",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 20 (Hindi original)",
+  "quote": "Every day people come to Udaipur from far and wide. Most come only to have darshan of the 11th-century temple — and that too only for the worship of Mahadev.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "14116ccc936b49d44bd00ade1ada6756b24bd777",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 20 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-026",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 32 (Hindi original)",
+  "quote": "one gentleman, the claimant of the private property, went straight — without stopping — from the month of January 2021 to the court of Emperor Jahangir, and pronounced that Jahangir had laid the foundation stone (*sang-e-buniyad*) of this palace in Udaipur.",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Claim reported (hostilely) by the author. Contrasts with Geo-Heritage 'It is said to have been built by King Udayaditya'. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "palace founder",
+   "value": "Jahangir (claim reported by the author)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "32c29c19ec6b836a86b574b4fc4312bc8c478ba1",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 32 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-027",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 34 (Hindi original)",
+  "quote": "And one most important question — despite all this, how did this temple survive? Why could it not meet the same fate that was meted out to the Vijay Mandir in Vidisha? Had the local citizens who resisted the invaders prevailed, so that after only minor breakage this temple was saved? Someone's courage must indeed have clashed with those religious ignoramuses (*jahil*) here; it must have some name — it is another matter that that name and face are absent from history.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Raises the question how the temple survived when Vidisha's Vijay Mandir did not, and speculates local resistance.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "2a224099b7c2cc6ba1f6ed4bd22bcab91b5ff707",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 34 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-028",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 81 (Hindi original)",
+  "quote": "Udaipur's heritage walk has revealed before us that we are in deep unacquaintance with our own past.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "13574090de3461381595fd6e19384f503b9f6bdd",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 81 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-029",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 82 (Hindi original)",
+  "quote": "We keep sitting there, believing those temples … to have been built in a single night.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "A popular belief reported (and rejected) by the author.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "13574090de3461381595fd6e19384f503b9f6bdd",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 82 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-030",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 94 (Hindi original)",
+  "quote": "Every year on this day a big fair is held in Udaipur, in which thousands of people come for the Shiva temple, from even the surrounding districts.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "9ad6f6c86645a433f0bb85f48f64e8126cb12de8",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 94 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-031",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 97 (Hindi original)",
+  "quote": "Udayaditya, while living in Udaipur, only advanced his glorious royal tradition. This is the very reason that, despite centuries having passed, they are shining even now in the memories of this whole region...",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Also appears in chunk 2664eb81 (same passage at a chunk boundary); cited once.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "f847ae89f60c1336d7898dd545f61818bcea5e9a",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 97 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-032",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 101 (Hindi original)",
+  "quote": "One of the two mosques, the people of Udaipur have been calling \"kachahari\" (the court) since childhood; their fathers and grandfathers too told just this — that it is a kachahari.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Oral naming memory.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "076a900d841f45d5833fd9cb6e10ba30b5781a2f",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 101 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-033",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 111 (Hindi original)",
+  "quote": "About this vermilion-smeared image, a popular story among the local people is that she had to dance on a thin thread tied across the reservoir. Once someone broke that thread, and that dancer could not complete the dance. She died from falling. It is her samadhi. We do not know since when this story is current.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Differs in detail from the Geo-Heritage version (king's challenge, a Harijan cuts the rope; name 'Berni Mata'). See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Bedni/Berni Mata legend",
+   "value": "danced on a thread across the reservoir; someone broke it",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "2f463d3fe1b85ec5bb3c7ef163e2e7fbd3b324fe",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 111 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-034",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 143 (Hindi original)",
+  "quote": "In no way do they have any connection with any magic-and-sorcery, or with any buried, hidden treasure — as is a common superstition among the village people.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Folk belief about the inscriptions.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "c569452e301fee42e199169d7d40c56249ab37cf",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 143 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-037",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 150 (Hindi original)",
+  "quote": "\"So many diverse monuments in one lot, I have seen nowhere in the world.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "M. M. Upadhyay (INTACH), as quoted.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "78ce20a0dad50efbb4e0853b2f6c41f92bedd5cc",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 150 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-038",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 164 (Hindi original)",
+  "quote": "Udayeshvar Mahadev is considered the finest specimen of Paramara-era construction.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "ea6001f70a25b03563be90f503168c75087cd84e",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 164 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-039",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 2 (Hindi original)",
+  "quote": "Many people, at the very mention of Udaipur, go straight to the address of the glorious Udaipur of the Sisodia dynasty in Rajasthan — whereas more ancient than the Udaipur of Rajasthan is the desolate Udaipura of Madhya Pradesh.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Author's claim of greater antiquity; no source cited.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "11fa5c7ca7cdbb1c1fda1e44cd38e588990f364a",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 2 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-040",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 8 (Hindi original)",
+  "quote": "About Udaipur no such details are found. No one wrote its details.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "88247ded6a65c48a8bddeea893617437922d4deb",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 8 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-041",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 17 (Hindi original)",
+  "quote": "Being under the Paramaras, Udaipur had seen itself developing like some mini-capital. Its importance lay in this — that a future emperor of the Paramara dynasty had, in his youth, lived in Udaipur.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Stated as fact here but as conjecture elsewhere in the book; no source cited.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "37c749c96ef4c35f6ee3194c622a669d1b4b362d",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 17 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-042",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 19 (Hindi original)",
+  "quote": "It must certainly have been a settlement inhabited before Udayaditya, where the Paramaras' military detachment must have been posted for the protection of the borders.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Author's conjecture (introduced by 'It is very possible…'); contrast the same book p. 136 — see Conflicts.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "14116ccc936b49d44bd00ade1ada6756b24bd777",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 19 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-043",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 41 (Hindi original); also at ≈ p. 41 (Hindi original)",
+  "quote": "Now this question must arise in your mind — how did this temple survive?\n\nThis question must indeed arise in your mind — how did this temple survive? Who stopped its fate from becoming like that of Vidisha's Bija Mandal? Was it because of the organized resistance of the local people of Udaipur and this region that only the images could be broken, and those plunderers were driven away from here — who roamed the whole country for centuries devastating our honour-points, and whom the historians of free India adorned in books by calling them sultans and badshahs!",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Question of how the temple survived unlike Vidisha's Bija Mandal; suggests local resistance.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "f3207c4d48c8e323ea06b9d48e6c0fe1f00bb4b2",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 41 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-044",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 111 (Hindi original)",
+  "quote": "But Dr. Narayan Vyas, after looking at that image carefully, on the way back told [us] that it is the image of a yaksha.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Expert identification reported second-hand; conflicts with the popular identification.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "2f463d3fe1b85ec5bb3c7ef163e2e7fbd3b324fe",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 111 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-045",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 121 (Hindi original)",
+  "quote": "Udaipur is a poem written on stones, which the Paramara kings sang in praise of their adored Lord Shiva. In composing this praise, three years' time was taken, and thousands of artisans, having come from who-knows-where, had displayed the very best of their art.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "'Three years' conflicts with 1059–1080 and with 'more than twenty years' in this same book.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "three years' construction",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "771aea8f2e8bf74a9a116bbe70004641bcfc8cd2",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 121 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-046",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 125 (Hindi original)",
+  "quote": "In it is recorded Vaishakh Sudi 7, Vikram Samvat 1137. According to the English calendar, this date works out to 30 March 1080.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "V.S. 1137 = 30 March 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "c018abebaa8495438c925a34effa210cf95ed4f4",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 125 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-047",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 126 (Hindi original)",
+  "quote": "This temple, which took more than twenty years to be built and made ready, must, even while under construction, have been a subject of discussion far and wide",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Contrasts with the same book's 'three years' (p. 121). See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "more than twenty years' construction",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "c018abebaa8495438c925a34effa210cf95ed4f4",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 126 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-048",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 131 (Hindi original)",
+  "quote": "In yet another inscription of the Udaipur temple itself, the date Vikram Samvat 1116 and Shak Samvat 981 is inscribed. According to the English calendar, this year is 1059 CE.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "V.S. 1116 / Śaka 981 = 1059 CE (another inscription)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "d2ee735f58094094eb2242b5eccdb5a5cf1dbcbf",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 131 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-050",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 138 (Hindi original)",
+  "quote": "As far as Udaipur is concerned, it is evident from its very name that it is related to King Udayadity. The fact that no inscription of the earlier Paramara kings is found here tells us that this town came into existence only in Udayadity's time.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Argument from absence; contrasts with Geo-Heritage and with p. 17 of this book. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "Udayāditya; no earlier Paramāra inscription, so a new town",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 138 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-051",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 138 (Hindi original)",
+  "quote": "This inscription describes that it was the son of this very feudatory named Shudrak — whose name is unclear — who had the temple built in Udaipur.",
+  "strength": "direct",
+  "also": [
+   "Ch 4",
+   "Ch 6"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 4, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Reading of a damaged undated inscription (Gwalior State AR 1925–26, no. 71, per the book). Bears on 'who built the temple' — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple builder",
+   "value": "son of a feudatory (name unclear)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 138 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-052",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 138 (Hindi original)",
+  "quote": "No date is inscribed on it, but according to the information obtained from this inscription, it appears to be of the time of King Udayadity",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Contrasts with Geo-Heritage, which says the praśasti gives 1059 CE. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "undated; time of Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 138 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-001",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 7",
+  "quote": "The town's character as a village has remained intact, offering a picturesque glimpse into rural life where tradition and simplicity harmonize seamlessly.",
+  "strength": "direct",
+  "also": [
+   "Ch 12"
+  ],
+  "flags": [
+   "also Ch 12"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Town/village duality in how the place is described.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "4e0a39deaf86700084ad801cd8cd081708f26b48",
+  "author": null,
+  "log_citation": "scan p. 7",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-002",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 7",
+  "quote": "Udaypur is a village panchayat in Ganj Basoda Tehsil of the Vidisha district.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Current administrative status.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "4e0a39deaf86700084ad801cd8cd081708f26b48",
+  "author": null,
+  "log_citation": "scan p. 7",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-003",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 20",
+  "quote": "According to the 2011 census, the population of Udaypur is 6,383 people.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Same total as INTACH's villageinfo.in figure; this report attributes it to the 2011 census.",
+  "gloss": null,
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "6,383 (2011 census)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "b5010b60ce0170f934bfae82937c8831495c4bbe",
+  "author": null,
+  "log_citation": "scan p. 20",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-004",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 21",
+  "quote": "Amidst the eastern part of the Vindhyanchal range is located a village named Udaypur with a total geographical area of 1966 hectares (19.66 km²).",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "b5010b60ce0170f934bfae82937c8831495c4bbe",
+  "author": null,
+  "log_citation": "scan p. 21",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-005",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 151",
+  "quote": "While approaching the location, one passes through the ancient town of Udaypur and understands the cultural legacy.\nii. It has the 11th century CE Udayaditya Parmar Neelkantheshwar Mahadev Temple, also, which is also protected by the Archaeological Survey of India.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Approach passes through the ancient town of Udaypur; it has the 11th century Udayaditya Parmar Neelkantheshwar Mahadev Temple, protected by the ASI.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "394f9b912f8643ff8dd0a28735f666a686e17647",
+  "author": null,
+  "log_citation": "scan p. 151",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-006",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 74",
+  "quote": "The Udaypur Prashasti, a stone inscription in two parts currently kept in Gwalior Museum, mentions the construction of this lake by King Udayaditya. The year mentioned is 1059 CE. It mentions the foundation year of Udaypur, Udayeshwar temple, and Udaysagar Lake as the same.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Report's paraphrase of the praśasti; date to be checked against the CII edition (Ch. 6).",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "in Gwalior Museum; gives 1059 CE",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "6333ad76bd8722168683801444e4b333a7d2925f",
+  "author": null,
+  "log_citation": "scan p. 74",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-007",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 7",
+  "quote": "It is said to have been built by King Udayaditya when he established the city.",
+  "strength": "direct",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Refers to the ruined Mahal complex; reported tradition ('It is said').",
+  "gloss": null,
+  "claim": {
+   "key": "palace founder",
+   "value": "said to be Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4e0a39deaf86700084ad801cd8cd081708f26b48",
+  "author": null,
+  "log_citation": "scan p. 7",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-008",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 12",
+  "quote": "As per the local legend, this place was called Bhrangarajpur and was ruled by a native chief. He was defeated by Udayaditya and established his rule and the new city of Udaypur in 1059 CE.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Presented by the report as legend; gives 1059 CE (compare 1080 in Singh 2019 — see Conflicts).",
+  "gloss": null,
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "Udayāditya in 1059 CE, after defeating a native chief of Bhrangarajpur (legend)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "469546bafd3b1ffe713d1fe97615462c762f48ad",
+  "author": null,
+  "log_citation": "scan p. 12",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-009",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 13",
+  "quote": "Another oral tradition also states that the hilly region was the territory of the Gonds. Udayaditya conquered it and renamed it Udaypur.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Second, distinct oral tradition of renaming.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "469546bafd3b1ffe713d1fe97615462c762f48ad",
+  "author": null,
+  "log_citation": "scan p. 13",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-010",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 18",
+  "quote": "this was the ancient pilgrimage site, which was visited by pilgrims from faraway places in Rajasthan. It is recorded in the stone inscriptions found on the hillock.",
+  "strength": "direct",
+  "also": [
+   "Ch 6",
+   "Ch 8"
+  ],
+  "flags": [
+   "also Ch 6, Ch 8"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "53352ef438b69fad8040202d3127a0aa32a5ea78",
+  "author": null,
+  "log_citation": "scan p. 18",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-011",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 46",
+  "quote": "The local folklore talks about a local chief by the name of Bhringraj, and the village was called Bhringrajpur.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Spelling differs from p. 12 ('Bhrangarajpur') within the same report.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "783bf7605775440a5803fc05ee0ca311bdd3ecdc",
+  "author": null,
+  "log_citation": "scan p. 46",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-012",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 74",
+  "quote": "the team interacted with the village locals, who they recalled that Udaypur once had water from “chappan baoli, bavan kuae and saadhe baarah talab” (56 step-wells, 52 wells and 12 and half lakes).",
+  "strength": "direct",
+  "also": [
+   "Ch 7",
+   "Ch 8"
+  ],
+  "flags": [
+   "also Ch 7, Ch 8"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "A remembered formula of past abundance — oral memory.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6333ad76bd8722168683801444e4b333a7d2925f",
+  "author": null,
+  "log_citation": "scan p. 74",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-013",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 74",
+  "quote": "Another popular folklore associated with the lake is that there used to be a famous dancer in the court of King Udayaditya.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Opening of the Berni Mata legend (continues next page).",
+  "gloss": null,
+  "claim": {
+   "key": "Bedni/Berni Mata legend",
+   "value": "a dancer at the court of King Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "6333ad76bd8722168683801444e4b333a7d2925f",
+  "author": null,
+  "log_citation": "scan p. 74",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-014",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 75",
+  "quote": "The dancer later came to be known as Berni Mata, and a reclining sculpture is found on the embankment of the lake along with a temple. There is a temple, and people worship.",
+  "strength": "direct",
+  "also": [
+   "Ch 9"
+  ],
+  "flags": [
+   "also Ch 9"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Legend tied to a still-worshipped site.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6333ad76bd8722168683801444e4b333a7d2925f",
+  "author": null,
+  "log_citation": "scan p. 75",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-015",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 126",
+  "quote": "Pilgrims used to come from hundreds of kilometers to pay homage to the Shiva temple and other ancient monuments located on this hill and in Udaypur village.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Based on the report's reading of a Samvat 1696 (27 April 1639, per the report) pilgrim inscription.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "d77691fd5d2733dc933570ed3a4137ee8852e5ea",
+  "author": null,
+  "log_citation": "scan p. 126",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-016",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 7",
+  "quote": "this village is home to the ASI-protected Neelkanthséhwar Temple, a testament to the town's historical significance.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "OCR spelling 'Neelkanthséhwar' kept verbatim.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "4e0a39deaf86700084ad801cd8cd081708f26b48",
+  "author": null,
+  "log_citation": "scan p. 7",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-017",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 11",
+  "quote": "The famous Udayeshwar temple, also called the Neelkantheshwar Mahadev temple, is the largest temple of Bhumija's style of architecture. A style that was propagated by the Paramars.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Superlative claim as made by this report.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "64ebdd53b3974c5dbbbbd2e5ab9cd92f122e5b93",
+  "author": null,
+  "log_citation": "scan p. 11",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-018",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 46",
+  "quote": "We find People of all religions and faiths staying in the village, the fine antiquities of the Jains, the Mohammadan, Hindu temples, mahals, large havelis, etc.",
+  "strength": "direct",
+  "also": [
+   "Ch 9"
+  ],
+  "flags": [
+   "also Ch 9"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "f0e83d3940ff0932a3ccebe5add2133ae1d9bef8",
+  "author": null,
+  "log_citation": "scan p. 46",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-019",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 150",
+  "quote": "This part of Madhya Pradesh is historically the most significant area in Central India. It is home to Bhimbetka and Sanchi, both of which are UNESCO-recognised world heritage monuments. Looking at the unique history of Vidisha from the time of Buddha and Ashoka, this area has an immense archaeological treasure.\nHeritage Hill of Udaypur, because of its proximity to so many archaeological sites, needs to be publicised as a geo-heritage reserve. however, this plan must be in harmony with the larger Tourism Development Plan of this 11th-century CE Parmar capital city.",
+  "strength": "direct",
+  "also": [
+   "Ch 12",
+   "Afterword"
+  ],
+  "flags": [
+   "also Ch 12, Afterword"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Region historically most significant in Central India with Bhimbetka and Sanchi; Udaypur hill to be publicised as geo-heritage reserve in harmony with the tourism plan of this 11th-century CE Parmar capital city.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "4c2f0f49d6ef6704932ec2ba5b0933cbf7a75214",
+  "author": null,
+  "log_citation": "scan p. 150",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-020",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 9",
+  "quote": "The entire place is deserted, and the inhabitants of the adjoining city could give me no information whatever regarding it; it has not even a name that I could hear of\".",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Quoted by the report from an earlier visitor; the writer is introduced on the preceding page, whose OCR is truncated ('Cunnin…') — confirm attribution against the scan before naming.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "64ebdd53b3974c5dbbbbd2e5ab9cd92f122e5b93",
+  "author": null,
+  "log_citation": "scan p. 9",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-021",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 11",
+  "quote": "The 2 large water bodies relevant to Udaypur are the Udaysagar Talab, built by Udaya Aditya in 1059 CE, and the Bhujariya Talab, which existed before his time.",
+  "strength": "direct",
+  "also": [
+   "Ch 3",
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 3, Ch 7"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Implies settlement before the Paramāra foundation — a key historical question.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayasamudra tank: identification",
+   "value": "Udaysagar Talab, built by Udayāditya in 1059 CE",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "64ebdd53b3974c5dbbbbd2e5ab9cd92f122e5b93",
+  "author": null,
+  "log_citation": "scan p. 11",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-022",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 46",
+  "quote": "Which dynasty he belonged to is lost in history?",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Source's own open question about the pre-Paramāra chief (punctuation as printed).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "783bf7605775440a5803fc05ee0ca311bdd3ecdc",
+  "author": null,
+  "log_citation": "scan p. 46",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-023",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 153",
+  "quote": "Udaypur area, as history goes, was in the 11th century CE and subsequent centuries dominated by the Parmar dynasty, who have built a very large number of monuments and temples.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3ad8af52558c7b4c8e2195f3b7cc9c5d30625cd2",
+  "author": null,
+  "log_citation": "scan p. 153",
+  "language": "en"
+ },
+ {
+  "id": "C01-GEOHER-024",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 153",
+  "quote": "more research needs to be done to go behind the history of the dynasty that occupied this territory before the Parmars of Malwa.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Explicit research question.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3ad8af52558c7b4c8e2195f3b7cc9c5d30625cd2",
+  "author": null,
+  "log_citation": "scan p. 153",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-001",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 151",
+  "quote": "He laid the foundation of the city of Udayapur in Bhilsa, and erected there the great temple of Nilakanthesvara.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "5b8c215b2e60468fc661beacb561ae241d135a73",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 151",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-002",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 152",
+  "quote": "Another inscription, \\( ^{1} \\) discovered in the same temple, credits him with the foundation of Udayapur, Udayesvara, and Udayasamudra. Udayesvara is perhaps the same as Nilakanthesvara. At present, Udayasamudra cannot be identified.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Contrast the Gazetteer/Geo-Heritage, which identify Udayasamudra's ruins near the town.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayasamudra tank: identification",
+   "value": "founded by Udayāditya per an inscription in the temple",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "5f67aa616785998c3a92890f0c8155db733bf701",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 152",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-003",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 189",
+  "quote": "a certain personage, named Vasantapâla, made some donations for the maintenance of the temple of Udalesvara at the town of Udayapur.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Name form 'Udalesvara' (1163 A.D. record) as printed — OCR or variant; verify.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "25f3fe1a61a57c0ae6cb0b8d24964da22e39483a",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 189",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-004",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 266",
+  "quote": "The king Udayâditya founded the city of Udayapur, thirty miles to the north of Bhilsa. Tradition gives a legendary story in connection with the establishment of this city.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Distance differs from the Gazetteer's ~55 km NE of Vidisha.",
+  "gloss": null,
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "thirty miles north of Bhilsa",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "05a916c0f7c68bd19a656d345bd3c8dac760d8cc",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 266",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-005",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 175",
+  "quote": "Udayapur, which was an important centre of the Paramâra government, was in the Bhâillasvâmi-mahâdvâdasâka. The Candella Madanavarman made a grant of land in 1134 A. D., while residing in Bhâillasvâmi.",
+  "strength": "direct",
+  "also": [
+   "Ch 4",
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 4, Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "'Udayapur, which was an important centre of the Paramâra government, was in the Bhâillasvâmi-mahâdvâdasâka'; a Candella grant of 1134 was made while residing in Bhâillasvâmi.",
+  "gloss": null,
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "in the Bhāillasvāmi-mahādvādaśaka division (Bhilsa)"
+  },
+  "chunk_id": "3b9dc0e110b0e4cce9e2213fb401e9c674641503",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 175",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-007",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 143",
+  "quote": "Khândava (forest), so the fire of the Poysala king's glory sprang up in the Vindhya mountains and seized the city of Udhapuram of his enemies.\"\nUdhapuram may be the same as Udayapur, in the Gwalior State, Central India.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Hoysala inscription mentions the city 'Udhapuram'; editor: 'Udhapuram may be the same as Udayapur, in the Gwalior State, Central India.'",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "4825b85f9e1b39b4d1d0399e3358f5ff5fc665fd",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 143",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-008",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 149",
+  "quote": "It is the only available record which supplies a complete genealogy of this family of rulers from Upendra to Bhoja. It is undated, and seems to have been issued during the early part of the king's reign.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "undated; early part of the reign",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4b7ab8e492efe5e945743f07fd706516b9622770",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 149",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-009",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 149",
+  "quote": "The Udayapur prasasti, \\( ^{2} \\) which has often been referred to above, is engraved on a slab of stone, and is now lying in front of the Nīla-kantheśvara temple, at Udayapur, in Bhilsa.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Location as of 1933 (first slab). Contrast later sources placing the praśasti in the Gwalior Museum — the two slabs may differ; see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "lying in front of the Nīlakaṇṭheśvara temple",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4b7ab8e492efe5e945743f07fd706516b9622770",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 149",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-010",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 189",
+  "quote": "In 1172 A. D., Lûnapasâka, for the spiritual benefit of his father, granted the village of Umaratha, situated in the Pathaka known as Bhrngârikâ-Catuṣṣaṣṭi, in favour of the God Vaidyanâtha, at Udayapur. Here the record describes Udayapur as being situated in the province (manḍala) of Bhâillasvâmi-mahâdvâ-dasâka (modern Bhilsa).",
+  "strength": "direct",
+  "also": [
+   "Ch 6",
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 6, Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Year 1172 here vs 1173 in CII; the Gazetteer attributes a 1173 record naming Bhringarika to Udayāditya — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Lūṇapasāka record: date",
+   "value": "1172 A.D.",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "25f3fe1a61a57c0ae6cb0b8d24964da22e39483a",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 189",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-011",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 266",
+  "quote": "One day the king, in the course of a hunting excursion, came upon a snake surrounded by fire and writhing in agony.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Opening of the founding legend: a snake lodges in the king's stomach; the queen overhears two snakes; the king is cured, finds a treasure, and founds the city. Ganguly cites Cunningham, ASI vol. X pp. 65–66. Cf. Adhikari: an 'identical legend' at Un, Lalitpur and Udaypur.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "05a916c0f7c68bd19a656d345bd3c8dac760d8cc",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 266",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-012",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 267",
+  "quote": "To commemorate this event, he built there a city and a temple and named them after himself.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "End of the legend (on the following scan page).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "05a916c0f7c68bd19a656d345bd3c8dac760d8cc",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 267",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-013",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 269",
+  "quote": "Immediately after the conquest of Udayapur, Sultan Muhammad Tughluq (A. D 1325) is said to have ordered this structure to be blown up. Gunpowder was heaped in and around the temple, but the priests, by secretly introducing streams of water upon them, rendered the ammunition ineffective. The Sultan took it for a miracle, and revoked his order.",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Survival legend attached to Tughluq (cf. the Aurangzeb version).",
+  "gloss": null,
+  "claim": {
+   "key": "temple survival legend",
+   "value": "Muhammad Tughluq gunpowder story (1325)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "a844f63f967295beb4e6c07accf99ce3361112b5",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 269",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-014",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 269",
+  "quote": "Tradition tells us that \\( ^{2} \\) the Mughal emperor Aurangzeb, on his way back to Delhi from his Deccan wars, halted at Udayapur, and was amazed at the supreme beauty of the temple.",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Ganguly cites Cunningham ASI vol. VII p. 85 (i.e. Beglar's report).",
+  "gloss": null,
+  "claim": {
+   "key": "temple survival legend",
+   "value": "Aurangzeb, returning from the Deccan",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "a844f63f967295beb4e6c07accf99ce3361112b5",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 269",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-015",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 189",
+  "quote": "The charge of the eastern division was entrusted to the Mahâsâdhanika Râjyapâla, whose headquarters were at Udayapur in Bhilsa.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "25f3fe1a61a57c0ae6cb0b8d24964da22e39483a",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 189",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-016",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 221",
+  "quote": "The second inscription was issued when Mahârâjâdhirâja Devapâla, \"the ornament of kings\", was residing in Udayapur.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "13th-c. royal presence at Udayapur (Sam. 128[9?])",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "161ac6c792037e99820bfb63ae4240a2d7dd28cd",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 221",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-018",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 269",
+  "quote": "inscription of the sixteenth century A. D. \\( ^{1} \\) describes it as the most beautiful temple in India.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Preceded on the previous page by 'The great Nilakanthēsvara temple at Udayapur was built by Udayādiya in Sam 1116=1059 A. D. … An'.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "a844f63f967295beb4e6c07accf99ce3361112b5",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 269",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-020",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 144",
+  "quote": "A fragmentary inscription, dated 1513 A. D. (J. Am. O. S., Vol. VII, p. 35), states that Udayâditya built the temple of Udayapur in V. S. 1116=1059 A. D. The record is very perfunctorily executed, and abounds in gross mistakes.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Key to the 1059/1080 question: per Ganguly the 1059 date rests on a 16th-c. record. CII (Trivedi) also refers to a 16th-c. Udaipur inscription (V.S. 1562) and rejects its genealogy. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "1059 per a fragmentary 1513 record, 'perfunctorily executed'",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4ed3cb576ecf52278cbeddaf288b2930b2e29fb9",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 144",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-021",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 144",
+  "quote": "This difficulty can be surmounted by assuming that Udayâditya built the Udayapur temple in 1059 A. D., when he was ruling his paternal territory apparently from Udayapur.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Author's hypothesis.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "1059 (author's hypothesis)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4ed3cb576ecf52278cbeddaf288b2930b2e29fb9",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 144",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-023",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 148",
+  "quote": "They seem to have been ruling as feudatories of the Imperial house of Dhârâ, in the east of Malwa, at Udayapur, in Bhilsa.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Ganguly's inference from the inscription CII later dismisses — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: relation to Bhoja",
+   "value": "feudatory line ruling at Udayapur (author's inference)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4b7ab8e492efe5e945743f07fd706516b9622770",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 148",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-024",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 267",
+  "quote": "The above story is no doubt an absolute myth, and there is evidence, in the words of a contemporary inscription,' that the city was built by Udayāditya. Udayapur is now once again only a small village, but there remain numerous traces of its ancient glory.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Author's evaluation; stray OCR apostrophe after 'inscription' kept verbatim.",
+  "gloss": null,
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "Udayāditya, per a contemporary inscription; the legend called a myth",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "05a916c0f7c68bd19a656d345bd3c8dac760d8cc",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 267",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-025",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 270",
+  "quote": "It is probably a statue of Udayāditya, the founder of the temple. An inscription records that Udayāditya repaired this flag-staff in 1080 A. D.",
+  "strength": "direct",
+  "also": [
+   "Ch 5",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 5, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "'Repaired' — vs 'erected'/'hoisting completed' in Patil, the Gazetteer and the inscription's translation in Jagta Hua Kasba. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "1080 = repair of the flag-staff",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "d0ffb605585d3102e012b4a86921d9517a16c228",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 270",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-001",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 338",
+  "quote": "It shelters some broken images, which resemble those at the famous Neelakantheshwara temple of Udaipur, ancient Udayapura in Basoda Tahsil.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Name pair 'Udaipur' (modern) / 'Udayapura' (ancient).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "b4e75ab063a8c17c273ce59d43905662497ec306",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 338",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-002",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "quote": "The same inscription also mentions that the king built a temple dedicated to Siva and named it as Udayeshwara. The temple still exists here by the same … name and the inscription is in this temple.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Spans a marginal-heading break in the OCR.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 346",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-003",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "quote": "According to one of the many old Sanskrit inscriptions found here, Udayapura town was founded by the Paramara king Udayaditya during the latter half of the 11th century A.D.",
+  "strength": "direct",
+  "also": [
+   "Ch 4",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 4, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "",
+  "gloss": null,
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "Udayāditya, latter half of the 11th century",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 346",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-004",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 347",
+  "quote": "The inscription of Udayaditya Paramara, referred to above, also informs that the king excavated a tank known after him as Udayasamudra, ruins of which are seen at a short distance.",
+  "strength": "direct",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "",
+  "gloss": null,
+  "claim": {
+   "key": "Udayasamudra tank: identification",
+   "value": "excavated by Udayāditya; ruins seen a short distance away",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "3d2cebd36050c18b6e6a58fb978dce721ed7b9ae",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 347",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-005",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 415",
+  "quote": "UDAI (YA) PUR 5,16,31,68,77,83,109,149,159,258,260,284,311,326,334,336,337",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Research aid. Index numbers are printed pages, not the scan pages cited here (e.g. the index gives 'Udayeshwara 334,336' while that entry sits at scan p. 346–347 in this file).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6fc4cfc6b13e7693a83d3021ec4f4cc8043f2a63",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 415",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-006",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 170",
+  "quote": "By this time the only metalled roads were two short feeder roads from Bareth station to Udayapura (6.4 km.) and Kulhar station to Pathari near Baro (23 km.).",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "'By this time' = c. 1905 per the preceding sentence.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "2dd59f8aa8e1771510e7b63fddf99e113348acc4",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 170",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-007",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "quote": "The village is also connected by road with Basoda, lying to the south-west of Udayapur at a distance of about 13 km. It is about 55 km. to the north-east of Vidisha, the District headquarters.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Distances differ from other sources (16 km to Ganj Basoda; ~70 km from Vidisha) — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "13 km from Basoda; 55 km NE of Vidisha",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 346",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-008",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "quote": "Udayapur, once a place of considerable importance is a large village in Basoda Tahsil. Its nearest railway station is Bareth, situated at a distance of about 6.5 km. to the west of Udayapur.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Official description (Gazetteer, Vidisha, 1970s).",
+  "gloss": null,
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "nearest station Bareth, 6.5 km west",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 346",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-009",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 348",
+  "quote": "It covers an area of about 1,966 hectares. Its population was 928 in 1901 while it increased to 2025 in 1971 as against 1619 in 1901.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "As printed — the sentence gives two different 1901 figures (928 and 1619); not resolved here.",
+  "gloss": null,
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "928 and 1,619 (both given for 1901); 2,025 (1971)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "559a39e3f988e4b31367fa23b78655a4e5e23beb",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 348",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-010",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 349",
+  "quote": "Yet another inscription of the Paramara ruler Udaya-ditya from Udayapur and dated in 1173 A. D. speaks of its surrounding area as Bhilsavami-mahadevadasakamandala (the district called Bhailasvamin consisting of ten sub-divisions), which included Bhringarika-chatuhshashripathaka (i. e. a sub-district called Bhringarika consisting of 64 villages) governed by a Danda, i. e. Dandanayaka, probably having his headquarters at Udayapur.",
+  "strength": "direct",
+  "also": [
+   "Ch 4",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 4, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Date '1173 A.D.' as printed is inconsistent with Udayāditya's reign dates given elsewhere (possibly a Vikrama year) — verify against EI vol. XXX pp. 210-11 (cited by the Gazetteer; not in corpus). The name 'Bhringarika' resembles the 'Bhringraj/Bhrangarajpur' of the local legend recorded in Geo-Heritage; no source draws that connection.",
+  "gloss": null,
+  "claim": {
+   "key": "Lūṇapasāka record: date",
+   "value": "1173 A.D., attributed to Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "9288779e53aaf46b8918fda37bc91e89b4e2b4a6",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 349",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-012",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 348",
+  "quote": "The Pisanari-ka mandir is a remnant of an old temple traditionally said to have been built by a woman, out of her earnings obtained by grinding flour for the workmen employed on the construction of Udayeshwara temple. But from architectural point this building is of much later date.",
+  "strength": "direct",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Same tradition and rebuttal as Patil 1952.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "559a39e3f988e4b31367fa23b78655a4e5e23beb",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 348",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-014",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 347",
+  "quote": "The spire is unrivalled in beauty and most fascinating.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Echoes Patil 1952.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3d2cebd36050c18b6e6a58fb978dce721ed7b9ae",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 347",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-016",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "quote": "Two other inscriptions of the temple refer to the construction work of the temple which commenced in Vikrama Samvat 1116 corresponding to A. D. 1059. Its flag-staff, as stated therein, … was erected in Vikrama Samvat 1137 corresponding to A.D. 1080.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Agrees with Patil 1952 and Krishna Deva 1969.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "begun V.S. 1116 (1059); flag-staff erected 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 346",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-017",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 346",
+  "quote": "Udayapur appears to be an ancient place, as is evidenced by the traces of an old fortification wall of great uncemented stone blocks, found extended up to a rocky hill about one km. to the south of the village.",
+  "strength": "direct",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 346",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-001",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 113",
+  "quote": "The last line of the record expresses the purpose, in which the temple is mentioned by the name Udayésvaradeva, evidently after the name of its constructor.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Name 'Udayeśvaradeva' in the temple's own record.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "b6109c2273d309b94de06df54ed14b0bc21399ff",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 113",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-002",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 139",
+  "quote": "The only geographical name mentioned in the record is Udayapura, which is said to be the capital town of the Nēmaka dynasty (1. 6), which was subordinate to Udayāditya. This place still bears this name, as we have already seen.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "The town's name as recorded in the praśasti (Part B, l. 6) per Trivedi's CII edition.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "e5d0268b3a80fa614b9d1935d49f7a41c1ae320e",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 139",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-003",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 281",
+  "quote": "It was probably situated in the vicinity of Udaipur. Pañchamukha, which too appears to be the name of a village from the context, cannot as well be identified. However, taking Pañchamukha as denoting Śiva, we may suggest that Udaipur itself may have been intended by the expression Pañchamukhapattana.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Editor says the donated village was probably near Udaipur and suggests Udaipur itself may be meant by the expression Pañchamukhapattana (Pañchamukha taken as Śiva).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "b11162aac080ad5f444944016edb3d8564d42a94",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 281",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-004",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 285",
+  "quote": "Dēvadharmapuri (l. 10), if the reading is correct, seems to be the village of Udaipur itself, as we have already seen above.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Conditional identification.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3f9be979ad46970655da331901c811ec3e86cdf9",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 285",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-005",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 285",
+  "quote": "One of the villages appears to be Dēvadharmapurī, which is probably Udaipur itself, and another, the name of which is not completely preserved, was situated in Bhringarika-64.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Editor's 'probably'; tentative alternative name.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "87e8f5c8734e9133ddef523a543f8b0720f57972",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 285",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-006",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 288",
+  "quote": "denoted the town or village (pattana) after the temple of Śiva, i.e., Nilakanthésvara at Udaipur itself. Thus we have to take the same place denoted by two names, which is rather curious.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Sentence begins on the preceding page ('…Pañchamukha-pattana… the name suggests that it may have then'). Overlaps chunk 81dc7d13.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "52d6831d0672d10cae8472276e33a50838aaa575",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 288",
+  "language": "mixed"
+ },
+ {
+  "id": "C01-CII-007",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 113",
+  "quote": "the importance of the inscription lies in the fact that it supplies the earliest known date for the king Udayāditya, who, according to the prasasti found at the same place, rescued the earth (i.e., the Paramāra kingdom), as the primeval boar",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "b6109c2273d309b94de06df54ed14b0bc21399ff",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 113",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-008",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 131",
+  "quote": "the inscription is important as it gives a complete and exhaustive genealogy of the Paramāra house from the earliest ruler down to Udayāditya. It does not bear any date nor is the purpose shown in the existing portion. It is a prasasti, intended to be put in a part of the temple, as stated above.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "'Does not bear any date' — contrasts with Geo-Heritage's statement that the praśasti gives 1059 CE. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "undated",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "60f1708b6aa39be73b43e945a16ad44252b9eabe",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 131",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-009",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 138",
+  "quote": "This is the latter half of the Udaipur prasasti, the first half of which has been edited above. It is engraved on a stone slab which was found by the late M. B. Garde, the Director of Archaeology in the former State of Gwalior, in a Dhimar's house near the Chatua Daruwāzā at Udaipur in the Vidishā District, in the working season of 1925-26.",
+  "strength": "direct",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "also Ch 11"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "d12c18f4a24c843e19a1efdeaf1064d54d1b3afa",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 138",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-010",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 285",
+  "quote": "Bhriṅgāri (l. 8) is doubtless the same as Bhriṅgārīkā appearing in an inscription from the same place and recording the grant of a village by Lūṇapasāka in favour of the God Vaidyanātha in 1173 A.C. … It appears to be represented by the modern village Bhiraṅgāvalī, about 6 kms. north-east of Udaipur.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "The Gazetteer attributes a 1173 inscription mentioning Bhringarika to Udayāditya; CII gives Lūṇapasāka as the 1173 grantor — see Conflicts. (Footnote marker omitted with an ellipsis.)",
+  "gloss": null,
+  "claim": {
+   "key": "Lūṇapasāka record: date",
+   "value": "1173 A.C.",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "3f9be979ad46970655da331901c811ec3e86cdf9",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 285",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-011",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 288",
+  "quote": "उदयपुर\n*Gloss [my translation]:* [my transliteration] Udayapura",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Line 3 of the edited text of the Udaipur stone inscription of the time of Dēvapāla, (V.) 128[9] (CII VII.2 No. 52), as laid out in the OCR table — the town's name in a 13th-c. record.",
+  "gloss": "[my transliteration] Udayapura",
+  "claim": null,
+  "chunk_id": "52d6831d0672d10cae8472276e33a50838aaa575",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 288",
+  "language": "mixed"
+ },
+ {
+  "id": "C01-CII-012",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 139",
+  "quote": "the object of the inscription appears to be that Udaipur was placed in charge of a king who belonged to this dynasty, and to record that (he, or during his reign was) constructed a temple, evidently the one referred to in it.",
+  "strength": "direct",
+  "also": [
+   "Ch 4",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 4, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Editor's reading of a badly abraded slab. Bears on 'who built Udaypur's temple' — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple builder",
+   "value": "a king of the Nēmaka (feudatory) dynasty placed in charge of Udaipur (editor's reading)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "e5d0268b3a80fa614b9d1935d49f7a41c1ae320e",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 139",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-015",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 171",
+  "quote": "as we also find in the undated Udaipur prasati",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Supports 60f1708b on the praśasti's lack of a date.",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "undated",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "a293897aca2d7897e4b2b69cee4975fce5cd9f70",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 171",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-001",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 8",
+  "quote": "Udayāditya extended patronage to art and architecture. He founded the city of Udayapur which is located in modern day Vidisha. In this city, he constructed several temples, the most famous being the temple of Udayeśvara.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Uses the form 'Udayapur'.",
+  "gloss": null,
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "357e60fbfe6f6415fbbd3e341ba6adbfd7024a12",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 8",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-002",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 92",
+  "quote": "G. Buhler, \"Udepur Prasasti of the Kings of Malva\" in Epigraphia Indica vol. 1",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Name variant 'Udepur' in Bühler's edition title (as cited by Pande); the edition itself is not in the corpus — GAP.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "336e941ccabdad3b137540439f943fa02c6ea542",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 92",
+  "language": "sa"
+ },
+ {
+  "id": "C01-PANDE-003",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 90",
+  "quote": "The legend regarding this masjid is that the Emperor Aurangzeb, on his return from the Dakhin, passed this place, and seeing this temple, ordered its demolition and the construction of a masjid with its materials.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Beglar's 19th-c. record of the legend (quoted by Pande). Legend continues: Mahadeva appears in a dream and the demolition is stopped.",
+  "gloss": null,
+  "claim": {
+   "key": "temple survival legend",
+   "value": "Aurangzeb ordered demolition (Beglar's record)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "cefe4e1f3e95dbeb4bf19a309fbd4c02036e74a3",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 90",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-004",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 90",
+  "quote": "Whatever the credit attaching to this legend, certain it is that at the present day the temple is frequented by both Hindus and Muhammadans, and the lingam within equally reverenced by both.",
+  "strength": "direct",
+  "also": [
+   "Ch 9"
+  ],
+  "flags": [
+   "also Ch 9"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Beglar, 1870s, as quoted.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "cefe4e1f3e95dbeb4bf19a309fbd4c02036e74a3",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 90",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-005",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 91",
+  "quote": "According to local tradition, in 1325 CE, after the conquest of Udayapur, Sultan Muhammad Tughlaq had given orders to raze the temple. However, the temple was not razed and only a part of the Vedic-hall on the west was converted to a mosque",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Labelled 'local tradition' by the author. Compare dates 1336-38 / Hijri 737 & 739 cited elsewhere in the same book.",
+  "gloss": null,
+  "claim": {
+   "key": "temple survival legend",
+   "value": "Muhammad Tughlaq, 1325 (local tradition)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "8b63173c336de7691be6cc09413308076cf191a5",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 91",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-006",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 92",
+  "quote": "Near the temple is a house called Ghariyālon Kā Makān, i.e. the house of the time-keepers of the temple, who claim to have been there for centuries.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Family memory attached to a temple office.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "8b63173c336de7691be6cc09413308076cf191a5",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 92",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-007",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 8",
+  "quote": "The Udayeśvara temple at Udayapur, situated in the Malwa region of Madhya Pradesh, ranks as one of the most important early medieval temples of North India. It is a Śaiva temple built in the second half of the 11th century CE by Udayāditya Paramāra who was a scion of the illustrious Paramāra dynasty that ruled over Malwa.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Scholarly statement of significance; date given as a range, not a year.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "357e60fbfe6f6415fbbd3e341ba6adbfd7024a12",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 8",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-008",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 91",
+  "quote": "This temple is one of the few in north India that has survived the onslaught of Islamic invasions and one of the best specimens of central Indian medieval architecture.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "8b63173c336de7691be6cc09413308076cf191a5",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 91",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-009",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 91",
+  "quote": "\"The beautiful temple of Udayeswara is the great attraction of Udaypur.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Cunningham, Report of Tours 1874-77, as quoted by Pande.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "cefe4e1f3e95dbeb4bf19a309fbd4c02036e74a3",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 91",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-010",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 92",
+  "quote": "This temple is a living one, where right up to the 21st century, there are the usual morning and evening pūja and aarti.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "8b63173c336de7691be6cc09413308076cf191a5",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 92",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-011",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 85",
+  "quote": "This brass cover was presented by Khanderao Appaji, a general of Mahadji Scindia, the local ruler, in … 1775 CE.",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Compare INTACH foreword: brass cap 'offered by the commander Bappa Saheb of Gwalior state' (18th c.). See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "brass cover of the liṅga: donor",
+   "value": "Khanderao Appaji, 1775 CE",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "3396ed0739397753d1a78aad9300be95f8211cda",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 85",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-012",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 88",
+  "quote": "In his report of a Tour (1871-72), J.D. Beglar reports thus:",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Signals that the earliest colonial survey accounts are quoted at length in this monograph (pp. following).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "41830c538a40b55889200f744ffb22c09392c4bd",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 88",
+  "language": "en"
+ },
+ {
+  "id": "C01-PANDE-013",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 90",
+  "quote": "Beglar has made an error as regards his statement that Aurangzeb built the masjid. It was Muhammad Tughlak, in the 14th century, who built the masjid and the inscriptions record his name.",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Author's correction — memory vs epigraphic record. See Conflicts.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "cefe4e1f3e95dbeb4bf19a309fbd4c02036e74a3",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 90",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-001",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 115",
+  "quote": "One of the many old Sanskrit inscriptions on this temple records that the Paramara king Udayaditya of Malwa founded a town, built a temple of Shiva and excavated a tank, and designated all the three works after his own name as Udayapura, Udayeshvara and Udayasamudra respectively.",
+  "strength": "direct",
+  "also": [
+   "Ch 4",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 4, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Clearest statement in the corpus of the eponymous triple foundation, attributed to an inscription.",
+  "gloss": null,
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "Udayāditya founded town, temple and tank, named after himself",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "05813e9dbd99cd8a334e374b5fc4bcd37fb7f8ea",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 115",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-002",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 114",
+  "quote": "This town lies 4 miles by a metalled road to the east of the Bareth Station on the Central Railway between Bina and Bhilsa. It can also be visited from the next station Basoda, whence it is about 8 miles by a fair weather road.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Access as of 1952.",
+  "gloss": null,
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "4 miles east of Bareth; about 8 miles from Basoda",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "05813e9dbd99cd8a334e374b5fc4bcd37fb7f8ea",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 114",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-003",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 49",
+  "quote": "It is to one of such interesting episodes that we owe, it is alleged, the survival of one of the most beautiful products of the architects of Madhya Bharat, e. g., the temple at Udaypur.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Alludes to a survival story (cf. the Aurangzeb dream legend recorded by Beglar).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "f15b2a1a52f96259a74b769b002275d59fa94395",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 49",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-004",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 116–117",
+  "quote": "A curious human figure fixed up near the pinnacle of the spire is variously interpreted as that of the architect, who designed … the edifice or as of the royal builder climbing up to heaven in virtue of the religious merit which he earned by constructing such a magnificent temple.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Competing popular interpretations; spans a page break.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "f5b86db1e57e895b538cdd783350b1c5c3a3c6b5",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 116–117",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-005",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 117",
+  "quote": "A popular legend is current that Aurangzeb is responsible for the damage done to this temple but it seems more probable that this had already been done by Mohammad Tughlaq, Sultan of Delhi who built the mosque at the back of the temple with material of demolished shrines, between A. H. 737-39 (A.D. 1336-38) as known from the two Persian inscriptions related to this mosque.",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Legend vs inscriptional record, as weighed by Patil.",
+  "gloss": null,
+  "claim": {
+   "key": "temple survival legend",
+   "value": "Aurangzeb legend vs Mohammad Tughlaq (Patil)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "f5b86db1e57e895b538cdd783350b1c5c3a3c6b5",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 117",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-006",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 118",
+  "quote": "by a woman out of her earning made by grinding flour for the workmen employed for the construction of the Udayeshvara temple. This tradition is, however, belied by the style of the architecture of the temple which shows that it is a much later structure.",
+  "strength": "direct",
+  "also": [
+   "Ch 7"
+  ],
+  "flags": [
+   "also Ch 7"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Sentence begins on p. 117 ('It is popularly believed to have been built…'). Pande also records the grinder tradition without dating it as later — see Conflicts.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "265e90c371303ad9667edd25966b4494ef9f1bf9",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 118",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-008",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 48",
+  "quote": "In the long array of these sacred structures the Udayeshwar temple stands supreme representing the best of what the ancient architects of Madhya Bharat could achieve. Fortunately it had escaped from the ravages of the idol breakers.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "f15b2a1a52f96259a74b769b002275d59fa94395",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 48",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-009",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 115",
+  "quote": "Udaypur (now a small village) was in the medieval period a place of considerable importance, as is evidenced by the existing remains of monuments both Hindu and Mohammedan.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "05813e9dbd99cd8a334e374b5fc4bcd37fb7f8ea",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 115",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-010",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 117",
+  "quote": "The spire, doubtless the most fascinating feature of this monument, is perhaps unrivalled in beauty in the whole array of the Indian temples.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "f5b86db1e57e895b538cdd783350b1c5c3a3c6b5",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 117",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-012",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 115",
+  "quote": "It is further known from two other inscriptions on this temple that the construction of the temples was commenced in V. S. 1116 (A.D. 1059) and that the flag staff was erected in V. S. 1137 (A.D. 1080).",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "This source treats 1059 and 1080 as start and completion — relevant to the date discrepancy among other sources. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "commenced V.S. 1116 (1059); flag-staff V.S. 1137 (1080)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "05813e9dbd99cd8a334e374b5fc4bcd37fb7f8ea",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 115",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-013",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 116",
+  "quote": "As an inscription on it states, this cover was presented by Khande Rao Appaji (a General of Mahadaji Scindia), in V. S. 1841 (A.D. 1775).",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Agrees with Pande (1775, Khanderao Appaji); differs from INTACH's 'Bappa Saheb'. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "brass cover of the liṅga: donor",
+   "value": "Khande Rao Appaji, V.S. 1841 (1775)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "f5b86db1e57e895b538cdd783350b1c5c3a3c6b5",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 116",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-HI-001",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 17",
+  "quote": "भोपाल से डेढ़ सौ किलोमीटर दूर विदिशा जिले के उदयपुर की तीन तस्वीरें इसकी गवाह हैं।\n*Gloss [my translation]:* Three pictures of Udaypur in Vidisha district, 150 km from Bhopal, bear witness to this.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Locates Udaypur in Vidisha district, 150 km from Bhopal.",
+  "gloss": "Three pictures of Udaypur in Vidisha district, 150 km from Bhopal, bear witness to this.",
+  "claim": {
+   "key": "distance / location of Udaypur",
+   "value": "Vidisha district, 150 km from Bhopal"
+  },
+  "chunk_id": "c9097a0958499445d4ca4d19023922fe2edfddf8",
+  "author": null,
+  "log_citation": "scan p. 17",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-002",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 33",
+  "quote": "परमार वंश के राजा उदयादित्य के मंदिर में तीनों द्वारों के पत्थरों पर बीस से ज्यादा शिलालेख हैं, जो उस समय की महत्वपूर्ण जानकारी देते हैं।\n*Gloss [my translation]:* Book's English translation (approx. p.33): \"In the temple of Raja Udayaditya of the Paramara dynasty, on the stones of all three doorways, there are more than twenty inscriptions, which give important information of that time.\"",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Counts differ by what is counted: 20+ on the temple doorways (here), a dozen (Jagta p.124), 11 (Jagta p.143), about 100 town-wide (INTACH via Jagta p.150). See Conflicts.",
+  "gloss": "Book's English translation (approx. p.33): \"In the temple of Raja Udayaditya of the Paramara dynasty, on the stones of all three doorways, there are more than twenty inscriptions, which give important information of that time.\"",
+  "claim": {
+   "key": "inscription count at Udaypur",
+   "value": "20+ on the three doorways",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "641c25e35316d0d1e39c39411d48d1dc3e2059c9",
+  "author": null,
+  "log_citation": "scan p. 33",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-003",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 136",
+  "quote": "यह अभिलेख उदयपुर के मंदिर परिसर में नहीं बल्कि चतुआ दरवाजा मुहल्ले में एक घर से प्राप्त हुआ था। पत्थर का यह कीमती टुकड़ा आज ग्वालियर के पुरात्व संग्रहालय में है। इसमें कुल 27 पंक्तियाँ हैं।\n*Gloss [my translation]:* Book's English translation (approx. p.136): \"This inscription was obtained not in Udaipur's temple precinct, but from a house in the Chatua Darwaza locality. This precious piece of stone is today in the Archaeology Museum of Gwalior. In it there are twenty-seven lines in all.\"",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Relevant to the 'praśasti location' conflict: more than one Udaypur inscription is reported to be in the Gwalior Museum, so the in-front-of-temple (Ganguly) and Gwalior-Museum reports may concern different stones.",
+  "gloss": "Book's English translation (approx. p.136): \"This inscription was obtained not in Udaipur's temple precinct, but from a house in the Chatua Darwaza locality. This precious piece of stone is today in the Archaeology Museum of Gwalior. In it there are twenty-seven lines in all.\"",
+  "claim": null,
+  "chunk_id": "8aebcc5d2f44ea97b796bb38d9a5fd39b2af29ff",
+  "author": null,
+  "log_citation": "scan p. 136",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-004",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 136",
+  "quote": "इसका उल्लेख एनुअल रिपोर्ट ऑफ द आर्कियोलॉजिकल डिपार्टमेंट इन ग्वालियर स्टेट 1925-26, क्रमांक 71, पृष्ठ 12-13 पर है।\n*Gloss [my translation]:* Book's English translation: \"Its mention is in the Annual Report of the Archaeological Department in Gwalior State, 1925–26, serial no. 71, pages 12–13.\"",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Gwalior State Annual Reports are not in the corpus — gap.",
+  "gloss": "Book's English translation: \"Its mention is in the Annual Report of the Archaeological Department in Gwalior State, 1925–26, serial no. 71, pages 12–13.\"",
+  "claim": null,
+  "chunk_id": "8aebcc5d2f44ea97b796bb38d9a5fd39b2af29ff",
+  "author": null,
+  "log_citation": "scan p. 136",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-005",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 106",
+  "quote": "नारायण व्यास ने संभवतः उदयपुर को वीरों की भूमि इसलिए कहा कि उदयपुर के पुरखों ने मंदिर को अपनी पूरी ऊंचाई में इल्तुतमिश के सौ साल बाद आए तुगलक के वैसे ही लालची लुटेरों के हाथों नेस्तनाबूत होने से बचा लिया था।\n*Gloss [my translation]:* Book's English translation (approx. p.107): \"Narayan Vyas possibly called Udaipur the land of heroes because Udaipur's ancestors saved the temple, in its full height, from being annihilated at the hands of Tughlaq's similarly greedy plunderers who came a hundred years after Iltutmish.\"",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "The author's reading of Vyas's remark. Survival credited to local defence, alongside the priests' water trick (Ganguly) and the Aurangzeb dream (Beglar via Pande). See Conflicts.",
+  "gloss": "Book's English translation (approx. p.107): \"Narayan Vyas possibly called Udaipur the land of heroes because Udaipur's ancestors saved the temple, in its full height, from being annihilated at the hands of Tughlaq's similarly greedy plunderers who came a hundred years after Iltutmish.\"",
+  "claim": {
+   "key": "temple survival legend",
+   "value": "defended by Udaypur's ancestors (Narayan Vyas)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "e3d34bdd194a4dfd38d9cdc12d481f829b387b53",
+  "author": null,
+  "log_citation": "scan p. 106",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-006",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 70",
+  "quote": "पर्मर राजवंश के शासक शिव के उपासक रहे और अपने तीन-चार सौ सालों के लंबे राज में अपने विशाल राज्य में अनगिनत मंदिर, पाठशालाएं और छात्रावास बनवाए। बुंदेलखंड की सीमा पर उदयपुर उनके राज्य के सबसे व्यस्त व्यावसायिक केंद्रों में से एक था, जहां चारों तरफ दुर्ग से घिरे नगर में एक राजमहल, कई बावड़ियां, दरवाजे,\n*Gloss [my translation]:* The Paramara rulers were Shiva worshippers and in their reign of three-four hundred years built countless temples, schools and hostels in their vast kingdom. On the Bundelkhand border Udaipur was one of their busiest commercial centres, a fort-ringed town.",
+  "strength": "direct",
+  "also": [
+   "Ch 8"
+  ],
+  "flags": [
+   "also Ch 8"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Paramara rulers Shiva worshippers; Udaypur on the Bundelkhand border was one of their busiest commercial centres.",
+  "gloss": "The Paramara rulers were Shiva worshippers and in their reign of three-four hundred years built countless temples, schools and hostels in their vast kingdom. On the Bundelkhand border Udaipur was one of their busiest commercial centres, a fort-ringed town.",
+  "claim": null,
+  "chunk_id": "8887a4365074448eb71e99b76c203a1d882c6197",
+  "author": null,
+  "log_citation": "scan p. 70",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-007",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 40",
+  "quote": "में आना ही चाहिए कि यह मंदिर बच कैसे गया? इसका हाल विदिशा के बीजामंडल\n\nकी तरह होने से किसने रोका था? क्या उदयपुर और इस इलाके के स्थानीय लोगों\n\nके संगठित प्रतिरोध की वजह से सिर्फ मूर्तियां ही खंडित हो पाईं और उन लुटेरों को\n\nयहां से भगा दिया गया था, जो पूरे देश में सदियों तक हमारे मान-बिंदुओं को तहस-\n*Gloss [my translation]:* The question must arise: how did this temple survive? Who stopped it from sharing the fate of Vidisha's Bijamandal? Was it because of organised resistance by Udaipur's local people that only the images could be broken and the raiders were driven off?",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Author asks how the temple survived when Vijay Mandir did not, suggesting organised local resistance meant only the images were broken (conjecture).",
+  "gloss": "The question must arise: how did this temple survive? Who stopped it from sharing the fate of Vidisha's Bijamandal? Was it because of organised resistance by Udaipur's local people that only the images could be broken and the raiders were driven off?",
+  "claim": {
+   "key": "temple survival legend",
+   "value": "possible organised local resistance (author's conjecture)"
+  },
+  "chunk_id": "8da5506aed6946bdf468cd28422dbfb92ce51322",
+  "author": null,
+  "log_citation": "scan p. 40",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-008",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 110",
+  "quote": "उदयपुर से प्रस्थान करने के पहले हम उस उदय समुद्र की तरफ गए, जहां एक हफ्ता पहले ही ईटैक की टीम काम कर चुकी थी और उसकी लंबाई 980 मीटर नापी थी।\n*Gloss [my translation]:* Book's own English translation (Jagta_Hua_Kasba_EN.md, approx. p.109): \"Before departing from Udaipur, we went toward that Uday Samudra, where a week earlier INTACH's team had already worked and had measured its length as 980 metres.\"",
+  "strength": "direct",
+  "also": [
+   "Ch 9"
+  ],
+  "flags": [
+   "also Ch 9"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Identifies the Udayasamudra on the ground. Contrast Ganguly (1933): 'At present, Udayasamudra cannot be identified.' See Conflicts.",
+  "gloss": "Book's own English translation (Jagta_Hua_Kasba_EN.md, approx. p.109): \"Before departing from Udaipur, we went toward that Uday Samudra, where a week earlier INTACH's team had already worked and had measured its length as 980 metres.\"",
+  "claim": {
+   "key": "Udayasamudra tank: identification",
+   "value": "Udaya Samudra measured by the INTACH team",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "2080e45e2214a47e8cc062434c86c3e2351701b8",
+  "author": null,
+  "log_citation": "scan p. 110",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-009",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 110",
+  "quote": "वे अब दूर तक फैले उपजाऊ काली मिट्टी के खेत हैं, जहां कभी उदयादित्य का बनवाया हुआ विशाल तालाब समुद्र की तरह किनारों से टकराता था।\n*Gloss [my translation]:* Book's English translation: \"They are now fertile black-soil fields spread far and wide, where once the vast tank built by Udayaditya struck the banks like a sea.\"",
+  "strength": "direct",
+  "also": [
+   "Ch 9"
+  ],
+  "flags": [
+   "also Ch 9"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "The author attributes the tank to Udayāditya.",
+  "gloss": "Book's English translation: \"They are now fertile black-soil fields spread far and wide, where once the vast tank built by Udayaditya struck the banks like a sea.\"",
+  "claim": null,
+  "chunk_id": "2080e45e2214a47e8cc062434c86c3e2351701b8",
+  "author": null,
+  "log_citation": "scan p. 110",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-010",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 135",
+  "quote": "वर्मा ने उदयदित्य और भोज के रिश्ते को लेकर अपने से पहले के इतिहासकारों की वैचारिक खींचातानी का लंबा विवरण लिखा है।\n*Gloss [my translation]:* Book's English translation (approx. p.131): \"Verma has written a long account of the ideological tug-of-war among the historians before him regarding the relationship of Udayadity and Bhoj.\"",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Who Udaypur's founder was in relation to Bhoja is an open question; Jagta reports the dispute and declines to resolve it.",
+  "gloss": "Book's English translation (approx. p.131): \"Verma has written a long account of the ideological tug-of-war among the historians before him regarding the relationship of Udayadity and Bhoj.\"",
+  "claim": null,
+  "chunk_id": "9e483e740faf9c276f3418cbd6c9d9fb346f40eb",
+  "author": null,
+  "log_citation": "scan p. 135",
+  "language": "hi"
+ },
+ {
+  "id": "C01-JAGTA-HI-011",
+  "book_code": "JAGTA-HI",
+  "book_title": "कथा उदयपुर (Jagta Hua Kasba) — Hindi original",
+  "page": "p. 135",
+  "quote": "वे बंधु का मतलब भाई नहीं मानते।\n*Gloss [my translation]:* Book's English translation: \"He [H.C. Ray] does not consider bandhu to mean brother.\"",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Kielhorn and Ganguly read 'bandhu' as brother; H.C. Ray, Dynastic History of Northern India, does not. H.C. Ray's book is not in the corpus — gap.",
+  "gloss": "Book's English translation: \"He [H.C. Ray] does not consider bandhu to mean brother.\"",
+  "claim": {
+   "key": "Udayāditya: relation to Bhoja",
+   "value": "'bandhu' not taken to mean brother (H.C. Ray)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "9e483e740faf9c276f3418cbd6c9d9fb346f40eb",
+  "author": null,
+  "log_citation": "scan p. 135",
+  "language": "hi"
+ },
+ {
+  "id": "C01-INTACH-001",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 3",
+  "quote": "The city of Udaypur was established by the Parmar king Udayaditya who has built several structures and monuments over his territory. Udaypur village still possesses the Udyeshwar Temple, the Uday Sagar Talab and the historical city of Udaypur.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "District Collector's foreword (U. Bhargav, 2022): founding attribution plus the surviving trio of temple, tank and town.",
+  "gloss": null,
+  "claim": {
+   "key": "town founder / foundation",
+   "value": "Parmar king Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "0c118c3a02ce92ea3df6fc9c0c36cc43e62485c3",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 3",
+  "language": "en"
+ },
+ {
+  "id": "C01-INTACH-002",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 6",
+  "quote": "King Udayaditya established the city of Udaypur.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "OCR of the surrounding page is scrambled; this sentence is intact. Check scan before quoting further context.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "a3c6008abe6cca8b7bf3fac19e1ac74a7c5d7bbf",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 6",
+  "language": "en"
+ },
+ {
+  "id": "C01-INTACH-003",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 7",
+  "quote": "the glorious past of Udaypur, the city of Udayadhya.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "'Udayadhya' is the OCR spelling of Udayāditya in this report.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "a3c6008abe6cca8b7bf3fac19e1ac74a7c5d7bbf",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 7",
+  "language": "en"
+ },
+ {
+  "id": "C01-INTACH-004",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 12",
+  "quote": "Udaypur village is located in Basuda Tehsil of Vidisha district in Madhya Pradesh, India.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Distances on the same page are OCR-garbled and are NOT carried over; 'Basuda' = Basoda.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "65a6c099fec3ee15f65af7f88288f134825d4fe1",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 12",
+  "language": "en"
+ },
+ {
+  "id": "C01-INTACH-005",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 36",
+  "quote": "\"The total geographical area of the village is 1966 hectares. Udaypur has a total population of 6,383 people. There are about 1,247 houses in the Udaypur village.\"",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "INTACH quotes these from villageinfo.in (accessed 2021), per its own footnote — secondary web data.",
+  "gloss": null,
+  "claim": {
+   "key": "population of Udaypur",
+   "value": "6,383 (villageinfo.in)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "730beda08139ea576378ed7f4d48399dd3e81dfa",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 36",
+  "language": "en"
+ },
+ {
+  "id": "C01-INTACH-006",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 3",
+  "quote": "we see clear the layered history of the village from 6th century CE to 18th century CE (when a brass metal cap for the Shivalinga inside the Neelkantheshwar temple was offered by the commander Bappa Saheb of Gwalior state).",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "INTACH State Convenor's foreword: chronological span claimed for the settlement's heritage.",
+  "gloss": null,
+  "claim": {
+   "key": "brass cover of the liṅga: donor",
+   "value": "commander Bappa Saheb (Gwalior state)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "0c118c3a02ce92ea3df6fc9c0c36cc43e62485c3",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 3",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARTEMPLES-001",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 9",
+  "quote": "Udayāditya's signal achievement was the construction of the Nilakanthésvara, also known as Udayeśvara, Śiva temple at Udaypura (modern Udaypur), the city named after him.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Name form 'Udaypura'.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "a34c081e5e7531a6c3f6e53b4648cfacc00d7332",
+  "author": "Swati Mondal Adhikari",
+  "log_citation": "scan p. 9",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARTEMPLES-002",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 5",
+  "quote": "The currency of identical legends at Lalitpur and Udaypur of Madhya Pradesh makes it difficult to give any credence to such stories",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Refers to the Un legend of 99 temples ('one hundred less one'); evidence that a parallel legend circulates at Udaypur. The Udaypur version itself is not given here — GAP.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "2cb7f003886c1df52fd29783ce9b5820228a64e8",
+  "author": "Swati Mondal Adhikari",
+  "log_citation": "scan p. 5",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARTEMPLES-003",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 3",
+  "quote": "To narrate the architectural pattern, she preferred the temple of Nilkanțheśvara of Udayapur as a model and marked the essential feature of bhūmija prasāda.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "'she' = Stella Kramrisch, The Hindu Temple (1946), per the preceding sentence in the same chunk.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "54c10eb6170a3d4b2ba6a8918c12e496e1106029",
+  "author": "Swati Mondal Adhikari",
+  "log_citation": "scan p. 3",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARTEMPLES-004",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 9",
+  "quote": "Representing the quintessence of the Bhūmija temple style that was nurtured and developed by the Paramāras, the Nilakanthésvara provided the model to be followed by the later architects of Mālava.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "a34c081e5e7531a6c3f6e53b4648cfacc00d7332",
+  "author": "Swati Mondal Adhikari",
+  "log_citation": "scan p. 9",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARTEMPLES-005",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 9",
+  "quote": "The in situ inscription on the temple records that the hoisting of flag by Udyāditya on the temple took place in 1080 A.D.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "1080 here = flag-hoisting (completion), not foundation. See Conflicts (1059 vs 1080).",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "flag hoisted 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "a34c081e5e7531a6c3f6e53b4648cfacc00d7332",
+  "author": "Swati Mondal Adhikari",
+  "log_citation": "scan p. 9",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARTEMPLES-006",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 45",
+  "quote": "The Nilakan theśvara, representing the Bhūmija style in its fully developed form, was completed in A.D. 1080.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "OCR splits 'Nilakan theśvara'.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "completed 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "7acaef5f76a6aeffb99f7d1524adc6869510cf7e",
+  "author": "Swati Mondal Adhikari",
+  "log_citation": "scan p. 45",
+  "language": "en"
+ },
+ {
+  "id": "C01-ARTPAR-001",
+  "book_code": "ARTPAR",
+  "book_title": "Art of the Paramāras of Malwa — Sharma, R. K.",
+  "page": "p. 60",
+  "quote": "संदूल रेलवे की बीना और विविधा रेलवे स्टेशनों के बीच पड़ने वाली बरेठ स्टेशन से छः किलोमीटर दूर वस माग से जुड़ा हुआ है\n*Gloss [my translation]:* [my translation; OCR garbled, tentative] …is connected by bus route, six kilometres from Bareth station, which lies between Bina and Vidisha stations of the Central Railway.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "⚠ OCR garbled; verify against page image.",
+  "gloss": "[my translation; OCR garbled, tentative] …is connected by bus route, six kilometres from Bareth station, which lies between Bina and Vidisha stations of the Central Railway.",
+  "claim": null,
+  "chunk_id": "f4e3a217497e1202edf8f407a069f5d980334015",
+  "author": "Sharma, R. K.",
+  "log_citation": "scan p. 60",
+  "language": "hi"
+ },
+ {
+  "id": "C01-ARTPAR-002",
+  "book_code": "ARTPAR",
+  "book_title": "Art of the Paramāras of Malwa — Sharma, R. K.",
+  "page": "p. 61",
+  "quote": "पूर्वीं मुख संडप में झनेकर शिला-लेख पाये जाते जिनसे प्रतीत होता है कि समय-समय पर लोग वहां झाते रहे हैं\n*Gloss [my translation]:* [my translation; OCR garbled, tentative] Many inscriptions are found in the eastern entrance porch, from which it appears that people kept coming there from time to time.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "⚠ OCR garbled; verify against page image.",
+  "gloss": "[my translation; OCR garbled, tentative] Many inscriptions are found in the eastern entrance porch, from which it appears that people kept coming there from time to time.",
+  "claim": null,
+  "chunk_id": "fa56b8d1c2ab61c804d29ec4ea696296ee2b21b7",
+  "author": "Sharma, R. K.",
+  "log_citation": "scan p. 61",
+  "language": "hi"
+ },
+ {
+  "id": "C01-ARTPAR-003",
+  "book_code": "ARTPAR",
+  "book_title": "Art of the Paramāras of Malwa — Sharma, R. K.",
+  "page": "p. 60",
+  "quote": "उद्यपुर से पठारी तक का सम्पूर्ण क्षेत्र पदमार्का कालीन स्थापत्य-कला से भरपूर है\n*Gloss [my translation]:* [my translation; tentative] The entire area from Udaypur to Pathari is full of Paramāra-period architecture.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "⚠ OCR garbled ('पदमार्का' for परमार); verify against page image.",
+  "gloss": "[my translation; tentative] The entire area from Udaypur to Pathari is full of Paramāra-period architecture.",
+  "claim": null,
+  "chunk_id": "f4e3a217497e1202edf8f407a069f5d980334015",
+  "author": "Sharma, R. K.",
+  "log_citation": "scan p. 60",
+  "language": "hi"
+ },
+ {
+  "id": "C01-ARTPAR-004",
+  "book_code": "ARTPAR",
+  "book_title": "Art of the Paramāras of Malwa — Sharma, R. K.",
+  "page": "p. 61",
+  "quote": "उदयेझवर मंदिर को हम पाथण पर लिखी एक घार्मिक कविता कह सकते हैं\n*Gloss [my translation]:* [my translation; tentative] We may call the Udayeśvara temple a religious poem written on stone.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "⚠ OCR garbled ('पाथण' for पाषाण); verify against page image.",
+  "gloss": "[my translation; tentative] We may call the Udayeśvara temple a religious poem written on stone.",
+  "claim": null,
+  "chunk_id": "fa56b8d1c2ab61c804d29ec4ea696296ee2b21b7",
+  "author": "Sharma, R. K.",
+  "log_citation": "scan p. 61",
+  "language": "hi"
+ },
+ {
+  "id": "C01-ARTPAR-005",
+  "book_code": "ARTPAR",
+  "book_title": "Art of the Paramāras of Malwa — Sharma, R. K.",
+  "page": "p. 60",
+  "quote": "पाप्त शिलापेलव से ही मनिर्दर की निर्माण सिमिं संचत् १११६\n*Gloss [my translation]:* [my translation; OCR is garbled, reading tentative] From the inscription found, the temple's construction date is samvat 1116.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "⚠ OCR heavily garbled in this Hindi article (headed 'उदयपुर का उदयेऋवर मंदिर', author line 'कमला मित्तल'); verify against page image. Bears on the 1059/1080 question.",
+  "gloss": "[my translation; OCR is garbled, reading tentative] From the inscription found, the temple's construction date is samvat 1116.",
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "construction begun Saṃvat 1116 (OCR garbled)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4f387eea47fda6c0f4e3bd1805b8c20da7c9d698",
+  "author": "Sharma, R. K.",
+  "log_citation": "scan p. 60",
+  "language": "hi"
+ },
+ {
+  "id": "C01-SERPENT-001",
+  "book_code": "SERPENT",
+  "book_title": "A Serpentine Scimitar of Letters (the varṇanāgakṛpāṇikā inscription at Udaypur) — Singh, A.",
+  "page": "p. 3",
+  "quote": "at Udaypur, a town whose temple and tank were founded and named after king Udayāditya in 1080.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Eponymous foundation and date as stated by this source.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "temple and tank founded 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "1ba6b828725d0e955ba3e1d09ff792dfbbed2819",
+  "author": "Singh, A.",
+  "log_citation": "scan p. 3",
+  "language": "en"
+ },
+ {
+  "id": "C01-SERPENT-002",
+  "book_code": "SERPENT",
+  "book_title": "A Serpentine Scimitar of Letters (the varṇanāgakṛpāṇikā inscription at Udaypur) — Singh, A.",
+  "page": "p. 1",
+  "quote": "Less well known is its status as an extraordinary epigraphic archive with a continuous sequence of inscriptions in Sanskrit, Persian, and Hindi spanning eight centuries—from the temple's consecration in samvat 1137 to its archaeological restoration in samvat 1985.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Frames Udaypur's own record as a long written memory; detail belongs to Ch. 6.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "9f68a492b924b88b6090d6919c3021ae3160ea05",
+  "author": "Singh, A.",
+  "log_citation": "scan p. 1",
+  "language": "en"
+ },
+ {
+  "id": "C01-SERPENT-003",
+  "book_code": "SERPENT",
+  "book_title": "A Serpentine Scimitar of Letters (the varṇanāgakṛpāṇikā inscription at Udaypur) — Singh, A.",
+  "page": "p. 1",
+  "quote": "The Śiva temple of Udaypur in the Vidisha district of Madhya Pradesh, also known as Nīlakaṇtheśvara or Udayeśvara, is a celebrated example of India's medieval architecture, built around 1080 in the novel bhūmija style associated with the Paramāra dynasty of Malwa, c. 972–1305 (Deva 1975).",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Names, location, date and stylistic significance in one sentence; usable as an opening statement of identity.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "built around 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "9f68a492b924b88b6090d6919c3021ae3160ea05",
+  "author": "Singh, A.",
+  "log_citation": "scan p. 1",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-001",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter VII, Economic Condition",
+  "quote": "The UdayeSvara temple was built by the Paramara king Udaya- ditya at Udayapur temple in the old Gwalior state.",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "no page",
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Places Udayapur in 'the old Gwalior state'.",
+  "gloss": null,
+  "claim": {
+   "key": "temple builder",
+   "value": "Paramāra king Udayāditya",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "6e13ae0e63b73870e1f1a4494a667beba9b223fa",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER VII > ECONOMIC CONDITION",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-002",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter VII, Economic Condition",
+  "quote": "Vdayesvara or NlJakanthesvara Temple",
+  "strength": "direct",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "no page",
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Section heading; OCR-garbled 'Udayesvara or Nilakanthesvara Temple'. Both names given for one temple.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6e13ae0e63b73870e1f1a4494a667beba9b223fa",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER VII > ECONOMIC CONDITION",
+  "language": "en"
+ },
+ {
+  "id": "C01-HARDY-002",
+  "book_code": "HARDY",
+  "book_title": "The Temple Architecture of India — Adam Hardy",
+  "page": "p. 192",
+  "quote": "Of the two dozen temples surviving from their realms, three stand out as imperial monuments.",
+  "strength": "direct",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "The three are the Udayeśvara, the Bijamandal at Vidisha and the Bhojpur temple (same paragraph).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "9f54ec3bb22dbdae1b9c27d94da2661e878df8fd",
+  "author": "Adam Hardy",
+  "log_citation": "scan p. 192",
+  "language": "en"
+ },
+ {
+  "id": "C01-HARDY-004",
+  "book_code": "HARDY",
+  "book_title": "The Temple Architecture of India — Adam Hardy",
+  "page": "p. 192",
+  "quote": "The Udayeshvara at Udayapur (20.1) was founded by King Udayaditya in 1059 and consecrated in 1080.",
+  "strength": "direct",
+  "also": [
+   "Ch 5",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 5, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "A third reading of the 1059/1080 pair: foundation and consecration (vs 1059 start/1080 flag in Patil and the Gazetteer; 1080 repair in Ganguly; 1080 founding in Singh 2019). Hardy gives no source here. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "founded 1059, consecrated 1080",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "9f54ec3bb22dbdae1b9c27d94da2661e878df8fd",
+  "author": "Adam Hardy",
+  "log_citation": "scan p. 192",
+  "language": "en"
+ },
+ {
+  "id": "C01-KRAM-2-001",
+  "book_code": "KRAM-2",
+  "book_title": "The Hindu Temple, Volume II — Stella Kramrisch",
+  "page": "p. 102",
+  "quote": "The Temple is also known as Udayeśvara Temple; ASIAR, 1923-24; p. 133; Cunningham, 'ASI. Report', X. p. 65; VII. p. 82 f; JASB. NS. vol. X. p. 24f.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Kramrisch heads the plates 'Nīlakaṇṭheśvara' and gives 'Udayeśvara' as the alternative. Of the references, ASIAR 1923-24, Cunningham's ASI Reports VII and X, and JASB NS X are not in the corpus — gap.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3e04f87c846f898a6147b09a9e688553cfb6711b",
+  "author": "Stella Kramrisch",
+  "log_citation": "scan p. 102",
+  "language": "en"
+ },
+ {
+  "id": "C01-KRAM-2-002",
+  "book_code": "KRAM-2",
+  "book_title": "The Hindu Temple, Volume II — Stella Kramrisch",
+  "page": "p. 102",
+  "quote": "From the West; Udayapur, Gwalior; built by the Paramāra King Udayāditya (c. 1059-1087 A.D.); Red sandstone.",
+  "strength": "direct",
+  "also": [
+   "Ch 4",
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 4, Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Regnal span c. 1059–1087, another variant (cf. 1058–1087 Patil; c. 1070–1093 Pande and Adhikari; 1059–1086 Ganguly). 'Gwalior' = the then Gwalior State. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: reign dates",
+   "value": "c. 1059–1087",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "3e04f87c846f898a6147b09a9e688553cfb6711b",
+  "author": "Stella Kramrisch",
+  "log_citation": "scan p. 102",
+  "language": "en"
+ },
+ {
+  "id": "C01-RAJABHOJ-EN-003",
+  "book_code": "RAJABHOJ-EN",
+  "book_title": "King Bhoj and Paramara-period Town Architecture (Raja Bhoj aur Parmarkaleen Nagar Sthapatya) — English translation — Bhagwatilal Rajpurohit",
+  "page": "p. 60",
+  "quote": "In the Bhailasvami Mahadvadashaka province, the provincial governor of Udaipur in 1171 CE was Lunapasaka;² this is clear from the inscription of Vikram Samvat 1229.",
+  "strength": "direct",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "English translation of a Hindi original. Year 1171 here vs 1172 (Ganguly) vs 1173 (CII/Gazetteer) for the same record — see Conflicts. Footnote cites Indian Antiquary 18, p. 81.",
+  "gloss": null,
+  "claim": {
+   "key": "Lūṇapasāka record: date",
+   "value": "1171 CE (inscription of V.S. 1229)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4612aba26ec7b8aea86a33442d405edf4c2190b0",
+  "author": "Bhagwatilal Rajpurohit",
+  "log_citation": "scan p. 60",
+  "language": "en"
+ },
+ {
+  "id": "C01-KRAM-1-001",
+  "book_code": "KRAM-1",
+  "book_title": "The Hindu Temple, Volume I — Stella Kramrisch",
+  "page": "p. 269",
+  "quote": "PLAN OF NILAKANTHESVARA TEMPLE (1059—1080 A.D.). Udayapur, Gowalior (Pls. LII—III). from Cunningham, ASR, vol. VII. Pl. VI.",
+  "strength": "direct",
+  "also": [
+   "Ch 5",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 5, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Treats 1059 and 1080 as the start and end of construction, while the same author gives Udayāditya c. 1059–1087 (vol. 2). 'Gowalior' as printed. Cunningham ASR VII is not in the corpus — gap. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "temple foundation/consecration date",
+   "value": "1059–1080 (plan caption)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "a4687122d011c3ca1d4d0e92ae34e85f48703150",
+  "author": "Stella Kramrisch",
+  "log_citation": "scan p. 269",
+  "language": "en"
+ },
+ {
+  "id": "C01-TEMPLES-IND-001",
+  "book_code": "TEMPLES-IND",
+  "book_title": "Temples of India",
+  "page": "p. 97",
+  "quote": "The finest temples were built at Un (District Nimar) and at Udaipur (District Vidisha). The last, known as the temple of Nilakantheshwara or Udayeshwara after its royal author Udayaditya, is the grandest specimen of Paramara architecture and was started in 1059 and completed in 1080.",
+  "strength": "direct",
+  "also": [
+   "Ch 5",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 5, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Spelling 'Udaipur (District Vidisha)'. The file's title page reads 'Temples of North India', Krishna Deva, National Book Trust, March 1969 (file p. 6–7); the database records neither author nor year.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "48bd2310faf50bf43b43f9adcd14d2c161ad0f22",
+  "author": null,
+  "log_citation": "scan p. 97",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-036",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 70 (Hindi original)",
+  "quote": "On the border of Bundelkhand, Udaipur was one of the busiest commercial centres of their kingdom, where, in a city encircled on all sides by a fort, a palace, several stepwells, doorways, temples, squares-and-platforms, and a courthouse were built over centuries.",
+  "strength": "contextual",
+  "also": [
+   "Ch 8"
+  ],
+  "flags": [
+   "≈ (Hindi original)",
+   "also Ch 8"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Author's assertion; no source cited.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "0324dfcb3251167c4e0c83cf5235329f8c0cecbf",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 70 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-049",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 132 (Hindi original)",
+  "quote": "He says that the mention of this 'Pata' or 'Jnata' as the father of Udayaditya is a point that makes new gestures.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Jagta Hua Kasba attributes the Gandal → Pata → Udayāditya genealogy to the V.S. 1116 / Śaka 981 temple inscription; CII assigns a similar genealogy (Gōndala → Gyātā) to a sixteenth-century inscription and rejects it. See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: relation to Bhoja",
+   "value": "son of 'Pata'/'Jnata' (Gandal → Pata genealogy)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "d2ee735f58094094eb2242b5eccdb5a5cf1dbcbf",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 132 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-053",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 138 (Hindi original)",
+  "quote": "King Udayadity's reign lay between 1070 and 1093.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Jagta's regnal span for Udayāditya. Add to the reign-dates conflict.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: reign dates",
+   "value": "1070–1093",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 138 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-054",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 146 (Hindi original)",
+  "quote": "Now this also becomes clear — that Udaipur was such a centre from which at least two crown-princes came forth to become kings in the Paramara dynasty.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Inference from Devapāla's 'Mahakumar' title in the V.S. 1286 inscription.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "7584a7ed04282605170e7305021bd190c79b4971",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 146 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-JAGTA-EN-055",
+  "book_code": "JAGTA-EN",
+  "book_title": "Jagta Hua Kasba / कथा उदयपुर — English translation",
+  "page": "≈ p. 153 (Hindi original)",
+  "quote": "From this we can surmise that even five hundred years before Udayadity, the process of fashioning architectural marvels here was continuous.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "≈ (Hindi original)"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Author's surmise from Viṣṇu images at Muradpur/Sonari.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3300a51143679865c4bfc371d53625bbfcdfa130",
+  "author": null,
+  "log_citation": "≈ Hindi-original scan p. 153 (derived)",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-006",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 18",
+  "quote": "The Udayapur prasasti \\( ^{1} \\) of the reign of Udayâditya (about 1072 A. D.) is the earliest known inscription of the main family of Dhârâ to register the mythical birth of the founder of the house.",
+  "strength": "contextual",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Ganguly's approximate dating of an undated record.",
+  "gloss": null,
+  "claim": {
+   "key": "Udaipur praśasti: location / date / reliability",
+   "value": "about 1072 A.D. (reign of Udayāditya)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "c0e0d04695b7121d3cbc40abb1401f68293d2f22",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 18",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-017",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 249",
+  "quote": "The following few places are worth mentioning:— … Udayapura",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "From a 20-item list (Ujjain, Dhārā, Maṇḍapa, Maheśvara, Udayapura, …).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "094cb4b7fadb954db356030b77bae20e2d691f29",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 249",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-019",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 307",
+  "quote": "Architecture reached a high pitch of excellence, and the temples of Udayapur and of Un rank high among the best specimens of ancient Indian architectural remains.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "c16ed488621ecb4e6371b0b1c1298005a06a9e99",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 307",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-022",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 147",
+  "quote": "An inscription from Udayapur, in Bhilsa, furnishes us with more detailed information regarding his pedigree.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "The pedigree that CII rejects as from a 16th-c. record.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "211766c8e99bbc66feafcf47173a0bd7db115231",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 147",
+  "language": "en"
+ },
+ {
+  "id": "C01-GANGULY-026",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 272",
+  "quote": "On the wall of one of these temples there is an inscription of the Paramāra Udayāditya (1059-1086 A. D.)",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "One of several regnal spans given across sources — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: reign dates",
+   "value": "1059–1086",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "a39a4deffdfaa4e9db7cad23bba61666e5c22023",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 272",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-011",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 90",
+  "quote": "Tracing the District's rich historical traditions during the time of Raja Bhoj, it is said that \"Lavanya Sundari\", a beautiful classical and rai-dancer hailed from this region. Performed by the professionals, known as bednis, ral is a characteristic folk-dance of this region",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Context only: the Udaypur legend's dancer is named 'Bedni/Berni Mata'; the Gazetteer does not connect the two.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "d8e7489b35a613da0b94ad4416862f6e15a4fe2e",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 90",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-013",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 5",
+  "quote": "the magnificent temples at Gyaraspur, Udayapur and Badoh symbolise the rich cultural heritage of this District.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Its frontispiece is captioned 'Back view of Neelkantheshwar Temple, Udayapur'.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "bb7239ed4109c11d2330d788c185519299a99e91",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 5",
+  "language": "en"
+ },
+ {
+  "id": "C01-GAZ-015",
+  "book_code": "GAZ",
+  "book_title": "Madhya Pradesh District Gazetteers: Vidisha — Government of Madhya Pradesh",
+  "page": "p. 43",
+  "quote": "Bhoja's cousin or brother, Udayaditya came to the throne probably before the year A.D. 1080 and reigned till 1086. The eastern boundary of his kingdom extended upto Vidisha where he built the famous Nilkanthsavar temple at Udaypur.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Regnal span differs from 1058–1087 (Patil) and c. 1070–1093 (Pande, Adhikari). See Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: reign dates",
+   "value": "before 1080 to 1086",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "c7a55ee7d3becf419fc2df481ecdec9f982107e9",
+  "author": "Government of Madhya Pradesh",
+  "log_citation": "scan p. 43",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-013",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 152",
+  "quote": "This inscription is from Udaipur in the Vidishā District and is dated V. S. 1562. The find-spot of this record made Dr. Ganguly inclined to hold that Udayāditya who was a scion of the junior branch of the Paramāra house was a feudatory of the Imperial house of Dhārā and was ruling at Udaipur.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Historiographical question: was Udayāditya based at Udaipur? Ganguly's own text should be checked (Ch. 4).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "9a073d061d2d5dbcdd7612f60314a20f1e3968bf",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 152",
+  "language": "en"
+ },
+ {
+  "id": "C01-CII-014",
+  "book_code": "CII",
+  "book_title": "Corpus Inscriptionum Indicarum, Vol. VII, Part 2: Inscriptions of the Paramāras — Trivedi, Harihar Vithal (ed.)",
+  "page": "p. 152",
+  "quote": "the altogether different genealogy of the former of these kings recorded in a sixteenth century inscription mentioning him to have been the son of Gyātā, grandson of Gōndala and great-grandson of Śūravīra of the Paramāra family,",
+  "strength": "contextual",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "The editor continues 'has to be rejected'. Jagta Hua Kasba (citing S. K. Verma) reads a Gandal/Pata genealogy in a V.S. 1116 temple inscription — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: relation to Bhoja",
+   "value": "16th-c. genealogy (son of Gyātā, grandson of Gōndala), rejected by the editor",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "ed70465601226322d0fcfcdd206a36baff29d8de",
+  "author": "Trivedi, Harihar Vithal (ed.)",
+  "log_citation": "scan p. 152",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-007",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 35",
+  "quote": "In the field of art and architecture also Malwa had reached a high pitch of excellence as is witnessed in the magnificent temples at Udaypur, Nemawar, Jamli, Badnawar and Un",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "4318efe44e077439ef70e1f7cd9aa014cf0dfa06",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 35",
+  "language": "en"
+ },
+ {
+  "id": "C01-MADHYABHARAT-011",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 35",
+  "quote": "The fallen fortunes of the family were for a time revived by Udayaditya (1058-1087) and his successor.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Regnal dates differ from c. 1070–1093 given by Pande and Adhikari — see Conflicts.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: reign dates",
+   "value": "1058–1087",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "4318efe44e077439ef70e1f7cd9aa014cf0dfa06",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 35",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-003",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter I, Ancestors of Bhoja",
+  "quote": "It appears that the Udaipur-Prasasti alone presents an un- broken line of kings from Upendra to Udayaditya.",
+  "strength": "contextual",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "no page",
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "The praśasti's standing as a source for the dynasty. No page markers in this file.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "68c1ec1891d42a1d6b8bb4c7ca4bd5d907958c6e",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER I > ANCESTORS OF BHOJA",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-004",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter VII, Economic Condition",
+  "quote": "Prof. H.C. Ray opines that there is little evidence available to corroborate the extensive building operations which are ascribed to Bhoja in the Udaipur Prasasti",
+  "strength": "contextual",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "no page",
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "aef8096ffa167cc8db0118293550d4f3aee9fa93",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER VII > ECONOMIC CONDITION",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-005",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter VII, Economic Condition",
+  "quote": "Other specimens can be seen at Mandu, at the local museum at Dhar, on the walls of the Nllakantha or Udaye- svara temple at Udayapur",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "no page"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "OCR 'Nllakantha' = Nīlakaṇṭha. Singh's assessment of Paramāra sculpture overall is unfavourable (same passage).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "7a4b0ae8bf412a47ce88a87ac751e0c39fb2cff8",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER VII > ECONOMIC CONDITION",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-006",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Foreword",
+  "quote": "The towns of Ujjain, Dhara, Dasapura, VidiSa, Bhojpur, Gyaraspur, Udaypur, On, Onkar-Mandhata, Chandriivatj and several others developed during the rule of the Paramaras.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "no page"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Foreword by K.D. Bajpai (dated 1982).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "7dd68b938546f0d3cd1a8272b5d3d094612a8e63",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > FOREWORD",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-007",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Foreword",
+  "quote": "The last example can be seen in the Udayesvara temple at Udaipur which incorporates all the typical features of a Bhumija temple of the t'agara style.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "no page"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "OCR 't'agara' = Nāgara. Foreword by K.D. Bajpai.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "7dd68b938546f0d3cd1a8272b5d3d094612a8e63",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > FOREWORD",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-008",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter VII, Economic Condition",
+  "quote": "exhibit each certain of the characteristic features of the ‘Dakhanese temple but not in so complete a degree as the Nilakanthesvara at Udayapura.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "no page"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Footnote cites O.C. Ganguly, Orissan Sculpture and Architecture, p. 18.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "9f2e73635e6c86532863573faa2bc36a64ebfdd2",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER VII > ECONOMIC CONDITION",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-009",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter I, Ancestors of Bhoja",
+  "quote": "These grants form an official document and should, in Vaidya’s view; i he strictly followed instead of the Udaipur-praSasti of a much later date.",
+  "strength": "contextual",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "no page",
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "OCR 'i he' kept verbatim (= 'be'). Singh rejects Vaidya's conclusion on the next page.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "726451337883f423f16471a57aabbc3e0922968b",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER I > ANCESTORS OF BHOJA",
+  "language": "en"
+ },
+ {
+  "id": "C01-BHOJA-TIMES-010",
+  "book_code": "BHOJA-TIMES",
+  "book_title": "Bhoja Paramara and His Times — Mahesh Singh",
+  "page": "no page; Chapter I, Ancestors of Bhoja",
+  "quote": "Bhojadeva I Udayaditya … (c. 1010-1087 A.D.)",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "no page"
+  ],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "As printed in the table; the span 1010–1087 differs from every other source in the corpus. Add to the reign-dates conflict without resolving it.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: reign dates",
+   "value": "c. 1010–1087 (table)",
+   "tagged_by": "orchestrator"
+  },
+  "chunk_id": "856469bb89485e6fa558c8ea5a2a0126a6b8db2c",
+  "author": "Mahesh Singh",
+  "log_citation": "[page not recorded] — section: BHOJA PARAMARA AND HIS TIMES > CHAPTER I > ANCESTORS OF BHOJA",
+  "language": "en"
+ },
+ {
+  "id": "C01-HARDY-001",
+  "book_code": "HARDY",
+  "book_title": "The Temple Architecture of India — Adam Hardy",
+  "page": "p. 2",
+  "quote": "• Udayeshvara Temple, Udayapur",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "One of eight 'featured temples' named on the cover, alongside Tanjavur, Ellora, Kanchipuram, Khajuraho, Bhuvaneshvara, Modhera and Pattadakal.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "60ec635f7a6615dd79ea0ae5e786073581df8a39",
+  "author": "Adam Hardy",
+  "log_citation": "scan p. 2",
+  "language": "en"
+ },
+ {
+  "id": "C01-HARDY-003",
+  "book_code": "HARDY",
+  "book_title": "The Temple Architecture of India — Adam Hardy",
+  "page": "p. 194",
+  "quote": "The Udayeshvara, which has no surviving precedents, is already the deluxe model, based on a 32-point star (equivalent to seven orthogonal projections), with seven bhumis",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "e8bfb550fbb824564f3bac675da85dde29e5d39a",
+  "author": "Adam Hardy",
+  "log_citation": "scan p. 194",
+  "language": "en"
+ },
+ {
+  "id": "C01-RAJABHOJ-EN-001",
+  "book_code": "RAJABHOJ-EN",
+  "book_title": "King Bhoj and Paramara-period Town Architecture (Raja Bhoj aur Parmarkaleen Nagar Sthapatya) — English translation — Bhagwatilal Rajpurohit",
+  "page": "p. 4",
+  "quote": "According to the Udaipur Prashasti (उदयपुर प्रशस्ति), King Bhoj defeated the Chedi king, Indraratha, Toggala, Bhima, and the kings of Karnata, Lata and Gurjara, as well as the Turushkas (Turks).",
+  "strength": "contextual",
+  "also": [
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "The praśasti as a primary source for Paramāra political history. Translation from Hindi.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "bd2ec7961b8bfc51447a375f44800bea05c26792",
+  "author": "Bhagwatilal Rajpurohit",
+  "log_citation": "scan p. 4",
+  "language": "en"
+ },
+ {
+  "id": "C01-RAJABHOJ-EN-002",
+  "book_code": "RAJABHOJ-EN",
+  "book_title": "King Bhoj and Paramara-period Town Architecture (Raja Bhoj aur Parmarkaleen Nagar Sthapatya) — English translation — Bhagwatilal Rajpurohit",
+  "page": "p. 55",
+  "quote": "According to the Udaipur Prashasti, Vairisimha alias Vajratasvami, having slain the enemy host with the edge of his sword (*asidhara*), named the town Dhara in memory of his valour.",
+  "strength": "contextual",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Illustrates how the Udaypur praśasti is drawn on for Paramāra history beyond Udaypur. Translation from Hindi.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "9f2d75c0b8d2601575483f6c15a43a45ea5a4ea9",
+  "author": "Bhagwatilal Rajpurohit",
+  "log_citation": "scan p. 55",
+  "language": "en"
+ },
+ {
+  "id": "C01-RAJABHOJ-EN-004",
+  "book_code": "RAJABHOJ-EN",
+  "book_title": "King Bhoj and Paramara-period Town Architecture (Raja Bhoj aur Parmarkaleen Nagar Sthapatya) — English translation — Bhagwatilal Rajpurohit",
+  "page": "p. 46",
+  "quote": "Nine ruins of ancient temples lie here. The art here resembles the stone-craft of Udayeshvar.",
+  "strength": "contextual",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "Udayeśvara treated as a yardstick of Paramāra workmanship. Source footnote: Vikram Smriti Grantha p. 604.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6e7ac2e56de9740112b6cbcc65f21c67a14b5b42",
+  "author": "Bhagwatilal Rajpurohit",
+  "log_citation": "scan p. 46",
+  "language": "en"
+ },
+ {
+  "id": "C01-RAJABHOJ-EN-005",
+  "book_code": "RAJABHOJ-EN",
+  "book_title": "King Bhoj and Paramara-period Town Architecture (Raja Bhoj aur Parmarkaleen Nagar Sthapatya) — English translation — Bhagwatilal Rajpurohit",
+  "page": "p. 62",
+  "quote": "Like Dhar, Ujjayini, Udaipur and Gyaraspur, at Mandu too excellent examples of Paramara art are found.",
+  "strength": "contextual",
+  "also": [
+   "Ch 5"
+  ],
+  "flags": [
+   "also Ch 5"
+  ],
+  "log_check": "ok",
+  "sub": "S5",
+  "note": "'Udaipur' read as Udaypur (Vidisha) from its pairing with Gyaraspur, also in Vidisha district; the text does not say so explicitly.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "1384758dfa65f9194e25487fa76adae28af6fa23",
+  "author": "Bhagwatilal Rajpurohit",
+  "log_citation": "scan p. 62",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARMAR-RAJPUT-001",
+  "book_code": "PARMAR-RAJPUT",
+  "book_title": "History of the Parmar Rajput Dynasty — Venziya, Pratapsinh Ranaji",
+  "page": "p. 3",
+  "quote": "Both 'Udaipur Prashasti'(Udaipur Prasasti - Sanskrit inscription) and 'Navasahasankacharitra' (Shastri, 1867, Sarga 11, Śloka 14) mention King Upendra as the first great king.",
+  "strength": "contextual",
+  "also": [
+   "Ch 4",
+   "Ch 6"
+  ],
+  "flags": [
+   "also Ch 4, Ch 6"
+  ],
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Source does not itself locate the praśasti; see the S6 item from this source's references.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3ccdb11c04e3d6333aacb280154a50d4ca4f79e3",
+  "author": "Venziya, Pratapsinh Ranaji",
+  "log_citation": "scan p. 3",
+  "language": "en"
+ },
+ {
+  "id": "C01-PARMAR-RAJPUT-002",
+  "book_code": "PARMAR-RAJPUT",
+  "book_title": "History of the Parmar Rajput Dynasty — Venziya, Pratapsinh Ranaji",
+  "page": "p. 8",
+  "quote": "Shyamaldas, K. (Ed.). (ca. 1880s). Udaipur Praśasti (In Vir Vinod). Mewar State Press, Udaipur.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [],
+  "log_check": "ok",
+  "sub": "S6",
+  "note": "Gap/caution note: the paper's 'Udaipur Prashasti' is sourced from a Mewar-state publication; the paper does not say which town's inscription it means. Not resolved here.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "23a978ca696a7e4a641d7c940897ebab5169cbff",
+  "author": "Venziya, Pratapsinh Ranaji",
+  "log_citation": "scan p. 8",
+  "language": "en"
+ },
+ {
+  "id": "C04-PANDE-005",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 8",
+  "quote": "It is a Śaiva temple built in the second half of the 11th century CE by Udayāditya Paramāra who was a scion of the illustrious Paramāra dynasty that ruled over Malwa.\n\nUdayāditya ascended the throne in 1070 CE and had to face many challenges in consolidating his empire.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 4. The Paramāras and the Foundation of Udaypur: Kingship, Patronage and Urban Formation",
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Temple built in the second half of the 11th century CE by Udayāditya Paramāra, who ascended the throne in 1070 CE.",
+  "gloss": null,
+  "claim": {
+   "key": "Udayāditya: reign dates",
+   "value": "ascended the throne 1070 CE"
+  },
+  "chunk_id": "357e60fbfe6f6415fbbd3e341ba6adbfd7024a12",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 8",
+  "language": "en"
+ },
+ {
+  "id": "C04-PANDE-006",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 95",
+  "quote": "Pratipala Bhatia, The Paramāras (c. 800-1305 A.D.) (New Delhi: Munshiram Manoharlal, 1970), 109. Even though Karṇa succeeded in invading Malwa in 1079 CE, he was ultimately defeated by the combined forces of Udayāditya Paramāra and his allies.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 4. The Paramāras and the Foundation of Udaypur: Kingship, Patronage and Urban Formation",
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Endnote: Karṇa invaded Malwa in 1079 CE but was ultimately defeated by the combined forces of Udayāditya Paramāra and his allies.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "dcbdaeacdb214cda5f4997eb718206886074e157",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 95",
+  "language": "sa"
+ },
+ {
+  "id": "C07-GEOHER-003",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 19",
+  "quote": "At about 100 meters from this Natraj sculpture, we see a long wall that measures 1400 meters. It is a very thick wall encircling the hillock from all side, a close examination of this 1400 m wall show that this is a fortification wall, meaning that the encircled land is part of a fort complex, which existed prior to Udayaditya, or could have been constructed during the time of Udayaditya as a military Cantonment, because this was the most secured hillock, with very steep slopes.\nWalking along this hill fortification wall, we see bastions of different dimensions, the semicircular bastion, the rectangular bastion, and gateways on both sides of the entry gate.\nThis entire fort complex is a mystery because historical records are silent about it. It is also an architectural marvel that is standing undisturbed over a span of 1400 meters, maybe the longest one anywhere in Madhya Pradesh.",
+  "strength": "direct",
+  "also": [
+   "Ch 4"
+  ],
+  "flags": [
+   "also Ch 4",
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "1400 m fortification wall with bastions and gateways; either pre-Udayaditya or a military cantonment of his time; historical records silent.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "662f2d21af61192ab8efc9d5af29056403976192",
+  "author": null,
+  "log_citation": "scan p. 19",
+  "language": "en"
+ },
+ {
+  "id": "C07-GEOHER-009",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 81",
+  "quote": "Perimeter-1788 meters & Area-226,593 sq. meters (56 acres)",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Perimeter 1788 m, area 226,593 sq m (56 acres) given for the hill fort.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "92682ea60a0da650b90392911dee336d8a0a853d",
+  "author": null,
+  "log_citation": "scan p. 81",
+  "language": "en"
+ },
+ {
+  "id": "C07-GEOHER-043",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 74",
+  "quote": "Udaysagar Lake is a historically very significant water body of Vidisha district built by the famous Parmar King Udayaditya. Udaysagar Lake is located on the outskirts of Udaypur village in the north with an area of 71 acres.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S4",
+  "note": "Udaysagar Lake built by Parmar King Udayaditya, 71 acres, north of village.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6333ad76bd8722168683801444e4b333a7d2925f",
+  "author": null,
+  "log_citation": "scan p. 74",
+  "language": "en"
+ },
+ {
+  "id": "C07-INTACH-005",
+  "book_code": "INTACH",
+  "book_title": "The Architectural Splendor of Udaypur — INTACH Bhopal",
+  "page": "p. 45",
+  "quote": "The cave is a 6th century CE structure located on the hill in the South of the village at GPS 2353.25.89 N and 78.3.32.03 E. The\ncave is located towards the southeast of the larger hill of the hind\nBaba Ki paladi. This structure is under Forest Department ownership.\nIt dates back to the 6th century CE.",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "A 6th century CE cave on the hill south of the village, under Forest Department ownership, southeast of the larger hill (Jind Baba ki pahadi).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "6935f9d2f3c298b7b2febcd7aa693cbed2beaaa1",
+  "author": "INTACH Bhopal",
+  "log_citation": "scan p. 45",
+  "language": "en"
+ },
+ {
+  "id": "C07-MADHYABHARAT-011",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 118",
+  "quote": "Shahi Masjid and Mahal.—Nearly a furlong to the east of the great temple is a big mosque, an imposing edifice locally known as Shali Masjid now in ruins. According to Persian inscription on it, the construction of the mosque was commenced in the reign of Jehangir and completed in that of Shah-jahan in A. H. 1041 (A. D. 1632).",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Shahi Masjid, ruined, locally so called; Persian inscription says begun under Jehangir and completed under Shah-jahan in A.H. 1041 (A.D. 1632).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "265e90c371303ad9667edd25966b4494ef9f1bf9",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 118",
+  "language": "en"
+ },
+ {
+  "id": "C07-MADHYABHARAT-012",
+  "book_code": "MADHYABHARAT",
+  "book_title": "The Cultural Heritage of Madhya Bharat — Patil, D. R.",
+  "page": "p. 118",
+  "quote": "The mosque is built in the Mandu style of architecture. It has inscriptions (both Persian and Sanskrit) which refer to the construction of the mosque by an agent of Sherkhan during the rule of Chiyas Shah Khilji, Sultan of Mandu, in A. H. 894 (A. D. 1488).",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10",
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Mosque in Mandu style with Persian and Sanskrit inscriptions: built by an agent of Sherkhan under Chiyas Shah Khilji of Mandu in A.H. 894 (A.D. 1488).",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "265e90c371303ad9667edd25966b4494ef9f1bf9",
+  "author": "Patil, D. R.",
+  "log_citation": "scan p. 118",
+  "language": "en"
+ },
+ {
+  "id": "C07-PANDE-006",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 88",
+  "quote": "\"Muhammadan invaders\n\nmutilated the figure sculptures of the temples. Muhammad Tughluq between AD 1336-38 damaged the attendant temples and erected a\n\nmosque at the back of the temple, using the material from the demolished Persian inscriptions in the mosque record its construction by him.\"130",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10",
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Quoted report: Muhammad Tughluq between AD 1336-38 damaged the attendant temples and erected a mosque at the back; Persian inscriptions record it.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "41830c538a40b55889200f744ffb22c09392c4bd",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 88",
+  "language": "en"
+ },
+ {
+  "id": "C07-PANDE-009",
+  "book_code": "PANDE",
+  "book_title": "The Udayeśvara Temple: Art, Architecture and Philosophy of the Śaiva Siddhānta — Anupa Pande",
+  "page": "p. 91",
+  "quote": "The group of buildings consisted originally of the great central temple standing in the midst of a square court-yard with a small temple at each of the four corners and a square bedi, or hall for reading the beds, in the middle of each side.\n\nThe north-west corner temple and the western bedi were knocked down in the time of Muhammad Tughlak and a masjid was erected in their place, as recorded in the two inscriptions over the two small doorways to the right and left of the temple, which are dated respectively in 737 and 739 of the Hijira. The gateway on the west is not in the middle, and, as it is built of old materials, I have no doubt that it was built at the same time as the masjid.'¹³²",
+  "strength": "direct",
+  "also": [
+   "Ch 10",
+   "Ch 11"
+  ],
+  "flags": [
+   "also Ch 10, Ch 11",
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Cunningham: north-west corner temple and western bedi knocked down in Muhammad Tughlak's time; masjid recorded by inscriptions dated 737 and 739 Hijira; west gateway built of old materials.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "cefe4e1f3e95dbeb4bf19a309fbd4c02036e74a3",
+  "author": "Anupa Pande",
+  "log_citation": "scan p. 91",
+  "language": "en"
+ },
+ {
+  "id": "C07-GANGULY-003",
+  "book_code": "GANGULY",
+  "book_title": "History of the Paramāra Dynasty — Ganguly, D. C.",
+  "page": "p. 272",
+  "quote": "Muhammad Tugluq, who, as we have seen, spared the main shrine, razed to the ground the north-east corner temple, and the hall, for reading Vedas, and erected in their place a mosque, which still contains two inscriptions, dated Hijra 737 and 739.",
+  "strength": "direct",
+  "also": [
+   "Ch 10"
+  ],
+  "flags": [
+   "also Ch 10",
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 7. The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Muhammad Tugluq razed the north-east corner temple and a Veda hall, built a mosque with two inscriptions dated Hijra 737 and 739.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "a39a4deffdfaa4e9db7cad23bba61666e5c22023",
+  "author": "Ganguly, D. C.",
+  "log_citation": "scan p. 272",
+  "language": "en"
+ },
+ {
+  "id": "C10-GEOHER-001",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 61",
+  "quote": "The antiquity found at the fort complex reveals that it belongs to the Parmar period. The history of this region shows that it had faced an attack in the rule of Allauddin Khilji, apart from the breaking of idols during Aurangzeb's time, the Neelkantheshwar temple has also suffered damages.\nThe effect of the damage can be seen on these sculptures too.",
+  "strength": "direct",
+  "also": [
+   "Ch 11"
+  ],
+  "flags": [
+   "also Ch 11",
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 10. Political Change and Economic Decline: Udaypur under Successive Regimes",
+  "log_check": "ok",
+  "sub": "S2",
+  "note": "Antiquity belongs to Parmar period; region faced attack under Allauddin Khilji and idol-breaking in Aurangzeb's time; Neelkantheshwar temple damaged.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "b88266cf7709848b457609b1ea713ba43dabea17",
+  "author": null,
+  "log_citation": "scan p. 61",
+  "language": "en"
+ },
+ {
+  "id": "C13-GEOHER-004",
+  "book_code": "GEOHER",
+  "book_title": "Geo-Heritage of Udaypur, Vidisha District, Madhya Pradesh: The Third Eye",
+  "page": "p. 153",
+  "quote": "Located inside a protected forest, there are many stakeholders, like:\n• Forest Department,\n• Archaeology department,\n• Tourism department,\n• Panchayat and rural development,\n• Geological Survey of India and",
+  "strength": "direct",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Afterword. Conserving Udaypur: Community, Heritage and the Future",
+  "log_check": "ok",
+  "sub": "S3",
+  "note": "Stakeholders listed: Forest, Archaeology, Tourism, Panchayat and rural development, Geological Survey of India.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "3ad8af52558c7b4c8e2195f3b7cc9c5d30625cd2",
+  "author": null,
+  "log_citation": "scan p. 153",
+  "language": "en"
+ },
+ {
+  "id": "C10-PARTEMPLES-003",
+  "book_code": "PARTEMPLES",
+  "book_title": "Some Paramāra Temples From Madhya Pradesh: A Case Study of Village Un — Swati Mondal Adhikari",
+  "page": "p. 12",
+  "quote": "Besides the internal dissension, Muslim invasion took place in Mālava. Ein-ool-Moolk, the general of Allauddin Khalji proved victorious and overran the cities of Ujjayinī, Mandu, Dhār and Chanderi in 1305 A.D.",
+  "strength": "contextual",
+  "also": [],
+  "flags": [
+   "borrowed"
+  ],
+  "origin_chapter": "Chapter 10. Political Change and Economic Decline: Udaypur under Successive Regimes",
+  "log_check": "ok",
+  "sub": "S1",
+  "note": "Muslim invasion of Mālava; Allauddin Khalji's general overran Ujjayinī, Mandu, Dhār and Chanderi in 1305.",
+  "gloss": null,
+  "claim": null,
+  "chunk_id": "7367f344cf96972e6dbbef54bacd55197e9b842f",
+  "author": "Swati Mondal Adhikari",
+  "log_citation": "scan p. 12",
+  "language": "en"
+ }
+]

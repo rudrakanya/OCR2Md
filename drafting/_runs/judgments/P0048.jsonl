@@ -1,0 +1,25 @@
+{"c":"476dba73bc","keep":false,"reject_reason":"Jhālōḍī Jain temple inscription in Rajasthan; off-topic for Udaypur"}
+{"c":"7e76c4335b","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari text of Jhālōḍī inscription)"}
+{"c":"c8e8bfcb9d","keep":false,"reject_reason":"Butri inscription of Dhārāvarsha in Sirohi, Rajasthan; off-topic"}
+{"c":"d17c39f2b9","keep":false,"reject_reason":"OCR too garbled to quote and concerns the Butri record in Rajasthan"}
+{"c":"320cba9c7e","keep":false,"reject_reason":"Kāmtal inscription of Dhārāvarsha in Sirohi, Rajasthan; off-topic"}
+{"c":"03ec6abbcc","keep":false,"reject_reason":"Kāmtal inscription, Rāthauḍa donor of Hathūṇḍi in Rajasthan; off-topic"}
+{"c":"f3e48c4eb3","keep":false,"reject_reason":"Abū-branch Paramāra ancestry in the Kāmtal record; nothing for C02–C13 (pilot-judged for C01)"}
+{"c":"e9de9ddee8","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari text of Kāmtal inscription)"}
+{"c":"9b7f3f5db0","keep":false,"reject_reason":"OCR garbage (symbol sequence)"}
+{"c":"16c76ede6a","keep":false,"reject_reason":"plate captions and fragmentary Devanagari text; nothing usable"}
+{"c":"08455572ba","keep":false,"reject_reason":"Rōhērā plate of the Chandrāvatī Paramāras, Rajasthan; discovery and palaeography only"}
+{"c":"decbb7f382","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[13,13],"xref":["C06"],"note":"The Chandrāvatī Paramāra record refers to the eponymous king Paramāra who sprang from sage Vasishtha's fire-altar at Ābū, 'a mythical account recorded in the several Paramāra inscriptions'."}]}
+{"c":"3e08ff3a25","keep":false,"reject_reason":"Chandrāvatī Paramāra branch (Dhārāvarsha) campaigns; off-topic for Udaypur"}
+{"c":"6728cb874d","keep":false,"reject_reason":"Chandrāvatī succession struggles; off-topic for Udaypur"}
+{"c":"cd6683ae3a","keep":false,"reject_reason":"Chandrāvatī queen and place names near Ābū; off-topic for Udaypur"}
+{"c":"fcb7c8454f","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari table of verses)"}
+{"c":"945989181c","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari table of verses)"}
+{"c":"4704575f9a","keep":false,"reject_reason":"OCR too garbled to quote (Devanagari table of verses)"}
+{"c":"f2ab7b01cb","keep":false,"reject_reason":"Dhāntā image inscription near Sirohi, Rajasthan; off-topic"}
+{"c":"28e842ec21","keep":false,"reject_reason":"Dhāntā inscription of Sōmasimha of Chandrāvatī; off-topic for Udaypur"}
+{"c":"e5985f2e5c","keep":false,"reject_reason":"Sōmasimha accession date at Chandrāvatī; off-topic for Udaypur"}
+{"c":"14b759c061","keep":false,"reject_reason":"Nāṇā inscription from Pali district, Rajasthan; off-topic (a different Nīlakaṇṭha temple)"}
+{"c":"8ba79d212b","keep":false,"reject_reason":"Nāṇā inscription from Rajasthan; off-topic for Udaypur"}
+{"c":"6cf8ebfde9","keep":false,"reject_reason":"OCR too garbled to quote and concerns the Nāṇā record in Rajasthan"}
+{"c":"ee2995f7c4","keep":false,"reject_reason":"Dēvkhētar inscription of Sōmasimha in Sirohi, Rajasthan; off-topic"}

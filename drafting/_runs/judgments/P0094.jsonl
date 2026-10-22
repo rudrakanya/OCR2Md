@@ -1,0 +1,25 @@
+{"c":"3575eb3e55","keep":false,"reject_reason":"abstract reflection on architectural types and continuity; no specific usable evidence"}
+{"c":"1bab8b25b6","keep":false,"reject_reason":"endnotes (bibliographic references only); pilot-judged for C01; nothing for C02-C13"}
+{"c":"9a5c47a883","keep":true,"items":[{"unit":"C03","sub":"S2","type":"fact","strength":"contextual","span":[5,6],"note":"Great stupas of the period between the 2nd century BC and 3rd century AD; Great Stupa (Stupa 1), Sanchi (MP), c 1st century BC."}]}
+{"c":"503e1a6a4e","keep":false,"reject_reason":"OCR flagged; chaitya halls and rock-cut architecture elsewhere; pilot-judged for C01; nothing for C02-C13"}
+{"c":"d71ff8106b","keep":false,"reject_reason":"Maharashtra and Bihar chaitya halls; no Vidisha or Udaypur link"}
+{"c":"a1bcccf999","keep":false,"reject_reason":"Gandhara shrine types; no regional or Udaypur link"}
+{"c":"52944686d0","keep":false,"reject_reason":"endnotes and captions for Gandharan examples"}
+{"c":"a17dd8b334","keep":true,"items":[{"unit":"C03","sub":"S4","type":"fact","strength":"direct","span":[3,3],"note":"Early in the 5th century at Udayagiri near Vidisha and Ramgarh, Gupta rulers initiated Brahminical cave temples with sculpted panels."}]}
+{"c":"7b0bd12cf3","keep":false,"reject_reason":"Ajanta, Ellora and Deccan cave architecture; no regional link"}
+{"c":"2ca2deda97","keep":false,"reject_reason":"Ellora, Elephanta and Badami rock-cut details; no regional link"}
+{"c":"c0aa38010e","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[9,10],"note":"Terms for the shrine proper: vimana (south), prasada or mula-prasada (north); it contains the garbha-griha, usually square."}]}
+{"c":"222828db1a","keep":false,"reject_reason":"generic plan-outline figure caption and terminology; no specific use"}
+{"c":"6b67443983","keep":false,"reject_reason":"mandapa construction at Pattadakal and Chalukya temples; no Udaypur link"}
+{"c":"00b583a668","keep":false,"reject_reason":"figure captions and general mandapa ceiling structures of other temples"}
+{"c":"e2f0364693","keep":false,"reject_reason":"plan figure captions of other temples; general open mandapa discussion"}
+{"c":"2eaafd4981","keep":false,"reject_reason":"general remarks on interior space of Indian temples; too generic"}
+{"c":"9e6257eba3","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[3,5],"note":"Two ways of accommodating circumambulation: a moulded platform (jagati) or an interior ambulatory passage; temples with the latter are sandhara, those without nirandhara."}]}
+{"c":"62a6936375","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[24,25],"note":"Subsidiary shrines raised by pious donations around established temples; the panch-ayatana five-shrine plan with four minor corner shrines."}]}
+{"c":"38bdcad892","keep":true,"items":[{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[3,4],"note":"A small open pavilion on axis in front of a temple, often outside Shiva temples, shelters the bull Nandi."},{"unit":"C07","sub":"S4","type":"fact","strength":"contextual","span":[24,25],"note":"Tanks for irrigation, drinking water, ablutions, ritual and festivals are an ubiquitous feature of important temple groups; elaborate ones are lined with miniature temples."}]}
+{"c":"f66e998c5d","keep":false,"reject_reason":"endnote and Tanjavur caption; no relevance"}
+{"c":"692c000f4e","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[4,5],"note":"Important new 11th-century temples in northern India would belong to the clustered Shekhari or the ribbed Bhumija mode, among five Nagara modes."},{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[13,13],"note":"Shekhari and Bhumija both spring from the Latina, which bursts apart into the Bhumija 'like a ripe seed pod'.","claim":{"key":"Bhūmija style: origin / affinity","value":"Bhumija springs from the Latina, bursting apart like a seed pod (Hardy)"}}]}
+{"c":"74f791cbc9","keep":false,"reject_reason":"caption on Deogarh door jamb and Latina modes elsewhere; no usable link"}
+{"c":"c13d6d3b01","keep":false,"reject_reason":"theory of the origin of the Latina; no Udaypur or Bhumija-specific content"}
+{"c":"9d7cec71ca","keep":false,"reject_reason":"hypothetical reconstruction of Latina formation; no Udaypur or Bhumija-specific content"}
+{"c":"22156106f8","keep":false,"reject_reason":"Rajim temple captions and Latina curvature debate; no Udaypur link"}

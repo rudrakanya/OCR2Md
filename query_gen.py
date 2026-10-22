@@ -164,7 +164,7 @@ def build_queries(chapters=None, client=None, use_llm=True, refresh=False):
                 if any(cache.get(f"{c['n']}:{s['key']}", {}).get("fp") != _fingerprint(s)
                        for s in c["subtopics"])]
         if need and client is None:
-            from kb_search import get_client
+            from llm import get_client            # chat client; kb_search is embeddings-only
             client = get_client()
         for i, c in enumerate(need, 1):
             print(f"  expanding queries {i}/{len(need)} — ch{c['n']}: {c['title'][:48]}", flush=True)

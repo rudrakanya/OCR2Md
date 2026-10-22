@@ -1,0 +1,25 @@
+{"c": "8076896c5e", "keep": true, "items": [{"unit": "C07", "sub": "S2", "type": "excerpt", "strength": "contextual", "span": [4, 5], "note": "Temple of Brahmā in the centre of the town, with Indra and Balarāma-Kṛṣṇa enclosures (⚠ old OCR)", "xref": ["C05"]}, {"unit": "C08", "sub": "S5", "type": "excerpt", "strength": "contextual", "span": [11, 11], "note": "Gods established in temples in their quarters as guardians of subsistence of artisans, traders and orders of society (⚠ old OCR)"}]}
+{"c": "b79729824a", "keep": false, "reject_reason": "prescriptions on building additional temples (omens); no specific evidence"}
+{"c": "5ad8a5e4ef", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "excerpt", "strength": "contextual", "span": [4, 4], "note": "Site divided into nine segments with Brahmā in the centre by nine steps (Vāstu plan) (⚠ old OCR)"}]}
+{"c": "03eafab674", "keep": false, "reject_reason": "list of Vāstu deities and lexical footnotes"}
+{"c": "6fdf873bc2", "keep": false, "reject_reason": "lexical and Bṛhatsaṃhitā footnotes on Vāstu demonesses"}
+{"c": "522a27c8a9", "keep": false, "reject_reason": "geometrical lines of the Vāstu plan; garbled"}
+{"c": "6171118740", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "excerpt", "strength": "contextual", "span": [5, 8], "note": "Kansara: site plans of 81 and 64 squares, presided over by forty-five deities; the 64-square plan specially for temples (⚠ old OCR)", "xref": ["C07"]}]}
+{"c": "dbf0863885", "keep": false, "reject_reason": "nāḍī measure footnotes; no bearing"}
+{"c": "d32c8fe6d4", "keep": false, "reject_reason": "deity square allocations in Vāstu plan; repeats other chunks"}
+{"c": "7c66d33523", "keep": false, "reject_reason": "square counts of Vāstu plans; no bearing"}
+{"c": "c17a0e25b6", "keep": false, "reject_reason": "circular Vāstu plan divisions; too technical, no bearing"}
+{"c": "712baae76c", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "excerpt", "strength": "contextual", "span": [17, 19], "note": "The building site as the body of the House god (Vāstunara), a male figure covering the entire site (⚠ old OCR)"}]}
+{"c": "a43bfa5db5", "keep": false, "reject_reason": "Vāstu-puruṣa verses and notes; repeats neighbouring chunk"}
+{"c": "6acbe04186", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "excerpt", "strength": "contextual", "span": [3, 3], "note": "Vāstu plans of eighty-one, hundred and sixty-four squares declared threefold (⚠ old OCR)"}]}
+{"c": "3908f29882", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "excerpt", "strength": "contextual", "span": [23, 24], "note": "Sastri: dividing the site into squares helped the architect calculate proportions of the parts of a building (⚠ old OCR)"}]}
+{"c": "12ade86c53", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "excerpt", "strength": "contextual", "span": [3, 3], "note": "Residences, royal palaces and temples placed in the eighty-one squared plan (⚠ old OCR)"}, {"unit": "C05", "sub": "S6", "type": "excerpt", "strength": "contextual", "span": [6, 6], "note": "Prāsādas and halls measured by the hundred squared plan (⚠ old OCR)"}, {"unit": "C07", "sub": "S5", "type": "excerpt", "strength": "contextual", "span": [9, 9], "note": "Sixty-four squared plan used for royal cantonments, villages, khetas and towns (⚠ old OCR)"}]}
+{"c": "e3825b235c", "keep": false, "reject_reason": "deity allocation in the site plan; repeats neighbouring chunks"}
+{"c": "e2c3e305b9", "keep": false, "reject_reason": "closing verses and colophon on vulnerable points; nothing specific"}
+{"c": "0819ae1774", "keep": false, "reject_reason": "single verse and lexical footnotes"}
+{"c": "4448538223", "keep": false, "reject_reason": "Vāstu-puruṣa limbs and deities; no bearing"}
+{"c": "3d45689713", "keep": false, "reject_reason": "identification of Vāstu deities; no bearing"}
+{"c": "b4adc73734", "keep": false, "reject_reason": "identification of Vāstu deities; no bearing"}
+{"c": "4fee1d437e", "keep": true, "items": [{"unit": "C07", "sub": "S1", "type": "excerpt", "strength": "contextual", "span": [3, 3], "note": "Town planning on sixty-four squares with watch towers, city gates, parapet and moat (⚠ old OCR)", "xref": ["C04"]}]}
+{"c": "b4e1ac4c0f", "keep": true, "items": [{"unit": "C07", "sub": "S5", "type": "excerpt", "strength": "contextual", "span": [15, 15], "note": "Largest town to have the largest Royal Palace, and so on by size (⚠ old OCR)"}, {"unit": "C07", "sub": "S1", "type": "excerpt", "strength": "contextual", "span": [18, 18], "note": "Palace safeguarded by rampart and moat with strong watch towers (⚠ old OCR)"}]}
+{"c": "e8fb1be738", "keep": true, "items": [{"unit": "C07", "sub": "S5", "type": "excerpt", "strength": "contextual", "span": [2, 2], "note": "King's palace divided into eighty-one squares on the Royal Road, with residential gate facing north (⚠ old OCR)"}]}

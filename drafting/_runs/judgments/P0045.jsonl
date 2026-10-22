@@ -1,0 +1,25 @@
+{"c": "a84101075e", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "2c4f1d4712", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "a2a650af8c", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "2b02e30771", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "760051f320", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "92ba4e5974", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "b766f406f5", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "998497efea", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "a2766d5230", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "51496a37d4", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "6d18d8cbe1", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "98f6c0c153", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "6a9f1d8d3e", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "091f9e8aa2", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "441329d932", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "367343f1dd", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "6aba942991", "keep": false, "reject_reason": "OCR too garbled to quote (Sanskrit plate text)"}
+{"c": "abac07803e", "keep": false, "reject_reason": "garbled verse text and textual footnotes; nothing usable"}
+{"c": "e83943603f", "keep": false, "reject_reason": "off-topic: Varmān (Sirohi, Rajasthan) inscription of the Abu Paramāra branch"}
+{"c": "64d4de69f2", "keep": false, "reject_reason": "off-topic: date calculation of Varmān inscription (Sirohi)"}
+{"c": "7b14dcfc5f", "keep": false, "reject_reason": "off-topic: Vasantagadh (Sirohi) find-spot notes"}
+{"c": "3c1cd79396", "keep": false, "reject_reason": "off-topic: editing history and palaeography of Vasantagadh inscription"}
+{"c": "5d09861eff", "keep": false, "reject_reason": "off-topic: language and physical notes on Vasantagadh inscription"}
+{"c": "e2f78b484a", "keep": false, "reject_reason": "off-topic: Vasantagadh inscription of the Abu Paramāra branch (orthography, Lāhiṇī's renovation)"}
+{"c": "80c624dea9", "keep": true, "items": [{"unit": "C04", "sub": "S1", "type": "fact", "strength": "contextual", "span": [7, 7], "note": "Inscription refers to the myth of Vasishtha creating the hero Paramāra, progenitor of the family, as found in a number of Paramāra inscriptions."}]}

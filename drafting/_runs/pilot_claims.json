@@ -1,0 +1,722 @@
+[
+{
+"chunk_id": "4f387eea47fda6c0f4e3bd1805b8c20da7c9d698",
+"quote_start": "पाप्त शिलापेलव से ही मनिर्दर की निर्माण सिमिं संचत् १११६",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "construction begun Saṃvat 1116 (OCR garbled)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "6e13ae0e63b73870e1f1a4494a667beba9b223fa",
+"quote_start": "The UdayeSvara temple was built by the Paramara king Udaya- ",
+"claim": {
+"key": "temple builder",
+"value": "Paramāra king Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "856469bb89485e6fa558c8ea5a2a0126a6b8db2c",
+"quote_start": "Bhojadeva I Udayaditya … (c. 1010-1087 A.D.)",
+"claim": {
+"key": "Udayāditya: reign dates",
+"value": "c. 1010–1087 (table)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "60f1708b6aa39be73b43e945a16ad44252b9eabe",
+"quote_start": "the inscription is important as it gives a complete and exha",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "undated"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "3f9be979ad46970655da331901c811ec3e86cdf9",
+"quote_start": "Bhriṅgāri (l. 8) is doubtless the same as Bhriṅgārīkā appear",
+"claim": {
+"key": "Lūṇapasāka record: date",
+"value": "1173 A.C."
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "e5d0268b3a80fa614b9d1935d49f7a41c1ae320e",
+"quote_start": "the object of the inscription appears to be that Udaipur was",
+"claim": {
+"key": "temple builder",
+"value": "a king of the Nēmaka (feudatory) dynasty placed in charge of Udaipur (editor's reading)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "ed70465601226322d0fcfcdd206a36baff29d8de",
+"quote_start": "the altogether different genealogy of the former of these ki",
+"claim": {
+"key": "Udayāditya: relation to Bhoja",
+"value": "16th-c. genealogy (son of Gyātā, grandson of Gōndala), rejected by the editor"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "a293897aca2d7897e4b2b69cee4975fce5cd9f70",
+"quote_start": "as we also find in the undated Udaipur prasati",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "undated"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "5f67aa616785998c3a92890f0c8155db733bf701",
+"quote_start": "Another inscription, \\( ^{1} \\) discovered in the same templ",
+"claim": {
+"key": "Udayasamudra tank: identification",
+"value": "founded by Udayāditya per an inscription in the temple"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "05a916c0f7c68bd19a656d345bd3c8dac760d8cc",
+"quote_start": "The king Udayâditya founded the city of Udayapur, thirty mil",
+"claim": {
+"key": "distance / location of Udaypur",
+"value": "thirty miles north of Bhilsa"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "c0e0d04695b7121d3cbc40abb1401f68293d2f22",
+"quote_start": "The Udayapur prasasti \\( ^{1} \\) of the reign of Udayâditya ",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "about 1072 A.D. (reign of Udayāditya)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4b7ab8e492efe5e945743f07fd706516b9622770",
+"quote_start": "It is the only available record which supplies a complete ge",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "undated; early part of the reign"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4b7ab8e492efe5e945743f07fd706516b9622770",
+"quote_start": "The Udayapur prasasti, \\( ^{2} \\) which has often been refer",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "lying in front of the Nīlakaṇṭheśvara temple"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "25f3fe1a61a57c0ae6cb0b8d24964da22e39483a",
+"quote_start": "In 1172 A. D., Lûnapasâka, for the spiritual benefit of his ",
+"claim": {
+"key": "Lūṇapasāka record: date",
+"value": "1172 A.D."
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "a844f63f967295beb4e6c07accf99ce3361112b5",
+"quote_start": "Immediately after the conquest of Udayapur, Sultan Muhammad ",
+"claim": {
+"key": "temple survival legend",
+"value": "Muhammad Tughluq gunpowder story (1325)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "a844f63f967295beb4e6c07accf99ce3361112b5",
+"quote_start": "Tradition tells us that \\( ^{2} \\) the Mughal emperor Aurang",
+"claim": {
+"key": "temple survival legend",
+"value": "Aurangzeb, returning from the Deccan"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4ed3cb576ecf52278cbeddaf288b2930b2e29fb9",
+"quote_start": "A fragmentary inscription, dated 1513 A. D. (J. Am. O. S., V",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "1059 per a fragmentary 1513 record, 'perfunctorily executed'"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4ed3cb576ecf52278cbeddaf288b2930b2e29fb9",
+"quote_start": "This difficulty can be surmounted by assuming that Udayâdity",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "1059 (author's hypothesis)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4b7ab8e492efe5e945743f07fd706516b9622770",
+"quote_start": "They seem to have been ruling as feudatories of the Imperial",
+"claim": {
+"key": "Udayāditya: relation to Bhoja",
+"value": "feudatory line ruling at Udayapur (author's inference)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "05a916c0f7c68bd19a656d345bd3c8dac760d8cc",
+"quote_start": "The above story is no doubt an absolute myth, and there is e",
+"claim": {
+"key": "town founder / foundation",
+"value": "Udayāditya, per a contemporary inscription; the legend called a myth"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "d0ffb605585d3102e012b4a86921d9517a16c228",
+"quote_start": "It is probably a statue of Udayāditya, the founder of the te",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "1080 = repair of the flag-staff"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "a39a4deffdfaa4e9db7cad23bba61666e5c22023",
+"quote_start": "On the wall of one of these temples there is an inscription ",
+"claim": {
+"key": "Udayāditya: reign dates",
+"value": "1059–1086"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+"quote_start": "According to one of the many old Sanskrit inscriptions found",
+"claim": {
+"key": "town founder / foundation",
+"value": "Udayāditya, latter half of the 11th century"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "3d2cebd36050c18b6e6a58fb978dce721ed7b9ae",
+"quote_start": "The inscription of Udayaditya Paramara, referred to above, a",
+"claim": {
+"key": "Udayasamudra tank: identification",
+"value": "excavated by Udayāditya; ruins seen a short distance away"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+"quote_start": "The village is also connected by road with Basoda, lying to ",
+"claim": {
+"key": "distance / location of Udaypur",
+"value": "13 km from Basoda; 55 km NE of Vidisha"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+"quote_start": "Udayapur, once a place of considerable importance is a large",
+"claim": {
+"key": "distance / location of Udaypur",
+"value": "nearest station Bareth, 6.5 km west"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "559a39e3f988e4b31367fa23b78655a4e5e23beb",
+"quote_start": "It covers an area of about 1,966 hectares. Its population wa",
+"claim": {
+"key": "population of Udaypur",
+"value": "928 and 1,619 (both given for 1901); 2,025 (1971)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "9288779e53aaf46b8918fda37bc91e89b4e2b4a6",
+"quote_start": "Yet another inscription of the Paramara ruler Udaya-ditya fr",
+"claim": {
+"key": "Lūṇapasāka record: date",
+"value": "1173 A.D., attributed to Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "c7a55ee7d3becf419fc2df481ecdec9f982107e9",
+"quote_start": "Bhoja's cousin or brother, Udayaditya came to the throne pro",
+"claim": {
+"key": "Udayāditya: reign dates",
+"value": "before 1080 to 1086"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "733089defcc260543bee50f0e6c2fa4aef319fc3",
+"quote_start": "Two other inscriptions of the temple refer to the constructi",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "begun V.S. 1116 (1059); flag-staff erected 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "b5010b60ce0170f934bfae82937c8831495c4bbe",
+"quote_start": "According to the 2011 census, the population of Udaypur is 6",
+"claim": {
+"key": "population of Udaypur",
+"value": "6,383 (2011 census)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "6333ad76bd8722168683801444e4b333a7d2925f",
+"quote_start": "The Udaypur Prashasti, a stone inscription in two parts curr",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "in Gwalior Museum; gives 1059 CE"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4e0a39deaf86700084ad801cd8cd081708f26b48",
+"quote_start": "It is said to have been built by King Udayaditya when he est",
+"claim": {
+"key": "palace founder",
+"value": "said to be Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "469546bafd3b1ffe713d1fe97615462c762f48ad",
+"quote_start": "As per the local legend, this place was called Bhrangarajpur",
+"claim": {
+"key": "town founder / foundation",
+"value": "Udayāditya in 1059 CE, after defeating a native chief of Bhrangarajpur (legend)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "6333ad76bd8722168683801444e4b333a7d2925f",
+"quote_start": "Another popular folklore associated with the lake is that th",
+"claim": {
+"key": "Bedni/Berni Mata legend",
+"value": "a dancer at the court of King Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "64ebdd53b3974c5dbbbbd2e5ab9cd92f122e5b93",
+"quote_start": "The 2 large water bodies relevant to Udaypur are the Udaysag",
+"claim": {
+"key": "Udayasamudra tank: identification",
+"value": "Udaysagar Talab, built by Udayāditya in 1059 CE"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "9f54ec3bb22dbdae1b9c27d94da2661e878df8fd",
+"quote_start": "The Udayeshvara at Udayapur (20.1) was founded by King Udaya",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "founded 1059, consecrated 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "0c118c3a02ce92ea3df6fc9c0c36cc43e62485c3",
+"quote_start": "The city of Udaypur was established by the Parmar king Udaya",
+"claim": {
+"key": "town founder / foundation",
+"value": "Parmar king Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "730beda08139ea576378ed7f4d48399dd3e81dfa",
+"quote_start": "\"The total geographical area of the village is 1966 hectares",
+"claim": {
+"key": "population of Udaypur",
+"value": "6,383 (villageinfo.in)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "0c118c3a02ce92ea3df6fc9c0c36cc43e62485c3",
+"quote_start": "we see clear the layered history of the village from 6th cen",
+"claim": {
+"key": "brass cover of the liṅga: donor",
+"value": "commander Bappa Saheb (Gwalior state)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "14116ccc936b49d44bd00ade1ada6756b24bd777",
+"quote_start": "This place's fame is from the Neelkantheshwar temple, which ",
+"claim": {
+"key": "temple builder",
+"value": "Maharaj Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "9e0969102cfbe21d93178194c92ad640076e8ccf",
+"quote_start": "the famous Udayagiri caves near Vidisha; Udaipur, seventy km",
+"claim": {
+"key": "distance / location of Udaypur",
+"value": "seventy km from Vidisha"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "11fa5c7ca7cdbb1c1fda1e44cd38e588990f364a",
+"quote_start": "A ruined little town of eight thousand people, existing on t",
+"claim": {
+"key": "population of Udaypur",
+"value": "about eight thousand"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4a50ec1ec8bcdfa8f9ef6bc4b7f397fc6dabcc92",
+"quote_start": "In the time of Emperor Jahangir, Auliya Ibn Abdul Samad had ",
+"claim": {
+"key": "palace founder",
+"value": "Auliya Ibn Abdul Samad under Jahangir (per a farman translation)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "141f6c1021a6705857dd9a73dfdbf529b4a1c46b",
+"quote_start": "The oldest inscription about the Paramara kings obtained fro",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "oldest Paramāra inscription at Udaipur is of 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+"quote_start": "This stone, found in the courtyard of the Nilkantheshvar tem",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "found in the temple courtyard; kept in the Gwalior museum"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "c569452e301fee42e199169d7d40c56249ab37cf",
+"quote_start": "in this same series a total of 11 inscriptions are found fro",
+"claim": {
+"key": "inscription count at Udaypur",
+"value": "11 (in this series)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "78ce20a0dad50efbb4e0853b2f6c41f92bedd5cc",
+"quote_start": "Most important of all is that around a hundred inscriptions ",
+"claim": {
+"key": "inscription count at Udaypur",
+"value": "around a hundred"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "32c29c19ec6b836a86b574b4fc4312bc8c478ba1",
+"quote_start": "one gentleman, the claimant of the private property, went st",
+"claim": {
+"key": "palace founder",
+"value": "Jahangir (claim reported by the author)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "2f463d3fe1b85ec5bb3c7ef163e2e7fbd3b324fe",
+"quote_start": "About this vermilion-smeared image, a popular story among th",
+"claim": {
+"key": "Bedni/Berni Mata legend",
+"value": "danced on a thread across the reservoir; someone broke it"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "771aea8f2e8bf74a9a116bbe70004641bcfc8cd2",
+"quote_start": "Udaipur is a poem written on stones, which the Paramara king",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "three years' construction"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "c018abebaa8495438c925a34effa210cf95ed4f4",
+"quote_start": "In it is recorded Vaishakh Sudi 7, Vikram Samvat 1137. Accor",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "V.S. 1137 = 30 March 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "c018abebaa8495438c925a34effa210cf95ed4f4",
+"quote_start": "This temple, which took more than twenty years to be built a",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "more than twenty years' construction"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "d2ee735f58094094eb2242b5eccdb5a5cf1dbcbf",
+"quote_start": "In yet another inscription of the Udaipur temple itself, the",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "V.S. 1116 / Śaka 981 = 1059 CE (another inscription)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "d2ee735f58094094eb2242b5eccdb5a5cf1dbcbf",
+"quote_start": "He says that the mention of this 'Pata' or 'Jnata' as the fa",
+"claim": {
+"key": "Udayāditya: relation to Bhoja",
+"value": "son of 'Pata'/'Jnata' (Gandal → Pata genealogy)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+"quote_start": "As far as Udaipur is concerned, it is evident from its very ",
+"claim": {
+"key": "town founder / foundation",
+"value": "Udayāditya; no earlier Paramāra inscription, so a new town"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+"quote_start": "This inscription describes that it was the son of this very ",
+"claim": {
+"key": "temple builder",
+"value": "son of a feudatory (name unclear)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+"quote_start": "No date is inscribed on it, but according to the information",
+"claim": {
+"key": "Udaipur praśasti: location / date / reliability",
+"value": "undated; time of Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "f2b3ee3b8f4af7a3bc79a50d34d68456b635f2d5",
+"quote_start": "King Udayadity's reign lay between 1070 and 1093.",
+"claim": {
+"key": "Udayāditya: reign dates",
+"value": "1070–1093"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "641c25e35316d0d1e39c39411d48d1dc3e2059c9",
+"quote_start": "परमार वंश के राजा उदयादित्य के मंदिर में तीनों द्वारों के पत",
+"claim": {
+"key": "inscription count at Udaypur",
+"value": "20+ on the three doorways"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "e3d34bdd194a4dfd38d9cdc12d481f829b387b53",
+"quote_start": "नारायण व्यास ने संभवतः उदयपुर को वीरों की भूमि इसलिए कहा कि ",
+"claim": {
+"key": "temple survival legend",
+"value": "defended by Udaypur's ancestors (Narayan Vyas)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "2080e45e2214a47e8cc062434c86c3e2351701b8",
+"quote_start": "उदयपुर से प्रस्थान करने के पहले हम उस उदय समुद्र की तरफ गए, ",
+"claim": {
+"key": "Udayasamudra tank: identification",
+"value": "Udaya Samudra measured by the INTACH team"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "9e483e740faf9c276f3418cbd6c9d9fb346f40eb",
+"quote_start": "वे बंधु का मतलब भाई नहीं मानते।",
+"claim": {
+"key": "Udayāditya: relation to Bhoja",
+"value": "'bandhu' not taken to mean brother (H.C. Ray)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "a4687122d011c3ca1d4d0e92ae34e85f48703150",
+"quote_start": "PLAN OF NILAKANTHESVARA TEMPLE (1059—1080 A.D.). Udayapur, G",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "1059–1080 (plan caption)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "3e04f87c846f898a6147b09a9e688553cfb6711b",
+"quote_start": "From the West; Udayapur, Gwalior; built by the Paramāra King",
+"claim": {
+"key": "Udayāditya: reign dates",
+"value": "c. 1059–1087"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "05813e9dbd99cd8a334e374b5fc4bcd37fb7f8ea",
+"quote_start": "One of the many old Sanskrit inscriptions on this temple rec",
+"claim": {
+"key": "town founder / foundation",
+"value": "Udayāditya founded town, temple and tank, named after himself"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "05813e9dbd99cd8a334e374b5fc4bcd37fb7f8ea",
+"quote_start": "This town lies 4 miles by a metalled road to the east of the",
+"claim": {
+"key": "distance / location of Udaypur",
+"value": "4 miles east of Bareth; about 8 miles from Basoda"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "f5b86db1e57e895b538cdd783350b1c5c3a3c6b5",
+"quote_start": "A popular legend is current that Aurangzeb is responsible fo",
+"claim": {
+"key": "temple survival legend",
+"value": "Aurangzeb legend vs Mohammad Tughlaq (Patil)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4318efe44e077439ef70e1f7cd9aa014cf0dfa06",
+"quote_start": "The fallen fortunes of the family were for a time revived by",
+"claim": {
+"key": "Udayāditya: reign dates",
+"value": "1058–1087"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "05813e9dbd99cd8a334e374b5fc4bcd37fb7f8ea",
+"quote_start": "It is further known from two other inscriptions on this temp",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "commenced V.S. 1116 (1059); flag-staff V.S. 1137 (1080)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "f5b86db1e57e895b538cdd783350b1c5c3a3c6b5",
+"quote_start": "As an inscription on it states, this cover was presented by ",
+"claim": {
+"key": "brass cover of the liṅga: donor",
+"value": "Khande Rao Appaji, V.S. 1841 (1775)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "357e60fbfe6f6415fbbd3e341ba6adbfd7024a12",
+"quote_start": "Udayāditya extended patronage to art and architecture. He fo",
+"claim": {
+"key": "town founder / foundation",
+"value": "Udayāditya"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "cefe4e1f3e95dbeb4bf19a309fbd4c02036e74a3",
+"quote_start": "The legend regarding this masjid is that the Emperor Aurangz",
+"claim": {
+"key": "temple survival legend",
+"value": "Aurangzeb ordered demolition (Beglar's record)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "8b63173c336de7691be6cc09413308076cf191a5",
+"quote_start": "According to local tradition, in 1325 CE, after the conquest",
+"claim": {
+"key": "temple survival legend",
+"value": "Muhammad Tughlaq, 1325 (local tradition)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "3396ed0739397753d1a78aad9300be95f8211cda",
+"quote_start": "This brass cover was presented by Khanderao Appaji, a genera",
+"claim": {
+"key": "brass cover of the liṅga: donor",
+"value": "Khanderao Appaji, 1775 CE"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "a34c081e5e7531a6c3f6e53b4648cfacc00d7332",
+"quote_start": "The in situ inscription on the temple records that the hoist",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "flag hoisted 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "7acaef5f76a6aeffb99f7d1524adc6869510cf7e",
+"quote_start": "The Nilakan theśvara, representing the Bhūmija style in its ",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "completed 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "4612aba26ec7b8aea86a33442d405edf4c2190b0",
+"quote_start": "In the Bhailasvami Mahadvadashaka province, the provincial g",
+"claim": {
+"key": "Lūṇapasāka record: date",
+"value": "1171 CE (inscription of V.S. 1229)"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "1ba6b828725d0e955ba3e1d09ff792dfbbed2819",
+"quote_start": "at Udaypur, a town whose temple and tank were founded and na",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "temple and tank founded 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+},
+{
+"chunk_id": "9f68a492b924b88b6090d6919c3021ae3160ea05",
+"quote_start": "The Śiva temple of Udaypur in the Vidisha district of Madhya",
+"claim": {
+"key": "temple foundation/consecration date",
+"value": "built around 1080"
+},
+"tagged_by": "orchestrator (pilot schema had no claim field)"
+}
+]

@@ -1,0 +1,226 @@
+{
+ "chapter": 10,
+ "sections": {
+  "10.1": "A Caulukya seat on the eastern frontier, c. 1093–1190",
+  "10.2": "Devapāla's line and the Delhi raids, c. 1190–1305",
+  "10.3": "Udaypur after 1305",
+  "10.4": "Temples turned to mosques across Malwa",
+  "10.5": "Bhilsa under the Malwa sultans, 1401–1562",
+  "10.6": "A qasba of Sarkar Chanderi",
+  "10.7": "Aurangzeb at Bhilsa, and at Udaypur in legend",
+  "10.8": "Afghans, nawabs and Marathas, 1708–1775",
+  "10.9": "The brass cover of the liṅga",
+  "10.10": "Bhilsa district in Gwalior State and after, 1827–1956",
+  "10.11": "Famine, the railway and a feeder road",
+  "10.12": "What decline means"
+ },
+ "through_line": "Udaypur across its masters: the V.S. 1220 stone naming the Caulukya Kumārapāla and his mahāsādhanika at Udaypur (U1); Naravarman's frayed east, the mahākumāras at Vidisha, Caulukya governors, Vindhyavarman's return; Devapāla residing at Udayapura (1232), Iltutmish at Bhilsa, three-sided pressure, 1305; the Sam. 1366 title, the mosque of 1336–38 and the temple left in worship, the survival legends tested; temples turned to mosques at Vidisha, Ujjain and Dhār, Udayeśvara the exception; the Malwa sultans' Bhilsa and the 1488 mosque; Sarkar Chanderi, the translated farman, the Shahi Masjid of A.H. 1041 and the qāzī's claim (U7); Aurangzeb at Bhilsa in 1682, at Udaypur only in legend; Afghans and Marathas to Scindia by 1775; the brass cover (HELD, RR-2); Gwalior's district to Madhya Pradesh; the famine of 1899–1900 and the feeder road of 1905; political demotion dated step by step, economic decline undatable, the Gazetteer's 'once a place of considerable importance' into Chapter 11.",
+ "people": [
+  {
+   "name": "Rājyapāla",
+   "full_name": "Mahāsādhanika Rājyapāla",
+   "first_section": "10.1",
+   "role": "Caulukya governor at Udaypur, V.S. 1220 (first 1.8, 6.18)"
+  },
+  {
+   "name": "Lūṇapasāka",
+   "full_name": "Lūṇapasāka",
+   "first_section": "10.1",
+   "role": "Caulukya governor under Ajayapāla, 1171–73 (first 1.8)"
+  },
+  {
+   "name": "Devapāla",
+   "full_name": "Mahārājādhirāja Devapāla",
+   "first_section": "10.2",
+   "role": "Paramāra king residing at Udayapura, 1232 (first 6.18)"
+  },
+  {
+   "name": "Iltutmish",
+   "full_name": "Iltutmish, Sultan of Delhi",
+   "first_section": "10.2",
+   "role": "took Bhilsa 1233–34"
+  },
+  {
+   "name": "Mahlakadeva",
+   "full_name": "Mahlakadeva (Mahlak Deo)",
+   "first_section": "10.2",
+   "role": "last Paramāra king, killed at Mandu 1305"
+  },
+  {
+   "name": "Auliya Ibn Abdul Samad",
+   "full_name": "Auliya Ibn Abdul Samad",
+   "first_section": "10.6",
+   "role": "founder of the mosque and Mahal Qubba in the translated farman"
+  },
+  {
+   "name": "Khande Rao Appaji",
+   "full_name": "Khande Rao Appaji, general of Mahadaji Scindia",
+   "first_section": "10.9",
+   "role": "donor of the brass cover, per its inscription (first 1.9)"
+  },
+  {
+   "name": "Dost Mohammad Khan",
+   "full_name": "Dost Mohammad Khan",
+   "first_section": "10.8",
+   "role": "Afghan founder of Bhopal; took Vidisha by a ruse"
+  }
+ ],
+ "terms": [
+  {
+   "term": "maḥal",
+   "gloss": "Mughal revenue unit",
+   "first_section": "10.6"
+  },
+  {
+   "term": "sarkār",
+   "gloss": "Mughal revenue division",
+   "first_section": "10.6"
+  },
+  {
+   "term": "qasba",
+   "gloss": "country town; not attested for Udaypur in any period record",
+   "first_section": "10.6"
+  },
+  {
+   "term": "qaziyat",
+   "gloss": "the office of qāzī",
+   "first_section": "10.6"
+  },
+  {
+   "term": "mukhaliṅga",
+   "gloss": "liṅga with a face",
+   "first_section": "10.9"
+  }
+ ],
+ "places": [
+  {
+   "name": "Sarkar Chanderi",
+   "first_section": "10.6",
+   "note": "Udaypur's Mughal division per the translated farman; Bhilsa was in Raisen Sarkar"
+  },
+  {
+   "name": "Bareth",
+   "first_section": "10.11",
+   "note": "station of 1905; feeder road 6.4 km to Udayapura"
+  }
+ ],
+ "figures": [
+  {
+   "what": "Caulukya conquest of Malwa",
+   "value": "1138–45",
+   "sections": [
+    "10.1"
+   ]
+  },
+  {
+   "what": "Lūṇapasāka's grant",
+   "value": "1171/1172/1173 (V.S. 1229)",
+   "sections": [
+    "10.1"
+   ]
+  },
+  {
+   "what": "Iltutmish at Bhilsa",
+   "value": "1233–34",
+   "sections": [
+    "10.2"
+   ]
+  },
+  {
+   "what": "Khalji capture of Bhilsa",
+   "value": "early 1290s",
+   "sections": [
+    "10.2"
+   ]
+  },
+  {
+   "what": "Brass cover",
+   "value": "V.S. 1841 as reported / 1775 as converted — HELD (RR-2)",
+   "sections": [
+    "10.9"
+   ]
+  },
+  {
+   "what": "Shahi Masjid",
+   "value": "A.H. 1041, A.D. 1632",
+   "sections": [
+    "10.6"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Brass cover date V.S. 1841 vs 1775",
+   "sections": [
+    "10.9"
+   ],
+   "status": "HELD, RR-2"
+  },
+  {
+   "question": "Date of the Paramāra return at Udaypur after Caulukya rule",
+   "sections": [
+    "10.1"
+   ],
+   "status": "not recorded"
+  },
+  {
+   "question": "Whether Udaypur lay in Gwalior's or the Nawab's Basoda before 1948",
+   "sections": [
+    "10.8",
+    "10.10"
+   ],
+   "status": "not stated in corpus"
+  },
+  {
+   "question": "The farman's Persian original",
+   "sections": [
+    "10.6"
+   ],
+   "status": "RR-22"
+  },
+  {
+   "question": "The date of Udaypur's economic decline",
+   "sections": [
+    "10.12"
+   ],
+   "status": "undatable on present evidence"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "10.6",
+   "to": "11.6",
+   "what": "the palace question and the order of 2021"
+  },
+  {
+   "from": "10.10",
+   "to": "11.2",
+   "what": "Garde and Gwalior State archaeology"
+  },
+  {
+   "from": "10.12",
+   "to": "11.1",
+   "what": "the officials who described the town"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "the record against the legend",
+   "sections": [
+    "10.3",
+    "10.7"
+   ]
+  },
+  {
+   "motif": "rank lost in steps; each master still gave or built",
+   "sections": [
+    "10.1",
+    "10.2",
+    "10.5",
+    "10.6",
+    "10.9",
+    "10.12"
+   ]
+  }
+ ]
+}

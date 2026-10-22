@@ -1,0 +1,25 @@
+{"c":"6e87a385ac","keep":false,"reject_reason":"Chandella/Khajuraho temples; other site, no bearing on Udaypur units"}
+{"c":"7a0bd8b48e","keep":false,"reject_reason":"Khajuraho elevation description plus plate captions; other site"}
+{"c":"615aabc230","keep":false,"reject_reason":"Khajuraho interior and shikhara detail; other site"}
+{"c":"3b17460d87","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Khajuraho description and dating)"}
+{"c":"6fdaa038fc","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Khajuraho chronology)"}
+{"c":"a6393237e6","keep":false,"reject_reason":"Khajuraho stylistic sequence; other site"}
+{"c":"439dca6556","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Khajuraho temples)"}
+{"c":"b38efde7fd","keep":false,"reject_reason":"Khajuraho Vishvanatha and Kandariya; other site"}
+{"c":"a2a2951aad","keep":false,"reject_reason":"Khajuraho sculpture and dating; other site"}
+{"c":"48bd2310fa","keep":true,"items":[{"unit":"C05","sub":"S2","type":"architectural detail","strength":"contextual","span":[3,3],"note":"General description of the Bhūmija śikhara: four spines with chaitya-dormers on the central rathas and quadrants filled with miniature shrine-models in rows."},{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[24,25],"xref":["C04"],"note":"Style found favour with the Paramāras of Malwa; author states it originated in Malwa in the 10th century, attested at Amareshwara, Onkar Mandhata.","claim":{"key":"Bhūmija style: origin / affinity","value":"originated in Malwa, 10th century (Amareshwara, Onkar Mandhata)"}},{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[27,29],"xref":["C04","C01"],"note":"Udaipur (District Vidisha) temple of Nilakantheshwara or Udayeshwara after its royal author Udayaditya, grandest Paramara specimen, begun 1059, completed 1080; stellate plan, sapta-ratha sanctum, vestibule, hall with three porches.","claim":{"key":"temple foundation/consecration date","value":"1059 (begun), 1080 (completed)"}}]}
+{"c":"3db8076f2f","keep":true,"items":[{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[1,3],"note":"Temple surrounded by 7 subsidiary shrines on an extensive platform-terrace with stepped entrance flanked by Shaiva dvarapalas; shikhara with 7 vertical and 5 horizontal rows of miniature shikharas per quadrant; sculptured medallions in chaitya-dormers."},{"unit":"C05","sub":"S4","type":"quote","strength":"direct","span":[4,5],"note":"Apsaras on the porch balustrades noted for grace and expression; monument remarkable for ornamentation, shikhara design and organic unity."},{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[8,11],"xref":["C06"],"note":"Un temples share plan and shikhara design with the Udayeshwara but are simpler; Chamunda, Nataraja and Shiva Tripurari in cardinal niches; an inscription of Udayaditya in Chaubara Dera No. 1 shows contemporaneity with the Udayeshwara."}]}
+{"c":"fbd9aa7674","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[1,4],"note":"Amareshwara securely dated 1063; Jamli later than Udayeshwara by about a decade; Nemawar's shikhara is loftier with nine rows but lacks the grace and proportion of the Udayeshwara."},{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[12,14],"note":"Menal temple appears contemporary with the Udayeshwara; Ramgarh Shiva Temple about half a century later with similar plan and shikhara design."}]}
+{"c":"5df0e39d51","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[13,15],"xref":["C04"],"note":"Summary: the Bhumija style originated in Malwa, patronised by the Paramara rulers, with wide vogue in adjoining regions.","claim":{"key":"Bhūmija style: origin / affinity","value":"originated in Malwa under Paramara patronage"}}]}
+{"c":"7a29a04cd5","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Orissan temples, other region)"}
+{"c":"91435a9a21","keep":false,"reject_reason":"Orissan temple (Parashurameshwara) and plates; other region"}
+{"c":"cdd0ec5ee2","keep":false,"reject_reason":"Orissan Vaital Deul description; other region"}
+{"c":"410e4d30a7","keep":false,"reject_reason":"Orissan temples; other region"}
+{"c":"c6f25367c0","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Orissan temples)"}
+{"c":"97cdbf0fd6","keep":false,"reject_reason":"Orissan temples; other region"}
+{"c":"7527a4e44b","keep":false,"reject_reason":"Lingaraja temple, Orissa; other region"}
+{"c":"2bf15dc98f","keep":false,"reject_reason":"Orissan temples (Konarak etc.); other region"}
+{"c":"2ad5f6d839","keep":false,"reject_reason":"Hoysala temples; other region"}
+{"c":"0d66fc66c2","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (index page)"}
+{"c":"6a0d273b78","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (index page)"}
+{"c":"7d02119049","keep":false,"reject_reason":"index page"}

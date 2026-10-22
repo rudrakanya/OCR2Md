@@ -1,0 +1,25 @@
+{"c": "c5c5f93b50", "keep": false, "reject_reason": "sunken-Garbhagṛha examples at other temples; no bearing on a unit"}
+{"c": "abd9dc58bf", "keep": false, "reject_reason": "vertical-axis and Ahicchatra excavation detail; generic, other sites"}
+{"c": "dba72fce42", "keep": false, "reject_reason": "generic metaphysical symbolism of the vertical axis; no specific usable detail"}
+{"c": "f0cc0d4105", "keep": true, "items": [{"unit": "C05", "sub": "S2", "type": "fact", "strength": "contextual", "span": [15, 16], "note": "Śikhara in the South Indian tradition is the dome crowning the shaft; in the North Indian tradition it is the curvilinear superstructure of the Garbhagṛha"}]}
+{"c": "8c32c22a2b", "keep": false, "reject_reason": "generic symbolism of pyramidal superstructure"}
+{"c": "6e74cbe166", "keep": true, "items": [{"unit": "C05", "sub": "S2", "type": "fact", "strength": "contextual", "span": [18, 23], "note": "Term Śikhara established in Vāstuśāstra from the sixth century A.D.; superstructure of the Garbhagṛha, curvilinear as a rule"}]}
+{"c": "2cbea743b6", "keep": false, "reject_reason": "figure captions and plate references only"}
+{"c": "b0d65827d7", "keep": true, "items": [{"unit": "C05", "sub": "S2", "type": "fact", "strength": "contextual", "span": [10, 13], "note": "Śikhara in early Vāstuśāstra applies to every variation of superstructure over the Garbhagṛha; pointed form accepted from the fifth or sixth century A.D."}]}
+{"c": "4ea3444d16", "keep": false, "reject_reason": "domes and relief representations of other regions; no bearing on a unit"}
+{"c": "974997968d", "keep": false, "reject_reason": "dating of Mahākūṭeśvara/Chalukyan temples; other region"}
+{"c": "b6425b941d", "keep": true, "items": [{"unit": "C05", "sub": "S2", "type": "fact", "strength": "contextual", "span": [20, 22], "note": "Curvilinear Śikhara (type II) is the general superstructure form throughout Northern India as far south as the Kistna and Tungabhadra"}]}
+{"c": "3e45d57ad1", "keep": false, "reject_reason": "generic remarks on superstructure evolution"}
+{"c": "04bd296f60", "keep": false, "reject_reason": "Mahākūṭeśvar pavilion and Āmalaka origins; other region"}
+{"c": "4b1373b067", "keep": false, "reject_reason": "slab/eaves prototypes of superstructure; generic"}
+{"c": "78724d2a34", "keep": false, "reject_reason": "cornice mouldings of Chalukyan temples; other region"}
+{"c": "c16d08475b", "keep": true, "items": [{"unit": "C05", "sub": "S2", "type": "fact", "strength": "direct", "span": [36, 39], "note": "Small shrines with pyramidal tiered superstructure crowned by Āmalaka are shown in relief at Nālandā, in Bengal and in Central India (Udayapur)"}, {"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [3, 4], "note": "Double and triple roofs (Dvichādya) are known to Vāstuśāstra, citing Samarāṅgaṇasūtradhāra XLIX"}]}
+{"c": "7848c506a2", "keep": false, "reject_reason": "Orissan Pīrḥa Deul superstructures; other region"}
+{"c": "3d4e312955", "keep": false, "reject_reason": "storeyed pyramid types at Bodh-gayā etc.; other region"}
+{"c": "629561797a", "keep": false, "reject_reason": "pilot-judged for C01; nothing for C02–C13"}
+{"c": "741a8c8455", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [20, 25], "note": "Piling of one temple shape upon another as superstructure is the subject of Samarāṅgaṇasūtradhāra ch. LV; Rucka, Vardhamāna, Śrīvatsa, Haṃsa types"}]}
+{"c": "e5137435ee", "keep": false, "reject_reason": "dating of South Indian and Chalukyan temples; no bearing on a unit"}
+{"c": "35b0fbeeee", "keep": false, "reject_reason": "rampart of chapels in Dravidian temples; other region"}
+{"c": "aa7158cce1", "keep": false, "reject_reason": "Buddhist monasteries and Yoginī temples; other region"}
+{"c": "5148e7f39e", "keep": true, "items": [{"unit": "C05", "sub": "S1", "type": "fact", "strength": "contextual", "span": [22, 22], "note": "Per Vāstuśāstra, large temples are sāndhāra, with an internal circumambulatory encasing the Garbhagṛha in a second series of walls"}]}
+{"c": "d6aaf99ec1", "keep": true, "items": [{"unit": "C07", "sub": "S2", "type": "architectural detail", "strength": "direct", "span": [34, 37], "note": "Cites the Nikaraṇāyesvara temple at Udayapur (ASI 10, p. 82) among composition of eight temples forming an enclosure around a central shrine", "xref": ["C05"], "refs": ["ASI vol. X, p. 82"]}]}

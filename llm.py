@@ -240,9 +240,11 @@ def complete(client, model, messages, max_tokens, temperature=0.4, attempts=12, 
                 wait = min(delay * 2, 120) * (0.75 + random.random() * 0.5)
                 delay = min(delay * 1.7, 120)
             if not quiet and (not transient or n == 1 or n % 4 == 0):
-                print(f"      retry {n}/{attempts - 1} "
-                      f"({'rate limit -> ' + str(round(LIMITER.rps, 2)) + ' req/s'
-                         if throttled else type(e).__name__}), "
+                # Py3.11 cannot parse a backslash/multi-line expression inside
+                # an f-string's {}, so the condition is resolved beforehand.
+                reason = (f"rate limit -> {round(LIMITER.rps, 2)} req/s"
+                          if throttled else type(e).__name__)
+                print(f"      retry {n}/{attempts - 1} ({reason}), "
                       f"waiting {wait:.0f}s", file=sys.stderr, flush=True)
             time.sleep(wait)
 

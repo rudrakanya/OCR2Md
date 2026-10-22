@@ -1,0 +1,25 @@
+{"c":"bbabf368bb","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[13,17],"note":"Editor equates a Mōḍi name with the Prakrit form of Vajratasvāmin of the Udaipur praśasti (No. 24, v. 11); cross-reference to the Udaipur praśasti."},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[7,8],"note":"Mōḍi inscription (Jayavarman II time): a ruler who put a Yadu king to flight read as Devapāla, who made a treaty with the Yādava Sīṅhaṇa (1210-1247)."}]}
+{"c":"50d6fac1d6","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[2,5],"xref":["C06"],"note":"Table of donations of villages, land and houses to deities (Ekalladēva, Vaidyanātha, Ajayēśvara) in a late Paramāra grant at Mōḍi: general evidence for temple endowments."}]}
+{"c":"46809be810","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[1,1],"note":"Inscription reveals Chāduri as Chief Minister of Jayavarman; Arisimha grandson of Rājaputra Gōvinda otherwise unknown."}]}
+{"c":"abbaaf0ead","keep":false,"reject_reason":"OCR too garbled to quote (Sanskrit verses of Mōḍi fragment)"}
+{"c":"524406bab4","keep":false,"reject_reason":"OCR too garbled to quote (Sanskrit verses)"}
+{"c":"fe34b1c3df","keep":false,"reject_reason":"garbled verse remnants and epigraphic textual footnotes, nothing usable"}
+{"c":"0801772cb1","keep":false,"reject_reason":"garbled verse text and plate captions"}
+{"c":"56939fe25c","keep":false,"reject_reason":"OCR too garbled to quote (Sanskrit text of Mōḍi inscription)"}
+{"c":"3b2eb8992e","keep":false,"reject_reason":"garbled text and technical footnotes on readings and metre"}
+{"c":"7c9d1a9b10","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"contextual","span":[6,10],"note":"Edition history of the Māndhātā copper-plate (Vikrama 1317) of Jayavarman II: edited by Kielhorn in Epigraphia Indica IX, plates now in Central Museum, Nagpur.","refs":["Kielhorn, Epigraphia Indica IX, pp. 117 ff."]}]}
+{"c":"6a77e39bdf","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[9,10],"note":"Garuda engraved on the plate as the emblem of the Paramāra royal house, described in detail (four hands, snake, bearded face)."}]}
+{"c":"328f703c32","keep":true,"items":[{"unit":"C06","sub":"S3","type":"fact","strength":"contextual","span":[1,3],"note":"Characters are Nāgari showing a transitional stage in letter forms (i, e, k, th, bh, ś) in a Paramāra grant."}]}
+{"c":"b3456dd919","keep":true,"items":[{"unit":"C06","sub":"S4","type":"fact","strength":"contextual","span":[1,2],"note":"Language of the Paramāra charter is almost faultless Sanskrit, composed in verse apart from the grant portion."}]}
+{"c":"5f299fe7d4","keep":true,"items":[{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[15,19],"note":"Plates of Jayavarmadeva, younger brother of Jaitugideva; cite the genealogy from Bhōja to Dēvapāla; Dēvapāla succeeded by Jaitugi, then Jayavarman."},{"unit":"C06","sub":"S1","type":"date","strength":"contextual","span":[20,22],"xref":["C04"],"note":"Grant issued from Manḍapa-durga; date V.S. 1317 corresponds to Sunday 7 November 1260 A.C."}]}
+{"c":"995c6bf465","keep":true,"items":[{"unit":"C06","sub":"S5","type":"fact","strength":"contextual","span":[7,8],"xref":["C08"],"note":"Donees named with śarman suffix; the king's pratihāra Gāngadēva of high status deputed to make the grant after bathing at a confluence."}]}
+{"c":"2228f6f7e9","keep":true,"items":[{"unit":"C10","sub":"S1","type":"fact","strength":"contextual","span":[5,10],"xref":["C04"],"note":"Political situation of the time: Iltutmish captured the fort of Bhilsā (modern Vidishā) in 1233-34, later Muslim and Yādava/Vāghelā attacks, possibly prompting the Paramāras to resort to Māndū."}]}
+{"c":"4c158acd5f","keep":false,"reject_reason":"identification of village names near Māndhātā and bibliographic footnotes; no bearing on a unit"}
+{"c":"8d9f76d992","keep":false,"reject_reason":"OCR too garbled to quote (Sanskrit plate text)"}
+{"c":"adb5663e0c","keep":false,"reject_reason":"OCR too garbled to quote (Sanskrit plate text)"}
+{"c":"227171412a","keep":false,"reject_reason":"garbled Sanskrit and irrelevant footnotes"}
+{"c":"f417b73b24","keep":false,"reject_reason":"facsimile line numbers only"}
+{"c":"1e22d99bcd","keep":false,"reject_reason":"OCR too garbled to quote (table of Sanskrit text)"}
+{"c":"7ee8b49395","keep":false,"reject_reason":"OCR too garbled to quote (table of Sanskrit text)"}
+{"c":"9a09335638","keep":false,"reject_reason":"OCR too garbled to quote (table of Sanskrit text)"}
+{"c":"5279b89e95","keep":true,"items":[{"unit":"C10","sub":"S1","type":"fact","strength":"contextual","span":[10,11],"xref":["C03"],"note":"Vidishā (Bhilsā) inscription stone preserved in the Bhilsā museum; the temple at Bhillasvāmidēvapura was broken by Sultān Ilutmish in his conquest of the place."}]}

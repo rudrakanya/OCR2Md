@@ -1,0 +1,562 @@
+{
+  "run_id": "20261009-184645",
+  "benchmark_file": "eval\\benchmark_passages_v2.yaml",
+  "benchmark_sha256": "360eb442d41ca580f3a3731a5cb08257751dc3166364ccb3e45ffa593d879a66",
+  "collection": "udaypur_corpus_openai_large",
+  "collection_count": 5862,
+  "embedding_model": "text-embedding-3-large",
+  "config_hash": "d3ffab5bb3b5",
+  "n_queries": 15,
+  "k_values": [
+    3,
+    5,
+    10
+  ],
+  "runs": {
+    "dense only": {
+      "summary": {
+        "EvR@3": 0.23076923076923078,
+        "EvR@5": 0.38461538461538464,
+        "EvR@10": 0.5769230769230769,
+        "MRR": 0.3104700854700855,
+        "n_eligible": 13,
+        "n_unindexed": 1,
+        "n_unanswerable_or_no_evidence": 1,
+        "sensitivity_excl_uncertain": {
+          "EvR@3": 0.25,
+          "EvR@5": 0.4166666666666667,
+          "EvR@10": 0.625,
+          "MRR": 0.33634259259259264,
+          "n": 12
+        },
+        "by_category": {
+          "control_devanagari_direct": {
+            "EvR@3": 1.0,
+            "EvR@5": 1.0,
+            "EvR@10": 1.0,
+            "MRR": 1.0,
+            "n": 1
+          },
+          "control_dominant_source": {
+            "EvR@3": 0.0,
+            "EvR@5": 0.0,
+            "EvR@10": 0.5,
+            "MRR": 0.0625,
+            "n": 2
+          },
+          "multi_source": {
+            "EvR@3": 0.0,
+            "EvR@5": 0.25,
+            "EvR@10": 0.375,
+            "MRR": 0.15,
+            "n": 4
+          },
+          "short_embedded_fact": {
+            "EvR@3": 0.3333333333333333,
+            "EvR@5": 0.5,
+            "EvR@10": 0.6666666666666666,
+            "MRR": 0.38518518518518513,
+            "n": 6
+          }
+        }
+      },
+      "per_query": [
+        {
+          "id": "SF-01",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 1.0,
+          "first_rank": 9,
+          "RR": 0.1111111111111111
+        },
+        {
+          "id": "SF-02",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "SF-03",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Inscriptions Corpus.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "SF-04",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Some Paramara Templess.md",
+          "EvR@3": 0.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 5,
+          "RR": 0.2
+        },
+        {
+          "id": "SF-05",
+          "answerable": true,
+          "answerability_status": "confirmed_unindexed",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Raja_Bhoj_Aur_Parmarkaleen_EN.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "SF-06",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Geo-Heritage of Udaypur The Third Eye.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "MS-01",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "none",
+          "top_book": "Some Paramara Templess.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.5,
+          "EvR@10": 0.5,
+          "first_rank": 4,
+          "RR": 0.25
+        },
+        {
+          "id": "MS-02",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "none",
+          "top_book": "History of Paramara Dynasty DC Ganguly.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.5,
+          "EvR@10": 0.5,
+          "first_rank": 4,
+          "RR": 0.25
+        },
+        {
+          "id": "MS-03",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "none",
+          "top_book": "Vidisha Gazeteer.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.5,
+          "first_rank": 10,
+          "RR": 0.1
+        },
+        {
+          "id": "MS-04",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "uncertain",
+          "top_book": "History of Paramara Dynasty DC Ganguly.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "CT-01",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "control_dominant_source",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 1.0,
+          "first_rank": 8,
+          "RR": 0.125
+        },
+        {
+          "id": "CT-02",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "control_devanagari_direct",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "bhojdev.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "CT-03",
+          "answerable": false,
+          "answerability_status": "confirmed_unanswerable",
+          "category": "control_unanswerable",
+          "n_groups": 0,
+          "review_marker": "none",
+          "top_book": "Long-termhistoricchangesinclimaticvariablesofBetwa.md",
+          "EvR@3": null,
+          "EvR@5": null,
+          "EvR@10": null,
+          "first_rank": null,
+          "RR": null
+        },
+        {
+          "id": "CT-04",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "control_dominant_source",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Temples of India.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "CT-05",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Inscriptions Corpus.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        }
+      ]
+    },
+    "hybrid (dense+BM25, RRF)": {
+      "summary": {
+        "EvR@3": 0.3076923076923077,
+        "EvR@5": 0.5769230769230769,
+        "EvR@10": 0.6538461538461539,
+        "MRR": 0.35512820512820514,
+        "n_eligible": 13,
+        "n_unindexed": 1,
+        "n_unanswerable_or_no_evidence": 1,
+        "sensitivity_excl_uncertain": {
+          "EvR@3": 0.3333333333333333,
+          "EvR@5": 0.625,
+          "EvR@10": 0.7083333333333334,
+          "MRR": 0.38472222222222224,
+          "n": 12
+        },
+        "by_category": {
+          "control_devanagari_direct": {
+            "EvR@3": 1.0,
+            "EvR@5": 1.0,
+            "EvR@10": 1.0,
+            "MRR": 1.0,
+            "n": 1
+          },
+          "control_dominant_source": {
+            "EvR@3": 0.0,
+            "EvR@5": 0.5,
+            "EvR@10": 1.0,
+            "MRR": 0.20833333333333331,
+            "n": 2
+          },
+          "multi_source": {
+            "EvR@3": 0.0,
+            "EvR@5": 0.125,
+            "EvR@10": 0.125,
+            "MRR": 0.0625,
+            "n": 4
+          },
+          "short_embedded_fact": {
+            "EvR@3": 0.5,
+            "EvR@5": 0.8333333333333334,
+            "EvR@10": 0.8333333333333334,
+            "MRR": 0.4916666666666667,
+            "n": 6
+          }
+        }
+      },
+      "per_query": [
+        {
+          "id": "SF-01",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 4,
+          "RR": 0.25
+        },
+        {
+          "id": "SF-02",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 5,
+          "RR": 0.2
+        },
+        {
+          "id": "SF-03",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Inscriptions Corpus.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "SF-04",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "806955603-The-Temple-Architecture-of-India-Adam-Hardy.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 2,
+          "RR": 0.5
+        },
+        {
+          "id": "SF-05",
+          "answerable": true,
+          "answerability_status": "confirmed_unindexed",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Samrangana Sutradhar Vol 1.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "SF-06",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Geo-Heritage of Udaypur The Third Eye.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "MS-01",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "none",
+          "top_book": "The Hindu Temple Vol 2.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.5,
+          "EvR@10": 0.5,
+          "first_rank": 4,
+          "RR": 0.25
+        },
+        {
+          "id": "MS-02",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "none",
+          "top_book": "History of Paramara Dynasty DC Ganguly.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "MS-03",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "none",
+          "top_book": "Geo-Heritage of Udaypur The Third Eye.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "MS-04",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "multi_source",
+          "n_groups": 2,
+          "review_marker": "uncertain",
+          "top_book": "History of Paramara Dynasty DC Ganguly.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        },
+        {
+          "id": "CT-01",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "control_dominant_source",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Streamflow of the Betwa Rive.md",
+          "EvR@3": 0.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 4,
+          "RR": 0.25
+        },
+        {
+          "id": "CT-02",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "control_devanagari_direct",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "bhojdev.md",
+          "EvR@3": 1.0,
+          "EvR@5": 1.0,
+          "EvR@10": 1.0,
+          "first_rank": 1,
+          "RR": 1.0
+        },
+        {
+          "id": "CT-03",
+          "answerable": false,
+          "answerability_status": "confirmed_unanswerable",
+          "category": "control_unanswerable",
+          "n_groups": 0,
+          "review_marker": "none",
+          "top_book": "Long-termhistoricchangesinclimaticvariablesofBetwa.md",
+          "EvR@3": null,
+          "EvR@5": null,
+          "EvR@10": null,
+          "first_rank": null,
+          "RR": null
+        },
+        {
+          "id": "CT-04",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "control_dominant_source",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Temples of India.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 1.0,
+          "first_rank": 6,
+          "RR": 0.16666666666666666
+        },
+        {
+          "id": "CT-05",
+          "answerable": true,
+          "answerability_status": "confirmed_answerable",
+          "category": "short_embedded_fact",
+          "n_groups": 1,
+          "review_marker": "none",
+          "top_book": "Jagta_Hua_Kasba_EN.md",
+          "EvR@3": 0.0,
+          "EvR@5": 0.0,
+          "EvR@10": 0.0,
+          "first_rank": null,
+          "RR": 0.0
+        }
+      ]
+    }
+  },
+  "comparison": {
+    "hybrid_wins": [
+      "SF-02",
+      "CT-04"
+    ],
+    "hybrid_losses": [
+      "MS-02",
+      "MS-03"
+    ],
+    "ties": [
+      "SF-01",
+      "SF-03",
+      "SF-04",
+      "SF-05",
+      "SF-06",
+      "MS-01",
+      "MS-04",
+      "CT-01",
+      "CT-02",
+      "CT-05"
+    ],
+    "n_a": [
+      "CT-03"
+    ]
+  }
+}

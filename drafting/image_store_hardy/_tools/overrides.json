@@ -1,0 +1,1977 @@
+{
+ "_doc": "Hand decisions from two visual reviews of every page (_work/review_notes.md, _work/ovr_pass2.txt). Box indices refer to _work/detect.json after detection v2 (caption regions masked); after 'drop', hand boxes from 'boxes' are appended in the order listed, and 'assign' indices refer to that combined list. rough_pt rectangles are PDF points; boxes are tightened to the picture ink inside them unless exact=true. Coloured part-opener pages are boxed by colour distance from the page tint ('colour_box_pages').",
+ "sensitive_pages": [
+  142,
+  143,
+  144,
+  145,
+  146
+ ],
+ "colour_box_pages": [
+  12,
+  92,
+  170,
+  208,
+  236
+ ],
+ "drop": {
+  "2": [
+   "all"
+  ],
+  "7": [
+   "all"
+  ],
+  "13": [
+   "all"
+  ],
+  "57": [
+   "all"
+  ],
+  "77": [
+   "all"
+  ],
+  "93": [
+   "all"
+  ],
+  "171": [
+   "all"
+  ],
+  "209": [
+   "all"
+  ],
+  "237": [
+   "all"
+  ],
+  "248": [
+   "all"
+  ],
+  "263": [
+   "all"
+  ],
+  "264": [
+   "all"
+  ],
+  "142": [
+   "all"
+  ],
+  "144": [
+   "all"
+  ],
+  "146": [
+   "all"
+  ],
+  "73": [
+   4
+  ],
+  "95": [
+   18
+  ],
+  "98": [
+   3
+  ],
+  "108": [
+   0
+  ],
+  "134": [
+   3
+  ],
+  "136": [
+   7
+  ],
+  "155": [
+   1
+  ],
+  "184": [
+   0,
+   1
+  ],
+  "185": [
+   0
+  ],
+  "191": [
+   2
+  ],
+  "193": [
+   2
+  ],
+  "202": [
+   2
+  ],
+  "223": [
+   0
+  ],
+  "224": [
+   0
+  ],
+  "76": [
+   "all"
+  ],
+  "143": [
+   "all"
+  ],
+  "145": [
+   "all"
+  ],
+  "183": [
+   2
+  ],
+  "80": [
+   2
+  ],
+  "147": [
+   0
+  ],
+  "156": [
+   0
+  ],
+  "201": [
+   2
+  ],
+  "35": [
+   1
+  ]
+ },
+ "boxes": [
+  {
+   "page": 76,
+   "rough_pt": [
+    2,
+    153,
+    534,
+    541
+   ],
+   "exact": true,
+   "note": "Part 2 opener photo (texture box ran into the tint gradient)"
+  },
+  {
+   "page": 108,
+   "rough_pt": [
+    55,
+    38,
+    336,
+    440
+   ],
+   "note": "9.21 photo (detected merged with 9.22)"
+  },
+  {
+   "page": 108,
+   "rough_pt": [
+    338,
+    80,
+    527,
+    322
+   ],
+   "note": "9.22 plan"
+  },
+  {
+   "page": 111,
+   "rough_pt": [
+    55,
+    40,
+    105,
+    115
+   ],
+   "note": "detached first element of 10.1"
+  },
+  {
+   "page": 142,
+   "rough_pt": [
+    50,
+    45,
+    190,
+    165
+   ],
+   "exact": true
+  },
+  {
+   "page": 142,
+   "rough_pt": [
+    50,
+    215,
+    190,
+    285
+   ],
+   "exact": true
+  },
+  {
+   "page": 142,
+   "rough_pt": [
+    50,
+    355,
+    190,
+    440
+   ],
+   "exact": true
+  },
+  {
+   "page": 142,
+   "rough_pt": [
+    50,
+    455,
+    190,
+    600
+   ],
+   "exact": true
+  },
+  {
+   "page": 144,
+   "rough_pt": [
+    70,
+    80,
+    175,
+    160
+   ],
+   "exact": true
+  },
+  {
+   "page": 144,
+   "rough_pt": [
+    70,
+    175,
+    175,
+    265
+   ],
+   "exact": true
+  },
+  {
+   "page": 144,
+   "rough_pt": [
+    70,
+    295,
+    175,
+    435
+   ],
+   "exact": true
+  },
+  {
+   "page": 144,
+   "rough_pt": [
+    70,
+    455,
+    175,
+    580
+   ],
+   "exact": true
+  },
+  {
+   "page": 146,
+   "rough_pt": [
+    60,
+    15,
+    180,
+    100
+   ],
+   "exact": true
+  },
+  {
+   "page": 146,
+   "rough_pt": [
+    60,
+    140,
+    180,
+    240
+   ],
+   "exact": true
+  },
+  {
+   "page": 146,
+   "rough_pt": [
+    60,
+    310,
+    180,
+    400
+   ],
+   "exact": true
+  },
+  {
+   "page": 146,
+   "rough_pt": [
+    60,
+    402,
+    180,
+    482
+   ],
+   "exact": true
+  },
+  {
+   "page": 146,
+   "rough_pt": [
+    60,
+    488,
+    180,
+    578
+   ],
+   "exact": true
+  },
+  {
+   "page": 155,
+   "rough_pt": [
+    185,
+    250,
+    505,
+    445
+   ],
+   "note": "14.4 (detected merged with 14.5)"
+  },
+  {
+   "page": 155,
+   "rough_pt": [
+    45,
+    445,
+    500,
+    665
+   ],
+   "note": "14.5"
+  },
+  {
+   "page": 184,
+   "rough_pt": [
+    0,
+    38,
+    335,
+    522
+   ],
+   "note": "18.13 photo"
+  },
+  {
+   "page": 184,
+   "rough_pt": [
+    335,
+    215,
+    405,
+    370
+   ],
+   "note": "small Latina elevation"
+  },
+  {
+   "page": 184,
+   "rough_pt": [
+    395,
+    55,
+    535,
+    525
+   ],
+   "note": "18.14 elevation + scale"
+  },
+  {
+   "page": 185,
+   "rough_pt": [
+    205,
+    48,
+    485,
+    405
+   ],
+   "note": "18.16 photo"
+  },
+  {
+   "page": 185,
+   "rough_pt": [
+    15,
+    240,
+    205,
+    612
+   ],
+   "note": "18.15 drawings"
+  },
+  {
+   "page": 223,
+   "rough_pt": [
+    55,
+    35,
+    332,
+    388
+   ],
+   "note": "24.5 photo"
+  },
+  {
+   "page": 223,
+   "rough_pt": [
+    330,
+    45,
+    505,
+    525
+   ],
+   "note": "24.6 right elevation"
+  },
+  {
+   "page": 223,
+   "rough_pt": [
+    110,
+    445,
+    330,
+    655
+   ],
+   "note": "24.6 lower drawings"
+  },
+  {
+   "page": 224,
+   "rough_pt": [
+    12,
+    48,
+    210,
+    150
+   ],
+   "note": "24.7 plan"
+  },
+  {
+   "page": 224,
+   "rough_pt": [
+    210,
+    38,
+    490,
+    420
+   ],
+   "note": "24.8 photo"
+  },
+  {
+   "page": 224,
+   "rough_pt": [
+    12,
+    232,
+    190,
+    615
+   ],
+   "note": "24.9 drawing"
+  },
+  {
+   "page": 143,
+   "rough_pt": [
+    60,
+    48,
+    485,
+    142
+   ],
+   "note": "12.2 (a)-(c) plans, pale"
+  },
+  {
+   "page": 145,
+   "rough_pt": [
+    355,
+    30,
+    480,
+    252
+   ],
+   "note": "12.3 (e), continued"
+  },
+  {
+   "page": 145,
+   "rough_pt": [
+    355,
+    305,
+    480,
+    428
+   ],
+   "note": "12.4 (a)"
+  },
+  {
+   "page": 145,
+   "rough_pt": [
+    355,
+    430,
+    480,
+    556
+   ],
+   "note": "12.4 (b)"
+  },
+  {
+   "page": 183,
+   "rough_pt": [
+    0,
+    398,
+    331,
+    653
+   ],
+   "exact": true,
+   "note": "18.12 photo (detected box ran into the page-foot shadow)"
+  },
+  {
+   "page": 80,
+   "rough_pt": [
+    302,
+    393,
+    539,
+    661
+   ],
+   "note": "7.4 whole figure; the caption is set inside the figure's area",
+   "exact": true
+  },
+  {
+   "page": 147,
+   "rough_pt": [
+    210,
+    2,
+    470,
+    245
+   ],
+   "note": "12.7 plan (detected box took in the Notes block)"
+  },
+  {
+   "page": 156,
+   "rough_pt": [
+    215,
+    35,
+    500,
+    440
+   ],
+   "note": "14.6 photo (detected box took in a section heading)"
+  },
+  {
+   "page": 201,
+   "rough_pt": [
+    355,
+    215,
+    485,
+    360
+   ],
+   "note": "21.9 photo (detected box took in the end of caption 21.8)"
+  }
+ ],
+ "captions": [
+  {
+   "page": 2,
+   "label": "Cover",
+   "kind": "unnumbered",
+   "rough_pt": [
+    12,
+    690,
+    270,
+    724
+   ],
+   "of": 1
+  },
+  {
+   "page": 6,
+   "label": "Frontispiece",
+   "kind": "unnumbered",
+   "rough_pt": [
+    350,
+    655,
+    480,
+    690
+   ]
+  },
+  {
+   "page": 13,
+   "label": "Part 1 opener",
+   "kind": "unnumbered",
+   "rough_pt": [
+    35,
+    615,
+    180,
+    670
+   ],
+   "of": 12
+  },
+  {
+   "page": 77,
+   "label": "Part 2 opener",
+   "kind": "unnumbered",
+   "rough_pt": [
+    35,
+    615,
+    180,
+    670
+   ],
+   "of": 76
+  },
+  {
+   "page": 93,
+   "label": "Part 3 opener",
+   "kind": "unnumbered",
+   "rough_pt": [
+    35,
+    615,
+    180,
+    670
+   ],
+   "of": 92
+  },
+  {
+   "page": 171,
+   "label": "Part 4 opener",
+   "kind": "unnumbered",
+   "rough_pt": [
+    35,
+    615,
+    180,
+    670
+   ],
+   "of": 170
+  },
+  {
+   "page": 209,
+   "label": "Part 5 opener",
+   "kind": "unnumbered",
+   "rough_pt": [
+    35,
+    615,
+    180,
+    670
+   ],
+   "of": 208
+  },
+  {
+   "page": 237,
+   "label": "Part 6 opener",
+   "kind": "unnumbered",
+   "rough_pt": [
+    35,
+    615,
+    180,
+    675
+   ],
+   "of": 236
+  },
+  {
+   "page": 98,
+   "label": "9.5",
+   "rough_pt": [
+    55,
+    604,
+    182,
+    653
+   ]
+  },
+  {
+   "page": 143,
+   "label": "12.2",
+   "rough_pt": [
+    365,
+    180,
+    490,
+    232
+   ]
+  },
+  {
+   "page": 162,
+   "label": "15.7",
+   "rough_pt": [
+    62,
+    262,
+    185,
+    282
+   ]
+  },
+  {
+   "page": 183,
+   "label": "18.10",
+   "rough_pt": [
+    365,
+    276,
+    485,
+    291
+   ]
+  },
+  {
+   "page": 213,
+   "label": "22.7",
+   "rough_pt": [
+    365,
+    421,
+    475,
+    437
+   ]
+  },
+  {
+   "page": 123,
+   "label": "10.16",
+   "kind": "continuation",
+   "rough_pt": [
+    368,
+    236,
+    452,
+    251
+   ]
+  },
+  {
+   "page": 145,
+   "label": "12.3",
+   "kind": "continuation",
+   "rough_pt": [
+    360,
+    250,
+    436,
+    265
+   ]
+  },
+  {
+   "page": 42,
+   "label": "3.3",
+   "kind": "continuation",
+   "rough_pt": [
+    374,
+    83,
+    412,
+    95
+   ]
+  },
+  {
+   "page": 57,
+   "label": "4.5",
+   "rough_pt": [
+    45,
+    135,
+    172,
+    352
+   ]
+  },
+  {
+   "page": 181,
+   "label": "18.6",
+   "rough_pt": [
+    362,
+    265,
+    487,
+    412
+   ]
+  },
+  {
+   "page": 41,
+   "label": "3.3",
+   "kind": "append",
+   "rough_pt": [
+    358,
+    205,
+    480,
+    277
+   ]
+  },
+  {
+   "page": 41,
+   "label": "3.3",
+   "kind": "append",
+   "rough_pt": [
+    358,
+    367,
+    480,
+    492
+   ]
+  },
+  {
+   "page": 41,
+   "label": "3.3",
+   "kind": "append",
+   "rough_pt": [
+    358,
+    590,
+    480,
+    662
+   ]
+  },
+  {
+   "page": 42,
+   "label": "3.3",
+   "kind": "append",
+   "rough_pt": [
+    371,
+    183,
+    493,
+    245
+   ]
+  },
+  {
+   "page": 42,
+   "label": "3.3",
+   "kind": "append",
+   "rough_pt": [
+    371,
+    348,
+    495,
+    430
+   ]
+  },
+  {
+   "page": 42,
+   "label": "3.3",
+   "kind": "append",
+   "rough_pt": [
+    371,
+    542,
+    484,
+    593
+   ]
+  },
+  {
+   "page": 111,
+   "label": "10.1",
+   "kind": "append",
+   "rough_pt": [
+    362,
+    42,
+    482,
+    368
+   ]
+  },
+  {
+   "page": 134,
+   "label": "11.10",
+   "kind": "append",
+   "rough_pt": [
+    219,
+    407,
+    343,
+    509
+   ]
+  },
+  {
+   "page": 134,
+   "label": "11.10",
+   "kind": "append",
+   "rough_pt": [
+    219,
+    543,
+    342,
+    623
+   ]
+  },
+  {
+   "page": 136,
+   "label": "11.13",
+   "kind": "append",
+   "rough_pt": [
+    61,
+    526,
+    186,
+    645
+   ]
+  },
+  {
+   "page": 150,
+   "label": "13.5",
+   "kind": "append",
+   "rough_pt": [
+    219,
+    35,
+    346,
+    547
+   ]
+  },
+  {
+   "page": 168,
+   "label": "16.10",
+   "kind": "append",
+   "rough_pt": [
+    361,
+    274,
+    499,
+    345
+   ]
+  },
+  {
+   "page": 184,
+   "label": "18.13",
+   "kind": "append",
+   "rough_pt": [
+    198,
+    529,
+    331,
+    609
+   ]
+  }
+ ],
+ "relabel": {
+  "138:11.46": "11.16"
+ },
+ "assign": {
+  "1": [
+   {
+    "label": "Cover",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "6": [
+   {
+    "label": "Frontispiece",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "12": [
+   {
+    "label": "Part 1 opener",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "76": [
+   {
+    "label": "Part 2 opener",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "92": [
+   {
+    "label": "Part 3 opener",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "170": [
+   {
+    "label": "Part 4 opener",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "208": [
+   {
+    "label": "Part 5 opener",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "236": [
+   {
+    "label": "Part 6 opener",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "247": [
+   {
+    "label": "Tailpiece",
+    "boxes": [
+     0
+    ]
+   }
+  ],
+  "10": [
+   {
+    "label": "Map 1",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "Map 2",
+    "boxes": [
+     1
+    ]
+   },
+   {
+    "label": "Map 3",
+    "boxes": [
+     2
+    ]
+   }
+  ],
+  "42": [
+   {
+    "label": "3.3",
+    "boxes": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "note": "3.3 continued from p. 41"
+   }
+  ],
+  "56": [
+   {
+    "label": "4.5",
+    "boxes": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "sub": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ],
+    "note": "caption on facing p. 57"
+   }
+  ],
+  "98": [
+   {
+    "label": "9.7",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "9.6",
+    "boxes": [
+     1
+    ]
+   },
+   {
+    "label": "9.5",
+    "boxes": [
+     2
+    ]
+   }
+  ],
+  "108": [
+   {
+    "label": "9.23",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "9.21",
+    "boxes": [
+     1
+    ]
+   },
+   {
+    "label": "9.22",
+    "boxes": [
+     2
+    ]
+   }
+  ],
+  "123": [
+   {
+    "label": "10.16",
+    "boxes": [
+     0
+    ],
+    "sub": [
+     "e"
+    ],
+    "note": "printed '10.16 cont'd (e) Type 5.'"
+   },
+   {
+    "label": "10.17",
+    "boxes": [
+     1
+    ]
+   }
+  ],
+  "124": [
+   {
+    "label": "10.18",
+    "boxes": [
+     0,
+     1
+    ],
+    "sub": [
+     "a",
+     "b"
+    ]
+   }
+  ],
+  "126": [
+   {
+    "label": "10.20",
+    "boxes": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   {
+    "label": "10.21",
+    "boxes": [
+     4
+    ]
+   }
+  ],
+  "142": [
+   {
+    "label": "12.1",
+    "boxes": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "sub": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ]
+   }
+  ],
+  "144": [
+   {
+    "label": "12.3",
+    "boxes": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "sub": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ]
+   }
+  ],
+  "145": [
+   {
+    "label": "12.3",
+    "boxes": [
+     0
+    ],
+    "sub": [
+     "e"
+    ],
+    "note": "printed '12.3 cont'd: (e) Type 5.'"
+   },
+   {
+    "label": "12.4",
+    "boxes": [
+     1,
+     2
+    ],
+    "sub": [
+     "a",
+     "b"
+    ]
+   }
+  ],
+  "146": [
+   {
+    "label": "12.5",
+    "boxes": [
+     0,
+     1
+    ],
+    "sub": [
+     "a",
+     "b"
+    ]
+   },
+   {
+    "label": "12.6",
+    "boxes": [
+     2,
+     3,
+     4
+    ],
+    "sub": [
+     "a",
+     "b",
+     "c"
+    ]
+   }
+  ],
+  "155": [
+   {
+    "label": "14.3",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "14.4",
+    "boxes": [
+     1
+    ]
+   },
+   {
+    "label": "14.5",
+    "boxes": [
+     2
+    ]
+   }
+  ],
+  "184": [
+   {
+    "label": "18.13",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "18.14",
+    "boxes": [
+     1,
+     2
+    ],
+    "note": "the small Latina elevation (part 1) sits beside 18.14 and is grouped with it by position; the captions do not say which figure it belongs to"
+   }
+  ],
+  "185": [
+   {
+    "label": "18.16",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "18.15",
+    "boxes": [
+     1
+    ]
+   }
+  ],
+  "223": [
+   {
+    "label": "24.5",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "24.6",
+    "boxes": [
+     1,
+     2
+    ]
+   }
+  ],
+  "224": [
+   {
+    "label": "24.7",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "24.8",
+    "boxes": [
+     1
+    ]
+   },
+   {
+    "label": "24.9",
+    "boxes": [
+     2
+    ]
+   }
+  ],
+  "134": [
+   {
+    "label": "11.11",
+    "boxes": [
+     0
+    ]
+   },
+   {
+    "label": "11.10",
+    "boxes": [
+     1,
+     2
+    ]
+   }
+  ],
+  "143": [
+   {
+    "label": "12.2",
+    "boxes": [
+     0
+    ]
+   }
+  ]
+ },
+ "split_x": {
+  "95": {
+   "x_pt": 350,
+   "left": "9.1",
+   "right": "9.2"
+  }
+ },
+ "caption_elsewhere": {
+  "10.19": 125,
+  "11.12": 135,
+  "2.5": 38,
+  "6.2": 69,
+  "7.1": 79,
+  "9.9": 99
+ },
+ "_doc_append": "kind=append: caption text continued in another column or a legend block; OCR'd and appended to the caption, in the order listed.",
+ "_doc_caption_fixes": "Hand corrections made by reading the caption crop at native resolution (_work/cap/). Each pair is OCR text -> printed text. caption_verified lists captions read in full against the crop.",
+ "caption_fixes": {
+  "Frontispiece": [
+   [
+    "aa Main",
+    "Main"
+   ],
+   [
+    "Kumbhanya",
+    "Kumbhariya"
+   ]
+  ],
+  "Part 6 opener": [
+   [
+    "tempie",
+    "temple"
+   ]
+  ],
+  "2.1": [
+   [
+    "incamation",
+    "incarnation"
+   ]
+  ],
+  "7.1": [
+   [
+    "c ist century",
+    "c 1st century"
+   ],
+   [
+    "(yasht)",
+    "(yashti)"
+   ],
+   [
+    "(chattravall)",
+    "(chattravali)"
+   ],
+   [
+    "princely origins In",
+    "princely origins. In"
+   ],
+   [
+    "late: transformed",
+    "later transformed"
+   ],
+   [
+    "(7,8)",
+    "(7.8)"
+   ],
+   [
+    "timber detailing This",
+    "timber detailing. This"
+   ]
+  ],
+  "8.5": [
+   [
+    "parrelroofed",
+    "barrel-roofed"
+   ]
+  ],
+  "9.3": [
+   [
+    "interor",
+    "interior"
+   ]
+  ],
+  "9.5": [
+   [
+    "smali",
+    "small"
+   ],
+   [
+    "Badan (Karnataka) c 12th century. with plain lantern ceilng’ Beyond are the tank and Bhutanatha ten.ple",
+    "Badami (Karnataka), c 12th century, with plain ‘lantern ceiling’. Beyond are the tank and Bhutanatha temple"
+   ]
+  ],
+  "9.12": [
+   [
+    "Pattadakal Karnataka)",
+    "Pattadakal (Karnataka)"
+   ],
+   [
+    "rectangular hall open hall",
+    "rectangular hall: open hall"
+   ],
+   [
+    "ambulatory in lati rto the hal Figute g shcws",
+    "ambulatory in relation to the hall. Figure g shows"
+   ]
+  ],
+  "10.2": [
+   [
+    "amnta",
+    "amrita"
+   ]
+  ],
+  "10.10": [
+   [
+    "intemal",
+    "internal"
+   ]
+  ],
+  "10.12": [
+   [
+    "Shekhan",
+    "Shekhari"
+   ]
+  ],
+  "13.1": [
+   [
+    "minature",
+    "miniature"
+   ]
+  ],
+  "13.4": [
+   [
+    "Dhittas",
+    "bhittas"
+   ],
+   [
+    "kumbha-kalasha-kapotall",
+    "kumbha-kalasha-kapotali"
+   ],
+   [
+    "miniature kapotall",
+    "miniature kapotali"
+   ]
+  ],
+  "13.5": [
+   [
+    "The Jagati",
+    "The jagati"
+   ],
+   [
+    "(tm-patta)",
+    "(tri-patta)"
+   ]
+  ],
+  "14.8": [
+   [
+    "paillava",
+    "pallava"
+   ]
+  ],
+  "16.1": [
+   [
+    "(hb)",
+    "(b)"
+   ]
+  ],
+  "16.6": [
+   [
+    "c Sth",
+    "c 9th"
+   ],
+   [
+    "gefreral",
+    "general"
+   ]
+  ],
+  "16.11": [
+   [
+    "clistorted",
+    "distorted"
+   ]
+  ],
+  "17.8": [
+   [
+    "arnalaka",
+    "amalaka"
+   ]
+  ],
+  "18.13": [
+   [
+    "qirections",
+    "directions"
+   ],
+   [
+    "*teir",
+    "their"
+   ],
+   [
+    "(dikpalikas) In the base",
+    "(dikpalikas). In the base"
+   ]
+  ],
+  "19.2": [
+   [
+    "Guzjara",
+    "Gurjara"
+   ]
+  ],
+  "21.2": [
+   [
+    "Typicaily",
+    "Typically"
+   ]
+  ],
+  "21.6": [
+   [
+    "muiti",
+    "multi"
+   ]
+  ],
+  "21.16": [
+   [
+    "tum",
+    "turn"
+   ]
+  ],
+  "22.7": [
+   [
+    "Anuna",
+    "Arjuna"
+   ]
+  ],
+  "23.1": [
+   [
+    "fable",
+    "friable"
+   ]
+  ],
+  "23.3": [
+   [
+    "mcreased",
+    "increased"
+   ]
+  ],
+  "24.3": [
+   [
+    "TECeSS",
+    "recess"
+   ]
+  ],
+  "25.13": [
+   [
+    "schoo",
+    "school"
+   ],
+   [
+    "local schooll",
+    "local school"
+   ],
+   [
+    "school!s",
+    "schools"
+   ]
+  ],
+  "Cover": [
+   [
+    "| The cover",
+    "The cover"
+   ],
+   [
+    "Foekema. |",
+    "Foekema."
+   ]
+  ],
+  "21.8": [
+   [
+    "(phata-pallava)",
+    "(ghata-pallava)"
+   ],
+   [
+    "kutastambha containing",
+    "kuta-stambha containing"
+   ],
+   [
+    "ghata-puma",
+    "ghata-purna"
+   ]
+  ],
+  "10.18": [
+   [
+    "(6/5)",
+    "(5/5)"
+   ]
+  ],
+  "26.4": [
+   [
+    "16th century",
+    "15th century"
+   ]
+  ],
+  "9.23": [
+   [
+    "proceeding 1n wards",
+    "proceeding in wards"
+   ]
+  ],
+  "18.2": [
+   [
+    "temple Amrol (MP), c early to md-8th century (cf 18.2)",
+    "temple, Amrol (MP), c early to mid-8th century (cf 13.2)"
+   ],
+   [
+    "at Amrol! these",
+    "at Amrol these"
+   ],
+   [
+    "in the Jata (spine)",
+    "in the lata (spine)"
+   ]
+  ],
+  "20.7": [
+   [
+    "(2th century",
+    "12th century"
+   ]
+  ],
+  "21.11": [
+   [
+    "c mid- 10th",
+    "c mid-10th"
+   ]
+  ],
+  "20.8": [
+   [
+    "Same] (Gujarat)",
+    "Sarnel (Gujarat)"
+   ]
+  ],
+  "11.13": [
+   [
+    "while (@) and (g)",
+    "while (d) and (g)"
+   ]
+  ],
+  "11.15": [
+   [
+    "each K-Ks~ $'S'P’'S’S-Ks-K",
+    "each K–Ks– S'S'P'S'S–Ks–K"
+   ],
+   [
+    "tiers (tala),",
+    "tiers (talas),"
+   ]
+  ],
+  "9.2": [
+   [
+    "(b) _ shrine",
+    "(b) shrine"
+   ]
+  ],
+  "21.9": [
+   [
+    "Photo © Gerard _",
+    "Photo © Gerard Foekema"
+   ]
+  ],
+  "21.12": [
+   [
+    "are ~ given",
+    "are given"
+   ],
+   [
+    "Dala-panjaras",
+    "bala-panjaras"
+   ],
+   [
+    "in the towel.",
+    "in the tower."
+   ],
+   [
+    "see It as",
+    "see it as"
+   ]
+  ],
+  "11.11": [
+   [
+    "(t7i-tala)",
+    "(tri-tala)"
+   ],
+   [
+    "as K-S-5-K",
+    "as K-S-S-K"
+   ]
+  ],
+  "12.6": [
+   [
+    "16point",
+    "16-point"
+   ]
+  ],
+  "3.7": [
+   [
+    "jerky, .§ a Powerpoint",
+    "jerky, is a Powerpoint"
+   ],
+   [
+    "unfold as lt bings",
+    "unfold as it bings"
+   ]
+  ],
+  "2.4": [
+   [
+    "(1012 44,.",
+    "(1012–44)."
+   ]
+  ],
+  "9.14": [
+   [
+    "(Karnataka))",
+    "(Karnataka)"
+   ],
+   [
+    "(/jagati)",
+    "(jagati)"
+   ]
+  ],
+  "9.19": [
+   [
+    "archway torana)",
+    "archway (torana)"
+   ]
+  ],
+  "10.3": [
+   [
+    "type ib),",
+    "type (b),"
+   ]
+  ],
+  "11.8": [
+   [
+    "alpa vimana Conspicuous",
+    "alpa vimana. Conspicuous"
+   ],
+   [
+    "paired '‘kapota-panjara aedicules’ (cf 11.10))",
+    "paired ‘kapota-panjara aedicules’ (cf 11.10j)"
+   ]
+  ],
+  "11.9": [
+   [
+    "(11.10)) and Nandi",
+    "(11.10j) and Nandi"
+   ]
+  ],
+  "16.9": [
+   [
+    "(c) (1th-century",
+    "(c) 11th-century"
+   ]
+  ],
+  "20.9": [
+   [
+    "spine Vata)",
+    "spine (lata)"
+   ],
+   [
+    "kutastambha chains",
+    "kuta-stambha chains"
+   ]
+  ],
+  "9.1": [
+   [
+    "(n, 0)",
+    "(n, o)"
+   ],
+   [
+    "(r, S)",
+    "(r, s)"
+   ],
+   [
+    "t7-ratha",
+    "tri-ratha"
+   ],
+   [
+    "navaratha",
+    "nava-ratha"
+   ],
+   [
+    "(‘imbs’",
+    "(‘limbs’"
+   ],
+   [
+    "(2limbed)",
+    "(2-limbed)"
+   ],
+   [
+    "(3limbed)",
+    "(3-limbed)"
+   ],
+   [
+    "tr-anga",
+    "tri-anga"
+   ],
+   [
+    "3, 5,7 and 9 facets",
+    "3, 5, 7 and 9 facets"
+   ],
+   [
+    "3, 4, 5, 7,9 projections",
+    "3, 4, 5, 7, 9 projections"
+   ],
+   [
+    "square plan — basis",
+    "square plan – basis"
+   ]
+  ],
+  "8.6": [
+   [
+    "(Rameshvara), Flora",
+    "(Rameshvara), Ellora"
+   ]
+  ],
+  "10.11": [
+   [
+    "and tive bhumis",
+    "and five bhumis"
+   ]
+  ],
+  "10.14": [
+   [
+    "may he stylised",
+    "may be stylised"
+   ]
+  ],
+  "11.1": [
+   [
+    "barrel-rooted",
+    "barrel-roofed"
+   ]
+  ],
+  "16.2": [
+   [
+    "chaitya hail",
+    "chaitya hall"
+   ]
+  ],
+  "16.3": [
+   [
+    "corner of root",
+    "corner of roof"
+   ]
+  ],
+  "25.2": [
+   [
+    "Phamsana root",
+    "Phamsana roof"
+   ]
+  ],
+  "17.11": [
+   [
+    "Palani",
+    "Palari"
+   ]
+  ],
+  "20.2": [
+   [
+    "is ike a",
+    "is like a"
+   ]
+  ],
+  "22.6": [
+   [
+    "ratha (night)",
+    "ratha (right)"
+   ]
+  ],
+  "10.1": [
+   [
+    "(d = ff.",
+    "(d = f)."
+   ],
+   [
+    "gable of 2 dormer",
+    "gable of a dormer"
+   ],
+   [
+    "adoming",
+    "adorning"
+   ],
+   [
+    "should be bome in mind",
+    "should be borne in mind"
+   ],
+   [
+    "(kama-kutas)",
+    "(karna-kutas)"
+   ],
+   [
+    "in Dravida architecture The Valabhi",
+    "in Dravida architecture. The Valabhi"
+   ]
+  ]
+ },
+ "caption_verified": [
+  "2.1",
+  "3.10",
+  "3.14",
+  "7.7",
+  "8.5",
+  "9.3",
+  "9.5",
+  "10.2",
+  "10.10",
+  "10.12",
+  "10.17",
+  "10.20",
+  "11.10",
+  "13.1",
+  "13.4",
+  "14.8",
+  "16.1",
+  "16.5",
+  "16.6",
+  "16.11",
+  "17.8",
+  "19.2",
+  "21.2",
+  "21.6",
+  "21.16",
+  "22.7",
+  "23.1",
+  "23.3",
+  "24.3",
+  "25.13",
+  "Frontispiece",
+  "Part 6 opener",
+  "9.12",
+  "18.13",
+  "Cover",
+  "Part 1 opener",
+  "Part 2 opener",
+  "Part 3 opener",
+  "Part 4 opener",
+  "Part 5 opener",
+  "15.7",
+  "18.10",
+  "1.8",
+  "7.1",
+  "10.18",
+  "26.4",
+  "9.23",
+  "18.2",
+  "20.7",
+  "21.11",
+  "13.7",
+  "16.9",
+  "19.10",
+  "24.10",
+  "16.12",
+  "20.8",
+  "11.13",
+  "11.15",
+  "9.2",
+  "21.9",
+  "21.12",
+  "11.11",
+  "12.6",
+  "3.7",
+  "2.4",
+  "9.14",
+  "9.19",
+  "10.3",
+  "11.8",
+  "11.9",
+  "20.9",
+  "9.1",
+  "8.6",
+  "10.11",
+  "10.14",
+  "11.1",
+  "16.2",
+  "16.3",
+  "25.2",
+  "17.11",
+  "20.2",
+  "22.6",
+  "10.1"
+ ],
+ "mask_captions": {
+  "80": [
+   "7.4"
+  ]
+ },
+ "_doc_mask": "mask_captions: caption printed inside a figure's rectangle; that caption region is filled with the page's paper tone in the saved crop (recorded in notes).",
+ "caption_text": {
+  "3.3": "3.3 Architectural means of expressing movement in Indian temples: Projection. Projection of an embedded form almost by definition suggests emergence or emanation: pro-jection is ‘throwing forward’, though (relative to the observer) things can also be thrown sideways, diagonally and backwards. Staggering or multiple projection. Staggering, or progressive stepping out, suggests expansion in stages, a serial emanation. Closely bunched offsets can also create the impression of vibration (spanda) as if with inner energy. A staggered sequence of forms, embedded one within another, can be entirely at one level (in which case the elements slide out like an unfolding telescope), or step down as they step out. Splitting. Two aligned halves of something familiar as a whole suggest that the whole has split; or even that the halves are still separating, especially if a projected form appears between them, as if emerging from the void. Bursting of boundaries. Where a projecting and enshrined form overlaps the confines of its frame, its emergence is accompanied by a greater sense of expansion. Progressive multiplication. Proliferation (thus growth of the whole, but not necessarily of the parts) is portrayed where elements are arranged in a sequence of rows, starting with one and then progressively increasing in number. Expanding repetition. Growth is expressed when, in a series, the elements are similar but get progressively bigger.",
+  "11.10": "11.10 Dravida aedicules. Note: the letters in brackets show a simple notation used in this book to describe Dravida aedicules and groups of them. Crowning pavilions: (a) kuta; (b) panjara; (c) shala. A panjara is an end-on shala. The basic two-storey aedicules – images of two-storey alpa vimanas: (d) kuta aedicule (K); (e) panjara aedicule (P); (f) shala aedicule (S); (g) harantara-panjara (harantara = recess in parapet between pavilions). Three-storey aedicules – images of three-storey alpa vimanas (two-storey aedicules become crowning pavilions): (h) kuta aedicule (K̄); (i) panjara aedicule (P̄); (j) kapota-panjara aedicule,a form between primary and secondary aedicules (niches etc), using a ‘horse shoe arch’ or gavaksha-dormer in the kapota eave moulding as its crowning gable. (k) shala aedicule (S̄)",
+  "16.12": "16.12 Varieties of typical gavaksha patterns. All of these appeared for about 600 years over a wide area. They are drawn in various styles (stylistic labels following the Encyclopaedia of Indian Temple Architecture) to show how composition is independent of the style. These patterns are made from the components shown in 16.11. The grid system allows minor variations to these basic arrangements. For example, ‘o’ and ‘w’ motifs are interchangeable, ‘o’ can be substituted for ‘ow’ or ‘wo’; and ‘r’ for ‘v’. (a) Maha-Maru style, c 8th century. This common pattern of ‘o’ and ‘r’ motifs provides the starting point (the top) for most other patterns. It is an overlapping version of the whole-over-two-halves configuration. (b) Pattern of ‘w’, ‘v’ and ‘r’ motifs, drawn in Darsanadesha style, c 9th century. (c) Pattern of ‘ow’ ‘w’ and ‘wo’ motifs, drawn in Maru-Gurjara style, c 12th century. The gavakshas are of an extreme kind, with ears that poke half a square beyond the grid. (d) Pattern of ‘r’ and ‘v’ motifs, drawn in Karnata Nagara style, c 8th century"
+ }
+}

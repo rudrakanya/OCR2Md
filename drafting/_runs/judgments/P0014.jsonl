@@ -1,0 +1,25 @@
+{"c":"4b58d84d8e","keep":true,"items":[{"unit":"C02","sub":"S1","type":"fact","strength":"direct","span":[90,94],"xref":["C04","C08"],"note":"Bhoja excavated Bhojapur Lake, the largest of its kind, said to spread over the village of Betwa to 250 square miles; irrigational capacity not attested"}]}
+{"c":"37c193b22d","keep":false,"reject_reason":"generic land-revenue terminology and footnotes; no Udaypur bearing"}
+{"c":"c43d395e78","keep":false,"reject_reason":"generic market taxes and weights tables, partly garbled; no Udaypur bearing"}
+{"c":"4783867250","keep":false,"reject_reason":"weights and barter prices, mostly Chola evidence; generic and garbled"}
+{"c":"5953abe4af","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02-C13 (price tables, mines and metals, generic)"}
+{"c":"4550097ac5","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[53,57],"note":"Textile manufacture continued in the period; in Malwa cotton cloths were common enough to form an export trade (Chau-ju-kua)"}]}
+{"c":"ea5de64a64","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[47,52],"note":"Stone-cutting and polishing as an old Indian industry; stone terraces around sacred tanks admired by Alberuni"},{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[55,59],"xref":["C04"],"note":"Iron beams in the temples of Bhuvanesvara, Puri and Konark, and the iron pillar at Dhara, capital of the Paramara kings of Malwa, cited as the iron-smiths' skill"}]}
+{"c":"bf67030dff","keep":false,"reject_reason":"umbrellas and furniture from Yuktikalpataru; generic craft detail"}
+{"c":"7c60ab2cd2","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[19,24],"note":"Bhoja prescribes qualifications of a carpenter: bamboo-work, engraving, embroidering on stones and gold, silpa and wood-work"},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[36,41],"note":"Dynastic records, including Rajputana inscriptions, mention grants of salt pits and salt-making rights to donees"}]}
+{"c":"f2aa623675","keep":false,"reject_reason":"sword manufacturing centres and boat-making; no Udaypur bearing"}
+{"c":"9c310eafaa","keep":false,"reject_reason":"shipbuilding from Yuktikalpataru; off-topic"}
+{"c":"f196e06d0f","keep":false,"reject_reason":"ship classification and decoration; off-topic and partly garbled OCR"}
+{"c":"2c5427d571","keep":false,"reject_reason":"boat construction and naval warfare; off-topic"}
+{"c":"a3e347e09d","keep":false,"reject_reason":"ships, boat sculptures and transport; off-topic"}
+{"c":"fbc4ba0df7","keep":false,"reject_reason":"travel and bullock-cart sculptures; generic, no Udaypur bearing"}
+{"c":"35cff04ed1","keep":false,"reject_reason":"Chola trade and guilds; generic, no Udaypur bearing"}
+{"c":"09c0c0443f","keep":false,"reject_reason":"overseas trade and sea routes; off-topic"}
+{"c":"81a9b0d112","keep":false,"reject_reason":"Indian Ocean seaports and Arab trade; off-topic"}
+{"c":"4fb291d178","keep":false,"reject_reason":"Arab maritime raids and trade; off-topic"}
+{"c":"e3e5bf378b","keep":false,"reject_reason":"Arab and south-east Asian trade; off-topic"}
+{"c":"92494ba124","keep":false,"reject_reason":"Champa, Suvarnadvipa and China trade; off-topic"}
+{"c":"a5e0fd5276","keep":false,"reject_reason":"Chinese trade and exports list; off-topic"}
+{"c":"654b7a7372","keep":true,"items":[{"unit":"C08","sub":"S5","type":"fact","strength":"contextual","span":[20,23],"note":"Chau-ju-Kua says Gujarat exported cloth carried there from Malwa on 2000 oxen"}]}
+{"c":"4dcdcb99c5","keep":true,"items":[{"unit":"C04","sub":"S4","type":"fact","strength":"direct","span":[91,95],"xref":["C08"],"note":"No coin of Bhoja found; Udayaditya (A.D. 1060-1087) was the only Paramara ruler who issued gold coins","claim":{"key":"Udayāditya: reign dates","value":"1060-1087"}}]}
+{"c":"dd6482e208","keep":false,"reject_reason":"coin devices of Kalachuri, Chandella and Tomara dynasties; no Udaypur bearing and partly garbled"}

@@ -550,9 +550,12 @@ def cmd_topup(cid, query, n=6):
                  "| chunk_id | source | type | status | page | quotable | text |\n"
                  "|---|---|---|---|---|---|---|\n")
         for r in added:
+            # Py3.11 cannot parse a backslash inside an f-string's {}, so the
+            # cell text is folded beforehand.
+            text_cell = re.sub(r"[|]", "/", re.sub(r"\s+", " ", r["text"]))[:260]
             fh.write(f"| `{r['chunk_id']}` | {r['parent_source_id']} | {r['source_type']} | {r['epistemic_status']} | "
                      f"{page_of(r)} | {'yes' if r['is_quotable'] else '**no**'} | "
-                     f"{re.sub(r'[|]', '/', re.sub(r'\s+', ' ', r['text']))[:260]} |\n")
+                     f"{text_cell} |\n")
     state(cid, stage="topup", last_topup=query, dossier=len(dossier))
     print(f"{cid}: +{len(added)} chunks for “{query}” (dossier now {len(dossier)})")
     for r in added:
@@ -1208,10 +1211,13 @@ def cmd_handoff(cid):
             "|--:|---|---|---|---|---|--:|---|---|"]
     for i in order:
         r = dossier.get(i, {})
+        # Py3.11 cannot parse a backslash inside an f-string's {}, so the
+        # cell text is folded beforehand.
+        passage_cell = re.sub(r"\s+", " ", r.get("text", ""))[:300].replace("|", "/")
         prov.append(f"| {notes[i]} | `{i}` | {r.get('parent_source_id','?')} | {r.get('source_type','?')} | "
                     f"{r.get('epistemic_status','?')} | {r.get('page') or '—'} | {r.get('corroboration_count','?')} | "
                     f"{'yes' if r.get('is_quotable') else 'no'} | "
-                    f"{re.sub(r'\s+', ' ', r.get('text', ''))[:300].replace('|', '/')} |")
+                    f"{passage_cell} |")
     (f / "handoff" / "provenance_appendix.md").write_text("\n".join(prov) + "\n", encoding="utf-8")
 
     used = {i: dossier[i] for i in order if i in dossier}

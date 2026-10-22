@@ -1,0 +1,25 @@
+{"c":"06007e88ab","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[23,23],"note":"Ujjain grant of Vākpatirājadeva alias Amōghavarsha, of the Paramāra ruling house of Mālwā; genealogy identical with the Dharampurī grant of V.S. 1031."},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[27,27],"note":"Grant of V.S. 1036 (26 Oct 980) of the village Sembalapura to provide worship of the goddess Bhaṭṭēsvārī at Ujjain and temple repairs; an example of a royal endowment for a temple."}]}
+{"c":"e24ab80728","keep":false,"reject_reason":"footnotes and identification of Bhagavatpura; no bearing on Udaypur"}
+{"c":"424ee48b5b","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[1,1],"note":"Editor tentatively suggests Vākpati-Muñja encamped near Bhagōr during his struggle with enemies in the west, the Chaulukya Mūlarāja I, the Guhila Sāktikumāra and the Chāhamāna Balirāja, 'all of whom are known to have been defeated by him'."}]}
+{"c":"a3cbb0eb7e","keep":false,"reject_reason":"metre notes, garbled Sanskrit OCR and bibliographic footnotes"}
+{"c":"3afa9fc076","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"6318e8dc4f","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"9e4fbc9334","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"743f1b8202","keep":false,"reject_reason":"discovery and physical description of the Gaonri plates; no bearing on Udaypur"}
+{"c":"94f8fffbf8","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[32,32],"note":"Dikshit's conjecture that Siyaka, in invading the Rāshṭrakūṭa capital about 973 A.C., took the earlier Rāshṭrakūṭa grant plate as booty, later reused by Vākpati."}]}
+{"c":"7d0083143e","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[24,24],"note":"Gaonrī grant: Vākpatirājadeva donates the village Vaṇikā in Hūṇa-maṇḍala to thirty-six Brāhmaṇas."},{"unit":"C09","sub":"S1","type":"fact","strength":"contextual","span":[28,28],"note":"Donees hailed to Mālwā from Magadha, Dakshina-Rāḍha, Uttara-Kula, Sāvathika, Lāta and Madhyadēśa, valuable for the social history of Mālwā of this period."}]}
+{"c":"986fd46f9d","keep":true,"items":[{"unit":"C04","sub":"S1","type":"fact","strength":"contextual","span":[7,10],"note":"Genealogy in the Gaonrī grant: Krishnarāja, successor Vairisiṃha, successor Siyaka, all of the Paramāra house of Mālwā, predecessors of Vākpatirājadeva."}]}
+{"c":"621c32b8c2","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[6,6],"xref":["C04"],"note":"According to the Udaipur praśasti, Vākpati's father Siyaka defeated the Hūnas.","claim":{"key":"Udaipur praśasti: location / date / reliability","value":"states Siyaka defeated the Hūnas"}}]}
+{"c":"6a995515dc","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13"}
+{"c":"fac5e0ba33","keep":true,"items":[{"unit":"C09","sub":"S1","type":"fact","strength":"contextual","span":[21,22],"note":"Of the regions from which Brāhmaṇas migrated to Mālwā at the time of the Gaonrī grant, Bengal occupies first place; all those from Bengal are Sāmavēdins of the Chhāndōgya-śākhā."}]}
+{"c":"24c50c475e","keep":false,"reject_reason":"table of Brāhmaṇa donees of the Gaonrī plates; nothing for Udaypur"}
+{"c":"fba9b42d6c","keep":false,"reject_reason":"continuation of donee table and metre notes; nothing for Udaypur"}
+{"c":"4d9e44cc01","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"ffb8194c78","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"374e82d2aa","keep":false,"reject_reason":"plate caption and OCR garbage"}
+{"c":"c3a5d0f799","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"fc5f4e9d15","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"877dc8a146","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"a7e648fa1f","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"2cf097313c","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"edf30d94f4","keep":false,"reject_reason":"discovery and physical description of the Gaonri plates; no bearing on Udaypur"}

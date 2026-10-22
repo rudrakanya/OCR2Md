@@ -1,0 +1,25 @@
+{"c":"3f369175c8","keep":true,"items":[{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[19,20],"note":"In the Nilakaṇṭheśvara Temple in Udayapur the division of the maṇḍapa pillar area is measured from the inner corners of the pillars (Fig., p. 256), unlike the usual outer corners."},{"unit":"C05","sub":"S1","type":"fact","strength":"contextual","span":[10,11],"note":"Lakṣmaṇa Temple, Khajuraho, is a pañcāyatana temple with four subsidiary shrines at the corners of its terrace."}]}
+{"c":"a4687122d0","keep":true,"items":[{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[13,13],"note":"Maṇḍapa has twice the width of the Prāsāda in the Udayapur Temple."},{"unit":"C05","sub":"S1","type":"date","strength":"direct","span":[15,17],"note":"Plan caption: Nilakanthesvara Temple, Udayapur, Gowalior, 1059-1080 A.D., from Cunningham ASR vol. VII Pl. VI.","xref":["C04","C11"],"claim":{"key":"temple foundation/consecration date","value":"1059-1080 A.D. (plan caption)"},"refs":["Cunningham, ASR vol. VII, Pl. VI"]},{"unit":"C05","sub":"S1","type":"architectural detail","strength":"direct","span":[22,24],"note":"Substantial walls of this stellate Nirandhāra temple extend from the perimeter to the garbhagṛha and mahāmaṇḍapa; buttresses project radiately, not axially."}]}
+{"c":"e6c4e11563","keep":true,"items":[{"unit":"C05","sub":"S1","type":"quote","strength":"contextual","span":[2,4],"note":"'As is the Prāsāda, so is the Mandapa in front of it': applies to its walls and theme."}]}
+{"c":"2dc7821363","keep":true,"items":[{"unit":"C05","sub":"S3","type":"date","strength":"direct","span":[29,31],"note":"Plate caption: profile of socle and lowermost part of wall, Nilakanthésvara Temple, Udayapur, Gwalior, 1059-1080 A.D.","claim":{"key":"temple foundation/consecration date","value":"1059-1080 A.D. (plate caption)"}}]}
+{"c":"5b23e4207e","keep":false,"reject_reason":"South Indian Drāviḍa temple proportions; no bearing on Udaypur"}
+{"c":"b496bdd7d4","keep":false,"reject_reason":"South Indian Alpa-prāsāda proportions; off-topic for Udaypur"}
+{"c":"90d0110b7e","keep":false,"reject_reason":"South Indian cupola class names (Mayamata); off-topic"}
+{"c":"d336cd5259","keep":false,"reject_reason":"South Indian Alpa-vimāna proportion table; off-topic"}
+{"c":"cacedc30be","keep":false,"reject_reason":"South Indian small shrine proportions and Orissan comparisons; off-topic"}
+{"c":"50916f012d","keep":false,"reject_reason":"South Indian proportion table; off-topic"}
+{"c":"3383540ca4","keep":false,"reject_reason":"South Indian height-to-width proportions; off-topic"}
+{"c":"7ee1061724","keep":false,"reject_reason":"South Indian Drāviḍa proportion table; off-topic"}
+{"c":"e49cf94e31","keep":false,"reject_reason":"South Indian Jāti and Mukhya Vimāna proportions; off-topic"}
+{"c":"675ee3e123","keep":false,"reject_reason":"South Indian floor-rhythm table (Kāśyapaśilpa); off-topic"}
+{"c":"faea9da7df","keep":false,"reject_reason":"South Indian four-storeyed temple division; off-topic"}
+{"c":"53a647ee99","keep":false,"reject_reason":"South Indian elevation table; off-topic"}
+{"c":"1c70b17538","keep":false,"reject_reason":"South Indian great-temple heights and seven-storey table; off-topic"}
+{"c":"6a3fd14877","keep":false,"reject_reason":"table fragment only; no usable evidence"}
+{"c":"5d8864f630","keep":false,"reject_reason":"multi-storey South Indian heights and chronology of Vāstuśāstras; off-topic"}
+{"c":"9ac3e9e724","keep":false,"reject_reason":"commentary on South Indian Mānasāra plus garbled number run; off-topic"}
+{"c":"fb9160b390","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[8,11],"note":"The Twenty Temples are treated in detail in Samarāṅgaṇasūtradhāra chapters LVII and LIX, where some represent a particular local school, that of Mālava."}]}
+{"c":"4ffbcdc159","keep":false,"reject_reason":"general typology of the Twenty Temples (ṣaḍaśra etc.); nothing specific for Udaypur (pilot-judged for C01)"}
+{"c":"c716f04770","keep":false,"reject_reason":"heights and bhūmi counts of the Twenty Temples; generic with no Udaypur link"}
+{"c":"2467dc1b7c","keep":true,"items":[{"unit":"C05","sub":"S3","type":"architectural detail","strength":"contextual","span":[7,11],"note":"Gavākṣa and candraśālā forms: blind windows in rows form a jāla on the kapota cornices of the śikhara."}]}
+{"c":"a8e939b74b","keep":true,"items":[{"unit":"C05","sub":"S6","type":"quote","strength":"contextual","span":[19,21],"note":"Samarāṅgaṇasūtradhāra LVIII Prāsāda-stavanam: of 64 Prāsādas, 8 belong to Śiva (Vimāna, Sarvatobhadra, Gajapṛṣṭha ... Drāviḍa)."}]}

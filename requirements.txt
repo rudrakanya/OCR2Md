@@ -8,7 +8,7 @@ indic-transliteration>=2.3   # optional: ocr_to_markdown.py --transliterate (Dev
 # Note: the scripts under legacy/ additionally use: anthropic, pdf2image, Pillow
 # (and the poppler binary). They are NOT required by ocr_to_markdown.py.
 
-# --- v2 additions -------------------------------------------------------
+# --- v2 additions (root pipeline) ---------------------------------------
 # SQLite FTS5 (sparse index), the entity registry and the claim store are all
 # stdlib — no new dependency. The only optional one is the LOCAL reranker:
 #   pip install torch sentence-transformers
@@ -16,3 +16,16 @@ indic-transliteration>=2.3   # optional: ocr_to_markdown.py --transliterate (Dev
 # / VOYAGE_API_KEY) is set, which is both faster and the recommended path.
 # Measured here: local bge-reranker-v2-m3 = 3.2 s/pair on CPU; hosted Jina =
 # 48 passages in 0.9 s.
+
+# --- src/ ChromaDB research-corpus pipeline ------------------------------
+# README.md's quick start listed these inline but never declared them here,
+# so `pip install -r requirements.txt` alone did not satisfy
+# `python -m src.ingest` / `.query` / `.evaluate` / `.report` / `.tag`.
+# Versions below are what this repo was verified against (2026-10-09), not a
+# floor requirement.
+chromadb>=1.5          # vector store (python -m src.ingest / .query)
+sentence-transformers>=6.0   # local embedding backend (BAAI/bge-m3 default)
+torch>=2.10             # pulled in by sentence-transformers; CPU wheel is fine
+rank_bm25>=0.2          # lexical half of hybrid retrieval
+langchain-text-splitters>=1.1   # header-aware recursive chunking
+pyyaml>=6.0             # config.yaml / books_manifest.yaml / chapters.yaml

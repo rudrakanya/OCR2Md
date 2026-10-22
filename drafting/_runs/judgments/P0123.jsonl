@@ -1,0 +1,25 @@
+{"c": "d8de5bb010", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [40, 43], "note": "Samarāṅgaṇasūtradhāra ch. XIII assigns the Vāstu of 100 squares to all Prāsādas and Maṇḍapas and 64 squares to camps, villages and cities; treats 81, 100 and 64 in turn."}]}
+{"c": "1bae0460f9", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [33, 37], "note": "Marmas affect the position of pillars in temples (Samarāṅgaṇasūtradhāra ch. XLIX) and of windows and buttresses in preserved brick and stone temples."}]}
+{"c": "a3cea6ef0a", "keep": false, "reject_reason": "abstract Vāstu body/marma theory; no specific bearing"}
+{"c": "1dd957d534", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [12, 15], "note": "Samarāṅgaṇasūtradhāra gives the conjunction of lines no magnitude; a point to avoid when placing the middle of door openings and pillars."}]}
+{"c": "8cac57202e", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [28, 33], "note": "Samarāṅgaṇasūtradhāra IX defines three kinds of hasta and aṅgula units; Vyāma or Puruṣa has 84 aṅgulas."}]}
+{"c": "d914a77701", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [7, 12], "note": "In the Vāstumaṇḍala a temple of Śiva is assigned to Īśāna, the north-east, per the Īśānaśivagurudevapaddhati and Vaikhānasāgama.", "xref": ["C08"]}]}
+{"c": "1caf8d48a1", "keep": false, "reject_reason": "garbled terminology table of Vāstumaṇḍala lines"}
+{"c": "4433113e84", "keep": false, "reject_reason": "table of intersection names; no usable evidence"}
+{"c": "82f436f93d", "keep": false, "reject_reason": "table of line widths; no usable evidence"}
+{"c": "119af93bf9", "keep": false, "reject_reason": "technical discussion of diagonals in the Vāstumaṇḍala; no specific bearing"}
+{"c": "6421209f8f", "keep": false, "reject_reason": "technical discussion of marmas and the Vāstupuruṣa body; no specific bearing"}
+{"c": "3056ac8614", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [23, 27], "note": "Samarāṅgaṇasūtradhāra III.52 and XII treat the maṇḍala of nine or 16 squares as the first and that of 1,000 squares as the last."}]}
+{"c": "e791eb9ca8", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [36, 37], "note": "Suggests the Vāstupuruṣamaṇḍala's elaboration was due to Śaiva activity, citing Brahmaśambhu (middle tenth century) that Vāstu is spoken of in Vāstu-śāstras and Śaiva Āgamas.", "xref": ["C08"]}]}
+{"c": "54c69f263c", "keep": false, "reject_reason": "Vāstu plan types (49 squares, enclosures); no specific bearing"}
+{"c": "84bdb3119c", "keep": false, "reject_reason": "Vāstu plan types; no specific bearing"}
+{"c": "e23d79c716", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [16, 18], "note": "Samarāṅgaṇasūtradhāra speaks of circular Vāstu of 64 and 100 parts used in circular shrines (XII.13 f)."}]}
+{"c": "e3429e4231", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [11, 13], "note": "Temples are meant to last and are always built on the Sthiravāstu (Vāstuvidhāna X)."}]}
+{"c": "822928be40", "keep": false, "reject_reason": "invocation to the Vāstupuruṣa; no specific bearing"}
+{"c": "c996d2b1d6", "keep": false, "reject_reason": "Vedic cosmogonic symbolism; no bearing"}
+{"c": "24b048683d", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "quote", "strength": "contextual", "span": [5, 8], "note": "Samarāṅgaṇasūtradhāra II.4: 'Brahmā created first Vāstubrahmā and then all the worlds'; the temple is a likeness of the world on a proportionate scale."}]}
+{"c": "dd1e6a0da0", "keep": false, "reject_reason": "Vedic sacrificial symbolism; no bearing"}
+{"c": "1b21ee7418", "keep": true, "items": [{"unit": "C05", "sub": "S5", "type": "fact", "strength": "contextual", "span": [1, 6], "note": "Symbolism of the Vedic altar Agni continues in the Hindu temple plan; the Vāstupuruṣa of the maṇḍala is Agni-Prajāpati, drawn on the ground with the temple set up on it."}]}
+{"c": "8035d2425c", "keep": false, "reject_reason": "abstract Puruṣa diagram symbolism; no bearing"}
+{"c": "f5c5715af5", "keep": false, "reject_reason": "Puruṣa and star pictures; no bearing"}
+{"c": "1db68cbeba", "keep": false, "reject_reason": "myth of the Vāstupuruṣa's descent; no specific bearing"}

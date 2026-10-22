@@ -1,0 +1,343 @@
+{
+ "chapter": 3,
+ "sections": {
+  "3.1": "Prehistory and the country's ancient names",
+  "3.2": "Vidisha in literature and tradition",
+  "3.3": "Besnagar: the excavated city",
+  "3.4": "Vidisha under the Mauryas and Śuṅgas",
+  "3.5": "Trade routes, merchants and sacred centres",
+  "3.6": "Heliodoros's pillar and the early Vaiṣṇava temples",
+  "3.7": "Images and rites at Besnagar",
+  "3.8": "From the Sātavāhanas to the Guptas",
+  "3.9": "Udayagiri and the Gupta shrines",
+  "3.10": "From Vidisha to Bhilsa",
+  "3.11": "A contested frontier, eighth to tenth centuries"
+ },
+ "through_line": "What stood in Udaypur's country before Udaypur, told for what it means to Udaypur: old names, Vidisha in literature and excavation (the Gazetteer capped at 40% a unit), its dynasties, roads and shrines, Gupta caves near the town, the move to Bhilsa and its Sun god, and the eighth-to-tenth-century frontier on Udaypur's range; who held the hill stays open.",
+ "people": [
+  {
+   "name": "Aśoka",
+   "full_name": "Aśoka, Maurya emperor",
+   "first_section": "3.4",
+   "role": "married Devī of Vidisha"
+  },
+  {
+   "name": "Devī",
+   "full_name": "Devī, banker's daughter of Vidisha",
+   "first_section": "3.4",
+   "role": "Aśoka's wife; mother of Mahendra and Saṅghamitrā"
+  },
+  {
+   "name": "Puṣyamitra",
+   "full_name": "Puṣyamitra Śuṅga",
+   "first_section": "3.4",
+   "role": "Śuṅga founder; Aśvamedha probably at Vidisha"
+  },
+  {
+   "name": "Agnimitra",
+   "full_name": "Agnimitra Śuṅga",
+   "first_section": "3.2",
+   "role": "viceroy at Vidisha; hero of Mālavikāgnimitra"
+  },
+  {
+   "name": "Heliodoros",
+   "full_name": "Heliodoros, son of Dion, of Taxila",
+   "first_section": "3.6",
+   "role": "Indo-Greek envoy; Garuḍa pillar"
+  },
+  {
+   "name": "Bhāgabhadra",
+   "full_name": "King Bhāgabhadra",
+   "first_section": "3.4",
+   "role": "Śuṅga king of the Heliodoros pillar"
+  },
+  {
+   "name": "Kālidāsa",
+   "full_name": "Kālidāsa",
+   "first_section": "3.1",
+   "role": "poet of Meghadūta and Mālavikāgnimitra"
+  },
+  {
+   "name": "Gautamīputra Sātakarṇi",
+   "full_name": "Gautamīputra Sātakarṇi",
+   "first_section": "3.1",
+   "role": "Sātavāhana king; Nasik praśasti"
+  },
+  {
+   "name": "Samudragupta",
+   "full_name": "Samudragupta",
+   "first_section": "3.8",
+   "role": "Allahabad pillar; ended Nāga rule"
+  },
+  {
+   "name": "Candragupta II",
+   "full_name": "Candragupta II",
+   "first_section": "3.2",
+   "role": "Udayagiri inscriptions, Gupta year 82"
+  },
+  {
+   "name": "Vīrasena",
+   "full_name": "Vīrasena",
+   "first_section": "3.8",
+   "role": "Candragupta II's minister; Udayagiri cave"
+  },
+  {
+   "name": "Parabala",
+   "full_name": "Parabala, Rāṣṭrakūṭa king",
+   "first_section": "3.11",
+   "role": "Pathari pillar, 861"
+  },
+  {
+   "name": "Dhaṅga",
+   "full_name": "Dhaṅga, Candella king",
+   "first_section": "3.11",
+   "role": "kingdom to Bhilsa"
+  },
+  {
+   "name": "Kramrisch",
+   "full_name": "Stella Kramrisch",
+   "first_section": "3.3",
+   "role": "The Hindu Temple"
+  },
+  {
+   "name": "Sircar",
+   "full_name": "D. C. Sircar",
+   "first_section": "3.10",
+   "role": "recognised the Sun-god slab"
+  },
+  {
+   "name": "Trailōkyavarman",
+   "full_name": "Trailōkyavarman",
+   "first_section": "3.10",
+   "role": "Murāri temple record, V.S. 1226"
+  },
+  {
+   "name": "Upendra",
+   "full_name": "Upendra-Kṛṣṇarāja",
+   "first_section": "3.11",
+   "role": "Paramāra founder in Ganguly's reconstruction"
+  },
+  {
+   "name": "Nahapāna",
+   "full_name": "Nahapāna, Kṣatrapa",
+   "first_section": "3.8",
+   "role": "held Malwa after Kaniṣka; lost Ākara and Avanti to Gautamīputra"
+  },
+  {
+   "name": "Caṣṭana",
+   "full_name": "Caṣṭana, Śaka Kṣatrapa",
+   "first_section": "3.8",
+   "role": "recovered Malwa; Ptolemy's Ozene"
+  },
+  {
+   "name": "Rudradāman",
+   "full_name": "Rudradāman, Śaka Kṣatrapa",
+   "first_section": "3.8",
+   "role": "lord of Ākara, Avanti and Anupa (Junagarh)"
+  }
+ ],
+ "terms": [
+  {
+   "term": "janapada",
+   "gloss": "early territorial state",
+   "first_section": "3.5"
+  },
+  {
+   "term": "tīrtha",
+   "gloss": "place of pilgrimage",
+   "first_section": "3.2"
+  },
+  {
+   "term": "Garuḍa-dhvaja",
+   "gloss": "Garuḍa standard (pillar)",
+   "first_section": "3.6"
+  },
+  {
+   "term": "Bhāgavata",
+   "gloss": "worshipper of Vāsudeva",
+   "first_section": "3.6"
+  },
+  {
+   "term": "uttama prāsāda",
+   "gloss": "foremost temple",
+   "first_section": "3.6"
+  },
+  {
+   "term": "ekamukha liṅga",
+   "gloss": "one-faced liṅga",
+   "first_section": "3.7"
+  },
+  {
+   "term": "kuṇḍa",
+   "gloss": "sacrificial pit",
+   "first_section": "3.7"
+  },
+  {
+   "term": "sārtha-patha",
+   "gloss": "caravan road",
+   "first_section": "3.5"
+  },
+  {
+   "term": "apsaras",
+   "gloss": "celestial nymph",
+   "first_section": "3.2"
+  },
+  {
+   "term": "sūtradhāra",
+   "gloss": "master builder",
+   "first_section": "3.11"
+  }
+ ],
+ "places": [
+  {
+   "name": "Besnagar",
+   "first_section": "3.3",
+   "note": "ancient Vidisha, in the fork of the Betwa and Bes; Vessanagar"
+  },
+  {
+   "name": "Kham Baba",
+   "first_section": "3.3",
+   "note": "Heliodoros pillar"
+  },
+  {
+   "name": "Sanchi",
+   "first_section": "3.4",
+   "note": "stupas built largely by Vidisha merchants"
+  },
+  {
+   "name": "Udayagiri",
+   "first_section": "3.8",
+   "note": "Gupta caves near Vidisha; never connected with Udaypur by name"
+  },
+  {
+   "name": "Gyaraspur",
+   "first_section": "3.11",
+   "note": "Māladevī, 8th–10th c."
+  },
+  {
+   "name": "Badoh",
+   "first_section": "3.9",
+   "note": "Gadarmal; flat-roofed shrines"
+  },
+  {
+   "name": "Pathari",
+   "first_section": "3.9",
+   "note": "Seven Mothers panel; Rāṣṭrakūṭa pillar 861"
+  },
+  {
+   "name": "Daśārṇa",
+   "first_section": "3.1",
+   "note": "old name of east Malwa"
+  },
+  {
+   "name": "Ākara",
+   "first_section": "3.1",
+   "note": "east Malwa; Avanti = west Malwa"
+  },
+  {
+   "name": "Vaishya Tekri",
+   "first_section": "3.4",
+   "note": "Ujjain site of a stupa ascribed to Devī (tradition)"
+  }
+ ],
+ "figures": [
+  {
+   "what": "Heliodoros pillar date",
+   "value": "c. 140 B.C.",
+   "keyword": "pillar",
+   "sections": [
+    "3.6"
+   ]
+  },
+  {
+   "what": "Pathari pillar",
+   "value": "A.D. 861",
+   "keyword": "Pathari",
+   "sections": [
+    "3.11"
+   ]
+  },
+  {
+   "what": "first mention of Bhailasvāmin",
+   "value": "A.D. 878",
+   "keyword": "Bhailasvāmin",
+   "sections": [
+    "3.10"
+   ]
+  },
+  {
+   "what": "Udaypur from Bhilsa (Ganguly)",
+   "value": "thirty miles north (note only; ledger distance 55–70 km stands)",
+   "keyword": "thirty miles",
+   "sections": [
+    "3.3"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Who held Udaypur's hill before the Paramāras?",
+   "sections": [
+    "3.11"
+   ],
+   "status": "left open"
+  },
+  {
+   "question": "When and why was Besnagar deserted?",
+   "sections": [
+    "3.3",
+    "3.10"
+   ],
+   "status": "range: after the 7th to before the 10th century"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "3.11",
+   "to": "Ch 4",
+   "what": "the Paramāras' rise in this frontier"
+  },
+  {
+   "from": "3.9",
+   "to": "Ch 5",
+   "what": "the hill cave and its sculpture"
+  },
+  {
+   "from": "3.11",
+   "to": "Ch 6",
+   "what": "the two inscriptions on the hill"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "worship in stone",
+   "sections": [
+    "3.6",
+    "3.7",
+    "3.9"
+   ]
+  },
+  {
+   "motif": "stone and water",
+   "sections": [
+    "3.3"
+   ]
+  },
+  {
+   "motif": "each unit's stake in Udaypur",
+   "sections": [
+    "3.1",
+    "3.2",
+    "3.3",
+    "3.4",
+    "3.5",
+    "3.6",
+    "3.7",
+    "3.8",
+    "3.9",
+    "3.10",
+    "3.11"
+   ]
+  }
+ ]
+}

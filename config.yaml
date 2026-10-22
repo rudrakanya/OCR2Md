@@ -11,8 +11,8 @@
 
 project:
   name: udaypur_corpus
-  # Absolute path: the corpus is the ONLY thing that lives outside the repo.
-  corpus_dir: 'C:\Users\CBIC\Desktop\markdown extractor\Udaypur Reference Markdown Files'
+  # Relative to the project root (override with the CORPUS_DIR environment variable).
+  corpus_dir: './Udaypur Reference Markdown Files'
   glob: "*.md"
 
 storage:
@@ -116,6 +116,12 @@ embedding:
       backend: openai
       model: text-embedding-3-large
       dim: 3072
+      # Hosted API, not local CPU inference -- no memory ceiling to respect,
+      # and a larger batch means far fewer HTTP round trips. OpenAI's
+      # embeddings endpoint accepts up to 2048 inputs per request; 64 stays
+      # well clear of that while cutting request count ~8x vs the bge-m3
+      # default of 8.
+      batch_size: 64
 
 index:
   distance: cosine

@@ -20,9 +20,16 @@ from pathlib import Path
 from typing import Any
 
 import yaml
+from dotenv import load_dotenv
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config.yaml"
+
+# Nothing else in src/ loads .env (OPENAI_API_KEY, etc.) -- every other module
+# in this project does this same two-call pattern, and src/settings.py is the
+# one module everything else here imports first.
+load_dotenv()
+load_dotenv(ROOT / ".env", override=False)
 
 # Windows consoles default to cp1252 and will kill a run mid-write the first
 # time a Devanagari character reaches stdout. This corpus is 40% Devanagari in
@@ -69,6 +76,25 @@ def load(path: Path | str | None = None) -> Config:
         raw = yaml.safe_load(fh)
     if not isinstance(raw, dict):
         raise ConfigError(f"{path} did not parse to a mapping")
+    # config.yaml's corpus_dir is machine-specific (the corpus lives outside
+    # the repo on most setups). CORPUS_DIR lets a contributor override it
+    # without editing the committed file.
+    corpus_dir_env = os.environ.get("CORPUS_DIR")
+    if corpus_dir_env:
+        raw.setdefault("project", {})["corpus_dir"] = corpus_dir_env
+    # Same reasoning as CORPUS_DIR: lets a run target a separate collection
+    # (e.g. a different embedding model/dim) without editing the committed
+    # file -- required whenever the model changes, since vectors from two
+    # models must never share a collection (see src/store.py's dimension
+    # stamp check).
+    collection_env = os.environ.get("COLLECTION")
+    if collection_env:
+        raw.setdefault("storage", {})["collection"] = collection_env
+    # Same reasoning again: lets `src.evaluate` run against a separate
+    # benchmark file without editing config.yaml or the committed gold set.
+    gold_path_env = os.environ.get("GOLD_PATH")
+    if gold_path_env:
+        raw.setdefault("evaluation", {})["gold_path"] = gold_path_env
     return Config(raw)
 
 

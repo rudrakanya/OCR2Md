@@ -1,0 +1,25 @@
+{"c": "678c00b1c6", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "edc6bf22dd", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "4492bc5c49", "keep": false, "reject_reason": "OCR garbled; unusable"}
+{"c": "9387e27de0", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "0cb0171376", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "74a09615af", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "21a5a4e4af", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "4cc84f4f50", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "1d5ad9c535", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "9ac16350de", "keep": false, "reject_reason": "Indra's banner (Indradhvaja) ritual and omens; no specific bearing"}
+{"c": "8c8f177241", "keep": true, "items": [{"unit": "C07", "sub": "S5", "type": "excerpt", "strength": "contextual", "span": [10, 11], "note": "Defines a town where a king resides as Rājadhānī (capital), others as Sākhānagaras or suburban towns (⚠ old OCR)", "xref": ["C04"]}]}
+{"c": "b3061f1a05", "keep": false, "reject_reason": "lexical footnotes on settlement terms; no usable evidence"}
+{"c": "b3af40a4c6", "keep": false, "reject_reason": "synonym lists for abode and janapada; no bearing"}
+{"c": "06a749baee", "keep": true, "items": [{"unit": "C05", "sub": "S1", "type": "excerpt", "strength": "contextual", "span": [12, 12], "note": "Samarāṅgaṇa's definition of garbhagṛha in a nomenclature of building types (⚠ old OCR)"}]}
+{"c": "b828eaf782", "keep": false, "reject_reason": "repeat verse and lexical footnotes"}
+{"c": "0d1356a65f", "keep": false, "reject_reason": "synonyms for house parts; lexical"}
+{"c": "05e84878e2", "keep": false, "reject_reason": "lexical footnotes (latch, tax terms)"}
+{"c": "bc4dcbeadd", "keep": true, "items": [{"unit": "C05", "sub": "S3", "type": "excerpt", "strength": "contextual", "span": [3, 3], "note": "Torana defined; polished ones called Suvarṇa-toraṇa and Maṇi-toraṇa (⚠ old OCR)"}]}
+{"c": "68a35bd4d4", "keep": true, "items": [{"unit": "C07", "sub": "S1", "type": "excerpt", "strength": "contextual", "span": [9, 10], "note": "Gopura defined as the gate attached to a rampart in a city; distinct from the side door (⚠ old OCR)"}, {"unit": "C07", "sub": "S1", "type": "excerpt", "strength": "contextual", "span": [13, 13], "note": "Aṭṭālakas (watch towers) projected out within the spaces of a rampart (⚠ old OCR)"}]}
+{"c": "9fe303366a", "keep": true, "items": [{"unit": "C07", "sub": "S2", "type": "excerpt", "strength": "contextual", "span": [11, 11], "note": "Terms for the temple of gods: shrine, caitya, abode of worship, abode of Vibudhas (⚠ old OCR)"}]}
+{"c": "7b8b4e90eb", "keep": true, "items": [{"unit": "C07", "sub": "S5", "type": "excerpt", "strength": "contextual", "span": [1, 1], "note": "Four-chambered residence measured by thirty-two cubits for the army chief and sixty-four for the chaplain (⚠ old OCR)"}]}
+{"c": "f6e12ba5b4", "keep": false, "reject_reason": "house-size dimensions by rank; too technical, no bearing"}
+{"c": "8e3d89e82e", "keep": false, "reject_reason": "house-size dimensions and footnotes; no bearing"}
+{"c": "fee3da9aba", "keep": true, "items": [{"unit": "C09", "sub": "S1", "type": "excerpt", "strength": "contextual", "span": [6, 7], "note": "Houses of the four varṇas: length exceeded breadth by one tenth, eighth, sixth, fourth in descending order; lower sections get smaller houses (⚠ old OCR)"}]}
+{"c": "600f51ee1e", "keep": false, "reject_reason": "house dimension ratios; no bearing"}

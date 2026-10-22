@@ -61,6 +61,55 @@ PAGE_HEAD = re.compile(
     r"|^\s*[\[\(]\s*(?P<num2>[" + DEVA_NUM + r"\d]{1,4})\s*[\]\)]\s*(?P<name2>[ऀ-ॿ\s\-:।]{0,40})$")
 
 
+def _otsu_threshold(arr) -> int:
+    """Per-page adaptive threshold (Otsu's method). A fixed cutoff (165 was
+    tried first) works on most pages but catastrophically inverts any page
+    with an uneven scan background -- found 2026-10-12 on PDF page 115, whose
+    background brightness gradient turned 54% of the page solid black under a
+    fixed threshold, versus 8-15% (a sane figure) on normally-lit pages under
+    Otsu. No OpenCV in this environment, so this is a plain numpy histogram
+    implementation rather than cv2.threshold(..., cv2.THRESH_OTSU)."""
+    import numpy as np
+    hist, _ = np.histogram(arr, bins=256, range=(0, 256))
+    total = arr.size
+    sum_total = np.dot(np.arange(256), hist)
+    sum_b = w_b = max_var = 0.0
+    thresh = 128
+    for t in range(256):
+        w_b += hist[t]
+        if w_b == 0:
+            continue
+        w_f = total - w_b
+        if w_f == 0:
+            break
+        sum_b += t * hist[t]
+        m_b, m_f = sum_b / w_b, (sum_total - sum_b) / w_f
+        var_between = w_b * w_f * (m_b - m_f) ** 2
+        if var_between > max_var:
+            max_var, thresh = var_between, t
+    return thresh
+
+
+def preprocess_page(png: Path) -> None:
+    """Autocontrast + unsharp mask + adaptive (Otsu) threshold, in place.
+    Benchmarked on this exact scan (2026-10-12): measurably cleans up the
+    worst (<50% confidence) pages -- e.g. page 4's "वाराण्‌सी" (spurious
+    virama) becomes the correct "वाराणसी", and several pure-noise lines
+    disappear. A global deskew was also tried and rejected: this scan's
+    "skew -12.6 deg" (from OCR_QC) is localised gutter curvature from the bad
+    binding, not a uniform tilt, so a whole-page rotation does not apply and
+    was not worth the added distortion it introduces elsewhere on the page."""
+    import numpy as np
+    from PIL import Image, ImageOps, ImageFilter
+    img = Image.open(png).convert("L")
+    img = ImageOps.autocontrast(img, cutoff=1)
+    img = img.filter(ImageFilter.UnsharpMask(radius=2, percent=120, threshold=3))
+    arr = np.array(img)
+    t = _otsu_threshold(arr)
+    img = img.point(lambda x: 255 if x > t else 0)
+    img.save(png)
+
+
 def ocr_page_tesseract(png: Path, lang: str, psm: str) -> str:
     out = png.with_suffix("")
     subprocess.run([TESS, str(png), str(out), "-l", lang, "--psm", psm,
@@ -171,6 +220,8 @@ def main(argv=None):
             continue
         png = cache / f"_page_{i + 1:03d}.png"
         doc[i].get_pixmap(dpi=a.dpi).save(str(png))
+        if not surya:
+            preprocess_page(png)
         try:
             if surya:
                 from PIL import Image
@@ -187,7 +238,8 @@ def main(argv=None):
         rate = (time.time() - t0) / done
         print(f"  page {i + 1}/{n}  {rate:.1f}s/page  eta {rate * (n - i - 1) / 60:.1f} min", flush=True)
 
-    engine_note = (f"Tesseract {a.lang} --psm {a.psm}, pages rendered at {a.dpi} dpi"
+    engine_note = (f"Tesseract {a.lang} --psm {a.psm}, pages rendered at {a.dpi} dpi, "
+                   "preprocessed (autocontrast + unsharp mask + Otsu adaptive threshold)"
                    if a.engine == "tesseract" else "Surya OCR")
     body = [
         f"<!-- OCR of {src.name} via {engine_note}; {n - a.start} pages. -->",
@@ -209,17 +261,27 @@ def main(argv=None):
             continue
         lines, printed, pada = printed_page(clean_page(cached.read_text(encoding="utf-8")))
         q = qc.get(i + 1, {})
-        marker = f"<!-- page {i + 1}"
+        # The bare `<!-- page N -->` marker must close immediately after the
+        # number -- that is the exact form src/chunker.py's PAGE_RE requires
+        # to assign page_start. Any extra metadata (printed page, pada, QC
+        # gate, confidence) goes in a SEPARATE trailing comment; the original
+        # version of this script put it all in one comment, which silently
+        # defeated page_start for every chunk in this file (found 2026-10-12).
+        meta = []
         if printed or q.get("printed_page"):
-            marker += f" | printed page {printed or q['printed_page']}"
+            meta.append(f"printed page {printed or q['printed_page']}")
         if pada:
-            marker += f" | {pada}"
+            meta.append(pada)
         if q:
-            marker += f" | gate: {q['status']}"
+            gate = f"gate: {q['status']}"
             if q["status"] != "pass":
-                marker += f" ({'; '.join(q['reasons'])})"
-            marker += f" | ocr confidence {q['conf_mean']}"
-        body += [marker + " -->", ""]
+                gate += f" ({'; '.join(q['reasons'])})"
+            meta.append(gate)
+            meta.append(f"ocr confidence {q['conf_mean']}")
+        marker = f"<!-- page {i + 1} -->"
+        if meta:
+            marker += " <!-- " + " | ".join(meta) + " -->"
+        body += [marker, ""]
         if q.get("status") == "illegible":
             body += ["*[illegible — not recovered; see the page image]*", ""]
             continue

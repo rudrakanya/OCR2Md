@@ -1,0 +1,7 @@
+{"c": "09e71b2fb8", "keep": false, "reject_reason": "Yoga-sutra text with variant readings; doctrinal, no relevance to any unit"}
+{"c": "a95c4bd206", "keep": false, "reject_reason": "Yoga-sutra text with variant readings; doctrinal, no relevance to any unit"}
+{"c": "3797f2332b", "keep": false, "reject_reason": "Yoga-sutra text with variant readings; doctrinal, no relevance to any unit"}
+{"c": "7db9335b47", "keep": false, "reject_reason": "Yoga-sutra text with variant readings; doctrinal, no relevance to any unit"}
+{"c": "44d4b54c90", "keep": false, "reject_reason": "Yoga-sutra text with variant readings; doctrinal, no relevance to any unit"}
+{"c": "94769dd0a0", "keep": false, "reject_reason": "Yoga-sutra text with variant readings; doctrinal, no relevance to any unit"}
+{"c": "00a3c91adb", "keep": true, "items": [{"unit": "C06", "sub": "S4", "type": "quote", "strength": "contextual", "span": [2, 4], "xref": ["C04"], "note": "⚠ OCR. Colophon verse: Shri Bhoja-pati wrote the vritti on the sutras; closing colophon names Dhareshvara Bhojadeva as author of the Rajamartanda Patanjala-vritti.", "gloss": "Having attained the lotus-mouth of the teacher, Shri Bhoja-pati wrote the commentary on the sutras. Thus ends the Kaivalya-pada, the fourth, of the Patanjala-vritti called Rajamartanda, composed by Shri Dhareshvara Bhojadeva."}]}

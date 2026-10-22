@@ -1,0 +1,303 @@
+{
+ "chapter": 7,
+ "sections": {
+  "7.1": "The monuments counted",
+  "7.2": "The hill wall",
+  "7.3": "Inside the wall",
+  "7.4": "Dating the hill wall",
+  "7.5": "Forts and towns in Bhoja's treatise",
+  "7.6": "The Jain cave and the rock panels",
+  "7.7": "The unfinished colossus and the cut hill",
+  "7.8": "The walled town and its gates",
+  "7.9": "The palace and the governor's mansion",
+  "7.10": "Lanes, gateways and the old bazaar",
+  "7.11": "Houses built of older buildings",
+  "7.12": "The Bijamandal",
+  "7.13": "The Barakhambi and the Pisanhari temple",
+  "7.14": "Later Hindu shrines",
+  "7.15": "Jain images, chhatris and memorial stones",
+  "7.16": "The mosque in the temple court, 1336–38",
+  "7.17": "The bilingual mosque of 1488",
+  "7.18": "The Shahi Masjid, 1632",
+  "7.19": "The undated Muslim monuments",
+  "7.20": "Water on the hill",
+  "7.21": "Stepwells and wells in the town",
+  "7.22": "The Udaysagar and the Udayasamudra",
+  "7.23": "The Bhujariya Talab and other tanks",
+  "7.24": "Vikrama's tank at Amērā",
+  "7.25": "Water structures in the treatise and the region"
+ },
+ "through_line": "Udaypur's wider built heritage as evidence for its history, not an inventory: the counted monuments and blanket survey dates; the nameless hill wall (Beglar's account held, RR-15), its interior, its dating proposals and the untried lichen method; Bhoja's treatise on forts against the bastions; the hill's Jain cave, rock panels and unfinished colossus; the walled town, its gates, palace and Mughal governor's mansion kept apart; lanes, reused houses, the Bijamandal (not Vidisha's), the Barakhambi and the Pisanhārī legend; later Hindu shrines and Jain and memorial stones; the mosques of 1336–38, 1488 and 1632 as dated marks of Delhi, Mandu and the Mughals; undated dargahs and graves; water on the hill and in the town; the Udaysagar not shown to be the Udayasamudra; the older Bhujariya; Vikrama's tank at Amērā as water given for merit, leading into Chapter 8's gifts.",
+ "people": [
+  {
+   "name": "Beglar",
+   "full_name": "J. D. Beglar",
+   "first_section": "7.2",
+   "role": "colonial surveyor of the hill wall and dargah (staged report uncorrected)"
+  },
+  {
+   "name": "Narayan Vyas",
+   "full_name": "Narayan Vyas",
+   "first_section": "7.14",
+   "role": "archaeologist who dated a narrow temple to the 16th century from photographs, via Tiwari"
+  },
+  {
+   "name": "Sher Khan",
+   "full_name": "Sher Khan",
+   "first_section": "7.17",
+   "role": "whose agent built the mosque of 1488"
+  },
+  {
+   "name": "Ghiyās Shāh Khaljī",
+   "full_name": "Ghiyās Shāh Khaljī, Sultan of Mandu",
+   "first_section": "7.17",
+   "role": "ruler at the 1488 mosque"
+  },
+  {
+   "name": "Auliya Ibn Abdul Samad",
+   "full_name": "Auliya Ibn Abdul Samad",
+   "first_section": "7.18",
+   "role": "founder of the Shahi Masjid and Mahal Qubba under Jahāngīr (farman)"
+  },
+  {
+   "name": "Malukdas Jain",
+   "full_name": "Malukdas Jain",
+   "first_section": "7.15",
+   "role": "owner of an old residence"
+  },
+  {
+   "name": "Jannaka",
+   "full_name": "Jannaka",
+   "first_section": "7.24",
+   "role": "excavator of a stepped well at Chirihilla (comparandum)"
+  }
+ ],
+ "terms": [
+  {
+   "term": "sabhāmaṇḍapa",
+   "gloss": "hall for gathering",
+   "first_section": "7.13"
+  },
+  {
+   "term": "kachahari",
+   "gloss": "court (glossed in 1.3)",
+   "first_section": "7.18"
+  },
+  {
+   "term": "samādhi",
+   "gloss": "memorial",
+   "first_section": "7.15"
+  },
+  {
+   "term": "mazār",
+   "gloss": "grave shrine",
+   "first_section": "7.19"
+  },
+  {
+   "term": "sara / mahāsara / bhadraka",
+   "gloss": "half-moon, round, square tank in the treatise",
+   "first_section": "7.25"
+  },
+  {
+   "term": "bigha",
+   "gloss": "land measure",
+   "first_section": "7.9"
+  }
+ ],
+ "places": [
+  {
+   "name": "Raja Mahal",
+   "first_section": "7.9",
+   "note": "walled palace, undated; 3.5 bighas"
+  },
+  {
+   "name": "Governor's mahal by the Shahi Masjid",
+   "first_section": "7.9",
+   "note": "early Mughal; kept apart from the Raja Mahal"
+  },
+  {
+   "name": "Bijamandal (Udaypur)",
+   "first_section": "7.12",
+   "note": "clockman's house; not Vidisha's Bijamandal mosque"
+  },
+  {
+   "name": "Barakhambi",
+   "first_section": "7.13",
+   "note": "twelve-pillared hall of a lost 11th-c. temple"
+  },
+  {
+   "name": "Sher Khan's mosque",
+   "first_section": "7.17",
+   "note": "outside Moti Darwaza; A.H. 894 / A.D. 1488; Persian and Sanskrit"
+  },
+  {
+   "name": "Shahi Masjid",
+   "first_section": "7.18",
+   "note": "begun under Jahāngīr, completed 1632"
+  },
+  {
+   "name": "Udaysagar",
+   "first_section": "7.22",
+   "note": "north of village, 71 acres; not shown to be the Udayasamudra"
+  },
+  {
+   "name": "Bhujariya Talab",
+   "first_section": "7.23",
+   "note": "south-east; c. 8 acres; proposed pre-Udayāditya"
+  },
+  {
+   "name": "Ghoḍ-dauḍ-kī-bāvaḍī",
+   "first_section": "7.21",
+   "note": "horse stepwell east of Shahi Masjid; listed 17th c."
+  }
+ ],
+ "figures": [
+  {
+   "what": "Tughluq mosque",
+   "value": "A.H. 737 and 739 = 1336–38",
+   "keyword": "1336",
+   "sections": [
+    "7.16"
+   ]
+  },
+  {
+   "what": "Sher Khan's mosque",
+   "value": "A.H. 894 = A.D. 1488",
+   "keyword": "1488",
+   "sections": [
+    "7.17"
+   ]
+  },
+  {
+   "what": "Shahi Masjid completed",
+   "value": "A.H. 1041 = A.D. 1632",
+   "keyword": "1632",
+   "sections": [
+    "7.18"
+   ]
+  },
+  {
+   "what": "hill stepwell",
+   "value": "24.5 × 44.5 m, about 20 steps",
+   "keyword": "24.5",
+   "sections": [
+    "7.20"
+   ]
+  },
+  {
+   "what": "summit reservoir",
+   "value": "11 × 15.5 m",
+   "keyword": "15.5",
+   "sections": [
+    "7.20"
+   ]
+  },
+  {
+   "what": "Amērā tank cost",
+   "value": "2,500 coins",
+   "keyword": "2,500",
+   "sections": [
+    "7.24"
+   ]
+  },
+  {
+   "what": "Udaysagar area",
+   "value": "71 acres",
+   "keyword": "seventy-one",
+   "sections": [
+    "7.22"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Beglar's account of the hill wall in his own report",
+   "sections": [
+    "7.2",
+    "7.19"
+   ],
+   "status": "HELD RR-15"
+  },
+  {
+   "question": "Which mosque is the inventory's 18th-century Moti Masjid?",
+   "sections": [
+    "7.17"
+   ],
+   "status": "open RR-13"
+  },
+  {
+   "question": "Where is the V.S. 1625 pillar inscription?",
+   "sections": [
+    "7.13"
+   ],
+   "status": "open RR-14"
+  },
+  {
+   "question": "Is the Udaysagar the Udayasamudra of the inscription?",
+   "sections": [
+    "7.22"
+   ],
+   "status": "not shown"
+  },
+  {
+   "question": "Date of the hill wall (lichen study proposed, not made)",
+   "sections": [
+    "7.4"
+   ],
+   "status": "proposals only"
+  },
+  {
+   "question": "Unread stepwell and memorial inscriptions",
+   "sections": [
+    "7.15",
+    "7.21"
+   ],
+   "status": "unread"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "7.25",
+   "to": "Ch 8",
+   "what": "water given for merit; gifts"
+  },
+  {
+   "from": "7.18",
+   "to": "Ch 10",
+   "what": "the Jahāngīr farman and Mughal administration"
+  },
+  {
+   "from": "7.9",
+   "to": "Ch 11",
+   "what": "the palace ownership dispute"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "the survey date as proposal",
+   "sections": [
+    "7.1",
+    "7.4",
+    "7.8",
+    "7.14",
+    "7.21"
+   ]
+  },
+  {
+   "motif": "reuse of older stone",
+   "sections": [
+    "7.2",
+    "7.11",
+    "7.16",
+    "7.20"
+   ]
+  },
+  {
+   "motif": "water given for merit",
+   "sections": [
+    "7.24",
+    "7.25"
+   ]
+  }
+ ]
+}

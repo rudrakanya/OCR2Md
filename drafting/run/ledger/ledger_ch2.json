@@ -1,0 +1,279 @@
+{
+ "chapter": 2,
+ "sections": {
+  "2.1": "The Betwa and its streams",
+  "2.2": "Plateau, ranges and rocks",
+  "2.3": "The Udaypur hill: mesa, butte and caves",
+  "2.4": "The monsoon and its failures",
+  "2.5": "Black soil and the two harvests",
+  "2.6": "Forest, grass and grazing",
+  "2.7": "Water and the siting of settlement",
+  "2.8": "Bhoja's lake at Bhojpur",
+  "2.9": "Sandstone for building",
+  "2.10": "A town of its own stone"
+ },
+ "through_line": "The land the founder found: a river country whose river does not reach the town, a sandstone hill, one wet season, black soil, thin forest, water that had to be made and a seam of stone; the setting, never the cause.",
+ "people": [
+  {
+   "name": "Al Beruni",
+   "full_name": "Al Beruni",
+   "first_section": "2.1",
+   "role": "described Bhilsa about 1030 and its place as Malwa's eastern limit"
+  },
+  {
+   "name": "Kincaid",
+   "full_name": "W. Kincaid",
+   "first_section": "2.8",
+   "role": "visitor who described the Bhojpur dams (quoted by Ganguly)"
+  },
+  {
+   "name": "Smith",
+   "full_name": "V. A. Smith",
+   "first_section": "2.8",
+   "role": "called the Bhojpur lake Bhoja's 'noblest monument'"
+  },
+  {
+   "name": "Shah Hussain",
+   "full_name": "Shah Hussain",
+   "first_section": "2.8",
+   "role": "Mandu sultan named by Ganguly and Singh as breaker of the Bhojpur dam"
+  },
+  {
+   "name": "Luard",
+   "full_name": "Captain Luard",
+   "first_section": "2.5",
+   "role": "author of the Gwalior State Gazetteer (1907)"
+  },
+  {
+   "name": "Patil",
+   "full_name": "D. R. Patil",
+   "first_section": "2.1",
+   "role": "The Cultural Heritage of Madhya Bharat"
+  },
+  {
+   "name": "Rajpurohit",
+   "full_name": "Bhagwatilal Rajpurohit",
+   "first_section": "2.7",
+   "role": "credits Bhoja with the treatise and the lake's irrigation"
+  },
+  {
+   "name": "Kramrisch",
+   "full_name": "Stella Kramrisch",
+   "first_section": "2.9",
+   "role": "The Hindu Temple: stone tested and transformed"
+  },
+  {
+   "name": "Govind Saxena",
+   "full_name": "Govind Saxena",
+   "first_section": "2.10",
+   "role": "reporter of the illegal-quarrying ground report, cited by Tiwari (U7)"
+  },
+  {
+   "name": "Munshi",
+   "full_name": "K. M. Munshi",
+   "first_section": "2.7",
+   "role": "doubts Bhoja's authorship of the treatise"
+  }
+ ],
+ "terms": [
+  {
+   "term": "kali-matti",
+   "gloss": "black cotton soil; mar locally",
+   "first_section": "2.5"
+  },
+  {
+   "term": "kharif",
+   "gloss": "autumn crop (shialu)",
+   "first_section": "2.5"
+  },
+  {
+   "term": "rabi",
+   "gloss": "spring crop (unhalu)",
+   "first_section": "2.5"
+  },
+  {
+   "term": "bakhar",
+   "gloss": "a kind of harrow",
+   "first_section": "2.5"
+  },
+  {
+   "term": "charas",
+   "gloss": "leather bucket lift for wells",
+   "first_section": "2.5"
+  },
+  {
+   "term": "talav",
+   "gloss": "lake or tank; talavadi, pond",
+   "first_section": "2.7"
+  },
+  {
+   "term": "tekro",
+   "gloss": "inhabited mound",
+   "first_section": "2.7"
+  },
+  {
+   "term": "kund",
+   "gloss": "stepwell or water tank for drinking",
+   "first_section": "2.7"
+  },
+  {
+   "term": "jāṅgala",
+   "gloss": "dry country (treatise)",
+   "first_section": "2.7"
+  },
+  {
+   "term": "anūpa",
+   "gloss": "well-watered low country (treatise)",
+   "first_section": "2.7"
+  },
+  {
+   "term": "sādhāraṇa",
+   "gloss": "intermediate country (treatise)",
+   "first_section": "2.7"
+  },
+  {
+   "term": "āmalaka",
+   "gloss": "ribbed crowning stone of a spire",
+   "first_section": "2.9"
+  },
+  {
+   "term": "padmāsana",
+   "gloss": "lotus seat posture",
+   "first_section": "2.3"
+  }
+ ],
+ "places": [
+  {
+   "name": "Kewtan",
+   "first_section": "2.1",
+   "note": "tributary 1 km from the village, 1.8 km from Shiva Pindi; kept apart from the Gazetteer's Keotan"
+  },
+  {
+   "name": "Betwa (Vētravatī)",
+   "first_section": "2.1",
+   "note": "river of Vidisha/Bhilsa; 590 km to the Yamuna"
+  },
+  {
+   "name": "Besnagar",
+   "first_section": "2.1",
+   "note": "ancient city in the fork of the Betwa and the Bes (Vessanagar)"
+  },
+  {
+   "name": "Garhi–Teonda range",
+   "first_section": "2.2",
+   "note": "Udaypur in its western foothills; Lakholi 665.7 m"
+  },
+  {
+   "name": "Shiva Pindi",
+   "first_section": "2.3",
+   "note": "the large hill (mesa); caves natural and cut"
+  },
+  {
+   "name": "Bhojpur",
+   "first_section": "2.8",
+   "note": "Bhoja's lake and dams, comparison only"
+  },
+  {
+   "name": "Patari",
+   "first_section": "2.10",
+   "note": "quarry tract with Udaypur"
+  }
+ ],
+ "figures": [
+  {
+   "what": "Udaypur elevation",
+   "value": "340–480 m, mean 410 m",
+   "keyword": "elevation",
+   "sections": [
+    "2.2"
+   ]
+  },
+  {
+   "what": "Kewtan distance",
+   "value": "1.8 km from Shiva Pindi; 1 km from village",
+   "keyword": "Kewtan",
+   "sections": [
+    "2.1"
+   ]
+  },
+  {
+   "what": "district annual rainfall",
+   "value": "1,229.9 mm; 92 per cent June–September",
+   "keyword": "annual",
+   "sections": [
+    "2.4"
+   ]
+  },
+  {
+   "what": "black cotton soil share",
+   "value": "75 per cent",
+   "keyword": "black cotton",
+   "sections": [
+    "2.5"
+   ]
+  },
+  {
+   "what": "Bhojpur lake area",
+   "value": "about 250 square miles",
+   "keyword": "square miles",
+   "sections": [
+    "2.8"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "question": "Which of the survey's two hills is its 'Udaypur Hill', and how high do the hills rise?",
+   "sections": [
+    "2.3"
+   ],
+   "status": "left open; survey figures disagree"
+  },
+  {
+   "question": "Who breached the Bhojpur dam, Shah Hussain or Hoshang Shah?",
+   "sections": [
+    "2.8"
+   ],
+   "status": "both given, attributed"
+  }
+ ],
+ "forward_refs": [
+  {
+   "from": "2.6",
+   "to": "Ch 12",
+   "what": "wildlife of the hill and district"
+  },
+  {
+   "from": "2.7",
+   "to": "Ch 7",
+   "what": "Udaypur's tanks, wells and stepwells in detail"
+  },
+  {
+   "from": "2.10",
+   "to": "Ch 11–12",
+   "what": "present-day quarrying (legal review)"
+  },
+  {
+   "from": "2.10",
+   "to": "Ch 3",
+   "what": "users of the valley before Udaypur"
+  }
+ ],
+ "motifs": [
+  {
+   "motif": "stone and water",
+   "sections": [
+    "2.3",
+    "2.7",
+    "2.9",
+    "2.10"
+   ]
+  },
+  {
+   "motif": "setting, not cause",
+   "sections": [
+    "2.10"
+   ]
+  }
+ ]
+}

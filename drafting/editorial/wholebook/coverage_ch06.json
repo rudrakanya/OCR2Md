@@ -1,0 +1,927 @@
+{
+ "unit": "06",
+ "direct": 223,
+ "totals": {
+  "excluded": 32,
+  "assigned": 186,
+  "cross-reference": 5
+ },
+ "by_sub": {
+  "S1": {
+   "excluded": 12,
+   "assigned": 105,
+   "cross-reference": 2
+  },
+  "S2": {
+   "assigned": 60,
+   "excluded": 14,
+   "cross-reference": 3
+  },
+  "S3": {
+   "assigned": 13,
+   "excluded": 5
+  },
+  "S4": {
+   "assigned": 2
+  },
+  "S5": {
+   "assigned": 6,
+   "excluded": 1
+  }
+ },
+ "status": {
+  "C06-CII-001": [
+   "excluded",
+   "CII's list of plates; no content"
+  ],
+  "C06-CII-002": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-003": [
+   "assigned",
+   "Note"
+  ],
+  "C06-CII-004": [
+   "assigned",
+   "Note"
+  ],
+  "C06-CII-005": [
+   "assigned",
+   "Note"
+  ],
+  "C06-CII-006": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-007": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-008": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-009": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-010": [
+   "assigned",
+   "Note"
+  ],
+  "C06-CII-011": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-012": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-013": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-017": [
+   "excluded",
+   "v1: CII comparanda with no Udaypur bearing:; also"
+  ],
+  "C06-CII-020": [
+   "assigned",
+   "X"
+  ],
+  "C06-CII-021": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-022": [
+   "assigned",
+   "X"
+  ],
+  "C06-CII-025": [
+   "assigned",
+   "X"
+  ],
+  "C06-CII-026": [
+   "excluded",
+   "CII's list of plates; no content"
+  ],
+  "C06-CII-029": [
+   "assigned",
+   "X"
+  ],
+  "C06-CII-030": [
+   "excluded",
+   "CII's list of plates; no content"
+  ],
+  "C06-CII-031": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-032": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-033": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-034": [
+   "assigned",
+   "X"
+  ],
+  "C06-CII-035": [
+   "assigned",
+   "X"
+  ],
+  "C06-CII-036": [
+   "assigned",
+   "X"
+  ],
+  "C06-CII-037": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-038": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-039": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-040": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-041": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-042": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-043": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-045": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C06-CII-046": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C06-CII-052": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-059": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-060": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-061": [
+   "assigned",
+   "E"
+  ],
+  "C06-CII-066": [
+   "assigned",
+   "C"
+  ],
+  "C06-CII-082": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-001": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-002": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-004, C06-JAGTA-EN-025)"
+  ],
+  "C06-JAGTA-HI-003": [
+   "assigned",
+   "Note"
+  ],
+  "C06-JAGTA-HI-004": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-006, C06-JAGTA-EN-026)"
+  ],
+  "C06-JAGTA-HI-005": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-008, C06-JAGTA-EN-027, C06-JAGTA-EN-034)"
+  ],
+  "C06-JAGTA-HI-006": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-008, C06-JAGTA-EN-027, C06-JAGTA-EN-034)"
+  ],
+  "C06-JAGTA-HI-007": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-008": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-009": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-010": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-011": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-012": [
+   "assigned",
+   "Note"
+  ],
+  "C06-JAGTA-HI-013": [
+   "excluded",
+   "Hindi original of C06-JAGTA-EN-013 (used)"
+  ],
+  "C06-JAGTA-HI-014": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-015": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-016": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-017": [
+   "excluded",
+   "v1: rhetoric about the counts"
+  ],
+  "C06-JAGTA-HI-018": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-019)"
+  ],
+  "C06-JAGTA-HI-019": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-020": [
+   "excluded",
+   "v1: fiction in the goddess's voice; never use"
+  ],
+  "C06-JAGTA-HI-021": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-022": [
+   "excluded",
+   "v1: rhetoric about the counts"
+  ],
+  "C06-JAGTA-HI-023": [
+   "assigned",
+   "X"
+  ],
+  "C06-JAGTA-HI-024": [
+   "excluded",
+   "gloss on Babur's title Firdaus Makani; belongs to no Udaypur record in this chapter"
+  ],
+  "C06-JAGTA-HI-025": [
+   "excluded",
+   "Hindi original of C06-JAGTA-EN-001 (used)"
+  ],
+  "C06-JAGTA-HI-026": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C06-JAGTA-HI-027": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-028": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-029": [
+   "assigned",
+   "X"
+  ],
+  "C06-JAGTA-HI-030": [
+   "excluded",
+   "v1: off-topic or Ch 4"
+  ],
+  "C06-JAGTA-HI-031": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-028)"
+  ],
+  "C06-JAGTA-HI-032": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-033": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-HI-034": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-035": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-HI-036": [
+   "assigned",
+   "X"
+  ],
+  "C06-JAGTA-HI-037": [
+   "excluded",
+   "v1: similes"
+  ],
+  "C06-JAGTA-HI-038": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-008, C06-JAGTA-EN-027, C06-JAGTA-EN-034)"
+  ],
+  "C06-JAGTA-HI-039": [
+   "excluded",
+   "Hindi original; the English rendering of the same page is used (C06-JAGTA-EN-035)"
+  ],
+  "C06-JAGTA-HI-042": [
+   "excluded",
+   "v1: similes"
+  ],
+  "C06-JAGTA-HI-043": [
+   "assigned",
+   "E"
+  ],
+  "C06-GANGULY-001": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-002": [
+   "excluded",
+   "the agnikula story; told in §1.4"
+  ],
+  "C06-GANGULY-003": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-004": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-005": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-006": [
+   "assigned",
+   "E"
+  ],
+  "C06-GANGULY-007": [
+   "assigned",
+   "E"
+  ],
+  "C06-GANGULY-008": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-009": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-010": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-011": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-012": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-013": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-014": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-015": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-016": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-017": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-018": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-019": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GANGULY-020": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-021": [
+   "excluded",
+   "the slab lying before the temple; told in §1.4"
+  ],
+  "C06-GANGULY-022": [
+   "assigned",
+   "E"
+  ],
+  "C06-GANGULY-023": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-025": [
+   "assigned",
+   "E"
+  ],
+  "C06-GANGULY-026": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-027": [
+   "assigned",
+   "X"
+  ],
+  "C06-GANGULY-028": [
+   "assigned",
+   "X"
+  ],
+  "C06-GANGULY-029": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-030": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-031": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-032": [
+   "assigned",
+   "E"
+  ],
+  "C06-GANGULY-035": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-036": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-037": [
+   "assigned",
+   "C"
+  ],
+  "C06-GANGULY-038": [
+   "assigned",
+   "X"
+  ],
+  "C06-GANGULY-056": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-001": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-002": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-003": [
+   "excluded",
+   "v1: similes"
+  ],
+  "C06-JAGTA-EN-004": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-005": [
+   "excluded",
+   "v1: similes"
+  ],
+  "C06-JAGTA-EN-006": [
+   "assigned",
+   "Note"
+  ],
+  "C06-JAGTA-EN-007": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-008": [
+   "assigned",
+   "X"
+  ],
+  "C06-JAGTA-EN-009": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-010": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-011": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-012": [
+   "assigned",
+   "Note"
+  ],
+  "C06-JAGTA-EN-013": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-014": [
+   "assigned",
+   "X"
+  ],
+  "C06-JAGTA-EN-015": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C06-JAGTA-EN-016": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C06-JAGTA-EN-017": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-018": [
+   "excluded",
+   "v1: rhetoric about the counts"
+  ],
+  "C06-JAGTA-EN-019": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-020": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-021": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-022": [
+   "excluded",
+   "v1: rhetoric about the counts"
+  ],
+  "C06-JAGTA-EN-023": [
+   "excluded",
+   "v1: similes"
+  ],
+  "C06-JAGTA-EN-024": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-025": [
+   "assigned",
+   "Note"
+  ],
+  "C06-JAGTA-EN-026": [
+   "assigned",
+   "Note"
+  ],
+  "C06-JAGTA-EN-027": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-028": [
+   "assigned",
+   "Note"
+  ],
+  "C06-JAGTA-EN-029": [
+   "assigned",
+   "C"
+  ],
+  "C06-JAGTA-EN-030": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-031": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-032": [
+   "excluded",
+   "Tiwari's impression of the number of inscriptions (R5); no count"
+  ],
+  "C06-JAGTA-EN-033": [
+   "excluded",
+   "v1: similes"
+  ],
+  "C06-JAGTA-EN-034": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-035": [
+   "assigned",
+   "E"
+  ],
+  "C06-JAGTA-EN-037": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-001": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-002": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-003": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-004": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-005": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-007": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-008": [
+   "assigned",
+   "C"
+  ],
+  "C06-BHOJA-TIMES-009": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-011": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-012": [
+   "assigned",
+   "C"
+  ],
+  "C06-BHOJA-TIMES-013": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-014": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-016": [
+   "assigned",
+   "C"
+  ],
+  "C06-BHOJA-TIMES-017": [
+   "assigned",
+   "C"
+  ],
+  "C06-BHOJA-TIMES-018": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-020": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-021": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-022": [
+   "assigned",
+   "E"
+  ],
+  "C06-BHOJA-TIMES-023": [
+   "assigned",
+   "X"
+  ],
+  "C06-BHOJA-TIMES-024": [
+   "excluded",
+   "Ray's doubt on Bhoja's buildings; told in §1.4"
+  ],
+  "C06-BHOJA-TIMES-025": [
+   "assigned",
+   "E"
+  ],
+  "C06-BHOJA-TIMES-026": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-027": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-028": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-029": [
+   "assigned",
+   "C"
+  ],
+  "C06-BHOJA-TIMES-030": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-031": [
+   "assigned",
+   "E"
+  ],
+  "C06-BHOJA-TIMES-032": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-033": [
+   "assigned",
+   "Note"
+  ],
+  "C06-BHOJA-TIMES-034": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GEOHER-001": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GEOHER-002": [
+   "assigned",
+   "X"
+  ],
+  "C06-GEOHER-003": [
+   "assigned",
+   "C"
+  ],
+  "C06-GEOHER-004": [
+   "assigned",
+   "C"
+  ],
+  "C06-GEOHER-005": [
+   "assigned",
+   "X"
+  ],
+  "C06-GEOHER-006": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GEOHER-007": [
+   "assigned",
+   "E"
+  ],
+  "C06-GEOHER-008": [
+   "assigned",
+   "E"
+  ],
+  "C06-GEOHER-009": [
+   "assigned",
+   "C"
+  ],
+  "C06-GEOHER-010": [
+   "excluded",
+   "v1: the eighth-century record (1.5)"
+  ],
+  "C06-SERPENT-001": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-002": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-003": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-004": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-005": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-006": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-007": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-008": [
+   "assigned",
+   "E"
+  ],
+  "C06-SERPENT-009": [
+   "assigned",
+   "E"
+  ],
+  "C06-PARTEMPLES-001": [
+   "assigned",
+   "C"
+  ],
+  "C06-PARTEMPLES-002": [
+   "assigned",
+   "E"
+  ],
+  "C06-PARTEMPLES-003": [
+   "assigned",
+   "C"
+  ],
+  "C06-PARTEMPLES-004": [
+   "assigned",
+   "C"
+  ],
+  "C06-RAJABHOJ-EN-001": [
+   "assigned",
+   "Note"
+  ],
+  "C06-RAJABHOJ-EN-002": [
+   "assigned",
+   "X"
+  ],
+  "C06-RAJABHOJ-EN-003": [
+   "assigned",
+   "C"
+  ],
+  "C06-GAZ-001": [
+   "assigned",
+   "Note"
+  ],
+  "C06-GAZ-003": [
+   "assigned",
+   "E"
+  ],
+  "C06-GAZ-004": [
+   "assigned",
+   "X"
+  ],
+  "C06-MADHYABHARAT-001": [
+   "assigned",
+   "X"
+  ],
+  "C06-MADHYABHARAT-003": [
+   "assigned",
+   "E"
+  ],
+  "C06-PARMAR-RAJPUT-001": [
+   "assigned",
+   "Note"
+  ],
+  "C06-PARMAR-RAJPUT-002": [
+   "assigned",
+   "Note"
+  ],
+  "C06-INTACH-001": [
+   "assigned",
+   "C"
+  ],
+  "C06-INTACH-002": [
+   "assigned",
+   "C"
+  ],
+  "C06-PANDE-001": [
+   "assigned",
+   "E"
+  ],
+  "C06-PANDE-002": [
+   "assigned",
+   "Note"
+  ],
+  "C06-ARTPAR-001": [
+   "assigned",
+   "C"
+  ]
+ },
+ "contextual_cited": 44
+}

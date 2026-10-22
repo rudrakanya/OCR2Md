@@ -1,0 +1,25 @@
+{"c":"51cf44f232","keep":false,"reject_reason":"physical and palaeographic description of Gaonrī plates; no bearing on Udaypur"}
+{"c":"2782aafc42","keep":true,"items":[{"unit":"C04","sub":"S1","type":"date","strength":"contextual","span":[10,14],"note":"Gaonrī grant of Vākpatirāja dated 22 and 31 December 986 A.C., the latest known epigraphical record of Vākpatirāja, who continued some more years."}]}
+{"c":"b3751d3cc9","keep":false,"reject_reason":"identification of Ujjain-area place names in a grant; no bearing on Udaypur"}
+{"c":"c7960ab49e","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"159d2c3a34","keep":true,"items":[{"unit":"C03","sub":"S3","type":"fact","strength":"contextual","span":[6,6],"note":"The name Avanti denoting West Mālwā 'reminds us of the earlier times (Ākar-āvanti)'."},{"unit":"C03","sub":"S5","type":"fact","strength":"direct","span":[10,12],"note":"A tale in S.M.K. states that Pūrṇapathaka-pattana lay on the way of a traveller from Vidishā to Mānyakheta (p. 62).","refs":["S.M.K., Tale No. 8, p. 62"]}]}
+{"c":"958a38f91b","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"36b79203b4","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text"}
+{"c":"76eb853954","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text ending"}
+{"c":"f1dde18857","keep":false,"reject_reason":"publication history of the Mōdāsā plates; no bearing on Udaypur"}
+{"c":"87092c3bcc","keep":false,"reject_reason":"physical and palaeographic description of Mōdāsā plates; no bearing on Udaypur"}
+{"c":"389ec043c2","keep":false,"reject_reason":"orthographic notes and footnotes on Mōdāsā plates"}
+{"c":"3b4b4b90b6","keep":true,"items":[{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[8,12],"note":"Mōdāsā grant dated V.S. 1067 (6 May 1011 A.C.) introduces four Paramāra rulers: Siyaka, Vākpatirāja, Sindhurāja, and Bhōjadēva."},{"unit":"C08","sub":"S4","type":"fact","strength":"contextual","span":[14,14],"note":"Land grant of two halas of land for growing kōdrava, mudga, vṛhi (paddy) and tila (sesamum), including corn in the threshing floor adjoining the houses."}]}
+{"c":"22a2299541","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[2,2],"note":"Procedure of the grant: land examined by representatives of Brāhmaṇas, shown to the donee, then given in the presence of named witnesses; evidence for how land grants were executed."}]}
+{"c":"c846e5d80d","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[3,4],"note":"Editor suggests the Chālukya prince Vatsarāja may have been a feudatory of Bhōja, who was then aggrandising himself at the cost of his enemy the Chaulukya Mūlarāja."}]}
+{"c":"b9842b010a","keep":false,"reject_reason":"garbled OCR and footnotes"}
+{"c":"c7db3c4155","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text and plate captions"}
+{"c":"cf54912c7d","keep":false,"reject_reason":"garbled Sanskrit OCR of grant text ending"}
+{"c":"e23ea65dcb","keep":false,"reject_reason":"textual footnotes and publication history of Mahaudī plates"}
+{"c":"da7bd43ee3","keep":false,"reject_reason":"discovery, physical and palaeographic description of Mahaudī plates; no bearing on Udaypur"}
+{"c":"45c0bc0109","keep":false,"reject_reason":"orthography notes on Mahaudī plates"}
+{"c":"f3fd2e1710","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[19,22],"note":"Mahaudī grant: Bhōjadēva, successor of Sindhurājadēva, who succeeded Vākpatirājadēva, who succeeded Siyakadēva."},{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[9,9],"note":"Donation on the full-moon day of Śrāvaṇa, year 1074, equated with 30 July 1018 A.C."}]}
+{"c":"0034145959","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[9,11],"note":"The Mahaudī charter is the first Paramāra grant in the Bhopāl territory, showing this region was in Bhōja's kingdom before 1018 A.C."},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[1,1],"note":"King at Dhārā orders the villagers to render the donee all taxes in cash, share of crop produce, periodical offerings, additional taxes and dues."}]}
+{"c":"0448e9b343","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[2,3],"note":"Dhārā of the inscription is Dhār, 'the Paramāra capital' and now headquarters of the Dhār District."}]}
+{"c":"9c500376b6","keep":false,"reject_reason":"garbled OCR of grant text"}
+{"c":"da1a001e2e","keep":false,"reject_reason":"garbled OCR of grant text and plate captions"}

@@ -1,0 +1,710 @@
+{
+ "_doc": "Per-page fixes read off gridded views (_work/grid_pNNN.jpg). drop: indexes into detect() output; add: quads tl,tr,br,bl in native px of the upright page photo, snapped to the photo edge unless refine is false; fixed: sides (0 top, 1 right, 2 bottom, 3 left) kept as given (picture runs off the camera frame).",
+ "11": {
+  "add": [
+   {
+    "quad": [
+     [
+      826,
+      518
+     ],
+     [
+      3022,
+      485
+     ],
+     [
+      3048,
+      2074
+     ],
+     [
+      769,
+      2051
+     ]
+    ],
+    "refine": false,
+    "note": "Fig. 1 line drawing inside a thin ruled frame; quad set just outside the frame"
+   }
+  ]
+ },
+ "13": {
+  "drop": [
+   0
+  ],
+  "add": [
+   {
+    "quad": [
+     [
+      654,
+      469
+     ],
+     [
+      3230,
+      429
+     ],
+     [
+      3253,
+      3765
+     ],
+     [
+      515,
+      3699
+     ]
+    ],
+    "note": "pale sky: top edge missed by the darkness mask"
+   }
+  ]
+ },
+ "16": {
+  "drop": [
+   0,
+   1
+  ],
+  "add": [
+   {
+    "quad": [
+     [
+      1271,
+      588
+     ],
+     [
+      2642,
+      512
+     ],
+     [
+      2675,
+      1975
+     ],
+     [
+      1321,
+      2031
+     ]
+    ],
+    "note": "pale sky split one photo in two"
+   }
+  ]
+ },
+ "30": {
+  "drop": [
+   1
+  ],
+  "note": "caption/text strip between the two plates"
+ },
+ "35": {
+  "add": [
+   {
+    "quad": [
+     [
+      545,
+      2510
+     ],
+     [
+      1476,
+      2503
+     ],
+     [
+      1496,
+      4069
+     ],
+     [
+      568,
+      4052
+     ]
+    ],
+    "note": "left photo of the pair missed"
+   }
+  ]
+ },
+ "43": {
+  "drop": [
+   0
+  ],
+  "add": [
+   {
+    "quad": [
+     [
+      799,
+      406
+     ],
+     [
+      1988,
+      304
+     ],
+     [
+      1968,
+      1750
+     ],
+     [
+      733,
+      1750
+     ]
+    ]
+   },
+   {
+    "quad": [
+     [
+      2048,
+      297
+     ],
+     [
+      3270,
+      320
+     ],
+     [
+      3236,
+      1750
+     ],
+     [
+      2018,
+      1750
+     ]
+    ]
+   }
+  ],
+  "note": "pair merged"
+ },
+ "45": {
+  "add": [
+   {
+    "quad": [
+     [
+      595,
+      1800
+     ],
+     [
+      3197,
+      1815
+     ],
+     [
+      3170,
+      4095
+     ],
+     [
+      555,
+      3990
+     ]
+    ],
+    "note": "pale photo missed"
+   }
+  ]
+ },
+ "54": {
+  "add": [
+   {
+    "quad": [
+     [
+      125,
+      0
+     ],
+     [
+      1500,
+      0
+     ],
+     [
+      1503,
+      2114
+     ],
+     [
+      125,
+      2147
+     ]
+    ],
+    "fixed": [
+     0
+    ],
+    "note": "top of the picture runs off the camera frame"
+   },
+   {
+    "quad": [
+     [
+      1618,
+      0
+     ],
+     [
+      2989,
+      0
+     ],
+     [
+      3038,
+      2097
+     ],
+     [
+      1645,
+      2114
+     ]
+    ],
+    "fixed": [
+     0
+    ],
+    "note": "top of the picture runs off the camera frame"
+   }
+  ]
+ },
+ "61": {
+  "drop": [
+   2
+  ],
+  "note": "text block"
+ },
+ "70": {
+  "drop": [
+   0
+  ],
+  "add": [
+   {
+    "quad": [
+     [
+      386,
+      429
+     ],
+     [
+      1608,
+      429
+     ],
+     [
+      1608,
+      1981
+     ],
+     [
+      386,
+      1981
+     ]
+    ]
+   },
+   {
+    "quad": [
+     [
+      1694,
+      429
+     ],
+     [
+      2949,
+      429
+     ],
+     [
+      2949,
+      1975
+     ],
+     [
+      1694,
+      1975
+     ]
+    ]
+   }
+  ],
+  "note": "top pair merged"
+ },
+ "73": {
+  "add": [
+   {
+    "quad": [
+     [
+      578,
+      2444
+     ],
+     [
+      2100,
+      2450
+     ],
+     [
+      2100,
+      4333
+     ],
+     [
+      535,
+      4237
+     ]
+    ],
+    "note": "photo missed"
+   }
+  ]
+ },
+ "89": {
+  "drop": [
+   0
+  ],
+  "add": [
+   {
+    "quad": [
+     [
+      816,
+      694
+     ],
+     [
+      3022,
+      733
+     ],
+     [
+      3035,
+      2569
+     ],
+     [
+      799,
+      2549
+     ]
+    ],
+    "note": "pale sky: top edge missed"
+   }
+  ]
+ },
+ "caption_boxes": {
+  "_doc": "Caption boxes (native px of the upright page photo) for captions no OCR reading anchored; read off _work/grid_pNNN.jpg.",
+  "Pl. 20": [
+   26,
+   [
+    260,
+    2320,
+    1740,
+    2410
+   ]
+  ],
+  "Pl. 24": [
+   29,
+   [
+    730,
+    1945,
+    2700,
+    2035
+   ]
+  ],
+  "Pl. 25": [
+   29,
+   [
+    690,
+    3900,
+    2170,
+    4065
+   ]
+  ],
+  "Pl. 28": [
+   31,
+   [
+    640,
+    1765,
+    1260,
+    1965
+   ]
+  ],
+  "Pl. 59": [
+   47,
+   [
+    520,
+    2010,
+    1460,
+    2160
+   ]
+  ],
+  "Pl. 61": [
+   47,
+   [
+    480,
+    3935,
+    1480,
+    4100
+   ]
+  ],
+  "Pl. 85": [
+   61,
+   [
+    260,
+    3020,
+    1060,
+    3310
+   ]
+  ],
+  "Pl. 92": [
+   65,
+   [
+    550,
+    2640,
+    1225,
+    2880
+   ]
+  ],
+  "Pl. 97": [
+   69,
+   [
+    540,
+    2845,
+    1240,
+    3095
+   ]
+  ],
+  "Pl. 105": [
+   73,
+   [
+    570,
+    2150,
+    1230,
+    2400
+   ]
+  ]
+ },
+ "sides": {
+  "_doc": "Edges read off zoomed grids (_work/fix_plNNN.jpg) where both automatic runs cut into the photo or ran onto text. Key: label; 'page', 'inside' = a point inside the picture; each side given as two points on the printed photo edge. Sides not listed keep the merged line.",
+  "Pl. 3": {
+   "page": 12,
+   "inside": [
+    2000,
+    1500
+   ],
+   "bottom": [
+    [
+     1315,
+     2522
+    ],
+    [
+     2880,
+     2508
+    ]
+   ]
+  },
+  "Pl. 26": {
+   "page": 30,
+   "inside": [
+    2300,
+    1200
+   ],
+   "bottom": [
+    [
+     1840,
+     1955
+    ],
+    [
+     2816,
+     1955
+    ]
+   ]
+  },
+  "Pl. 37": {
+   "page": 35,
+   "inside": [
+    2300,
+    3300
+   ],
+   "top": [
+    [
+     1531,
+     2501
+    ],
+    [
+     3124,
+     2493
+    ]
+   ]
+  },
+  "Pl. 50": {
+   "page": 41,
+   "inside": [
+    1800,
+    3300
+   ],
+   "top": [
+    [
+     524,
+     2448
+    ],
+    [
+     3228,
+     2440
+    ]
+   ]
+  },
+  "Pl. 67": {
+   "page": 50,
+   "inside": [
+    1500,
+    3300
+   ],
+   "top": [
+    [
+     332,
+     2238
+    ],
+    [
+     2811,
+     2232
+    ]
+   ]
+  },
+  "Pl. 70": {
+   "page": 53,
+   "inside": [
+    1300,
+    1500
+   ],
+   "bottom": [
+    [
+     597,
+     2648
+    ],
+    [
+     2075,
+     2633
+    ]
+   ]
+  },
+  "Pl. 113": {
+   "page": 79,
+   "inside": [
+    1800,
+    1200
+   ],
+   "bottom": [
+    [
+     552,
+     2128
+    ],
+    [
+     3156,
+     2122
+    ]
+   ]
+  },
+  "Pl. 122": {
+   "page": 85,
+   "inside": [
+    2700,
+    3500
+   ],
+   "top": [
+    [
+     2264,
+     2763
+    ],
+    [
+     3177,
+     2770
+    ]
+   ]
+  },
+  "Pl. 123": {
+   "page": 86,
+   "inside": [
+    1500,
+    1500
+   ],
+   "bottom": [
+    [
+     309,
+     2512
+    ],
+    [
+     2827,
+     2505
+    ]
+   ]
+  },
+  "Pl. 125": {
+   "page": 88,
+   "inside": [
+    2000,
+    1500
+   ],
+   "bottom": [
+    [
+     1308,
+     2542
+    ],
+    [
+     2802,
+     2532
+    ]
+   ]
+  },
+  "Pl. 128": {
+   "page": 90,
+   "inside": [
+    1900,
+    3500
+   ],
+   "top": [
+    [
+     1305,
+     2950
+    ],
+    [
+     2600,
+     2945
+    ]
+   ],
+   "right": [
+    [
+     2600,
+     2945
+    ],
+    [
+     2600,
+     4118
+    ]
+   ],
+   "bottom": [
+    [
+     1300,
+     4152
+    ],
+    [
+     2600,
+     4118
+    ]
+   ],
+   "left": [
+    [
+     1305,
+     2950
+    ],
+    [
+     1300,
+     4152
+    ]
+   ],
+   "note": "right side of the print is washed out; the frame's right edge is not visible, set at the end of the top rule (x 2600)"
+  },
+  "Pl. 129": {
+   "page": 91,
+   "inside": [
+    2000,
+    1300
+   ],
+   "top": [
+    [
+     795,
+     125
+    ],
+    [
+     3350,
+     85
+    ]
+   ],
+   "right": [
+    [
+     3350,
+     85
+    ],
+    [
+     3352,
+     2560
+    ]
+   ],
+   "bottom": [
+    [
+     758,
+     2470
+    ],
+    [
+     3352,
+     2560
+    ]
+   ],
+   "left": [
+    [
+     795,
+     125
+    ],
+    [
+     758,
+     2470
+    ]
+   ]
+  }
+ }
+}

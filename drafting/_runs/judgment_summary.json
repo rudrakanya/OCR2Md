@@ -1,0 +1,13 @@
+{
+ "packets_judged": 221,
+ "packets_total": 221,
+ "chunks_judged": 5173,
+ "chunks_kept": 2103,
+ "chunks_rejected": 3070,
+ "items_verified": 3717,
+ "items_failed": 1,
+ "pilot_items_carried": 210,
+ "exact_duplicate_items_dropped": 0,
+ "overlapping_items_merged": 22,
+ "verification_pass_rate": 0.9997
+}

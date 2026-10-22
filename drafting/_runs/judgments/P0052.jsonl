@@ -1,0 +1,25 @@
+{"c": "76c1f8aab1", "keep": false, "reject_reason": "Arthūnā Hanumān image inscription of the Vāgaḍa branch: palaeography and summary; off-topic"}
+{"c": "a83eb11756", "keep": false, "reject_reason": "pilot-judged for C01; nothing for C02-C13 (Arthūnā image inscription dating)"}
+{"c": "db37363cb8", "keep": false, "reject_reason": "garbled Sanskrit verse text; metre list"}
+{"c": "546c63dd7c", "keep": false, "reject_reason": "textual footnotes only"}
+{"c": "8f7dee4de2", "keep": false, "reject_reason": "Arthūnā inscription: discovery and palaeography; off-topic"}
+{"c": "1b024fe14e", "keep": false, "reject_reason": "Arthūnā inscription: language and errors; off-topic"}
+{"c": "5335c39b7e", "keep": false, "reject_reason": "pilot-judged for C01; nothing for C02-C13 (Arthūnā Jaina temple inscription orthography)"}
+{"c": "64f45ad5af", "keep": true, "items": [{"unit": "C04", "sub": "S3", "type": "fact", "strength": "direct", "span": [6, 8], "note": "Editor conjectures that Chāmunḍarāja, like his father devoted to Jayasiṃha (Bhoja's immediate successor), may have helped Jayasiṃha by destroying forces of his adversary Udayāditya or another rival for the throne."}]}
+{"c": "9e5ee27b4b", "keep": true, "items": [{"unit": "C04", "sub": "S6", "type": "date", "strength": "contextual", "span": [28, 29], "xref": ["C10"], "note": "Mālwā was conquered by the Chaulukyas of Gujarāt in 1145 A.C.; this calamity to the imperial Paramāra house must have affected the subordinate Vāgaḍa house too."}]}
+{"c": "190b2ef1af", "keep": false, "reject_reason": "identification of Vāgaḍa villages and footnotes; off-topic"}
+{"c": "37195c974a", "keep": false, "reject_reason": "garbled Sanskrit verse text; metre list"}
+{"c": "040effbd0e", "keep": false, "reject_reason": "OCR garbage"}
+{"c": "f6f9a0f1c3", "keep": false, "reject_reason": "line-number list only, no text"}
+{"c": "eb8ddddb0e", "keep": false, "reject_reason": "pilot-judged for C01; nothing for C02-C13 (garbled Sanskrit verse text)"}
+{"c": "1e1e868df7", "keep": false, "reject_reason": "garbled Sanskrit text and textual footnotes"}
+{"c": "68017b431f", "keep": true, "items": [{"unit": "C08", "sub": "S3", "type": "fact", "strength": "contextual", "span": [24, 26], "note": "Rōpī plates record a donation of a field by Dēvarāja to the head of the Siddhēśvara Mahādeva temple on a lunar eclipse; Paramāra-linked grant from Bhinmāl region, not Udaypur."}]}
+{"c": "3e90d8f5f1", "keep": false, "reject_reason": "footnotes on the Rōpī plates date and measurements; no usable claim"}
+{"c": "18e97aa7cb", "keep": false, "reject_reason": "boundaries and place identification of a Rōpī land grant; off-topic detail"}
+{"c": "5747f4cbb4", "keep": false, "reject_reason": "garbled Sanskrit text of the Rōpī plates"}
+{"c": "cd521a59d8", "keep": false, "reject_reason": "editing history and find-spot of the Bhinmāl inscription; off-topic"}
+{"c": "e517f498c0", "keep": true, "items": [{"unit": "C08", "sub": "S3", "type": "fact", "strength": "contextual", "span": [1, 1], "note": "Bhinmāl inscription records restoration of the Jagat-svāmin temple at Śrīmāla with a golden cupola and a banner."}, {"unit": "C04", "sub": "S6", "type": "fact", "strength": "contextual", "span": [12, 13], "note": "Editor explains Krishnarāja's imperial title by his being made governor of Bhinmāl, later independent of Chandrāvatī and the Chaulukyas, and calls him the real founder of the Bhinnāl branch."}, {"unit": "C08", "sub": "S3", "type": "fact", "strength": "contextual", "span": [17, 20], "note": "Restorers induced kings, Brāhmaṇas, citizens and others to worship the Sun and contribute; Brāhmaṇa Jējāka endowed the temple with a golden cupola."}]}
+{"c": "1092f5ab9e", "keep": false, "reject_reason": "name history of a Bhinmāl Sun temple and footnotes; duplicates adjacent chunk"}
+{"c": "6535cad88f", "keep": true, "items": [{"unit": "C08", "sub": "S3", "type": "fact", "strength": "contextual", "span": [4, 4], "note": "King Krishnārāja donated a village, 20 drammas annually and a field in Sachaliyā village to the temple, among other endowments."}]}
+{"c": "9711980bd1", "keep": false, "reject_reason": "garbled Devanāgarī table of Bhinmāl inscription text"}
+{"c": "2baf36b122", "keep": true, "items": [{"unit": "C08", "sub": "S3", "type": "fact", "strength": "contextual", "span": [19, 19], "note": "Record of a gift of a number of drammas in favour of the deity in the Bhinmāl temple under Krishnārāja."}, {"unit": "C08", "sub": "S1", "type": "fact", "strength": "contextual", "span": [26, 26], "note": "Mentions Chēṭaka, servant of the religious office of Śiva, and Jāvala, supreme teacher of the Pāśupatas."}]}

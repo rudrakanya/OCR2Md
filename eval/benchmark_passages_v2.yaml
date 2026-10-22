@@ -1,0 +1,316 @@
+# =============================================================================
+# eval/benchmark_passages_v2.yaml — Phase 11 targeted expansion.
+#
+# Separate, additive file. eval/benchmark_passages_v1.yaml, eval/benchmark_v1.yaml,
+# eval/benchmark_v2.yaml and eval/gold.yaml are all untouched by this phase
+# (v1's SHA-256 was recorded at the start of Phase 11 and is re-verified at
+# the end -- see the Phase 11 report, not this file).
+#
+# 15 new queries, chosen specifically to produce stronger evidence on the
+# two weaknesses Phase 10 flagged: (A) short facts embedded in a document
+# whose main focus is elsewhere, and (B) questions needing two+ independent
+# sources. (C) control queries calibrate against both.
+#
+# NEW ANSWERABILITY STATE vs v1: `confirmed_unindexed`
+# -----------------------------------------------------------------------------
+# Phase 11's heading/empty-section audit (eval/audit_heading_sections.py,
+# reusing src/chunker.py's own split_sections() read-only) found 495 headings
+# across the corpus whose section body is empty and gets silently dropped.
+# Most are junk (page numbers, copyright lines); a few are real identifiers
+# with NO rescue elsewhere in the file's heading_path (e.g. SF-07 below).
+# `confirmed_unindexed` means: the fact IS true and IS stated in the raw
+# corpus file, read directly, but is PROVABLY ABSENT from the vector store
+# (0 occurrences in any chunk's text or heading_path metadata for that
+# file, verified against the live collection). This is NOT the same as
+# `confirmed_unanswerable` (fact doesn't exist in the corpus at all) and
+# NOT `answerable: true` (fact exists AND is indexed) -- it is a distinct,
+# third state a retriever cannot be faulted for missing.
+#
+# Same policy as v1 otherwise: book-level duplicate-OCR grouping via
+# duplicate_ocr_of, source_discovery direct|system-assisted, review_marker
+# none|uncertain, single-reviewer, not expert-validated.
+# =============================================================================
+
+meta:
+  created_by: assistant
+  created_on: 2026-10-10
+  status: single-reviewer, spot-checked, not expert-validated
+  n_queries: 15
+  supersedes: null
+  extends: eval/benchmark_passages_v1.yaml (additive; v1 untouched)
+  new_answerability_state: "confirmed_unindexed -- see header note above"
+
+queries:
+
+  # ── A. short embedded facts ─────────────────────────────────────────────
+  - id: SF-01
+    query: "By what percentage is the Betwa River's mean monsoon streamflow projected to decrease during 2061–2100 compared to 1982–2020?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: short_embedded_fact
+    challenge: "exact future-projection statistic, distinct from the already-used 2001-2020 figure"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: SF01-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Streamflow of the Betwa Rive.md
+        heading: "Abstract / Results"
+        excerpt: "decrease by 39–47% and 31–47% during 2023–2060 and 2061–2100, respectively as compared to the observed time period 1982–2020"
+        why: "States the exact projected decrease range for the 2061-2100 period in one sentence."
+
+  - id: SF-02
+    query: "What model did researchers use to simulate future land-use and land-cover change in the Betwa catchment?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: short_embedded_fact
+    challenge: "a brief methodological term (ANN-CA) inside a long technical abstract"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: SF02-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Streamflow of the Betwa Rive.md
+        heading: "Abstract"
+        excerpt: "Artificial Neural Network (ANN) based Cellular Automata (CA) model to simulate the future LU-LC"
+        why: "Names the exact model (ANN-CA) in a single clause within a much longer abstract about several different models (SWAT is the OTHER model, used for streamflow, not LU-LC -- a close distractor)."
+
+  - id: SF-03
+    query: "What is the Vikrama-era year of the Udaipur Stone Inscription of the time of Udayaditya, according to the epigraphic corpus catalogue?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: short_embedded_fact
+    challenge: "one row of a long catalogue table, easy to blur with 20+ similar rows"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: SF03-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Inscriptions Corpus.md
+        heading: "(table of plates/inscriptions)"
+        excerpt: "Udaipur Stone Inscription of the Time of Udayāditya : (Vikrama) Year 1137"
+        why: "One specific row in a table listing ~25 inscriptions by different kings and years -- tests whether retrieval can isolate the one relevant row among many near-identical ones."
+
+  - id: SF-04
+    query: "What mouldings make up the vedibandha of the Mahakalesvara-adjacent temple described in the Paramara temple survey?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: short_embedded_fact
+    challenge: "technical architectural vocabulary, single paragraph"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: SF04-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Some Paramara Templess.md
+        heading: "(temple description)"
+        excerpt: "composed of a series of mouldings, which from the base upward are khūraka, kumbha, antarapatta, kalaśa, antarapatta and kapotapālika"
+        why: "Lists the exact mouldings in sequence, in one sentence of a longer architectural description."
+
+  - id: SF-05
+    query: "What full regnal title is given to Bhojadeva at the start of the Samarangana-sutradhara treatise?"
+    answerable: true
+    answerability_status: confirmed_unindexed
+    category: short_embedded_fact
+    challenge: "CONTROL: confirmed indexing gap, not a retrieval failure"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: SF05-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Samarangan Vol 2 (a)_combined.md
+        heading: "(title-page divider, no body)"
+        excerpt: "Mahārājādhirāja Śrī Bhojadeva Paramāra"
+        duplicate_ocr_of:
+          - file: Samrangana Sutradhar Vol 1.md
+            heading: "(title-page divider, no body)"
+            excerpt: "Mahārājādhirāja Śrī Bhojadeva Paramāra"
+            note: "Same lost heading, same corpus-limitation mechanism, confirmed in the companion volume."
+    corpus_limitation: >
+      Confirmed via eval/audit_heading_sections.py: this heading (line 109)
+      is immediately followed by another same-level heading ('CHAPTER 51')
+      with zero body lines between them, so src/chunker.py's
+      split_sections() drops it entirely -- no rescue via a child heading
+      (unlike SF-01 vs PL-07's bhojdev.md case, which had the same
+      mechanism). The identical title also appears, and is identically
+      dropped, in Samrangana Sutradhar Vol 1.md line 320 -- a genuine
+      duplicate-OCR pair of the SAME lost heading, not two independent
+      confirmations. Verified 0 occurrences in the live collection's stored
+      text or heading_path metadata for either file. A retriever cannot
+      find evidence that was never indexed; this is a chunking-pipeline
+      gap, not a ranking failure.
+
+  - id: SF-06
+    query: "What dimension does the engraved image of the Lajja Gauri figure have, and what stone was it carved on?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: short_embedded_fact
+    challenge: "control repeat of a known-good short fact, slightly reworded from eval/benchmark_passages_v1.yaml's PL-08"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: SF06-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Geo-Heritage of Udaypur The Third Eye.md
+        heading: "Annexure 7: Petroglyph - Lajja Gauri"
+        excerpt: "The dimension of this petroglyph is 60x55 cm carved on the red sandstone on the eastern side."
+        why: "Same passage as PL-08, reworded query -- a sanity check that identical evidence is found regardless of exact phrasing."
+
+  # ── B. multi-source coverage ─────────────────────────────────────────────
+  - id: MS-01
+    query: "What mouldings appear on the mandovara (wall elevation) of Paramara-period temples, according to both an architectural survey and a specific site description?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: multi_source
+    challenge: "requires two genuinely independent sources on temple wall mouldings"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: ["MS01-G1", "MS01-G2"]
+    requires_multiple_passages: true
+    supporting_passages:
+      - file: Some Paramara Templess.md
+        heading: "(temple description)"
+        excerpt: "The mandovara is vertically divided into yedībandha, jārghā and barandikā"
+        why: "Direct statement of the mandovara's vertical division, from a site-specific survey."
+      - file: The Udayesvara Temple - Anupa Pande.md
+        heading: "(architectural chapter)"
+        excerpt: "This is followed by an ornate fillet decorated with diamonds with double volute pattern"
+        why: "Independent, more detailed architectural description of mandovara-level mouldings from a different book, different temple, same general subject -- genuinely two sources, not duplicates."
+
+  - id: MS-02
+    query: "What is the connection between Udayaditya's inscriptions at Udaypur and the inscriptions catalogued in the Corpus Inscriptionum Indicarum, and what year do they give for his reign?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: multi_source
+    challenge: "requires combining a narrative history with a primary epigraphic catalogue"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: ["MS02-G1", "MS02-G2"]
+    requires_multiple_passages: true
+    supporting_passages:
+      - file: Inscriptions Corpus.md
+        heading: "(table of plates/inscriptions)"
+        excerpt: "Udaipur Stone Inscription of the Time of Udayāditya : (Vikrama) Year 1137"
+        why: "The primary catalogue entry giving the exact Vikrama year."
+      - file: History of Paramara Dynasty DC Ganguly.md
+        heading: "UDAYĀDITYA section"
+        excerpt: "Udayapur prasasti tells us that"
+        why: "Independent narrative-history discussion of the same Udaypur prasasti inscription, from a different book and genre (dynastic history vs. epigraphic catalogue)."
+
+  - id: MS-03
+    query: "What do a geological survey and a historical gazetteer each say about building stone used in Vidisha district temples?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: multi_source
+    challenge: "repeat of v1's PL-12 multi-source pattern with the SAME two sources, as a stability check"
+    source_discovery: system-assisted
+    review_marker: none
+    evidence_group_id: ["MS03-G1", "MS03-G2"]
+    requires_multiple_passages: true
+    supporting_passages:
+      - file: Geo-Heritage of Udaypur The Third Eye.md
+        heading: "Sandstone:"
+        excerpt: "Sandstones are all those medium-grained sedimentary rocks that comprise more than 50% sand-size (0.063–2mm) grains."
+      - file: "The cultural heritage of madhya bharat.md"
+        heading: "4 Udaypur"
+        excerpt: "The pink coloured sandstone employed in the building shows its grandeur to better effect."
+    why_both: "Same evidence pair as PL-12 (Phase 10), reused deliberately to test stability of the multi-source result on a differently-phrased query."
+
+  - id: MS-04
+    query: "What evidence exists for both Udayaditya's military campaigns against the Caulukyas and his religious patronage at Udaypur?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: multi_source
+    challenge: "two facets of the same king from what is likely the same dominant source -- a near-control for 'requires multiple sources' framing"
+    source_discovery: direct
+    review_marker: uncertain
+    evidence_group_id: ["MS04-G1", "MS04-G2"]
+    requires_multiple_passages: true
+    supporting_passages:
+      - file: History of Paramara Dynasty DC Ganguly.md
+        heading: "UDAYĀDITYA section"
+        excerpt: "fell upon the combined forces of the Caulukyas and the Karnâtas, and within a short time succeeded in regaining the country"
+        why: "Direct account of the military campaign."
+      - file: A_serpentine_scimitar_of_letters_from_Ud.md
+        heading: "body text"
+        excerpt: "a town whose temple and tank were founded and named after king Udayāditya in 1080"
+        why: "Direct account of religious patronage, from a genuinely different book (an epigraphy paper, not the dynastic history)."
+    note: "Marked uncertain because Ganguly's book likely ALSO discusses the religious foundation elsewhere, which would make this less of a true two-source requirement than MS-01/MS-02; not independently confirmed either way within the time available."
+
+  # ── C. control cases ─────────────────────────────────────────────────────
+  - id: CT-01
+    query: "What is the Betwa River streamflow paper's SWAT model used to simulate?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: control_dominant_source
+    challenge: "straightforward exact-term query, one clearly dominant source, easy case"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: CT01-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Streamflow of the Betwa Rive.md
+        heading: "Abstract"
+        excerpt: "coupled the observed and projected LU-LC and climatic variables in the SWAT (Soil and water assessment tool) model to simulate the streamflow of the Betwa River"
+        why: "Single dominant source, exact terminology match expected -- a calibration case for 'retrieval should clearly succeed here'."
+
+  - id: CT-02
+    query: "वास्तुशास्त्र के ग्रंथ के अतिरिक्त और कोई लक्षण-निश्चय नहीं है, यह कथन किस स्रोत में है?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: control_devanagari_direct
+    challenge: "DIRECT Devanagari quotation query (learning from v1's PL-05 design flaw, which was an indirect English meta-question)"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: CT02-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: bhojdev.md
+        heading: "वास्तुशास्त्र"
+        excerpt: "वास्तुशास्त्रावृते तस्य न स्याल्लक्षणनिश्चय:"
+        why: "The query directly quotes (with minor spelling normalization) a verse from this exact chunk's body text -- unlike PL-05, this is a genuine direct-phrase probe, not a meta-question about a heading."
+
+  - id: CT-03
+    query: "What was the exact wind speed recorded during the 2023 cyclone that affected the Betwa river basin?"
+    answerable: false
+    answerability_status: confirmed_unanswerable
+    category: control_unanswerable
+    challenge: "plausible-sounding but fabricated event; the Streamflow paper covers climate projections, not a specific 2023 cyclone"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: null
+    requires_multiple_passages: false
+    supporting_passages: []
+    why_unanswerable: "No cyclone, nor any specific-event wind-speed measurement, is mentioned anywhere in Streamflow of the Betwa Rive.md (checked: the paper is a multi-decade climate-projection study, not event-based reporting) or any other file in this corpus."
+
+  - id: CT-04
+    query: "How many miniature shrines surrounded the main Udayeshvara temple, and were they all crowned with spires?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: control_dominant_source
+    challenge: "exact number + a yes/no sub-fact, single dominant source"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: CT04-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: "The cultural heritage of madhya bharat.md"
+        heading: "4 Udaypur"
+        excerpt: "The temple was surrounded by eight attendant shrines at least six of which were crowned with spires"
+        why: "States both the exact count (eight) and the spire sub-fact (six of eight) in one sentence."
+
+  - id: CT-05
+    query: "What museum holds an inscription recording the Vikrama year 1091 related to the Paramara dynasty?"
+    answerable: true
+    answerability_status: confirmed_answerable
+    category: short_embedded_fact
+    challenge: "one specific catalogue row naming an institution, among many similar rows"
+    source_discovery: direct
+    review_marker: none
+    evidence_group_id: CT05-G1
+    requires_multiple_passages: false
+    supporting_passages:
+      - file: Inscriptions Corpus.md
+        heading: "(table of plates/inscriptions)"
+        excerpt: "British Museum Sarasvati Image Inscription : (Vikrama) Year 1091"
+        why: "Names the specific institution (British Museum) and year in one catalogue row."

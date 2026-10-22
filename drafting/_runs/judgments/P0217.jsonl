@@ -1,0 +1,25 @@
+{"c":"54ea98eec7","keep":true,"items":[{"unit":"C05","sub":"S2","type":"architectural detail","strength":"contextual","span":[5,6],"xref":["C03"],"note":"Kutakeshvara Temple at Pathari (District Vidisha): Kadamba-type tri-ratha shikhara, constricted vestibule, single-bay porch; assigned to the 9th century, a Vidisha-district comparison for early Central Indian temple form."},{"unit":"C05","sub":"S2","type":"architectural detail","strength":"contextual","span":[16,17],"xref":["C03"],"note":"Maladevi Temple at Gyaraspur (District Vidisha): partly rock-cut, partly structural, called a mature example of the Pratihara style with porch, hall, vestibule and sanctum with ambulatory."}]}
+{"c":"92f5c73151","keep":true,"items":[{"unit":"C05","sub":"S2","type":"architectural detail","strength":"contextual","span":[1,9],"xref":["C03"],"note":"Completes the Maladevi (Gyaraspur, Vidisha district) description: tri-ratha sanctum, pancha-ratha shikhara of nine turrets, doorways, labelled Yaksha/Yakshi images; dated late 9th century."},{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[10,10],"note":"Summary of characteristic Pratihara features of Central Indian temples (tall pediments, garland-loop frieze, naga band on door-frame, vase-and-foliage, kirttimukhas, ribbed cushion capital)."}]}
+{"c":"4dc4b0da61","keep":false,"reject_reason":"Rajasthan temples (Chandravati, Abaneri, Osian); no bearing on Udaypur units"}
+{"c":"2665acd952","keep":false,"reject_reason":"Osian temples in Rajasthan; off-topic regional description"}
+{"c":"2f2f2f428d","keep":false,"reject_reason":"Osian/Rajasthan temples plus numeric OCR junk; off-topic"}
+{"c":"add51c9f32","keep":false,"reject_reason":"Rajasthan temples (Sachiya-mata, Chittorgarh); no specific link to Udaypur"}
+{"c":"321f384978","keep":false,"reject_reason":"Rajasthan/Chittorgarh temples and plate captions; off-topic"}
+{"c":"8c5feadb22","keep":false,"reject_reason":"Rajasthan temples (Badoli, Osian); off-topic"}
+{"c":"9259b01578","keep":false,"reject_reason":"Rajasthan temples (Badoli, Jagat); Khajuraho comparisons not about Udaypur"}
+{"c":"1afe7f9d99","keep":false,"reject_reason":"Rajasthan temples (Ghanerao, Sikar); off-topic"}
+{"c":"f9c9e22ec0","keep":true,"items":[{"unit":"C08","sub":"S1","type":"fact","strength":"contextual","span":[2,5],"note":"Lakulisha Temple at Ekalingaji, founded 972, enshrines seated Lakulisha as tutelary deity on the door-frame; background on Lakulisha (Pasupata) cult imagery in a temple."}]}
+{"c":"f6aeb643e5","keep":false,"reject_reason":"Rajasthan temples (Nagda, Kiradu); off-topic"}
+{"c":"d57edbb1ee","keep":false,"reject_reason":"Solanki/Rajasthan Jaina temples; off-topic"}
+{"c":"f77e79e53e","keep":false,"reject_reason":"Dilwara temples at Mount Abu plus numeric junk; off-topic"}
+{"c":"98789c7514","keep":false,"reject_reason":"plate captions and Solanki-style Rajasthan; off-topic"}
+{"c":"2a7f1de5e4","keep":false,"reject_reason":"Western India (Saurashtra) pre-Solanki temples; off-topic"}
+{"c":"b81989959b","keep":false,"reject_reason":"Western India/Gujarat temple chronology; off-topic"}
+{"c":"6effd3cbce","keep":false,"reject_reason":"general Solanki temple description (Gujarat); no bearing on Udaypur"}
+{"c":"9adbd43cad","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[2,2],"note":"Lakulisha Temple at Pavagarh is said to be strongly influenced by the regional style of Malwa; shows Malwa style radiating beyond the region."}]}
+{"c":"f8d0574bcb","keep":false,"reject_reason":"Solanki temples of Gujarat (Somanath etc.); off-topic"}
+{"c":"95b0eb12af","keep":true,"items":[{"unit":"C05","sub":"S2","type":"fact","strength":"contextual","span":[19,22],"xref":["C04"],"note":"Paramara temples of Malwa have individual features from external influences; bordering Rajasthan and the upper Deccan, they are affiliated more to the Deccani style than the Central Indian.","claim":{"key":"Bhūmija style: origin / affinity","value":"Paramara temples affiliated more to Deccani style than Central Indian"}},{"unit":"C05","sub":"S2","type":"architectural detail","strength":"contextual","span":[11,17],"note":"Common constituents of developed Central Indian temples: sanctum, vestibule, mandapa with transepts and porch, balustrade, lion-bearing sukanasa, 5- or 7-ratha shikhara with two amalasarakas."},{"unit":"C03","sub":"S4","type":"fact","strength":"contextual","span":[5,9],"xref":["C04"],"note":"Chandellas, Kalachuris and Paramaras as mighty powers of Central India; Paramaras largely in the western part between the 10th and 12th centuries."}]}
+{"c":"dfc2d44d74","keep":false,"reject_reason":"Kalachuri and Kachchhapaghata temples elsewhere; no link to Udaypur"}
+{"c":"07b6eb80b4","keep":false,"reject_reason":"Kalachuri temples of eastern Central India; off-topic"}
+{"c":"001c9b66b9","keep":false,"reject_reason":"Kalachuri temples (Sohagpur, Bheraghat); off-topic"}
+{"c":"ed0d946cbc","keep":false,"reject_reason":"Kachchhapaghata temples (Gwalior region) plus numeric junk; off-topic"}

@@ -1,0 +1,25 @@
+{"c": "85baac9aa5", "keep": false, "reject_reason": "domestic hall/verandah measurements; no bearing on temple or Udaypur"}
+{"c": "fd218e79f3", "keep": false, "reject_reason": "footnotes and metrical notes on prastara; no usable evidence"}
+{"c": "1233305b3d", "keep": true, "items": [{"unit": "C05", "sub": "S6", "type": "fact", "strength": "contextual", "span": [22, 23], "note": "Sarvatobhadra house (unbroken verandah, four doors) said to be beneficial for kings and gods; ⚠ old OCR; canonical vāstu prescription, not Udaypur-specific", "gloss": "A house with unbroken verandah all round is called Sarvatobhadra; this four-doored type is beneficial for kings and gods."}]}
+{"c": "8eb7f22c97", "keep": false, "reject_reason": "pilot-judged for C01; nothing for C02–C13"}
+{"c": "5188900f31", "keep": false, "reject_reason": "house-type enumeration and footnotes; no bearing on a unit"}
+{"c": "dedb67a694", "keep": false, "reject_reason": "domestic house types (mūṣā combinations); not Udaypur-specific"}
+{"c": "8316856aa0", "keep": false, "reject_reason": "domestic house names by mūṣā combination; no bearing on temple plan"}
+{"c": "6c82e0f398", "keep": false, "reject_reason": "domestic house names by mūṣā combination; no bearing on a unit"}
+{"c": "53d63a416e", "keep": false, "reject_reason": "omens for houses; no bearing on a unit"}
+{"c": "de1b141f27", "keep": false, "reject_reason": "house/balcony omens; no bearing on a unit"}
+{"c": "dc317274f4", "keep": false, "reject_reason": "three-chambered house types and bibliographic footnotes; not trade routes"}
+{"c": "3b349074ee", "keep": false, "reject_reason": "house-type enumeration; no bearing on Śaiva traditions"}
+{"c": "01853972a7", "keep": false, "reject_reason": "wall and pedestal measurements for houses; not conservation; garbled"}
+{"c": "c53f57e2c1", "keep": false, "reject_reason": "footnotes and fragment; no usable evidence"}
+{"c": "fc978f2f87", "keep": false, "reject_reason": "house door and storey proportions; generic, garbled"}
+{"c": "b0e1f3ec82", "keep": false, "reject_reason": "house pillar and plank proportions; generic, garbled"}
+{"c": "da8e3590c5", "keep": false, "reject_reason": "combinatorial house names; no bearing on Udaypur town fabric"}
+{"c": "0e80e0a03a", "keep": false, "reject_reason": "numeric enumeration of house types; no usable evidence"}
+{"c": "3257c531fa", "keep": false, "reject_reason": "numeric enumeration of house types; no usable evidence"}
+{"c": "b2bbd16c26", "keep": false, "reject_reason": "numeric enumeration of house types; no usable evidence"}
+{"c": "94961d89ab", "keep": false, "reject_reason": "generic ritual income calculations (āya); no bearing on temple endowments at Udaypur"}
+{"c": "917337c3bd", "keep": false, "reject_reason": "sabhā hall layout; no bearing on literary culture"}
+{"c": "e4b4902e84", "keep": false, "reject_reason": "door proportions for houses; generic, garbled"}
+{"c": "479df9b7cd", "keep": false, "reject_reason": "door and pillar proportions for houses; generic, garbled"}
+{"c": "3c8df016bf", "keep": false, "reject_reason": "pillar and door proportions for houses; generic, garbled"}

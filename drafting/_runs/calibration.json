@@ -1,0 +1,794 @@
+{
+ "judged": 1527,
+ "keeps": 125,
+ "min_keep_dense": 0.3802,
+ "keep_dense_quantiles": {
+  "min": 0.3802,
+  "p05": 0.4138,
+  "p10": 0.4428,
+  "p25": 0.4838,
+  "p50": 0.5264
+ },
+ "threshold_dense": 0.36,
+ "threshold_deepen": 0.5,
+ "deepen_precision_target": 0.3,
+ "precision_curve": [
+  {
+   "T": 0.36,
+   "n": 1100,
+   "keeps": 125,
+   "precision": 0.114,
+   "recall": 1.0
+  },
+  {
+   "T": 0.38,
+   "n": 965,
+   "keeps": 125,
+   "precision": 0.13,
+   "recall": 1.0
+  },
+  {
+   "T": 0.4,
+   "n": 830,
+   "keeps": 119,
+   "precision": 0.143,
+   "recall": 0.952
+  },
+  {
+   "T": 0.42,
+   "n": 701,
+   "keeps": 117,
+   "precision": 0.167,
+   "recall": 0.936
+  },
+  {
+   "T": 0.44,
+   "n": 577,
+   "keeps": 114,
+   "precision": 0.198,
+   "recall": 0.912
+  },
+  {
+   "T": 0.46,
+   "n": 455,
+   "keeps": 106,
+   "precision": 0.233,
+   "recall": 0.848
+  },
+  {
+   "T": 0.48,
+   "n": 354,
+   "keeps": 95,
+   "precision": 0.268,
+   "recall": 0.76
+  },
+  {
+   "T": 0.5,
+   "n": 254,
+   "keeps": 82,
+   "precision": 0.323,
+   "recall": 0.656
+  },
+  {
+   "T": 0.52,
+   "n": 175,
+   "keeps": 68,
+   "precision": 0.389,
+   "recall": 0.544
+  },
+  {
+   "T": 0.54,
+   "n": 120,
+   "keeps": 53,
+   "precision": 0.442,
+   "recall": 0.424
+  },
+  {
+   "T": 0.56,
+   "n": 70,
+   "keeps": 37,
+   "precision": 0.529,
+   "recall": 0.296
+  },
+  {
+   "T": 0.58,
+   "n": 39,
+   "keeps": 21,
+   "precision": 0.538,
+   "recall": 0.168
+  },
+  {
+   "T": 0.6,
+   "n": 22,
+   "keeps": 14,
+   "precision": 0.636,
+   "recall": 0.112
+  }
+ ],
+ "rescue_rank": 10,
+ "margin": 0.02,
+ "at_threshold": {
+  "pass": 1101,
+  "keeps_lost": 0,
+  "rejects_dropped": 426
+ },
+ "table": [
+  {
+   "T": 0.3,
+   "pass": 1375,
+   "keeps_lost": 0,
+   "rejects_dropped": 152
+  },
+  {
+   "T": 0.32,
+   "pass": 1314,
+   "keeps_lost": 0,
+   "rejects_dropped": 213
+  },
+  {
+   "T": 0.34,
+   "pass": 1212,
+   "keeps_lost": 0,
+   "rejects_dropped": 315
+  },
+  {
+   "T": 0.36,
+   "pass": 1101,
+   "keeps_lost": 0,
+   "rejects_dropped": 426
+  },
+  {
+   "T": 0.38,
+   "pass": 968,
+   "keeps_lost": 0,
+   "rejects_dropped": 559
+  },
+  {
+   "T": 0.4,
+   "pass": 839,
+   "keeps_lost": 4,
+   "rejects_dropped": 684
+  },
+  {
+   "T": 0.42,
+   "pass": 713,
+   "keeps_lost": 5,
+   "rejects_dropped": 809
+  },
+  {
+   "T": 0.45,
+   "pass": 539,
+   "keeps_lost": 10,
+   "rejects_dropped": 978
+  }
+ ],
+ "bands": [
+  {
+   "band": "0.00-0.30",
+   "n": 152,
+   "keeps": 0
+  },
+  {
+   "band": "0.30-0.36",
+   "n": 275,
+   "keeps": 0
+  },
+  {
+   "band": "0.36-0.42",
+   "n": 399,
+   "keeps": 8
+  },
+  {
+   "band": "0.42-0.48",
+   "n": 347,
+   "keeps": 22
+  },
+  {
+   "band": "0.48-1.00",
+   "n": 354,
+   "keeps": 95
+  }
+ ],
+ "sample": [
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "02e088dbd42f406cfe3f4a5cc57a52c6d05332d3",
+   "source": "Temple Economics.md",
+   "page": 174,
+   "dense_max": 0.2436,
+   "best_global_rank": 77,
+   "hand_decision": "reject",
+   "reason": "Read in full: polemical survey of temple economies, destruction and modern policy across India (contextual-only source); no Udaypur (Vidisha) content."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "011f042b17dfb10f38f73248e5c37d94cdd9f9a1",
+   "source": "iconography of hindus, buddhists and jains Gupte.md",
+   "page": 115,
+   "dense_max": 0.2561,
+   "best_global_rank": 1038,
+   "hand_decision": "reject",
+   "reason": "Read in full: general Hindu/Buddhist/Jain iconography (deities, mudrās, plates from Ellora/Halebid/Badami, tables, index); no Udaypur content. Iconographic definitions are Ch. 7 context only."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "35712692225c90a989ef0abcfefdf43853d634bb",
+   "source": "bhojdev.md",
+   "page": 62,
+   "dense_max": 0.2992,
+   "best_global_rank": 106,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi introduction to Bhoja (life, works, Dhara) and Hindi translation of Samarāṅgaṇa chapters on land, town-planning, gates, houses, machines; no Udaypur content (Samarāṅgaṇa doctrine is Ch. 5 context)."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "d389d14e211cbd7d184d2a144a5a294f99cd0b2b",
+   "source": "bhojdev.md",
+   "page": 2,
+   "dense_max": 0.2684,
+   "best_global_rank": 45,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi introduction to Bhoja (life, works, Dhara) and Hindi translation of Samarāṅgaṇa chapters on land, town-planning, gates, houses, machines; no Udaypur content (Samarāṅgaṇa doctrine is Ch. 5 context)."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "99ed92681920af64353faa5c6c09944bbf214dc2",
+   "source": "Streamflow of the Betwa Rive.md",
+   "page": 2,
+   "dense_max": 0.2117,
+   "best_global_rank": 1910,
+   "hand_decision": "reject",
+   "reason": "Upper Betwa hydrology/LU-LC modelling — Ch. 2; nothing on Udaypur"
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "be16528703d866b7c553570dd9b0488566db89b7",
+   "source": "bhojdev.md",
+   "page": 12,
+   "dense_max": 0.2905,
+   "best_global_rank": 446,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi introduction to Bhoja (life, works, Dhara) and Hindi translation of Samarāṅgaṇa chapters on land, town-planning, gates, houses, machines; no Udaypur content (Samarāṅgaṇa doctrine is Ch. 5 context)."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "8d759300389fa3e1b42646a2b7bd00fd32bbc736",
+   "source": "Streamflow of the Betwa Rive.md",
+   "page": 6,
+   "dense_max": 0.1928,
+   "best_global_rank": 2829,
+   "hand_decision": "reject",
+   "reason": "Upper Betwa hydrology/LU-LC modelling — Ch. 2; nothing on Udaypur"
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "bf8abf542401c2b78715b1d64278ab8e01a6902f",
+   "source": "Long-termhistoricchangesinclimaticvariablesofBetwa.md",
+   "page": 7,
+   "dense_max": 0.2482,
+   "best_global_rank": 321,
+   "hand_decision": "reject",
+   "reason": "Basin climatology (rainfall/temperature trends, methods, references) — Ch. 2; nothing on Udaypur's identity or memory"
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "a8b65f7caa85adaa1b521c02bb4dd8cc715cb75b",
+   "source": "patanjala-yogasutra-rajamartanda-bhoja.md",
+   "page": 32,
+   "dense_max": 0.2726,
+   "best_global_rank": 345,
+   "hand_decision": "reject",
+   "reason": "⚠ OCR quality warning. Read in full: Yogasūtra with Bhoja's Rājamārtaṇḍa-vṛtti and editor's Hindi bhūmikā (on Bhoja's life, works, dates); no Udaypur content. Bhoja biography is Ch. 3/4 context."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "967edf2df32d52e1611131b00e576a5b8cce3d5a",
+   "source": "bhojdev.md",
+   "page": 9,
+   "dense_max": 0.2921,
+   "best_global_rank": 371,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi introduction to Bhoja (life, works, Dhara) and Hindi translation of Samarāṅgaṇa chapters on land, town-planning, gates, houses, machines; no Udaypur content (Samarāṅgaṇa doctrine is Ch. 5 context)."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "1515bb903f9e59d063192340b726f71888daa044",
+   "source": "iconography of hindus, buddhists and jains Gupte.md",
+   "page": 115,
+   "dense_max": 0.2515,
+   "best_global_rank": 1034,
+   "hand_decision": "reject",
+   "reason": "Read in full: general Hindu/Buddhist/Jain iconography (deities, mudrās, plates from Ellora/Halebid/Badami, tables, index); no Udaypur content. Iconographic definitions are Ch. 7 context only."
+  },
+  {
+   "band": "0.00-0.30",
+   "chunk_id": "50215fab5209254c72dc5ee09372813b7bbcfa59",
+   "source": "Long-termhistoricchangesinclimaticvariablesofBetwa.md",
+   "page": 1,
+   "dense_max": 0.2257,
+   "best_global_rank": 689,
+   "hand_decision": "reject",
+   "reason": "Basin climatology (rainfall/temperature trends, methods, references) — Ch. 2; nothing on Udaypur's identity or memory"
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "9fe303366ae113e8c56ad1f40ef576bcde91db14",
+   "source": "Samrangana Sutradhar Vol 1.md",
+   "page": 216,
+   "dense_max": 0.3545,
+   "best_global_rank": 393,
+   "hand_decision": "reject",
+   "reason": "⚠ old OCR, pending re-OCR. Read in full: Samarāṅgaṇa-sūtradhāra vol. 1 (chs 1–50) — cosmography, town-planning, house types, Indradhvaja, yantras, foundation rites, translator's notes; no Udaypur content. Treatise doctrine is Ch. 5 context only."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "d6f7808b83ba794fb25e7887a683af49c02c6904",
+   "source": "bhojdev.md",
+   "page": 54,
+   "dense_max": 0.3539,
+   "best_global_rank": 568,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi introduction to Bhoja (life, works, Dhara) and Hindi translation of Samarāṅgaṇa chapters on land, town-planning, gates, houses, machines; no Udaypur content (Samarāṅgaṇa doctrine is Ch. 5 context)."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "1d79550bde615d9ef36cb9aac76cee7bb9ac8a16",
+   "source": "Temples of India.md",
+   "page": 124,
+   "dense_max": 0.3251,
+   "best_global_rank": 42,
+   "hand_decision": "reject",
+   "reason": "Temples elsewhere in India, indexes, front matter, or Udayeshwara architectural detail (Ch. 5) — no further Ch. 1 evidence"
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "8df6943b1b45eeb5dd6fe89a975be4137bc82e58",
+   "source": "iconography of hindus, buddhists and jains Gupte.md",
+   "page": 136,
+   "dense_max": 0.3459,
+   "best_global_rank": 1357,
+   "hand_decision": "reject",
+   "reason": "Read in full: general Hindu/Buddhist/Jain iconography (deities, mudrās, plates from Ellora/Halebid/Badami, tables, index); no Udaypur content. Iconographic definitions are Ch. 7 context only."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "855785b0c2bdd1a2e4a1a8d8b8fc3c7a43bc7be1",
+   "source": "The Hindu Temple Vol 2.md",
+   "page": 166,
+   "dense_max": 0.3361,
+   "best_global_rank": 1131,
+   "hand_decision": "reject",
+   "reason": "Read in full: Kramrisch vol. 2 — temple symbolism, Vāstu texts, plate descriptions (incl. the Udayapur plates XLIII–LIII, which are architectural description for Ch. 5), bibliography and index; nothing further on Ch. 1 themes."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "cdcb33a43daaedf6e8203980dd4ed3a5e1493d42",
+   "source": "bhoja-paramara-and-his-times.md",
+   "page": null,
+   "dense_max": 0.3374,
+   "best_global_rank": 24,
+   "hand_decision": "reject",
+   "reason": "Read in full: Bhoja's life, accession, administration, economy, literature, religion and pan-Indian architecture; no further Udaypur content for Ch. 1 beyond the kept items (Bhoja material is Ch. 3/4 context)."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "55b13afb585c39612c937834453badda0a0c73c9",
+   "source": "iconography of hindus, buddhists and jains Gupte.md",
+   "page": 72,
+   "dense_max": 0.3363,
+   "best_global_rank": 1176,
+   "hand_decision": "reject",
+   "reason": "Read in full: general Hindu/Buddhist/Jain iconography (deities, mudrās, plates from Ellora/Halebid/Badami, tables, index); no Udaypur content. Iconographic definitions are Ch. 7 context only."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "b60137f30f5e82943db0abc0a18c10a51afa68dc",
+   "source": "Samrangana Sutradhar Vol 1.md",
+   "page": 398,
+   "dense_max": 0.3251,
+   "best_global_rank": 1008,
+   "hand_decision": "reject",
+   "reason": "⚠ old OCR, pending re-OCR. Read in full: Samarāṅgaṇa-sūtradhāra vol. 1 (chs 1–50) — cosmography, town-planning, house types, Indradhvaja, yantras, foundation rites, translator's notes; no Udaypur content. Treatise doctrine is Ch. 5 context only."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "a43bfa5db5a4d3a8ca204cea5c43a3b7351a4840",
+   "source": "Samrangana Sutradhar Vol 1.md",
+   "page": 130,
+   "dense_max": 0.357,
+   "best_global_rank": 668,
+   "hand_decision": "reject",
+   "reason": "⚠ old OCR, pending re-OCR. Read in full: Samarāṅgaṇa-sūtradhāra vol. 1 (chs 1–50) — cosmography, town-planning, house types, Indradhvaja, yantras, foundation rites, translator's notes; no Udaypur content. Treatise doctrine is Ch. 5 context only."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "2961996c1fa1681f48e209897cae3a0f47358f3d",
+   "source": "The Hindu Temple Vol 2.md",
+   "page": 126,
+   "dense_max": 0.3497,
+   "best_global_rank": 706,
+   "hand_decision": "reject",
+   "reason": "Read in full: Kramrisch vol. 2 — temple symbolism, Vāstu texts, plate descriptions (incl. the Udayapur plates XLIII–LIII, which are architectural description for Ch. 5), bibliography and index; nothing further on Ch. 1 themes."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "30ce3fb7170aed1e7312eed38d3aa3fe431683cf",
+   "source": "iconography of hindus, buddhists and jains Gupte.md",
+   "page": 242,
+   "dense_max": 0.3026,
+   "best_global_rank": 1369,
+   "hand_decision": "reject",
+   "reason": "Read in full: general Hindu/Buddhist/Jain iconography (deities, mudrās, plates from Ellora/Halebid/Badami, tables, index); no Udaypur content. Iconographic definitions are Ch. 7 context only."
+  },
+  {
+   "band": "0.30-0.36",
+   "chunk_id": "a04a6f0562060b93655d7ea1b83aa6f34b4f15d0",
+   "source": "467921465-Skanda-Purana-13-AITM.md",
+   "page": 34,
+   "dense_max": 0.3222,
+   "best_global_rank": 535,
+   "hand_decision": "reject",
+   "reason": "Read in full: Skanda Purāṇa Avantya-khaṇḍa, Caturaśīti-liṅga-māhātmya (84 liṅgas of Mahākālavana, Ujjain); no Udaypur content. (One footnote mentions a Vaiśya couple 'of Vidiśā' — not Udaypur.)"
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "2080e45e2214a47e8cc062434c86c3e2351701b8",
+   "source": "Jagta_Hua_Kasba_OCR_text.md",
+   "page": 110,
+   "dense_max": 0.3951,
+   "best_global_rank": 6,
+   "hand_decision": "keep",
+   "reason": "Hindi original: Udaya Samudra measured by INTACH at 980 m, now fields — bears on the Udayasamudra identification question. English twin 5029e6cf (EN p.109) was rejected in the EN pass; kept here instead"
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "a4687122d011c3ca1d4d0e92ae34e85f48703150",
+   "source": "The Hindu Temple Vol 1 Stella Kramrisch.md",
+   "page": 269,
+   "dense_max": 0.3818,
+   "best_global_rank": 35,
+   "hand_decision": "keep",
+   "reason": "Kramrisch (1946) dates the temple 1059–1080 as a building span, and takes her plan from Cunningham's ASR vol. VII"
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "8b7f00a747b5745716beac786ea328aea84a8817",
+   "source": "Samarangan Vol 2 (a)_combined.md",
+   "page": 138,
+   "dense_max": 0.3792,
+   "best_global_rank": 953,
+   "hand_decision": "reject",
+   "reason": "⚠ old OCR, pending re-OCR. Read in full: Samarāṅgaṇa ch.51–83 + appendix (prāsāda, maṇḍapa, jagatī, iconometry, hastas); 'Udaya' hits = elevation / 'Udayācala' prāsāda type; no Udaypur content. Bhūmija-prāsāda chapter (p.267 colophon) is Ch. 5 architecture context, not Ch. 1."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "fd333ba518cb24ef1dc9b5946bd2c5351c318cfb",
+   "source": "The Hindu Temple Vol 1 Stella Kramrisch.md",
+   "page": 20,
+   "dense_max": 0.4103,
+   "best_global_rank": 164,
+   "hand_decision": "reject",
+   "reason": "Read in full: Kramrisch vol. 1 — site, Vāstupuruṣa, materials, origins, superstructure types, Nāgara/Drāviḍa/Vesara, proportion; Udayapur appears only as an architectural example (Ch. 5) beyond the kept item."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "375f08a47b90d497fc5e636074b708a905212937",
+   "source": "Temple Economics.md",
+   "page": 165,
+   "dense_max": 0.3937,
+   "best_global_rank": 177,
+   "hand_decision": "reject",
+   "reason": "Read in full: polemical survey of temple economies, destruction and modern policy across India (contextual-only source); no Udaypur (Vidisha) content."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "f8a994985003e0882e1ee3e2f5b4a1abbc4ffb2b",
+   "source": "806955603-The-Temple-Architecture-of-India-Adam-Hardy.md",
+   "page": 197,
+   "dense_max": 0.3894,
+   "best_global_rank": 128,
+   "hand_decision": "reject",
+   "reason": "Read in full: pan-Indian temple architecture (modes, aedicules, mouldings, regional histories), notes, index and bibliography; no further Udaypur content for Ch. 1 beyond the kept items (index entries only point to the pages kept)."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "76e99b227dffef54c670f84b89fc5330cd59f953",
+   "source": "Samrangana Sutradhar Vol 1.md",
+   "page": 13,
+   "dense_max": 0.3614,
+   "best_global_rank": 928,
+   "hand_decision": "reject",
+   "reason": "⚠ old OCR, pending re-OCR. Read in full: Samarāṅgaṇa-sūtradhāra vol. 1 (chs 1–50) — cosmography, town-planning, house types, Indradhvaja, yantras, foundation rites, translator's notes; no Udaypur content. Treatise doctrine is Ch. 5 context only."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "711da74035c760d022a2639fa85eb9b7b6db9389",
+   "source": "bhojdev.md",
+   "page": 22,
+   "dense_max": 0.3628,
+   "best_global_rank": 493,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi introduction to Bhoja (life, works, Dhara) and Hindi translation of Samarāṅgaṇa chapters on land, town-planning, gates, houses, machines; no Udaypur content (Samarāṅgaṇa doctrine is Ch. 5 context)."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "021c24eadeb1d6b1ea681ce3f22687bec38e6823",
+   "source": "The Hindu Temple Vol 2.md",
+   "page": 88,
+   "dense_max": 0.3611,
+   "best_global_rank": 823,
+   "hand_decision": "reject",
+   "reason": "Read in full: Kramrisch vol. 2 — temple symbolism, Vāstu texts, plate descriptions (incl. the Udayapur plates XLIII–LIII, which are architectural description for Ch. 5), bibliography and index; nothing further on Ch. 1 themes."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "5d509e34289c8b05820b887de20e4091a43f3d81",
+   "source": "467921465-Skanda-Purana-13-AITM.md",
+   "page": 54,
+   "dense_max": 0.3723,
+   "best_global_rank": 397,
+   "hand_decision": "reject",
+   "reason": "Read in full: Skanda Purāṇa Avantya-khaṇḍa, Caturaśīti-liṅga-māhātmya (84 liṅgas of Mahākālavana, Ujjain); no Udaypur content. (One footnote mentions a Vaiśya couple 'of Vidiśā' — not Udaypur.)"
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "f36f804b1f1719c480b1cb8000e7f13830845c9c",
+   "source": "Jagta_Hua_Kasba_OCR_text.md",
+   "page": 163,
+   "dense_max": 0.3846,
+   "best_global_rank": 10,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi original of Jagta_Hua_Kasba_EN; content duplicated by EN chunks already judged (DUP-OF EN translation, same passage), or heritage-walk/administration/encroachment narrative (Ch. 11-12), imaginative reconstruction, or Vidisha/Bhoja material (Ch. 3/4). Only passages adding to the EN judgments were kept."
+  },
+  {
+   "band": "0.36-0.42",
+   "chunk_id": "f78abc3a0093c6b7a9909f7b8c623d688970588b",
+   "source": "467921465-Skanda-Purana-13-AITM.md",
+   "page": 229,
+   "dense_max": 0.3677,
+   "best_global_rank": 307,
+   "hand_decision": "reject",
+   "reason": "Read in full: Skanda Purāṇa Avantya-khaṇḍa, Caturaśīti-liṅga-māhātmya (84 liṅgas of Mahākālavana, Ujjain); no Udaypur content. (One footnote mentions a Vaiśya couple 'of Vidiśā' — not Udaypur.)"
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "e19aa135fb4707db443e69dff431d456c04c969b",
+   "source": "Some Paramara Templess.md",
+   "page": 17,
+   "dense_max": 0.4586,
+   "best_global_rank": 293,
+   "hand_decision": "reject",
+   "reason": "Un sarpabandha inscription — Ch. 6 comparison"
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "4f3e071da677118d7e234f95419bdff3648ce45c",
+   "source": "Raja_Bhoj_Aur_Parmarkaleen_EN.md",
+   "page": 213,
+   "dense_max": 0.4604,
+   "best_global_rank": 62,
+   "hand_decision": "reject",
+   "reason": "Read in full: Bhoja's life, works, Dhara/Ujjain/Mandu/Vidisha town-planning, folk tales of Bhoja and Vikramaditya; no Udaypur content bearing on Ch. 1 (identity/memory/texts/significance). Bhoja material belongs to Ch. 3/4 context."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "cedd7849529b3795bd15416226e5fd3a879c8ea3",
+   "source": "The Hindu Temple Vol 2.md",
+   "page": 86,
+   "dense_max": 0.4251,
+   "best_global_rank": 83,
+   "hand_decision": "reject",
+   "reason": "Read in full: Kramrisch vol. 2 — temple symbolism, Vāstu texts, plate descriptions (incl. the Udayapur plates XLIII–LIII, which are architectural description for Ch. 5), bibliography and index; nothing further on Ch. 1 themes."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "c918f6c7383c06ee2a3eadda19aa8c1680490a40",
+   "source": "The Hindu Temple Vol 1 Stella Kramrisch.md",
+   "page": 214,
+   "dense_max": 0.4312,
+   "best_global_rank": 122,
+   "hand_decision": "reject",
+   "reason": "Read in full: Kramrisch vol. 1 — site, Vāstupuruṣa, materials, origins, superstructure types, Nāgara/Drāviḍa/Vesara, proportion; Udayapur appears only as an architectural example (Ch. 5) beyond the kept item."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "adb52a4f173d0496404872bd1f62132c1d6b7a68",
+   "source": "Vidisha Gazeteer.md",
+   "page": 345,
+   "dense_max": 0.4797,
+   "best_global_rank": 36,
+   "hand_decision": "reject",
+   "reason": "District administration, other places (Vidisha/Besnagar, Udayagiri, Gyaraspur, Badoh, Sironj, Kurwai), district-level history, demography, index/bibliography — no further Ch. 1 evidence on Udaypur"
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "928ac514ee7df5bbaeb53618035685bfcb838099",
+   "source": "Jagta_Hua_Kasba_OCR_text.md",
+   "page": 150,
+   "dense_max": 0.4353,
+   "best_global_rank": 10,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi original of Jagta_Hua_Kasba_EN; content duplicated by EN chunks already judged (DUP-OF EN translation, same passage), or heritage-walk/administration/encroachment narrative (Ch. 11-12), imaginative reconstruction, or Vidisha/Bhoja material (Ch. 3/4). Only passages adding to the EN judgments were kept."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "78ecd63f0e839fcc56aad4a381a2be07847136ac",
+   "source": "806955603-The-Temple-Architecture-of-India-Adam-Hardy.md",
+   "page": 37,
+   "dense_max": 0.4431,
+   "best_global_rank": 60,
+   "hand_decision": "reject",
+   "reason": "Read in full: pan-Indian temple architecture (modes, aedicules, mouldings, regional histories), notes, index and bibliography; no further Udaypur content for Ch. 1 beyond the kept items (index entries only point to the pages kept)."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "4ea3444d1655fd42967c124e9d4dff6ece8bb318",
+   "source": "The Hindu Temple Vol 1 Stella Kramrisch.md",
+   "page": 194,
+   "dense_max": 0.4241,
+   "best_global_rank": 164,
+   "hand_decision": "reject",
+   "reason": "Read in full: Kramrisch vol. 1 — site, Vāstupuruṣa, materials, origins, superstructure types, Nāgara/Drāviḍa/Vesara, proportion; Udayapur appears only as an architectural example (Ch. 5) beyond the kept item."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "2a8e10f8d71a33a49bb4f3682ddf87565629abcc",
+   "source": "The cultural heritage of madhya bharat.md",
+   "page": 135,
+   "dense_max": 0.4476,
+   "best_global_rank": 59,
+   "hand_decision": "reject",
+   "reason": "Other sites (Dhar, Bhilsa, Gwalior, Un, etc.), regional history or contents — no Ch. 1 evidence about Udaypur"
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "78ea857ee8b2d10d7420ea442ab4605eca7f4eed",
+   "source": "Jagta_Hua_Kasba_OCR_text.md",
+   "page": 30,
+   "dense_max": 0.4307,
+   "best_global_rank": 13,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi original of Jagta_Hua_Kasba_EN; content duplicated by EN chunks already judged (DUP-OF EN translation, same passage), or heritage-walk/administration/encroachment narrative (Ch. 11-12), imaginative reconstruction, or Vidisha/Bhoja material (Ch. 3/4). Only passages adding to the EN judgments were kept."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "8076896c5e30af09b23333c898b21b941835ef32",
+   "source": "Samrangana Sutradhar Vol 1.md",
+   "page": 117,
+   "dense_max": 0.4303,
+   "best_global_rank": 83,
+   "hand_decision": "reject",
+   "reason": "⚠ old OCR, pending re-OCR. Read in full: Samarāṅgaṇa-sūtradhāra vol. 1 (chs 1–50) — cosmography, town-planning, house types, Indradhvaja, yantras, foundation rites, translator's notes; no Udaypur content. Treatise doctrine is Ch. 5 context only."
+  },
+  {
+   "band": "0.42-0.48",
+   "chunk_id": "9044ca2a144a69332d0199754576c9bdad6b734d",
+   "source": "Jagta_Hua_Kasba_OCR_text.md",
+   "page": 15,
+   "dense_max": 0.4215,
+   "best_global_rank": 48,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi original of Jagta_Hua_Kasba_EN; content duplicated by EN chunks already judged (DUP-OF EN translation, same passage), or heritage-walk/administration/encroachment narrative (Ch. 11-12), imaginative reconstruction, or Vidisha/Bhoja material (Ch. 3/4). Only passages adding to the EN judgments were kept."
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "ca0346b8ee7cdd1d1798cb67deb12c3fdb773cc9",
+   "source": "History of Paramara Dynasty DC Ganguly.md",
+   "page": 380,
+   "dense_max": 0.4951,
+   "best_global_rank": 177,
+   "hand_decision": "reject",
+   "reason": "Dynastic narrative (Bhoja, Udayāditya's wars, successors), other places (Un, Bhojpur, Dhar, Abu), literature — Ch. 3/4/5/10; no further Ch. 1 evidence"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "cdb49354234d78c6bd9977a8f4f343722ec60710",
+   "source": "Art of Paramaras.md",
+   "page": 61,
+   "dense_max": 0.5257,
+   "best_global_rank": 99,
+   "hand_decision": "reject",
+   "reason": "Sculptural quality of the temple — Ch. 5"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "3e6d693145bf09023bb8a64486be81f390595d3f",
+   "source": "Jagta_Hua_Kasba_EN.md",
+   "page": 68,
+   "dense_max": 0.4932,
+   "best_global_rank": 11,
+   "hand_decision": "reject",
+   "reason": "Heritage-walk narrative on modern encroachment/administration (Ch. 11-12), later-period events (Ch. 10), inscription/genealogy detail (Ch. 4/6), the author's imagined reconstructions, or polemic — no additional Ch. 1 evidence"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "977c7ae09437d1efdf69238058dad34520487b4e",
+   "source": "The cultural heritage of madhya bharat.md",
+   "page": 125,
+   "dense_max": 0.5404,
+   "best_global_rank": 62,
+   "hand_decision": "reject",
+   "reason": "Other sites (Dhar, Bhilsa, Gwalior, Un, etc.), regional history or contents — no Ch. 1 evidence about Udaypur"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "dca26525316e67d873e3723e24097bcb059074cb",
+   "source": "Art of Paramaras.md",
+   "page": 25,
+   "dense_max": 0.5937,
+   "best_global_rank": 7,
+   "hand_decision": "reject",
+   "reason": "Malwa architecture overview — Ch. 5"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "a114deb0b7acf5e6996c1fee88bcb6e76084f490",
+   "source": "History of Paramara Dynasty DC Ganguly.md",
+   "page": 308,
+   "dense_max": 0.4846,
+   "best_global_rank": 151,
+   "hand_decision": "reject",
+   "reason": "Dynastic narrative (Bhoja, Udayāditya's wars, successors), other places (Un, Bhojpur, Dhar, Abu), literature — Ch. 3/4/5/10; no further Ch. 1 evidence"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "a293897aca2d7897e4b2b69cee4975fce5cd9f70",
+   "source": "Inscriptions Corpus.md",
+   "page": 171,
+   "dense_max": 0.5696,
+   "best_global_rank": 15,
+   "hand_decision": "keep",
+   "reason": "CII calls the Udaipur praśasti 'undated'"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "49f0dd10e6d58bfd7aa956a4cd179a6e9d89a4a4",
+   "source": "Jagta_Hua_Kasba_EN.md",
+   "page": 139,
+   "dense_max": 0.565,
+   "best_global_rank": 12,
+   "hand_decision": "keep",
+   "reason": "Publication history of the Udaipur Praśasti (Cunningham's reports; Bühler, EI vol. 1)"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "c82c2854c298a4cbe41e61a197fa5bc31402dfea",
+   "source": "Inscriptions Corpus.md",
+   "page": 265,
+   "dense_max": 0.6228,
+   "best_global_rank": 13,
+   "hand_decision": "reject",
+   "reason": "Undapura/[Uda?]pura reading in Kielhorn — Ch. 6 detail"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "c58cc4cc67a6b75816a109bce8c49935d879ab4a",
+   "source": "Inscriptions Corpus.md",
+   "page": 215,
+   "dense_max": 0.5447,
+   "best_global_rank": 7,
+   "hand_decision": "reject",
+   "reason": "Editions/discussions of Paramāra inscriptions from other places or on dynastic history (Ch. 4/6) — no Ch. 1 evidence on Udaypur's identity"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "37c749c96ef4c35f6ee3194c622a669d1b4b362d",
+   "source": "Jagta_Hua_Kasba_EN.md",
+   "page": 17,
+   "dense_max": 0.5437,
+   "best_global_rank": 9,
+   "hand_decision": "keep",
+   "reason": "Author's claims about Udaipur's frontier position and its role in Udayāditya's youth"
+  },
+  {
+   "band": "0.48-1.00",
+   "chunk_id": "4b9a4b00e63a34c222b9a2ba58db9b080b46d069",
+   "source": "Jagta_Hua_Kasba_OCR_text.md",
+   "page": 137,
+   "dense_max": 0.4927,
+   "best_global_rank": 4,
+   "hand_decision": "reject",
+   "reason": "Read in full: Hindi original of Jagta_Hua_Kasba_EN; content duplicated by EN chunks already judged (DUP-OF EN translation, same passage), or heritage-walk/administration/encroachment narrative (Ch. 11-12), imaginative reconstruction, or Vidisha/Bhoja material (Ch. 3/4). Only passages adding to the EN judgments were kept."
+  }
+ ]
+}

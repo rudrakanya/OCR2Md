@@ -1,0 +1,25 @@
+{"c":"e19aa135fb","keep":true,"items":[{"unit":"C06","sub":"S3","type":"inscription","strength":"contextual","span":[10,12],"note":"Serpent (sarpabandha) inscription at Un, Chaubara Dera No. 1: an alphabetical chart with conjugational terminations on a single serpent, 80 by 61 cm; a comparison for nāgabandha lettering (Un, not Udaypur)."},{"unit":"C04","sub":"S5","type":"inscription","strength":"contextual","span":[23,24],"xref":["C06"],"note":"A second small inscription in the Un temple names the Paramāra king Udayāditya (Udayāditya-devasya); a third gives Sanskrit grammatical rules (Un, not Udaypur)."}]}
+{"c":"5293cb3404","keep":false,"reject_reason":"images of Chaubara Dera No. 1 at Un (Khargone), not Udaypur"}
+{"c":"5eba3d05f3","keep":false,"reject_reason":"iconography table for Un temple, not Udaypur; garbled table"}
+{"c":"acab18eb0a","keep":false,"reject_reason":"Mahākāleśvara temple No. 2 at Un, not Udaypur"}
+{"c":"f288b01462","keep":false,"reject_reason":"architecture of Un temple (Mahākāleśvara No. 2), not Udaypur"}
+{"c":"0cd06cbce1","keep":false,"reject_reason":"iconography of Mahākāleśvara No. 2 at Un, not Udaypur"}
+{"c":"a9c86f6583","keep":false,"reject_reason":"Mahākāleśvara No. 1 at Un, not Udaypur; pilot-judged for C01; nothing for C02–C13"}
+{"c":"8dfcc7e7fd","keep":false,"reject_reason":"interior of Mahākāleśvara No. 1 at Un, not Udaypur; OCR unreliable"}
+{"c":"aa2d2d3af7","keep":false,"reject_reason":"observations on Mahākāleśvara No. 1 at Un, not Udaypur"}
+{"c":"caf45267cb","keep":false,"reject_reason":"small nameless shrine at Un, not Udaypur"}
+{"c":"ff4cccdf6b","keep":false,"reject_reason":"elevation of nameless Un shrine, not Udaypur"}
+{"c":"4bb891d9ed","keep":false,"reject_reason":"images of nameless Un shrine, not Udaypur"}
+{"c":"a1512724ab","keep":false,"reject_reason":"Hatakeśvara and Ballāleśvara at Un; Nīlakaṇṭheśvara mentioned is at Un, not Udaypur"}
+{"c":"ea45a515ba","keep":false,"reject_reason":"Hatakeśvara temple plan at Un, not Udaypur"}
+{"c":"7367e94f07","keep":false,"reject_reason":"interior of an Un temple, not Udaypur"}
+{"c":"4a11da5f35","keep":false,"reject_reason":"images and inscription of Ballāleśvara temple at Un, not Udaypur; pilot-judged for C01; nothing for C02–C13"}
+{"c":"05f7b57337","keep":false,"reject_reason":"plan of Nīlakaṇṭheśvara temple at Un, not Udaypur"}
+{"c":"92156628f4","keep":false,"reject_reason":"elevation of Nīlakaṇṭheśvara temple at Un, not Udaypur"}
+{"c":"bcd95a9429","keep":false,"reject_reason":"images of Nīlakaṇṭheśvara at Un, not Udaypur; pilot-judged for C01; nothing for C02–C13"}
+{"c":"b89181138f","keep":false,"reject_reason":"iconography table for Un Nīlakaṇṭheśvara, not Udaypur"}
+{"c":"39b61efc4c","keep":false,"reject_reason":"Sapta Mātṛkā table for Un temple, not Udaypur"}
+{"c":"ff88ec4a3d","keep":false,"reject_reason":"Un temples (Nīlakaṇṭheśvara, Omkāreśvara), not Udaypur"}
+{"c":"d3f123f5a4","keep":false,"reject_reason":"Omkāreśvara temple at Un, not Udaypur"}
+{"c":"9c3fe69119","keep":false,"reject_reason":"Jain temple at Un, not Udaypur; pilot-judged for C01; nothing for C02–C13"}
+{"c":"f02bea415b","keep":false,"reject_reason":"Chaubara Dera No. 2 (Jain) at Un, not Udaypur"}

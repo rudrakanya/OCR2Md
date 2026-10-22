@@ -1,0 +1,25 @@
+{"c": "409ebc3440", "keep": false, "reject_reason": "Dravida modes and the term Vesara; no Udaypur link; pilot-judged for C01"}
+{"c": "fa524de3d3", "keep": false, "reject_reason": "Vesara and late Karnata Dravida; not relevant"}
+{"c": "fff3d02d1c", "keep": false, "reject_reason": "endnotes plus general remarks on geometry; no specific usable evidence"}
+{"c": "978759bb5b", "keep": false, "reject_reason": "gnomon orientation method in general; no Udaypur link"}
+{"c": "2e1e8a7439", "keep": false, "reject_reason": "grids in Nagara and Chola temples elsewhere; no Udaypur link"}
+{"c": "a000fa2fb8", "keep": false, "reject_reason": "stellate plan geometry; no Udaypur link"}
+{"c": "8cd40d9194", "keep": false, "reject_reason": "general elevation proportions; no specific usable evidence"}
+{"c": "c83465619f", "keep": false, "reject_reason": "endnotes (bibliographic references only)"}
+{"c": "4417713239", "keep": true, "items": [{"unit": "C05", "sub": "S3", "type": "architectural detail", "strength": "contextual", "span": [2, 7], "note": "Standard three mouldings of a Nagara base (vedibandha): kumbha, kalasha, kapotali; the base thus represents a miniature storey."}]}
+{"c": "debbe7ed90", "keep": true, "items": [{"unit": "C05", "sub": "S3", "type": "architectural detail", "strength": "contextual", "span": [9, 14], "note": "Mouldings of a Bhumija shrine (Gondeshvara, Sinnar): pitha sub-base, vedibandha, composite khura-kumbha, jangha forming a cushion-type pillar; Bhumija mouldings in general."}]}
+{"c": "6214b0bc88", "keep": false, "reject_reason": "Dravida mouldings figure captions; not relevant"}
+{"c": "06716fccd8", "keep": false, "reject_reason": "Tamil adisthana varieties and general moulding terminology; no Udaypur link"}
+{"c": "69f32047b5", "keep": false, "reject_reason": "endnotes (bibliographic references only); pilot-judged for C01; nothing for C02-C13"}
+{"c": "1bbc825571", "keep": false, "reject_reason": "general introduction to Indian pillars; no specific usable evidence"}
+{"c": "6aaa5f2060", "keep": false, "reject_reason": "bell-type pillars of Mauryan and Gupta date; no Vidisha or Udaypur link"}
+{"c": "ef3b635d09", "keep": false, "reject_reason": "roundel pillars and captions elsewhere; no usable link"}
+{"c": "fa4a9a3cd9", "keep": true, "items": [{"unit": "C05", "sub": "S3", "type": "fact", "strength": "contextual", "span": [31, 31], "note": "The cushion pillar type is the norm for Bhumija temples."}]}
+{"c": "d3bca226b9", "keep": false, "reject_reason": "ghata-pallava pillars in general; no Udaypur link"}
+{"c": "9cc3fd7197", "keep": false, "reject_reason": "bharana pillars in general; no Udaypur link"}
+{"c": "bf539e4537", "keep": false, "reject_reason": "endnotes and a caption on an Anwa Bhumija hall; no usable detail"}
+{"c": "f2a3cab218", "keep": false, "reject_reason": "general lotus ceilings; Udayagiri caption gives no Vidisha link"}
+{"c": "a6ffe1298e", "keep": false, "reject_reason": "general ceiling types; no Udaypur link"}
+{"c": "b54f08e603", "keep": false, "reject_reason": "ceiling development in western India; no Udaypur link"}
+{"c": "014f9b678d", "keep": false, "reject_reason": "endnotes and general gavaksha introduction; no Udaypur link"}
+{"c": "f5a58f9ea2", "keep": false, "reject_reason": "gavaksha shapes in general; no Udaypur link"}

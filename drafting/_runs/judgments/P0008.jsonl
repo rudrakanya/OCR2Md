@@ -1,0 +1,25 @@
+{"c":"af31886975","keep":true,"items":[{"unit":"C04","sub":"S2","type":"fact","strength":"contextual","span":[40,44],"note":"Dhanapala, a contemporary, says Munja loved his nephew and appointed Bhoja successor; the author prefers this contemporary record to much later legends."}]}
+{"c":"ddff4f01cb","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[43,46],"note":"Kielhorn argues that because the Udaipur prasasti claims Bhojadeva conquered the Turuskas, there is no other foreign power he could have clashed with.","xref":["C04"]}]}
+{"c":"89005a444a","keep":true,"items":[{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[58,61],"note":"Ganguly, following Merutunga, assigns A.D. 1000 as Bhoja's accession."}]}
+{"c":"40f20d52d3","keep":true,"items":[{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[28,30],"note":"Ojha concludes Bhoja ascended the throne about A.D. 1010 or somewhat later."}]}
+{"c":"63ee6f5ec9","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Kirtane birth/accession arithmetic, OCR damaged)"}
+{"c":"7f68a1de84","keep":true,"items":[{"unit":"C04","sub":"S2","type":"date","strength":"contextual","span":[73,76],"note":"After weighing the views, the author places Bhoja's accession about A.D. 1010."}]}
+{"c":"f03a9c7b28","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (Sindhuraja/Chamundaraja chronology, no Udaypur bearing)"}
+{"c":"d6dc812929","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[25,29],"note":"Udaipur Prasasti compares Bhoja to Prthu; verse 18 praises his defeat of Chedi, Indraratha, Bhima of Gurjara, Laja, Karnatas and Turuskas.","xref":["C04"]},{"unit":"C04","sub":"S2","type":"quote","strength":"contextual","span":[40,43],"note":"Verse 17 says Bhoja ruled from Kailasa to Malabar, which the author calls an exaggerated account of his dominions."}]}
+{"c":"0411740a05","keep":false,"reject_reason":"Bhoja-Chalukya war narrative and footnotes, no bearing on Udaypur"}
+{"c":"70d35ee95e","keep":false,"reject_reason":"Gujarat Chalukya/Chamundaraja campaign detail, no bearing on Udaypur"}
+{"c":"6b010d54d5","keep":false,"reject_reason":"Durlabharaja svayamvara story and Gujarat relations, no bearing on Udaypur"}
+{"c":"13f9071ef3","keep":false,"reject_reason":"Paramara-Chalukya relations and start of Lata war, no bearing on Udaypur"}
+{"c":"6dab82de6e","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[46,48],"note":"Prabandhachintamani, the Kalyan plate and the Udaipur-Prasasti all record Bhoja's victory over Lata.","xref":["C04"]}]}
+{"c":"19c1e3c9fe","keep":false,"reject_reason":"Konkana conquest detail, no bearing on Udaypur"}
+{"c":"70963558cd","keep":false,"reject_reason":"Konkana and Chalukya alliance detail, no bearing on Udaypur"}
+{"c":"bfc65c189b","keep":false,"reject_reason":"war with Jayasimha II and triple alliance, no bearing on Udaypur"}
+{"c":"539c4316a2","keep":false,"reject_reason":"Bhoja-Jayasimha war disputes; the one Udaipur-prasasti mention is cut by footnotes"}
+{"c":"c251b054bf","keep":false,"reject_reason":"Bhoja-Chalukya war dispute, no bearing on Udaypur"}
+{"c":"60dfdfed19","keep":false,"reject_reason":"Somesvara I's invasion of Malwa narrative, no bearing on Udaypur"}
+{"c":"0ca6d27237","keep":false,"reject_reason":"Bilhana verses on the sack of Dhara, no bearing on Udaypur"}
+{"c":"abbe153ff8","keep":false,"reject_reason":"Somesvara I inscriptions on Dhara, no bearing on Udaypur"}
+{"c":"4614bbe9c6","keep":false,"reject_reason":"Somesvara's blow to Paramaras and Indraratha war, no bearing on Udaypur"}
+{"c":"1e8ad14241","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[35,35],"note":"The Udaipur Prasasti also claims Bhoja's victory over Indraratha.","xref":["C04"]}]}
+{"c":"385f79f869","keep":false,"reject_reason":"Anandapala and Mahmud of Ghazni debate, no bearing on Udaypur"}
+{"c":"2a80c0c637","keep":true,"items":[{"unit":"C06","sub":"S1","type":"fact","strength":"direct","span":[8,9],"note":"Verse 19 of the Udaipur prasasti clearly records Bhoja's victory over the Turuskas.","xref":["C04"]},{"unit":"C04","sub":"S6","type":"fact","strength":"contextual","span":[46,51],"note":"Author finds later claims of Bhoja's fight with Muslims imaginary; Ganguly says Bhoja never had to fight Muslims in defence of his realm."}]}

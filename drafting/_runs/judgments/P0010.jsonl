@@ -1,0 +1,25 @@
+{"c":"48da9819d5","keep":false,"reject_reason":"Bhoja-era prince education and Yuvaraja rules, OCR damaged, no Udaypur bearing"}
+{"c":"ac9f79fcea","keep":true,"items":[{"unit":"C04","sub":"S5","type":"fact","strength":"contextual","span":[17,20],"note":"Bhoja issued land grants such as Betma and Banswara in his own sign-manual and erected several temples in honour of his family deity Siva.","xref":["C08"]}]}
+{"c":"52cc0473e2","keep":false,"reject_reason":"royal court of Bhoja, OCR damaged, no Udaypur bearing"}
+{"c":"9096c86440","keep":false,"reject_reason":"court etiquette and ministry in Bhoja's administration, no Udaypur bearing"}
+{"c":"7145180fb6","keep":false,"reject_reason":"ministry functions, OCR damaged, no Udaypur bearing"}
+{"c":"11aecae0d4","keep":false,"reject_reason":"ministry power and strength, no Udaypur bearing"}
+{"c":"e570d7a994","keep":false,"reject_reason":"individual ministers of Bhoja's administration, no Udaypur bearing"}
+{"c":"59e4e12f61","keep":false,"reject_reason":"Bhoja's ministers and treasurer, no Udaypur bearing"}
+{"c":"0f5a8a2e3e","keep":false,"reject_reason":"treasury, secretariat and judiciary of Bhoja's administration, no Udaypur bearing"}
+{"c":"05f7b0c642","keep":false,"reject_reason":"Alberuni on law suits and oaths, no Udaypur bearing"}
+{"c":"18871a44ff","keep":false,"reject_reason":"penal code and judiciary, no Udaypur bearing"}
+{"c":"ecbaaf4847","keep":false,"reject_reason":"provincial administration under Bhoja, no Udaypur bearing"}
+{"c":"31b1308703","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (provincial, district and village administration)"}
+{"c":"939605e676","keep":false,"reject_reason":"town administration and military administration, no Udaypur bearing"}
+{"c":"736ded6297","keep":false,"reject_reason":"army organisation of Bhoja, no Udaypur bearing"}
+{"c":"0a684274cf","keep":false,"reject_reason":"caste of soldiers and troop types, no Udaypur bearing"}
+{"c":"fb85034f60","keep":false,"reject_reason":"types of troops; the Udaipur prasasti mention is cut by footnotes"}
+{"c":"3e470dc709","keep":false,"reject_reason":"naval and air forces, aeroplane description in Samarangana Sutradhara not relevant to temple or town units"}
+{"c":"e2db18fceb","keep":false,"reject_reason":"flying machine secrecy and soldiers' wages, no Udaypur bearing"}
+{"c":"ab1076df38","keep":false,"reject_reason":"ambulance corps, feudatories and forts, no Udaypur bearing"}
+{"c":"06d718a741","keep":false,"reject_reason":"pilot-judged for C01; nothing for C02–C13 (weapons and armour)"}
+{"c":"0c88406c8b","keep":false,"reject_reason":"war instruments and start of revenue section, no Udaypur bearing"}
+{"c":"ac98acc5ba","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[66,68],"note":"An eleventh-century record refers to a voluntary cess of pana on rent-free lands at Tavargere for the maintenance of a pujari in a local temple."}]}
+{"c":"4274463f24","keep":true,"items":[{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[60,63],"note":"Temple land was usually taxed on the basis of cash income, at a lower scale.","xref":["C10"]},{"unit":"C08","sub":"S3","type":"fact","strength":"contextual","span":[76,77],"note":"Concludes that temple land was either free of tax or the tax was very nominal."}]}
+{"c":"38424b1622","keep":false,"reject_reason":"miscellaneous taxes; Arthuna inscription is a different site, no Udaypur bearing"}

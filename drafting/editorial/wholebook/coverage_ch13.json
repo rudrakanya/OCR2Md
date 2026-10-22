@@ -1,0 +1,265 @@
+{
+ "unit": "13",
+ "direct": 58,
+ "totals": {
+  "excluded": 3,
+  "assigned": 54,
+  "cross-reference": 1
+ },
+ "by_sub": {
+  "S1": {
+   "excluded": 1,
+   "assigned": 17
+  },
+  "S2": {
+   "assigned": 10,
+   "cross-reference": 1
+  },
+  "S3": {
+   "assigned": 12,
+   "excluded": 1
+  },
+  "S4": {
+   "assigned": 9
+  },
+  "S5": {
+   "assigned": 6,
+   "excluded": 1
+  }
+ },
+ "status": {
+  "C13-JAGTA-HI-001": [
+   "excluded",
+   "v1: (Mishra: \"the whole town needs preserving\"; duplicated by the stronger"
+  ],
+  "C13-JAGTA-HI-002": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-003": [
+   "assigned",
+   "X"
+  ],
+  "C13-JAGTA-HI-004": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-005": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-006": [
+   "assigned",
+   "X"
+  ],
+  "C13-JAGTA-HI-007": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-010": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-011": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-012": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-014": [
+   "assigned",
+   "X"
+  ],
+  "C13-JAGTA-HI-015": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-HI-018": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-HI-019": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-020": [
+   "cross-reference",
+   "ch12"
+  ],
+  "C13-JAGTA-HI-021": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-HI-022": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-023": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-HI-024": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-025": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-030": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-031": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-032": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-033": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-034": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-035": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-036": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-037": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-HI-038": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-HI-039": [
+   "excluded",
+   "v1: (used at most as a clause in AW.4 P4; never as the book's close)"
+  ],
+  "C13-JAGTA-EN-001": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-002": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-EN-003": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-004": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-EN-005": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-006": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-007": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-008": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-009": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-EN-010": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-EN-011": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-012": [
+   "assigned",
+   "X"
+  ],
+  "C13-JAGTA-EN-013": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-014": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-EN-015": [
+   "excluded",
+   "v1: (INTACH's introduction at the presentation; no content)"
+  ],
+  "C13-JAGTA-EN-016": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-EN-017": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-018": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-019": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-020": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-021": [
+   "assigned",
+   "E"
+  ],
+  "C13-JAGTA-EN-022": [
+   "assigned",
+   "C"
+  ],
+  "C13-JAGTA-EN-023": [
+   "assigned",
+   "E"
+  ],
+  "C13-GEOHER-001": [
+   "assigned",
+   "E"
+  ],
+  "C13-GEOHER-002": [
+   "assigned",
+   "C"
+  ],
+  "C13-GEOHER-003": [
+   "assigned",
+   "E"
+  ],
+  "C13-GEOHER-004": [
+   "assigned",
+   "E"
+  ],
+  "C13-GEOHER-005": [
+   "assigned",
+   "E"
+  ]
+ },
+ "contextual_cited": 7
+}

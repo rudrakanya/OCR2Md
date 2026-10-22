@@ -1,0 +1,780 @@
+{
+ "unit": "01",
+ "direct": 185,
+ "totals": {
+  "assigned": 78,
+  "excluded": 102,
+  "cross-reference": 5
+ },
+ "by_sub": {
+  "S1": {
+   "assigned": 5,
+   "excluded": 29
+  },
+  "S2": {
+   "excluded": 14,
+   "assigned": 8
+  },
+  "S3": {
+   "excluded": 11,
+   "assigned": 11,
+   "cross-reference": 2
+  },
+  "S4": {
+   "assigned": 24,
+   "excluded": 12
+  },
+  "S5": {
+   "excluded": 16,
+   "cross-reference": 3,
+   "assigned": 7
+  },
+  "S6": {
+   "assigned": 23,
+   "excluded": 20
+  }
+ },
+ "status": {
+  "C01-JAGTA-EN-001": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-002": [
+   "excluded",
+   "testimony restating the founding and the name (T8); carried in §1.2 by T1/T5 items (R5)"
+  ],
+  "C01-JAGTA-EN-003": [
+   "excluded",
+   "a 2021 blog-post title; no evidence for Ch 1; the 2020–21 media episode is §12.5's, carried by its own items"
+  ],
+  "C01-JAGTA-EN-004": [
+   "excluded",
+   "testimony (\"12th king\"); duplicates C04-JAGTA-EN-025; no added evidence (R5)"
+  ],
+  "C01-JAGTA-EN-005": [
+   "excluded",
+   "testimony on the temple's inscribed name; carried by C04-CII-119 (T1) in Ch 4"
+  ],
+  "C01-JAGTA-EN-006": [
+   "excluded",
+   "testimony that \"Nīlakaṇṭheśvara\" appears in no contemporary inscription; the point is Ch 6's (§6.1, the triad thread), carried there by T1 items (R5)"
+  ],
+  "C01-JAGTA-EN-007": [
+   "excluded",
+   "Tiwari's temple-city of Daśārṇa; the same passage is used in §3.1's note from the Ch 3 map"
+  ],
+  "C01-JAGTA-EN-008": [
+   "excluded",
+   "distance from testimony (\"seventy km\", \"five hundred metres\") (R5); the names are carried by T1/T5 items"
+  ],
+  "C01-JAGTA-EN-009": [
+   "excluded",
+   "a population figure from testimony (\"eight thousand\") (R5); the census counts are §1.1's and §12.1's"
+  ],
+  "C01-JAGTA-EN-010": [
+   "excluded",
+   "distance from testimony (\"a hundred and fifty kilometres\") (R5)"
+  ],
+  "C01-JAGTA-EN-011": [
+   "excluded",
+   "distance from testimony (\"16 kilometres\") (R5); the settled 13–16 km range comes from other items"
+  ],
+  "C01-JAGTA-EN-012": [
+   "excluded",
+   "duplicate of C04-JAGTA-EN-042 (the \"mini-capital\" on the Kalacuri border), used in §4.5"
+  ],
+  "C01-JAGTA-EN-013": [
+   "assigned",
+   "E"
+  ],
+  "C01-JAGTA-EN-014": [
+   "excluded",
+   "the nearest station; §1.1 states the railway at Bareth from another item"
+  ],
+  "C01-JAGTA-EN-015": [
+   "excluded",
+   "distance from testimony (\"about seventy kilometres\") and a verdict (R5)"
+  ],
+  "C01-JAGTA-EN-016": [
+   "excluded",
+   "generality (\"countless inscriptions\"); no evidence"
+  ],
+  "C01-JAGTA-EN-017": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-018": [
+   "excluded",
+   "testimony restating the dates of the 1080 and 1229 records, carried by CII (T1) in §1.4 and Chs 6, 8"
+  ],
+  "C01-JAGTA-EN-019": [
+   "excluded",
+   "testimony that the slab is in Gwalior; carried by T1/T5 items in §1.4"
+  ],
+  "C01-JAGTA-EN-020": [
+   "excluded",
+   "testimony on Cunningham's and Bühler's publication; carried by Pande items in §1.4"
+  ],
+  "C01-JAGTA-EN-021": [
+   "excluded",
+   "a count from testimony (\"11 inscriptions\") (R5)"
+  ],
+  "C01-JAGTA-EN-022": [
+   "cross-reference",
+   "ch11"
+  ],
+  "C01-JAGTA-EN-023": [
+   "excluded",
+   "a count from testimony (\"around a hundred inscriptions\") (R5)"
+  ],
+  "C01-JAGTA-EN-024": [
+   "assigned",
+   "E"
+  ],
+  "C01-JAGTA-EN-025": [
+   "assigned",
+   "E"
+  ],
+  "C01-JAGTA-EN-026": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-027": [
+   "excluded",
+   "Tiwari's question whether resistance saved the temple; §1.4's note carries it from C01-JAGTA-EN-043"
+  ],
+  "C01-JAGTA-EN-028": [
+   "excluded",
+   "the 2021 heritage walk; Ch 12's (§12.5)"
+  ],
+  "C01-JAGTA-EN-029": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-030": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-031": [
+   "excluded",
+   "testimony on Udayāditya's memory; no evidence (R5)"
+  ],
+  "C01-JAGTA-EN-032": [
+   "excluded",
+   "the mosque called \"kachahari\" by residents; home Ch 7 (§7.5, the three mosques), carried there by its own items"
+  ],
+  "C01-JAGTA-EN-033": [
+   "assigned",
+   "E"
+  ],
+  "C01-JAGTA-EN-034": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-037": [
+   "excluded",
+   "a guest's superlative; evaluative (R7)"
+  ],
+  "C01-JAGTA-EN-038": [
+   "excluded",
+   "evaluative (\"finest specimen\"); no evidence (R7)"
+  ],
+  "C01-JAGTA-EN-039": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-040": [
+   "excluded",
+   "testimony on the record's silence; the limits of the record are stated from evidence in §1.4 and §6.8"
+  ],
+  "C01-JAGTA-EN-041": [
+   "excluded",
+   "duplicate of C04-JAGTA-EN-042 (the \"mini-capital\"), used in §4.5"
+  ],
+  "C01-JAGTA-EN-042": [
+   "assigned",
+   "E"
+  ],
+  "C01-JAGTA-EN-043": [
+   "assigned",
+   "E"
+  ],
+  "C01-JAGTA-EN-044": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-EN-045": [
+   "excluded",
+   "Tiwari's imagination (three years, thousands of artisans); no fiction, no testimony as measure (R5)"
+  ],
+  "C01-JAGTA-EN-046": [
+   "excluded",
+   "Tiwari's date conversion (30 March 1080); the record's date is carried by CII (R5)"
+  ],
+  "C01-JAGTA-EN-047": [
+   "excluded",
+   "Tiwari's imagination (more than twenty years' building); no fiction (R5)"
+  ],
+  "C01-JAGTA-EN-048": [
+   "excluded",
+   "Record C (V.S. 1116, Śaka 981); home Ch 6 (§6.2), carried by C06-JAGTA-EN-011 (R1)"
+  ],
+  "C01-JAGTA-EN-050": [
+   "assigned",
+   "E"
+  ],
+  "C01-JAGTA-EN-051": [
+   "excluded",
+   "the Nēmaka son's temple; §1.2 carries it from C01-KB-JAGTA-EN-002 and C01-CII-012"
+  ],
+  "C01-JAGTA-EN-052": [
+   "excluded",
+   "duplicate of C04-JAGTA-EN-062 (the undated Nēmaka slab), used in §4.5's note"
+  ],
+  "C01-GEOHER-001": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-002": [
+   "assigned",
+   "E"
+  ],
+  "C01-GEOHER-003": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-004": [
+   "excluded",
+   "the village's area (1,966 ha); not needed in Ch 1; the settlement's figures are §12.1's"
+  ],
+  "C01-GEOHER-005": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-006": [
+   "assigned",
+   "E"
+  ],
+  "C01-GEOHER-007": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-008": [
+   "assigned",
+   "E"
+  ],
+  "C01-GEOHER-009": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-010": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-011": [
+   "assigned",
+   "E"
+  ],
+  "C01-GEOHER-012": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-013": [
+   "assigned",
+   "E"
+  ],
+  "C01-GEOHER-014": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-015": [
+   "excluded",
+   "generality on pilgrims; the pilgrims' inscriptions are carried in §1.4 and Ch 6 by specific items"
+  ],
+  "C01-GEOHER-016": [
+   "excluded",
+   "duplicate of §1.1's ASI-protection statement"
+  ],
+  "C01-GEOHER-017": [
+   "excluded",
+   "superlative (\"the largest temple of Bhūmija style\"); evaluative (R7)"
+  ],
+  "C01-GEOHER-018": [
+   "excluded",
+   "generality on religions in the village; Ch 9's communities are carried by specific items"
+  ],
+  "C01-GEOHER-019": [
+   "cross-reference",
+   "ch13"
+  ],
+  "C01-GEOHER-020": [
+   "excluded",
+   "the colonial observer's \"entire place is deserted\" quotation; duplicate of C07-GEOHER-002, home §7.1 (RR-15)"
+  ],
+  "C01-GEOHER-021": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-022": [
+   "assigned",
+   "C"
+  ],
+  "C01-GEOHER-023": [
+   "excluded",
+   "generality on Paramāra building; duplicate of C04-GEOHER-004 (excluded)"
+  ],
+  "C01-GEOHER-024": [
+   "excluded",
+   "the survey's call for research; §1.5 makes the point from evidence"
+  ],
+  "C01-GANGULY-001": [
+   "excluded",
+   "duplicate of C04-GANGULY-105, used in §4.5"
+  ],
+  "C01-GANGULY-002": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-003": [
+   "excluded",
+   "the 1163 Vasantapāla donation; Ch 6 (§6.6) and Ch 8 (§8.1) carry the porch records by their own items (RR-17)"
+  ],
+  "C01-GANGULY-004": [
+   "excluded",
+   "distance (\"thirty miles to the north of Bhilsa\") conflicts with the settled 55–70 km range; the legend is told from C01 items in §1.1"
+  ],
+  "C01-GANGULY-005": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-007": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-008": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-009": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-010": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-011": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-012": [
+   "assigned",
+   "C"
+  ],
+  "C01-GANGULY-013": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-014": [
+   "excluded",
+   "the Aurangzeb tradition; §1.4 tells it from C01-PANDE-003; tested in §10.3"
+  ],
+  "C01-GANGULY-015": [
+   "cross-reference",
+   "ch10"
+  ],
+  "C01-GANGULY-016": [
+   "assigned",
+   "C"
+  ],
+  "C01-GANGULY-018": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-020": [
+   "assigned",
+   "E"
+  ],
+  "C01-GANGULY-021": [
+   "assigned",
+   "C"
+  ],
+  "C01-GANGULY-023": [
+   "assigned",
+   "C"
+  ],
+  "C01-GANGULY-024": [
+   "excluded",
+   "Ganguly's \"absolute myth\"; §4.5 uses the same page (C04-GANGULY-101)"
+  ],
+  "C01-GANGULY-025": [
+   "assigned",
+   "E"
+  ],
+  "C01-GAZ-001": [
+   "excluded",
+   "another Nīlakaṇṭheśvara temple elsewhere; compatibility is not identity (R6)"
+  ],
+  "C01-GAZ-002": [
+   "excluded",
+   "the Gazetteer's statement of the temple's naming; carried in §1.2 by T1/T5 items (R8)"
+  ],
+  "C01-GAZ-003": [
+   "excluded",
+   "the Gazetteer's founding statement; used from the Ch 4 map in §4.5 (C04-GAZ-004)"
+  ],
+  "C01-GAZ-004": [
+   "excluded",
+   "the tank's ruins; §2.4 carries them from the Ch 2 map; detail is §7.7's"
+  ],
+  "C01-GAZ-005": [
+   "excluded",
+   "index entry; no content"
+  ],
+  "C01-GAZ-006": [
+   "excluded",
+   "roads to Bareth station (Gazetteer); transport is Ch 10's (§10.5), carried by its own items"
+  ],
+  "C01-GAZ-007": [
+   "assigned",
+   "C"
+  ],
+  "C01-GAZ-008": [
+   "assigned",
+   "X"
+  ],
+  "C01-GAZ-009": [
+   "excluded",
+   "population 1901 and 1971; home §12.1 (C10-GAZ-052/-053; RR-26)"
+  ],
+  "C01-GAZ-010": [
+   "cross-reference",
+   "ch04"
+  ],
+  "C01-GAZ-012": [
+   "excluded",
+   "the Pisanhari tradition; §1.4 tells it from C01-MADHYABHARAT-006; the building is §7.4's"
+  ],
+  "C01-GAZ-014": [
+   "excluded",
+   "superlative on the spire (R7)"
+  ],
+  "C01-GAZ-016": [
+   "excluded",
+   "the Gazetteer's 1059–1080; used from the Ch 4 map in §4.4 (C04-GAZ-005/-006)"
+  ],
+  "C01-GAZ-017": [
+   "assigned",
+   "X"
+  ],
+  "C01-CII-001": [
+   "excluded",
+   "duplicate of C04-CII-119 (the name Udayeśvaradeva), used in §4.4–§4.5"
+  ],
+  "C01-CII-002": [
+   "excluded",
+   "duplicate of C04-CII-113 (the Nēmaka capital), used in §4.5"
+  ],
+  "C01-CII-003": [
+   "excluded",
+   "a later record's village names near Udaipur (Pañchamukha); the later records are Ch 6's (§6.6–§6.7), carried there by Ch 6 items"
+  ],
+  "C01-CII-004": [
+   "excluded",
+   "Dēvadharmapurī as possibly Udaipur itself, in a later record; carried in §6.6 P4 (Devadharmapurī \"if the reading is correct\") by Ch 6 items"
+  ],
+  "C01-CII-005": [
+   "excluded",
+   "Dēvadharmapurī and Bhṛṅgārikā-64 in a later record; carried in §6.6 P4 (Devadharmapurī \"if the reading is correct\") by Ch 6 items"
+  ],
+  "C01-CII-006": [
+   "excluded",
+   "the town named after Nīlakaṇṭheśvara in a later record (two names for one place); Ch 6 carries the name thread (§6.1, §6.6) by its own items"
+  ],
+  "C01-CII-007": [
+   "assigned",
+   "E"
+  ],
+  "C01-CII-008": [
+   "assigned",
+   "C"
+  ],
+  "C01-CII-009": [
+   "assigned",
+   "E"
+  ],
+  "C01-CII-010": [
+   "assigned",
+   "C"
+  ],
+  "C01-CII-011": [
+   "excluded",
+   "transliteration fragment (\"Udayapura\"); no content"
+  ],
+  "C01-CII-012": [
+   "assigned",
+   "E"
+  ],
+  "C01-CII-015": [
+   "excluded",
+   "fragment (\"the undated Udaipur prasati\"); no content"
+  ],
+  "C01-PANDE-001": [
+   "excluded",
+   "duplicate of C04-PANDE-007 (founding and temples), used in §4.5"
+  ],
+  "C01-PANDE-002": [
+   "assigned",
+   "C"
+  ],
+  "C01-PANDE-003": [
+   "assigned",
+   "E"
+  ],
+  "C01-PANDE-004": [
+   "assigned",
+   "C"
+  ],
+  "C01-PANDE-005": [
+   "assigned",
+   "E"
+  ],
+  "C01-PANDE-006": [
+   "assigned",
+   "E"
+  ],
+  "C01-PANDE-007": [
+   "excluded",
+   "duplicate of C04-PANDE-005/-007, used in §1.2 and §4.5"
+  ],
+  "C01-PANDE-008": [
+   "excluded",
+   "evaluative, with a survival claim (R7)"
+  ],
+  "C01-PANDE-009": [
+   "excluded",
+   "a quoted superlative (R7)"
+  ],
+  "C01-PANDE-010": [
+   "assigned",
+   "E"
+  ],
+  "C01-PANDE-011": [
+   "assigned",
+   "E"
+  ],
+  "C01-PANDE-012": [
+   "assigned",
+   "C"
+  ],
+  "C01-PANDE-013": [
+   "assigned",
+   "C"
+  ],
+  "C01-MADHYABHARAT-001": [
+   "assigned",
+   "E"
+  ],
+  "C01-MADHYABHARAT-002": [
+   "excluded",
+   "travel directions (miles from Bareth and Basoda); the settled range is told from other items"
+  ],
+  "C01-MADHYABHARAT-003": [
+   "excluded",
+   "the survival episode \"alleged\"; the legends are told in §1.4 from specific items"
+  ],
+  "C01-MADHYABHARAT-004": [
+   "excluded",
+   "the figure near the spire's pinnacle (architect or royal builder); home Ch 5 (§5.7, the flag-bearer), carried there by its own items"
+  ],
+  "C01-MADHYABHARAT-005": [
+   "assigned",
+   "C"
+  ],
+  "C01-MADHYABHARAT-006": [
+   "assigned",
+   "C"
+  ],
+  "C01-MADHYABHARAT-008": [
+   "excluded",
+   "superlative, with a survival claim (R7)"
+  ],
+  "C01-MADHYABHARAT-009": [
+   "assigned",
+   "C"
+  ],
+  "C01-MADHYABHARAT-010": [
+   "excluded",
+   "superlative on the spire (R7)"
+  ],
+  "C01-MADHYABHARAT-012": [
+   "assigned",
+   "E"
+  ],
+  "C01-MADHYABHARAT-013": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-HI-001": [
+   "excluded",
+   "distance from testimony (150 km) (R5)"
+  ],
+  "C01-JAGTA-HI-002": [
+   "excluded",
+   "a count from testimony (\"more than twenty inscriptions\") (R5)"
+  ],
+  "C01-JAGTA-HI-003": [
+   "excluded",
+   "the second slab's find-place and lines (Tiwari); §1.4 carries the find from T1/T5 items; the find-place conflict is §11.2's"
+  ],
+  "C01-JAGTA-HI-004": [
+   "excluded",
+   "citation of the Gwalior report of 1925–26; Ch 11's (§11.2; RR-32)"
+  ],
+  "C01-JAGTA-HI-005": [
+   "excluded",
+   "Vyas's \"land of heroes\" (local defence memory); Ch 9's (§9.5)"
+  ],
+  "C01-JAGTA-HI-006": [
+   "cross-reference",
+   "ch08"
+  ],
+  "C01-JAGTA-HI-007": [
+   "excluded",
+   "the survival question; §1.4's note carries it from C01-JAGTA-EN-043"
+  ],
+  "C01-JAGTA-HI-008": [
+   "excluded",
+   "the Udayasamudra's 980 m (INTACH via Tiwari); home §7.7 (C07-JAGTA-EN-024)"
+  ],
+  "C01-JAGTA-HI-009": [
+   "assigned",
+   "C"
+  ],
+  "C01-JAGTA-HI-010": [
+   "excluded",
+   "Verma's account of the kinship debate (T8); the dissent is carried in §1.2's note and §4.3 (D2)"
+  ],
+  "C01-JAGTA-HI-011": [
+   "excluded",
+   "Ray on *bandhu* (T8); carried in §4.3's note by C04-JAGTA-EN-038 (D2)"
+  ],
+  "C01-INTACH-001": [
+   "excluded",
+   "the survey's founding statement (T7); carried by T5 items in §1.2 and §4.5"
+  ],
+  "C01-INTACH-002": [
+   "excluded",
+   "the survey's founding statement (T7); duplicate"
+  ],
+  "C01-INTACH-003": [
+   "excluded",
+   "generality (\"glorious past\"); no evidence"
+  ],
+  "C01-INTACH-004": [
+   "excluded",
+   "the village's location; §1.2 and §1.1 state it from other items"
+  ],
+  "C01-INTACH-005": [
+   "excluded",
+   "area, census and houses; §1.1 states the 2011 counts from another item"
+  ],
+  "C01-INTACH-006": [
+   "assigned",
+   "E"
+  ],
+  "C01-PARTEMPLES-001": [
+   "assigned",
+   "C"
+  ],
+  "C01-PARTEMPLES-002": [
+   "excluded",
+   "Adhikari on identical legends at Lalitpur and Udaypur; home §9.5 (C09-PARTEMPLES-001; RR-20)"
+  ],
+  "C01-PARTEMPLES-003": [
+   "excluded",
+   "Kramrisch's choice of the temple as model; home §5.3"
+  ],
+  "C01-PARTEMPLES-004": [
+   "assigned",
+   "C"
+  ],
+  "C01-PARTEMPLES-005": [
+   "assigned",
+   "E"
+  ],
+  "C01-PARTEMPLES-006": [
+   "excluded",
+   "\"completed in A.D. 1080\"; a completion date the 1080 record does not state (U6, R7)"
+  ],
+  "C01-ARTPAR-001": [
+   "excluded",
+   "garbled OCR, tentative reading; travel directions"
+  ],
+  "C01-ARTPAR-002": [
+   "excluded",
+   "garbled OCR, tentative reading; the porch inscriptions are Ch 6's, carried by better items"
+  ],
+  "C01-ARTPAR-003": [
+   "excluded",
+   "tentative translation; generality"
+  ],
+  "C01-ARTPAR-004": [
+   "excluded",
+   "tentative translation; evaluative image (R7)"
+  ],
+  "C01-ARTPAR-005": [
+   "excluded",
+   "garbled OCR; the V.S. 1116 reading is carried by better items (R1, U6)"
+  ],
+  "C01-SERPENT-001": [
+   "excluded",
+   "\"founded and named … in 1080\", a founding date the record does not give (U6); the serpent text is §6.5's"
+  ],
+  "C01-SERPENT-002": [
+   "assigned",
+   "C"
+  ],
+  "C01-SERPENT-003": [
+   "excluded",
+   "duplicate of C05-SERPENT-001 (general description)"
+  ],
+  "C01-BHOJA-TIMES-001": [
+   "excluded",
+   "the temple built by Udayāditya; duplicate, carried by T1/T5 items"
+  ],
+  "C01-BHOJA-TIMES-002": [
+   "excluded",
+   "a heading; no content"
+  ],
+  "C01-HARDY-002": [
+   "assigned",
+   "C"
+  ],
+  "C01-HARDY-004": [
+   "assigned",
+   "E"
+  ],
+  "C01-KRAM-2-001": [
+   "excluded",
+   "bibliographic note; the reports are Ch 11's"
+  ],
+  "C01-KRAM-2-002": [
+   "assigned",
+   "Note"
+  ],
+  "C01-RAJABHOJ-EN-003": [
+   "excluded",
+   "popular account (T9) of Lūṇapasāka as governor in 1171; carried by CII and Ganguly under U1"
+  ],
+  "C01-KRAM-1-001": [
+   "assigned",
+   "C"
+  ],
+  "C01-TEMPLES-IND-001": [
+   "excluded",
+   "evaluative, with a 1059 start (R7, U6)"
+  ]
+ },
+ "contextual_cited": 8
+}

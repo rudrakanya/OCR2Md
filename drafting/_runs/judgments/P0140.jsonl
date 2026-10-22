@@ -1,0 +1,5 @@
+{"c": "948cc9dedc", "keep": false, "reject_reason": "index list of names and page numbers; no usable evidence"}
+{"c": "9556e95d8a", "keep": true, "items": [{"unit": "C04", "sub": "S4", "type": "fact", "strength": "direct", "span": [1, 1], "note": "Index entry 'Udayāditya, Paramāra' pointing to p. 389 of Kramrisch's The Hindu Temple."}, {"unit": "C07", "sub": "S6", "type": "fact", "strength": "direct", "span": [3, 4], "xref": ["C05"], "note": "Index entries 'Udayapur, Gwalior' (pp. 192, 200, 218, 246, 255, 260, 389-396) and 'Udayeśvara T., see Udayapur': locates the book's discussion of the temple."}]}
+{"c": "9366c45598", "keep": false, "reject_reason": "index list of names and page numbers; no usable evidence"}
+{"c": "f12bf4e715", "keep": false, "reject_reason": "index list of names and page numbers; no usable evidence"}
+{"c": "cca58654ac", "keep": false, "reject_reason": "index list of names and page numbers; no usable evidence"}

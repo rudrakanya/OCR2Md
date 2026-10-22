@@ -1,0 +1,488 @@
+# Captions and crops to check
+
+Every record with `ocr_verify: true`, grouped by priority. Paths are relative to this folder; `_work/pages/pNNN.png` is the full page photo, `_work/cap/<name>.png` the caption crop.
+
+## High: wording conflicts and uncertain crops (4)
+
+- **Pl. 49** (PDF p. 41, book p. 38) — Tripurāntaka Śiva enshrined in a khattaka on the south-west side of the gūḍhamaṇḍapa.
+  - on page: Tripurāntaka Śiva enshrined in a khattaka on the south kapilī.
+  - WORDING CONFLICT: the List says 'on the south-west side of the gūḍhamaṇḍapa'; the caption under the photo says 'on the south kapilī'. The List's wording for Pl. 50 ('on the south kapilī') matches this page caption, so the List may have the two entries shifted. The body text supports the page captions: book p. 39 (PDF p. 42) says 'the north kapilī too, has a beautiful Tripurāntaka Śiva image (pls. 50, 58)'. Label kept from the List as instructed; the on-page caption is likely the correct one.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.795); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p041.png`; caption crop: `_work/cap/plate_049.png`
+- **Pl. 50** (PDF p. 41, book p. 38) — Tripurāntaka Śiva enshrined in a khattaka on the south kapilī.
+  - on page: Tripurāntaka Śiva enshrined in a khattaka on the north kapilī.
+  - WORDING CONFLICT: the List says 'on the south kapilī'; the caption under the photo says 'on the north kapilī'. The body text (book p. 39: 'the north kapilī too, has a beautiful Tripurāntaka Śiva image (pls. 50, 58)') agrees with the page caption. See Pl. 49.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p041.png`; caption crop: `_work/cap/plate_050.png`
+- **Pl. 67** (PDF p. 50, book p. 47) — General view of the north-east side of the gūḍhamaṇḍapa.
+  - CROP: pale sky: the top edge was set by hand at the printed frame; the bottom edge runs close to the running footer. Check the crop.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p050.png`; caption crop: `_work/cap/plate_067.png`
+- **Pl. 128** (PDF p. 90, book p. 91) — View of the mihrab of the mosque on the western side.
+  - CROP: the right side of the print is washed out and its frame edge is not visible; the right side was set by hand at the end of the top rule. Check the crop.
+  - page image: `_work/pages/p090.png`; caption crop: `_work/cap/plate_128.png`
+
+## Medium: List and page differ, or OCR could not confirm the caption (39)
+
+- **Fig. 1** (PDF p. 11, book p. 4) — Plan of the Udayeśvara Temple, c. 11th century CE, Udayapur, Madhya Pradesh, Courtesy Archaeological Survey of India.
+  - on page: Plan of the Udayeśvara Temple, c. 11th century CE, Udayapur, Madhya Pradesh.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.788); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p011.png`; caption crop: `_work/cap/fig_01.png`
+- **Pl. 1** (PDF p. 10, book p. 3) — View of the śikhara from the south-west side.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.932); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p010.png`; caption crop: `_work/cap/plate_001.png`
+- **Pl. 8** (PDF p. 15, book p. 10) — View of buttresses and their crowning members (south-east side of the gūḍhamaṇḍapa), Courtesy American Institute of Indian Studies.
+  - on page: View of buttresses and their crowning members (south-east side of the gūḍhamaṇḍapa).
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.778); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p015.png`; caption crop: `_work/cap/plate_008.png`
+- **Pl. 9** (PDF p. 16, book p. 11) — View of the samvarṇā roof of the gūḍhamaṇḍapa, Courtesy American Institute of Indian Studies.
+  - on page: View of the samvarṇā roof of the gūḍhamaṇḍapa.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.657); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p016.png`; caption crop: `_work/cap/plate_009.png`
+- **Pl. 10** (PDF p. 17, book p. 12) — View of the east, north and south mukhamaṇḍapas, Courtesy American Institute of Indian Studies.
+  - on page: View of the east, north and south mukhamaṇḍapas.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.671); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p017.png`; caption crop: `_work/cap/plate_010.png`
+- **Pl. 11** (PDF p. 18, book p. 13) — View of the śukanāsa at the base of the eastern latā, Courtesy American Institute of Indian Studies.
+  - on page: View of the śukanāsa at the base of the eastern latā.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.654); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p018.png`; caption crop: `_work/cap/plate_011.png`
+- **Pl. 13** (PDF p. 19, book p. 14) — View of the miniature niche on the lower half of the śukanāsa enshrining the image of the Hariharārkapitāmaha, Courtesy American Institute of Indian Studies.
+  - on page: View of the miniature niche on the lower half of the śukanāsa enshrining the image of the Hariharārkapitāmaha.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.824); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p019.png`; caption crop: `_work/cap/plate_013.png`
+- **Pl. 14** (PDF p. 20, book p. 15) — Dancing devī on the right side of the miniature niche of the śukanāsa, Courtesy American Institute of Indian Studies.
+  - on page: Dancing devī on the right side of the miniature niche of the śukanāsa.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.279); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p020.png`; caption crop: `_work/cap/plate_014.png`
+- **Pl. 15** (PDF p. 21, book p. 16) — Dancing Sarasvatī on the left side of the miniature niche of the śukanāsa, Courtesy American Institute of Indian Studies.
+  - on page: Dancing Sarasvatī on the left side of the miniature niche of the śukanāsa.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.63); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p021.png`; caption crop: `_work/cap/plate_015.png`
+- **Pl. 16** (PDF p. 22, book p. 17) — Dancing Sarasvatī, 9th century CE, Courtesy Da Nang Museum of Cham Sculpture, Vietnam, Accession no. 21.4.
+  - on page: Dancing Sarasvatī, 9th century CE.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.454); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p022.png`; caption crop: `_work/cap/plate_016.png`
+- **Pl. 19** (PDF p. 25, book p. 20) — View of the five-storeyed celestial mansion on the southern side of the śukanāsa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.854); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p025.png`; caption crop: `_work/cap/plate_019.png`
+- **Pl. 25** (PDF p. 29, book p. 24) — General view of the south-east side of the gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.918); the on-page caption was read by eye
+  - no OCR reading found the label on the page; caption located by hand
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p029.png`; caption crop: `_work/cap/plate_025.png`
+- **Pl. 28** (PDF p. 31, book p. 26) — Sūrya enshrined in a khattaka on the south-east side of the gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.357); the on-page caption was read by eye
+  - no OCR reading found the label on the page; caption located by hand
+  - page photo motion-blurred: diacritics in the caption could not be confirmed at full resolution
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p031.png`; caption crop: `_work/cap/plate_028.png`
+- **Pl. 33** (PDF p. 33, book p. 28) — Harihara housed in a khattaka on the south-east side of the gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.932); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p033.png`; caption crop: `_work/cap/plate_033.png`
+- **Pl. 41** (PDF p. 37, book p. 32) — Seated Umā-Maheśvara housed in a khattikā on the vedībandha of the south-east side of gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.897); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p037.png`; caption crop: `_work/cap/plate_041.png`
+- **Pl. 44** (PDF p. 39, book p. 36) — View of the buttresses on the south-west side of the gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.855); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p039.png`; caption crop: `_work/cap/plate_044.png`
+- **Pl. 59** (PDF p. 47, book p. 44) — Varuṇa housed in a khattaka on the north-west side of the gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.59); the on-page caption was read by eye
+  - no OCR reading found the label on the page; caption located by hand
+  - page photo out of focus: diacritics in the caption could not be confirmed at full resolution
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p047.png`; caption crop: `_work/cap/plate_059.png`
+- **Pl. 60** (PDF p. 47, book p. 44) — Īśāna enshrined in a khattaka on the north-west side of the gūḍhamaṇḍapa.
+  - page photo out of focus: diacritics in the caption could not be confirmed at full resolution
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p047.png`; caption crop: `_work/cap/plate_060.png`
+- **Pl. 61** (PDF p. 47, book p. 44) — Brahmā depicted in a khattaka on the north-west side of the gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.642); the on-page caption was read by eye
+  - page photo out of focus: diacritics in the caption could not be confirmed at full resolution
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p047.png`; caption crop: `_work/cap/plate_061.png`
+- **Pl. 62** (PDF p. 47, book p. 44) — Kārttikeya enshrined in a khattaka on the north-west side of the gūḍhamaṇḍapa.
+  - page photo out of focus: diacritics in the caption could not be confirmed at full resolution
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p047.png`; caption crop: `_work/cap/plate_062.png`
+- **Pl. 63** (PDF p. 48, book p. 45) — Śiva Naṭeśa enshrined in a khattaka near the north mukhamaṇḍapa, Courtesy American Institute of Indian Studies.
+  - on page: Śiva Naṭeśa enshrined in a khattaka near the north mukhamaṇḍapa.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.727); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p048.png`; caption crop: `_work/cap/plate_063.png`
+- **Pl. 69** (PDF p. 52, book p. 49) — Mahiṣāsuramardinī enshrined in a khattaka near the north mukhamaṇḍapa (east side).
+  - OCR could not confirm the caption (best on-page OCR similarity 0.891); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p052.png`; caption crop: `_work/cap/plate_069.png`
+- **Pl. 79** (PDF p. 58, book p. 55) — Seated Umā-Maheśvara enshrined in a khattikā on the vedībandha of the north-east side of gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.182); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p058.png`; caption crop: `_work/cap/plate_079.png`
+- **Pl. 85** (PDF p. 61, book p. 60) — Nirṛti enshrined in a khattaka between the south latā and west latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.887); the on-page caption was read by eye
+  - no OCR reading found the label on the page; caption located by hand
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p061.png`; caption crop: `_work/cap/plate_085.png`
+- **Pl. 86** (PDF p. 62, book p. 61) — Viṣṇu enshrined in a khattaka between the south latā and west latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.94); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p062.png`; caption crop: `_work/cap/plate_086.png`
+- **Pl. 87** (PDF p. 62, book p. 61) — Śiva enshrined in a khattaka between the south latā and west latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.863); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p062.png`; caption crop: `_work/cap/plate_087.png`
+- **Pl. 90** (PDF p. 64, book p. 63) — Vīrabhadra enshrined in the khattaka of the west latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.913); the on-page caption was read by eye
+  - page photo out of focus: diacritics in the caption could not be confirmed at full resolution
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p064.png`; caption crop: `_work/cap/plate_090.png`
+- **Pl. 92** (PDF p. 65, book p. 64) — Kārttikeya enshrined in the khattaka at the bottom of the west latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.887); the on-page caption was read by eye
+  - no OCR reading found the label on the page; caption located by hand
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p065.png`; caption crop: `_work/cap/plate_092.png`
+- **Pl. 95** (PDF p. 68, book p. 67) — Śiva enshrined in a khattaka between the west latā and north latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.889); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p068.png`; caption crop: `_work/cap/plate_095.png`
+- **Pl. 97** (PDF p. 69, book p. 68) — Vāyu enshrined in a khattaka between the west latā and north latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.877); the on-page caption was read by eye
+  - no OCR reading found the label on the page; caption located by hand
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p069.png`; caption crop: `_work/cap/plate_097.png`
+- **Pl. 102** (PDF p. 71, book p. 70) — Sarasvatī enshrined in a khattikā on the vedībandha between the west latā and north latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.729); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p071.png`; caption crop: `_work/cap/plate_102.png`
+- **Pl. 103** (PDF p. 71, book p. 70) — Cāmuṇḍā enshrined in the khattaka of the north latā.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.939); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p071.png`; caption crop: `_work/cap/plate_103.png`
+- **Pl. 105** (PDF p. 73, book p. 72) — Umā-Maheśvara enshrined in a khattikā on the vedībandha between the north latā and north kapilī.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.702); the on-page caption was read by eye
+  - no OCR reading found the label on the page; caption located by hand
+  - page photo motion-blurred: diacritics in the caption could not be confirmed at full resolution
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p073.png`; caption crop: `_work/cap/plate_105.png`
+- **Pl. 107** (PDF p. 74, book p. 73) — Brahmā-Brahmāṇi enshrined in a khattaka below the north kapilī.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.886); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p074.png`; caption crop: `_work/cap/plate_107.png`
+- **Pl. 112** (PDF p. 78, book p. 77) — View of the doorway of the south mukhamaṇḍapa, Courtesy American Institute of Indian Studies.
+  - on page: View of the doorway of the south mukhamaṇḍapa.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.657); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p078.png`; caption crop: `_work/cap/plate_112.png`
+- **Pl. 114** (PDF p. 80, book p. 79) — Rāhu, Ketu and Saturn on the upper lintel of the doorway of the south mukhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.404); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p080.png`; caption crop: `_work/cap/plate_114.png`
+- **Pl. 118** (PDF p. 83, book p. 84) — Tapasvinī Pārvatī enshrined in a niche on a pillar of the gūḍhamaṇḍapa.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.838); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p083.png`; caption crop: `_work/cap/plate_118.png`
+- **Pl. 124** (PDF p. 87, book p. 88) — View of the ceiling of the antarāla, Courtesy American Institute of Indian Studies.
+  - on page: View of the ceiling of the antarāla.
+  - List and on-page caption differ: credit line only in the List (label kept from the List)
+  - OCR could not confirm the caption (best on-page OCR similarity 0.605); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p087.png`; caption crop: `_work/cap/plate_124.png`
+- **Pl. 129** (PDF p. 91, book p. 92) — Pisanhārī kā Mandir, Udayapur, Vidisha, Madhya Pradesh.
+  - OCR could not confirm the caption (best on-page OCR similarity 0.701); the on-page caption was read by eye
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p091.png`; caption crop: `_work/cap/plate_129.png`
+
+## Low: diacritics only (List transcribed by eye; worth a glance against the scan) (82)
+
+- **Pl. 2** (PDF p. 11, book p. 4) — View of the Udayeśvara temple complex.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p011.png`; caption crop: `_work/cap/plate_002.png`
+- **Pl. 4** (PDF p. 12, book p. 5) — View of Śaiva pratihāras flanking the eastern entrance.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p012.png`; caption crop: `_work/cap/plate_004.png`
+- **Pl. 5** (PDF p. 13, book p. 6) — View of the śikhara and garbhagṛha showing its stellate-cum-circular plan.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p013.png`; caption crop: `_work/cap/plate_005.png`
+- **Pl. 6** (PDF p. 14, book p. 7) — View of the pillar-like buttresses of the garbhagṛha.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p014.png`; caption crop: `_work/cap/plate_006.png`
+- **Pl. 12** (PDF p. 18, book p. 13) — View of the flag-bearer on the śikhara.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p018.png`; caption crop: `_work/cap/plate_012.png`
+- **Pl. 17** (PDF p. 23, book p. 18) — View of the śukanāsa from the south-east.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p023.png`; caption crop: `_work/cap/plate_017.png`
+- **Pl. 18** (PDF p. 24, book p. 19) — View of the five-storeyed celestial mansion on the northern side of the śukanāsa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p024.png`; caption crop: `_work/cap/plate_018.png`
+- **Pl. 20** (PDF p. 26, book p. 21) — Śiva Naṭeśa in the gavākṣa of the śūrasenaka of the western latā.
+  - no OCR reading found the label on the page; caption located by hand
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p026.png`; caption crop: `_work/cap/plate_020.png`
+- **Pl. 21** (PDF p. 26, book p. 21) — Śiva in the miniature niche of the śūrasenaka of the western latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p026.png`; caption crop: `_work/cap/plate_021.png`
+- **Pl. 22** (PDF p. 27, book p. 22) — View of the śūrasenaka of the southern latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p027.png`; caption crop: `_work/cap/plate_022.png`
+- **Pl. 23** (PDF p. 28, book p. 23) — View of the śūrasenaka of the northern latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p028.png`; caption crop: `_work/cap/plate_023.png`
+- **Pl. 24** (PDF p. 29, book p. 24) — View of buttresses on the maṇḍovara of the south-western side of the garbhagṛha.
+  - no OCR reading found the label on the page; caption located by hand
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p029.png`; caption crop: `_work/cap/plate_024.png`
+- **Pl. 26** (PDF p. 30, book p. 25) — Mahābhairava enshrined in a khattaka adjacent to the east mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p030.png`; caption crop: `_work/cap/plate_026.png`
+- **Pl. 27** (PDF p. 30, book p. 25) — View of buttresses on the south-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p030.png`; caption crop: `_work/cap/plate_027.png`
+- **Pl. 29** (PDF p. 32, book p. 27) — Śiva enshrined in a khattaka on the south-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p032.png`; caption crop: `_work/cap/plate_029.png`
+- **Pl. 30** (PDF p. 33, book p. 28) — Indra depicted in a khattaka on the south-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p033.png`; caption crop: `_work/cap/plate_030.png`
+- **Pl. 31** (PDF p. 33, book p. 28) — Agni housed in a khattaka on the south-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p033.png`; caption crop: `_work/cap/plate_031.png`
+- **Pl. 32** (PDF p. 33, book p. 28) — Ardhanārīśvara enshrined in a khattaka on the south-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p033.png`; caption crop: `_work/cap/plate_032.png`
+- **Pl. 34** (PDF p. 34, book p. 29) — Śiva Naṭeśa depicted on the south-east side of the gūḍhamaṇḍapa (south side).
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p034.png`; caption crop: `_work/cap/plate_034.png`
+- **Pl. 35** (PDF p. 34, book p. 29) — General view of the tilaka of the south-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p034.png`; caption crop: `_work/cap/plate_035.png`
+- **Pl. 36** (PDF p. 35, book p. 30) — Ardhanārīśvara depicted in a long rectangular panel on the superstructure of the south mukhamaṇḍapa (east face).
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p035.png`; caption crop: `_work/cap/plate_036.png`
+- **Pl. 37** (PDF p. 35, book p. 30) — Syncretic image of Gāyatrī, Sāvitrī and Sarasvatī on the tilaka of the south-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p035.png`; caption crop: `_work/cap/plate_037.png`
+- **Pl. 38** (PDF p. 36, book p. 31) — Images of seated Śiva on the tilaka of the south-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p036.png`; caption crop: `_work/cap/plate_038.png`
+- **Pl. 39** (PDF p. 36, book p. 31) — Māheśvarī depicted on the tilaka of the south-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p036.png`; caption crop: `_work/cap/plate_039.png`
+- **Pl. 40** (PDF p. 37, book p. 32) — Seated Uma-Maheśvara housed in a khattikā on the vedībandha of the south-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p037.png`; caption crop: `_work/cap/plate_040.png`
+- **Pl. 42** (PDF p. 38, book p. 33) — General view of the south-west side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p038.png`; caption crop: `_work/cap/plate_042.png`
+- **Pl. 45** (PDF p. 40, book p. 37) — Standing male deity housed in a khattaka on the south-west side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p040.png`; caption crop: `_work/cap/plate_045.png`
+- **Pl. 46** (PDF p. 40, book p. 37) — Kiraṇākṣa Śiva depicted in a khattaka on the south-west side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p040.png`; caption crop: `_work/cap/plate_046.png`
+- **Pl. 47** (PDF p. 40, book p. 37) — Yama enshrined in a khattaka on the south-west side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p040.png`; caption crop: `_work/cap/plate_047.png`
+- **Pl. 48** (PDF p. 40, book p. 37) — Nirṛti depicted in a khattaka on the south-west side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p040.png`; caption crop: `_work/cap/plate_048.png`
+- **Pl. 51** (PDF p. 42, book p. 39) — General view of the tilaka of the south-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p042.png`; caption crop: `_work/cap/plate_051.png`
+- **Pl. 52** (PDF p. 42, book p. 39) — Haṁsavatī depicted on the tilaka of the south-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p042.png`; caption crop: `_work/cap/plate_052.png`
+- **Pl. 53** (PDF p. 43, book p. 40) — Bhairava depicted on the tilaka of the south-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p043.png`; caption crop: `_work/cap/plate_053.png`
+- **Pl. 54** (PDF p. 43, book p. 40) — Bhairava depicted on the tilaka of the south-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p043.png`; caption crop: `_work/cap/plate_054.png`
+- **Pl. 55** (PDF p. 44, book p. 41) — Bhairava depicted on the tilaka of the south-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p044.png`; caption crop: `_work/cap/plate_055.png`
+- **Pl. 56** (PDF p. 44, book p. 41) — Seated Gaṇeśa enshrined in a khattikā on the vedībandha of the south-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p044.png`; caption crop: `_work/cap/plate_056.png`
+- **Pl. 57** (PDF p. 45, book p. 42) — General view of the north-west side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p045.png`; caption crop: `_work/cap/plate_057.png`
+- **Pl. 58** (PDF p. 46, book p. 43) — Detailed view of buttresses on the north-west side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p046.png`; caption crop: `_work/cap/plate_058.png`
+- **Pl. 64** (PDF p. 49, book p. 46) — Śiva Naṭeśa, Ambarnath temple, 11th century CE, Maharashtra.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p049.png`; caption crop: `_work/cap/plate_064.png`
+- **Pl. 65** (PDF p. 49, book p. 46) — General view of the tilaka of the north-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p049.png`; caption crop: `_work/cap/plate_065.png`
+- **Pl. 66** (PDF p. 50, book p. 47) — Vāyu and his consort Śivā enshrined in a khattikā on the vedībandha of the north-west side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p050.png`; caption crop: `_work/cap/plate_066.png`
+- **Pl. 68** (PDF p. 51, book p. 48) — View of buttresses on the north-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p051.png`; caption crop: `_work/cap/plate_068.png`
+- **Pl. 70** (PDF p. 53, book p. 50) — Vāyu enshrined in a khattaka on the north-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p053.png`; caption crop: `_work/cap/plate_070.png`
+- **Pl. 71** (PDF p. 54, book p. 51) — Brahmā enshrined in a khattaka on the north-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p054.png`; caption crop: `_work/cap/plate_071.png`
+- **Pl. 72** (PDF p. 54, book p. 51) — Sarasvatī enshrined in a khattaka on the north-east side of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p054.png`; caption crop: `_work/cap/plate_072.png`
+- **Pl. 73** (PDF p. 55, book p. 52) — Cāmuṇḍā enshrined in a khattaka near the east mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p055.png`; caption crop: `_work/cap/plate_073.png`
+- **Pl. 74** (PDF p. 55, book p. 52) — Cāmuṇḍā enshrined in the tilaka of the north-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p055.png`; caption crop: `_work/cap/plate_074.png`
+- **Pl. 75** (PDF p. 56, book p. 53) — Śiva enshrined in the tilaka of the north-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p056.png`; caption crop: `_work/cap/plate_075.png`
+- **Pl. 76** (PDF p. 56, book p. 53) — Śiva enshrined in the tilaka of the north-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p056.png`; caption crop: `_work/cap/plate_076.png`
+- **Pl. 77** (PDF p. 56, book p. 53) — Yogeśvarī enshrined in the tilaka of the north-east side of gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p056.png`; caption crop: `_work/cap/plate_077.png`
+- **Pl. 78** (PDF p. 57, book p. 54) — Hariharārkapitāmaha enshrined in a long rectangular panel on the superstructure of the north mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p057.png`; caption crop: `_work/cap/plate_078.png`
+- **Pl. 80** (PDF p. 59, book p. 56) — View of sculptures in the khattakas between the south kapilī and south latā of the garbhagṛha.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p059.png`; caption crop: `_work/cap/plate_080.png`
+- **Pl. 81** (PDF p. 59, book p. 56) — Vīrabhadra enshrined in the khattaka of the south latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p059.png`; caption crop: `_work/cap/plate_081.png`
+- **Pl. 82** (PDF p. 60, book p. 57) — Cāmuṇḍā enshrined in a khattaka between the south latā and west latā of the garbhagṛha.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p060.png`; caption crop: `_work/cap/plate_082.png`
+- **Pl. 84** (PDF p. 61, book p. 60) — Bhairava enshrined in a khattaka between the south latā and west latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p061.png`; caption crop: `_work/cap/plate_084.png`
+- **Pl. 88** (PDF p. 63, book p. 62) — Nandikeśvara enshrined in a khattaka between the south latā and west latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p063.png`; caption crop: `_work/cap/plate_088.png`
+- **Pl. 89** (PDF p. 63, book p. 62) — Nandikeśvarī enshrined in a khattaka between the south latā and west latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p063.png`; caption crop: `_work/cap/plate_089.png`
+- **Pl. 91** (PDF p. 65, book p. 64) — Kaumārī enshrined in a khattaka between the west latā and north latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p065.png`; caption crop: `_work/cap/plate_091.png`
+- **Pl. 93** (PDF p. 67, book p. 66) — View of buttresses between the west latā and north latā of the garbhagṛha.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p067.png`; caption crop: `_work/cap/plate_093.png`
+- **Pl. 94** (PDF p. 68, book p. 67) — Kumāra enshrined in a khattaka between the west latā and north latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p068.png`; caption crop: `_work/cap/plate_094.png`
+- **Pl. 96** (PDF p. 69, book p. 68) — Varuṇa enshrined in a khattaka between the west latā and north latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p069.png`; caption crop: `_work/cap/plate_096.png`
+- **Pl. 98** (PDF p. 70, book p. 69) — Kubera enshrined in a khattikā on the vedībandha between the west latā and north latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p070.png`; caption crop: `_work/cap/plate_098.png`
+- **Pl. 99** (PDF p. 70, book p. 69) — Brahmā-Brahmāṇi enshrined in a khattikā on the vedībandha between the west latā and north latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p070.png`; caption crop: `_work/cap/plate_099.png`
+- **Pl. 100** (PDF p. 70, book p. 69) — Brahmā-Brahmāṇi enshrined in a khattikā on the vedībandha between the west latā and north latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p070.png`; caption crop: `_work/cap/plate_100.png`
+- **Pl. 101** (PDF p. 70, book p. 69) — Gaṇeśa-Gaṇeśāni enshrined in a khattikā on the vedībandha between the west latā and north latā.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p070.png`; caption crop: `_work/cap/plate_101.png`
+- **Pl. 104** (PDF p. 72, book p. 71) — View of buttresses between the north latā and north kapilī of the garbhagṛha.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p072.png`; caption crop: `_work/cap/plate_104.png`
+- **Pl. 106** (PDF p. 74, book p. 73) — Lakṣmī-Nārāyaṇa enshrined in a khattikā on the vedībandha between the north latā and north kapilī.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p074.png`; caption crop: `_work/cap/plate_106.png`
+- **Pl. 108** (PDF p. 75, book p. 74) — General view of the north mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p075.png`; caption crop: `_work/cap/plate_108.png`
+- **Pl. 109** (PDF p. 76, book p. 75) — View of a dwarf pillar supporting the balcony of the mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p076.png`; caption crop: `_work/cap/plate_109.png`
+- **Pl. 110** (PDF p. 76, book p. 75) — Detailed view the north mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p076.png`; caption crop: `_work/cap/plate_110.png`
+- **Pl. 111** (PDF p. 77, book p. 76) — Detailed view of the east mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p077.png`; caption crop: `_work/cap/plate_111.png`
+- **Pl. 113** (PDF p. 79, book p. 78) — View of the lintels of the doorway of the south mukhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p079.png`; caption crop: `_work/cap/plate_113.png`
+- **Pl. 115** (PDF p. 81, book p. 80) — View of the entrance pillars of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p081.png`; caption crop: `_work/cap/plate_115.png`
+- **Pl. 119** (PDF p. 84, book p. 85) — View of the pillars of the antarāla and the entrance to the garbhagṛha.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p084.png`; caption crop: `_work/cap/plate_119.png`
+- **Pl. 120** (PDF p. 85, book p. 86) — Erotic couples on the panels of the pier-like wall-pillars of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p085.png`; caption crop: `_work/cap/plate_120.png`
+- **Pl. 121** (PDF p. 85, book p. 86) — The figure of Nandi inside the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p085.png`; caption crop: `_work/cap/plate_121.png`
+- **Pl. 122** (PDF p. 85, book p. 86) — View of the stone stool in the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p085.png`; caption crop: `_work/cap/plate_122.png`
+- **Pl. 123** (PDF p. 86, book p. 87) — View of the ceiling of the gūḍhamaṇḍapa.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p086.png`; caption crop: `_work/cap/plate_123.png`
+- **Pl. 125** (PDF p. 88, book p. 89) — View of the Śivaliṅga in the garbhagṛha.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p088.png`; caption crop: `_work/cap/plate_125.png`
+- **Pl. 126** (PDF p. 89, book p. 90) — View of the vedī in front of the temple.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p089.png`; caption crop: `_work/cap/plate_126.png`
+- **Pl. 127** (PDF p. 90, book p. 91) — View of the interior of the vedī.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p090.png`; caption crop: `_work/cap/plate_127.png`
+- **Pl. 130** (PDF p. 92, book p. 93) — Sculpture of Umā-Maheśvara inside the Pisanhārī kā Mandir, Udayapur, Vidisha, Madhya Pradesh.
+  - IAST diacritics transcribed by eye from a phone photo; Tesseract does not read them reliably
+  - page image: `_work/pages/p092.png`; caption crop: `_work/cap/plate_130.png`
+
+## Listed but not in the PDF (5)
+
+- **Pl. 7** (book p. 8-9) — View of the pīṭha and vedībandha mouldings.
+- **Pl. 43** (book p. 35) — Śiva Naṭeśa depicted on the south-west side of the gūḍhamaṇḍapa (west side), Courtesy American Institute of Indian Studies.
+- **Pl. 83** (book p. 58-59) — View of buttresses between the south latā and west latā of the garbhagṛha.
+- **Pl. 116** (book p. 82) — View of the interior of the gūḍhamaṇḍapa.
+- **Pl. 117** (book p. 83) — View of a pillar inside the gūḍhamaṇḍapa.
+
+## Unreadable captions
+
+None: every extracted image's caption was read (by OCR or by eye).
+
+## Regions that were not figures
+
+- PDF pp. 134–137 (Appendix: Samarāṅgaṇasūtradhāra translation): the detector picked up dimly lit text blocks; no figures there, nothing extracted.
+- Every page photo also shows desk, fingers and the facing page around the book page; only printed pictures inside the page were cropped.
+- No library stamps, slips or marginalia were found in this copy.

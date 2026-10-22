@@ -1,0 +1,149 @@
+{
+ "C01": {
+  "title": "Udaypur: Historical Memory and the Making of a Place",
+  "desc": "Introduce Udaypur, its historical identity, its place in regional memory, and its references in ancient texts. Establish the town's significance and the historical questions that the book seeks to answer.",
+  "subtopics": {
+   "S1": "Names and identity: Udayapura / Udaypur / Udaipur, eponymous founding",
+   "S2": "Introducing the place: location, administrative setting, approach",
+   "S3": "References in ancient and medieval texts and records",
+   "S4": "Regional memory: legends, local tradition, how the town is remembered",
+   "S5": "Significance: why Udaypur matters (assessments by sources)",
+   "S6": "Historical questions: debates, uncertainties, early scholarly accounts"
+  }
+ },
+ "C02": {
+  "title": "The Betwa Valley: Geography, Geology and Natural Environment",
+  "desc": "Examine the valley's rivers, topography, seasons, geological formations, forests, flora and fauna. Explain how the natural environment shaped settlement, agriculture, access to resources, and the materials available for construction.",
+  "subtopics": {
+   "S1": "Rivers and hydrology: Betwa, tributaries, streamflow, water bodies",
+   "S2": "Topography and geology: plateau, Vindhyan sandstone, soils, rock formations",
+   "S3": "Climate and seasons: rainfall, temperature, monsoon, long-term change",
+   "S4": "Forests, flora and fauna",
+   "S5": "Environment and settlement: agriculture, resources, building stone, water supply"
+  }
+ },
+ "C03": {
+  "title": "Before Udaypur: Prehistory, Early Vidisha and the Historical Landscape of Central India",
+  "desc": "Trace the region from prehistory through the early historic period, with particular attention to Vidisha and the emergence of regional political and cultural networks. Introduce the trade routes, sacred centres and changing powers that formed the wider historical setting for Udaypur.",
+  "subtopics": {
+   "S1": "Prehistory: stone tools, rock shelters, early settlement",
+   "S2": "Early Vidisha / Besnagar: Mauryan, Śuṅga, Heliodorus pillar, Sanchi",
+   "S3": "Dasharna / Akara and ancient regional geography",
+   "S4": "Early medieval powers before the Paramāras (Guptas, Pratihāras, Kalachuris, Chandellas)",
+   "S5": "Trade routes, sacred centres and networks of Central India"
+  }
+ },
+ "C04": {
+  "title": "The Paramāras and the Foundation of Udaypur: Kingship, Patronage and Urban Formation",
+  "desc": "Examine the political development of the region, the rise of the Paramāras, the reign and legacy of Bhoja, and Udayāditya's role in establishing and shaping Udaypur. Situate the town's foundation within the history of Paramāra kingship, religious patronage and temple building, distinguishing established evidence from later tradition.",
+  "subtopics": {
+   "S1": "Origins and rise of the Paramāras (Agnikula, early kings, Muñja, Sindhurāja)",
+   "S2": "Bhoja: reign, conquests, learning and legacy",
+   "S3": "After Bhoja: the crisis and Udayāditya's accession, genealogy",
+   "S4": "Udayāditya's reign, wars and the foundation of Udayapura",
+   "S5": "Patronage and temple building; urban formation of Udayapura",
+   "S6": "Later Paramāras (Lakṣmadeva, Naravarman, decline) and evidence vs tradition"
+  }
+ },
+ "C05": {
+  "title": "The Udayeśvara Temple: Architecture, Sculpture and Religious Iconography",
+  "desc": "Study the temple's architectural plan, construction, stylistic features, sculptural programme, deities and iconography. Interpret the monument within the religious and artistic traditions of its period, distinguishing architectural description from interpretations of its symbolism.",
+  "subtopics": {
+   "S1": "Plan, layout and construction (garbhagṛha, maṇḍapa, platform, enclosure, subsidiary shrines)",
+   "S2": "Bhūmija style and śikhara; stylistic affinities and comparisons",
+   "S3": "Mouldings, wall, doorways and ornament",
+   "S4": "Sculptural programme and iconography (deities, Naṭarāja, mātṛkās, dikpālas)",
+   "S5": "Śaiva meaning and symbolism (Śaiva Siddhānta interpretation)",
+   "S6": "Architectural texts (Samarāṅgaṇasūtradhāra) and canonical prescriptions"
+  }
+ },
+ "C06": {
+  "title": "Inscriptions and Intellectual Life: Epigraphy, Languages and Literary Culture",
+  "desc": "Examine Udaypur's inscriptions, scripts, languages and epigraphic traditions, including the distinctive forms of its inscribed lettering. Use these records to investigate political authority, religious patronage, literary culture and intellectual life, while acknowledging the limits of what the evidence can establish.",
+  "subtopics": {
+   "S1": "The Udaipur praśasti and royal inscriptions (content, editions, dating)",
+   "S2": "The corpus of Udaypur inscriptions across centuries (Sanskrit, Persian, Hindi; pilgrim records)",
+   "S3": "Scripts and lettering: nāgarī, serpentine/nāgabandha inscriptions, grammatical charts",
+   "S4": "Languages and literary culture: Sanskrit kāvya, Bhoja's learning, scholars",
+   "S5": "What inscriptions reveal: authority, patronage, donations — and their limits"
+  }
+ },
+ "C07": {
+  "title": "The Wider Built Heritage of Udaypur: Fortifications, Shrines, Mosques and Water Structures",
+  "desc": "Document the town's surviving structures beyond the Udayeśvara temple, including fortifications, shrines, mosques, stepwells and other elements of its built heritage. Consider their dates, functions, architectural characteristics and relationship to the town's changing historical circumstances.",
+  "subtopics": {
+   "S1": "Fortifications, gates and walls",
+   "S2": "Other temples and shrines (Jain, Hindu, subsidiary)",
+   "S3": "Mosques, tombs and Islamic architecture",
+   "S4": "Water structures: stepwells, tanks, wells, baolis",
+   "S5": "Palaces, havelis, domestic architecture, town fabric",
+   "S6": "Monument lists and surveys"
+  }
+ },
+ "C08": {
+  "title": "Religion and the Material Life of Udaypur: Ritual, Agriculture, Trade and Craft",
+  "desc": "Explore Śaiva traditions, ritual practices and religious institutions alongside agriculture, wells, markets, crafts, trade and patronage. Investigate the relationship between religious life and the local economy through available historical, epigraphic, archaeological and ethnographic evidence.",
+  "subtopics": {
+   "S1": "Śaiva traditions and sects (Pāśupata, Śaiva Siddhānta, ascetics, maṭhas)",
+   "S2": "Ritual and worship at the temple (pūjā, festivals, priests)",
+   "S3": "Temple institutions and endowments (grants, land, temple economy)",
+   "S4": "Agriculture, wells and irrigation",
+   "S5": "Markets, trade, crafts and artisans (stone carving, weaving)"
+  }
+ },
+ "C09": {
+  "title": "Society and Cultural Life: Communities, Languages, Festivals and Oral Traditions",
+  "desc": "Examine community identities, spoken languages, everyday customs, festivals, folklore and oral histories. Bring historical evidence into conversation with residents' memories and contemporary practices, distinguishing documented events from traditions whose historical origins remain uncertain.",
+  "subtopics": {
+   "S1": "Communities and castes; Hindu–Muslim relations",
+   "S2": "Spoken languages and dialects (Bundeli, Malvi, Urdu)",
+   "S3": "Festivals, fairs and everyday customs",
+   "S4": "Folklore, legends and oral histories",
+   "S5": "Food, music, dress and material culture"
+  }
+ },
+ "C10": {
+  "title": "Political Change and Economic Decline: Udaypur under Successive Regimes",
+  "desc": "Trace the political transitions that affected Udaypur and investigate changes in its economic and regional significance. Assess the evidence for shifts in trade, patronage, settlement and institutional life rather than attributing decline to a single conquest or political event.",
+  "subtopics": {
+   "S1": "End of Paramāra rule; Delhi Sultanate and Malwa Sultanate",
+   "S2": "Mughal period (Aurangzeb, administration, mosque, jagirs)",
+   "S3": "Marathas and Scindia / Gwalior State",
+   "S4": "Colonial period and the princely state; Bhilsa district",
+   "S5": "Evidence of economic change, decline and depopulation"
+  }
+ },
+ "C11": {
+  "title": "Udaypur in the Modern Period: Archaeology, Heritage Administration and Conservation",
+  "desc": "Examine archaeological investigations, heritage legislation, restoration, repairs and the development of official monument status, with particular attention to the period after Indian independence. Consider how archaeological and administrative interventions have shaped the interpretation, management and conservation of Udaypur's historic sites.",
+  "subtopics": {
+   "S1": "Early surveys and scholarship (Cunningham, Beglar, Kielhorn, Gwalior Archaeology Dept)",
+   "S2": "Protection and legislation (ASI, protected monument status)",
+   "S3": "Restoration and repair history",
+   "S4": "Heritage listing and documentation (INTACH, state archaeology)",
+   "S5": "Conservation issues, encroachment and management"
+  }
+ },
+ "C12": {
+  "title": "Udaypur Today: A Living Community and Its Historic Environment",
+  "desc": "Present Udaypur as a living settlement rather than merely an archaeological site. Explore contemporary livelihoods, community relationships with historic monuments, local aspirations and the practical tensions between conservation and everyday life, drawing on Udaypur Jagta Hua Kasba and other relevant sources.",
+  "subtopics": {
+   "S1": "Contemporary settlement: population, infrastructure, services",
+   "S2": "Livelihoods and economy today",
+   "S3": "Community relationships with monuments",
+   "S4": "Aspirations, voices and tensions between conservation and daily life",
+   "S5": "Visitors, tourism and outside interest"
+  }
+ },
+ "C13": {
+  "title": "Afterword. Conserving Udaypur: Community, Heritage and the Future",
+  "desc": "Reflect on the future of Udaypur and the possibilities for combining heritage conservation with local well-being. Consider the roles of residents, conservation professionals, researchers, administrators and visitors, with emphasis on realistic interventions, community participation and sustainable stewardship.",
+  "subtopics": {
+   "S1": "Recommendations and proposals for conservation",
+   "S2": "Community participation and stewardship",
+   "S3": "Roles of institutions, professionals and researchers",
+   "S4": "Sustainable tourism and livelihoods",
+   "S5": "Vision for the future of the town"
+  }
+ }
+}

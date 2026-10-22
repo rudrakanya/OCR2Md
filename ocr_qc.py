@@ -137,6 +137,9 @@ def main(argv=None):
     ap.add_argument("--lang", default="Devanagari")
     ap.add_argument("--psm", default="3")
     ap.add_argument("--json-out", default=None)
+    ap.add_argument("--preprocess", action="store_true",
+                     help="apply the same autocontrast+unsharp+threshold pass "
+                          "ocr_devanagari_to_markdown.py uses, before measuring confidence")
     a = ap.parse_args(argv)
 
     import pymupdf
@@ -153,6 +156,15 @@ def main(argv=None):
             doc[i].get_pixmap(dpi=a.image_dpi).pil_save(str(jpg), quality=80)
         png = img_dir / f"_qc_{i + 1:03d}.png"
         doc[i].get_pixmap(dpi=a.dpi).save(str(png))
+        if a.preprocess:
+            # Mirror ocr_devanagari_to_markdown.py's preprocess_page() exactly
+            # (including its Otsu adaptive threshold, not a fixed cutoff --
+            # see that function's docstring), so the confidence this reports
+            # matches what actually drove the OCR text in the markdown.
+            import sys as _sys
+            _sys.path.insert(0, str(Path(__file__).resolve().parent))
+            from ocr_devanagari_to_markdown import preprocess_page as _pp
+            _pp(png)
         try:
             words = tsv(png, a.lang, a.psm)
         except Exception as exc:

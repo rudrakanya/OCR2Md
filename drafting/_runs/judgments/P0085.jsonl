@@ -1,0 +1,25 @@
+{"c":"bc974fb7ef","keep":false,"reject_reason":"front matter / library stamp, dedication"}
+{"c":"810dd83e0b","keep":false,"reject_reason":"foreword to a general Hindu-Buddhist-Jain iconography handbook; nothing on Udaypur"}
+{"c":"ea0007891a","keep":false,"reject_reason":"preface of general iconography handbook; no bearing on any unit"}
+{"c":"68db736350","keep":false,"reject_reason":"preface acknowledgements and bibliography remarks; no bearing on any unit"}
+{"c":"24e71e49d0","keep":false,"reject_reason":"table of contents"}
+{"c":"cde52ddd75","keep":false,"reject_reason":"table of contents / list of tables"}
+{"c":"d82629e60d","keep":false,"reject_reason":"table of contents / list of tables"}
+{"c":"9d5f3746dd","keep":false,"reject_reason":"table of contents / list of tables"}
+{"c":"10787de94d","keep":false,"reject_reason":"list of plates of other sites (Ellora, Halebid etc.)"}
+{"c":"1f2443460a","keep":false,"reject_reason":"list of plates of other sites (Ellora, Halebid etc.)"}
+{"c":"f8f00a0f8a","keep":false,"reject_reason":"list of plates table; other sites"}
+{"c":"6aa606db4b","keep":false,"reject_reason":"list of plates; other sites"}
+{"c":"befb00b0ac","keep":true,"items":[{"unit":"C05","sub":"S6","type":"fact","strength":"contextual","span":[1,4],"note":"General statement that Indian religious and Shilpa texts prescribe hand poses, objects and cognizance symbols and that the sculptor had to be conversant with texts describing icons; background for canonical prescriptions, not specific to Udaypur."}]}
+{"c":"9a0e6a2c7a","keep":false,"reject_reason":"generic symbolism of objects held by deities, mostly Buddhist; not specific to any unit"}
+{"c":"83cc4fa90e","keep":false,"reject_reason":"generic vajra symbolism; Buddhist, no bearing on units"}
+{"c":"a2f449b697","keep":false,"reject_reason":"generic hand-pose glossary"}
+{"c":"3c56b3923f","keep":false,"reject_reason":"generic glossary of objects held by deities"}
+{"c":"b352af4edf","keep":false,"reject_reason":"generic glossary of objects and figure captions"}
+{"c":"44371feeac","keep":false,"reject_reason":"generic sitting posture glossary and figure captions"}
+{"c":"33e2ae862d","keep":false,"reject_reason":"generic musical instruments glossary; no Udaypur link"}
+{"c":"119da49841","keep":false,"reject_reason":"generic Hindu Triad doctrine; no Udaypur link"}
+{"c":"b82395b9ea","keep":false,"reject_reason":"generic Vishnu doctrine; no Udaypur link"}
+{"c":"699beff972","keep":false,"reject_reason":"Varaha avatara myth; other-site iconography, not Udaypur"}
+{"c":"a5fbe1e6fe","keep":false,"reject_reason":"Varaha image prescription; not Udaypur"}
+{"c":"745f9c1493","keep":false,"reject_reason":"Varaha and Narasimha iconography; not Udaypur"}
